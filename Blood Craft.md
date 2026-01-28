@@ -214,7 +214,7 @@ The structure, lovingly maintained over the years, exudes a sense of history and
 
 "Riven, please—let's hold off on questions until we're inside your home. You've been out cold for hours since the accident, and I want to ensure you are settled before delving into the swarm of inquiries rattling in your mind." She paused, her nostrils flaring slightly, and something flickered across her features—hunger? recognition? desire?—before she quickly composed herself. "It's quite a challenge to concentrate on anything with the scent you exude; it's as if every sense is heightened by your presence. Your awakening... it's changed you in ways that are already affecting everything around you."
 
-Raechelle emphasized with purpose, but I couldnt help but noticed it seemed like she was struggling to breathe as she continued.  
+Raechelle emphasized with purpose, but I couldn't help but notice it seemed like she was struggling to breathe as she continued.  
 
 “Trust me when I say this: I’ve unraveled secrets about your family that you may not even know. Know that I am here, unwavering in my commitment to guide you through this journey. There’s a deep bond between us, entwined with your bloodline, which now, heart-wrenchingly, rests solely in your hands.”
 
@@ -436,7 +436,6 @@ Once inside, I barely managed to reach the toilet before my stomach rebelled, th
 
 “That settles that, it would seem,” she said softly, her voice laced with empathy as she gently rubbed my back in soothing circles, her touch grounding me amidst the turmoil. “But at least now we know.”
 
-\
 
 Once the worst of it had passed, the weight of the situation slowly began to settle in. We stumbled back to the cramped living room, feeling drained. We sank onto the sofa, the cushions enveloping us as we both let out heavy sighs, the reality of what had just happened hanging in the air like an unspoken truth.
 
