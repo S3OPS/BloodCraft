@@ -216,7 +216,7 @@ The Academy of Magical Arts loomed before us, its crystalline spires catching th
 
 I wore civilian clothes—dark slacks and a fitted black shirt that Raechelle had selected with her usual attention to both aesthetics and practicality. Until I was formally enrolled, wearing the Academy's robes would be presumptuous.
 
-"The administrative offices are in the central tower," Raechelle said, guiding me through the courtyard with practiced ease. "Master Corvinus—the same Magistrate who handled your registration—serves as the Academy's Chancellor. He'll oversee your evaluation and placement."
+"The administrative offices are in the central tower," Raechelle said, guiding me through the courtyard with practiced ease. "Chancellor Corvinus—the same Magistrate who handled your registration—serves as the Academy's head. He'll oversee your evaluation and placement."
 
 "Evaluation?"
 
