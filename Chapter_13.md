@@ -1,5 +1,7 @@
 # Blood Craft: Chapter 13
 
+**Book One of the Blood Craft Series**
+
 ---
 
 ## Chapter 13: The Sanctioned Duel
