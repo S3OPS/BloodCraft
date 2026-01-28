@@ -127,23 +127,19 @@
 ---
 
 ### Chapter 13: The Sanctioned Duel
-**Main Plot Points:**
-- Viktor Ironclad challenges Riven to a formal duel
-- Training montage preparing for the confrontation
-- The duel arena and its traditions
-- Riven's first public display of Blood Archon power
-- Unexpected intervention threatens the sanctioned fight
-- Victory and its consequences
-
-**Character Growth:**
-- Riven embracing his power without letting it control him
-- Understanding the difference between strength and brutality
-- Earning respect from the werewolf community
-
-**Romance:**
-- Raechelle's fear during the duel; their bond tested
-- Celebration after victory; intimate scene
-- Discussion of their future together
+- Challenge delivered from Viktor Ironclad three days before full moon
+- Intense training with Master Blackwood on blood manipulation in combat
+- Raechelle drills Riven on werewolf tactics and cultural expectations
+- Pre-duel intimate conversation about their bond and future
+- The Grand Arena beneath Nocturne filled with spectators
+- Combat begins with Viktor's physical superiority evident
+- Riven uses subtle blood manipulation to even the odds
+- Viktor violates rules by shifting to werewolf form in desperation
+- Riven uses full Blood Archon power to stop Viktor without killing him
+- Victory achieved through mercy and wisdom, not brutality
+- Viktor swears allegiance to Riven as an ally
+- Celebration and growing reputation in supernatural community
+- *Complete: Demonstrates Riven's character growth and tactical intelligence*
 
 ---
 
@@ -322,7 +318,8 @@
 | 5-7 | Days 4-14 | Training & Preparation | Complete |
 | 8-9 | Day 14-15 | Bonding & Arrival | Complete |
 | 10-12 | Weeks 1-2 | Integration & Politics | **Complete** |
-| 13-15 | Months 1-3 | Establishment & Allies | Outlined |
+| 13 | Week 3 | The Sanctioned Duel | **Complete** |
+| 14-15 | Months 1-3 | Establishment & Allies | Outlined |
 | 16-20 | Months 3-6 | Rising Conflict | Outlined |
 | 21-25 | Months 6-12 | War | Outlined |
 | 26-29 | Year 2 | Final Confrontation | Outlined |
