@@ -91,69 +91,38 @@
 - Discovery of parents' portrait and belongings
 - Settling into their new life in the supernatural city
 
+### Chapter 10: The First Week
+- Riven wakes in his family's ancestral home, adjusting to life in Nocturne
+- Formal registration with the Council, overseen by Magistrate Corvinus
+- Comprehensive tour of Nocturne: Midnight Market, Artists' Quarter, Hunting Grounds, Academy
+- First confrontation with Ambassador Kaine of Terravos's embassy
+- Establishment of daily routine: training, study, and strategic planning
+- Raechelle encounters old acquaintance Selene with troubling news about Terravos's true goals
+- Arrangement of meeting with vampire lord Cassius Velthorne for intelligence
+
+### Chapter 11: The Academy
+- Riven's first day at the Academy of Magical Arts
+- Evaluation by Chancellor Corvinus reveals exceptional raw power
+- Private instruction arrangement due to Riven's advanced potential
+- Master Thalia's class on Supernatural Politics and History
+- Master Blackwood's brutal introduction to Defensive Warding and Combat Magic
+- Introduction to Lysandra Blackwood, ambitious witch heir
+- Raechelle's old friend Selene offers information exchange through Cassius Velthorne
+- Riven learns his bloodline gives him unique combat advantages
+
+### Chapter 12: Shadows and Schemes
+- Lord Maximilian Thorne murdered using blood magic
+- Riven summoned before the full Council as prime suspect
+- Truth-reading by Councilor Meridia proves his innocence
+- Realization that the frame attempt was designed to isolate, not convict
+- Raechelle identifies the strategic pattern: Terravos seeks to marginalize Riven politically
+- Decision to conduct independent investigation into Thorne's murder
+- Planning covert mission to examine crime scene for blood magic traces
+- Deepening understanding of supernatural political warfare
+
 ---
 
 ## Proposed Future Chapters
-
-### Chapter 10: The First Week
-**Main Plot Points:**
-- Riven begins formal registration with the Nocturne Council
-- First weekly audience with Lady Seraphina Darkthorne
-- Tour of Nocturne's major districts with Raechelle
-- Introduction to key political players and factions
-- First encounter (non-violent) with Terravos's embassy representatives
-- Establishing a training routine at the Academy of Magical Arts
-
-**Character Development:**
-- Riven learning to navigate supernatural politics
-- Raechelle's history in Nocturne revealed through old acquaintances
-- Bond abilities continuing to develop and strengthen
-
-**Relationship Focus:**
-- Domestic scenes of Riven and Raechelle in their new home
-- Exploration of their Dom/sub dynamic in a stable environment
-- Building trust and intimacy through shared challenges
-
----
-
-### Chapter 11: The Academy
-**Main Plot Points:**
-- Riven enrolls in advanced blood magic classes at the Academy
-- Introduction to Master Corvinus, ancient vampire mage instructor
-- Meeting other young supernaturals: potential allies and rivals
-- First practical demonstration of Riven's power
-- Attempted recruitment by various factions
-
-**New Characters:**
-- Master Corvinus: Demanding blood magic instructor
-- Lysandra Blackwood: Witch student, potential ally
-- Viktor Ironclad: Werewolf noble, testing Riven's boundaries
-- Ambassador Kaine: Terravos's representative, watching closely
-
-**Subplots:**
-- Raechelle reconnects with an old friend who has troubling news
-- Political maneuvering among the younger supernatural generation
-- Riven discovers a blood magic technique his mother invented
-
----
-
-### Chapter 12: Shadows and Schemes
-**Main Plot Points:**
-- Terravos's agents make their first move—manipulation rather than violence
-- A supernatural noble is found dead; suspicion falls on Riven
-- Lady Darkthorne's truth-reading proves his innocence
-- Investigation reveals someone is framing the new Blood Archon
-- Riven must navigate accusations while continuing his training
-
-**Political Intrigue:**
-- Various factions attempt to use the situation to their advantage
-- Alliance-building becomes critical
-- Riven learns hard lessons about trust in Nocturne
-
-**Relationship Development:**
-- Raechelle's protective instincts and their limits
-- First real fight between the couple; reconciliation deepens trust
-- Public perception of their relationship and its political implications
 
 ---
 
@@ -347,17 +316,17 @@
 
 ## Timeline Overview
 
-| Chapters | Time Frame | Story Phase |
-|----------|-----------|-------------|
-| 1-4 | Days 1-3 | Awakening & Discovery |
-| 5-7 | Days 4-14 | Training & Preparation |
-| 8-9 | Day 14-15 | Bonding & Arrival |
-| 10-12 | Weeks 1-4 | Integration & Politics |
-| 13-15 | Months 1-3 | Establishment & Allies |
-| 16-20 | Months 3-6 | Rising Conflict |
-| 21-25 | Months 6-12 | War |
-| 26-29 | Year 2 | Final Confrontation |
-| 30 | Epilogue | New Beginning |
+| Chapters | Time Frame | Story Phase | Status |
+|----------|-----------|-------------|--------|
+| 1-4 | Days 1-3 | Awakening & Discovery | Complete |
+| 5-7 | Days 4-14 | Training & Preparation | Complete |
+| 8-9 | Day 14-15 | Bonding & Arrival | Complete |
+| 10-12 | Weeks 1-2 | Integration & Politics | **Complete** |
+| 13-15 | Months 1-3 | Establishment & Allies | Outlined |
+| 16-20 | Months 3-6 | Rising Conflict | Outlined |
+| 21-25 | Months 6-12 | War | Outlined |
+| 26-29 | Year 2 | Final Confrontation | Outlined |
+| 30 | Epilogue | New Beginning | Outlined |
 
 ---
 
