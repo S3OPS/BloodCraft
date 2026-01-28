@@ -1,5 +1,7 @@
 # Blood Craft: Chapters 10-12
 
+**Book One of the Blood Craft Series**
+
 ---
 
 ## Chapter 10: The First Week
