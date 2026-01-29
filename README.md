@@ -23,9 +23,9 @@ BloodCraft/
 │
 ├── canonical-version/           # Original storyline
 │   ├── README.md                # Overview of canonical version
-│   ├── Book1.md                 # Chapter outline: Chapters 1-16
-│   ├── Book2.md                 # Chapter outline: Chapters 17-20
-│   ├── Book3.md                 # Chapter outline: Chapters 21-30
+│   ├── Book1.md                 # Structural outline: Chapters 1-16
+│   ├── Book2.md                 # Structural outline: Chapters 17-20
+│   ├── Book3.md                 # Structural outline: Chapters 21-30
 │   ├── Blood-Craft-Canonical.md # COMPLETE 30-chapter novel (~525KB)
 │   └── Chapter-Summary-and-Timeline.md
 │
@@ -60,16 +60,16 @@ This guide explains both versions and helps you choose based on your preferences
 **Canonical Version** (traditional hero's journey):  
 [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
 
-Both versions are complete 30-chapter novels (~97,000+ and ~88,000+ words respectively).
+Both versions are complete 30-chapter novels (~97,000 and ~88,000 words respectively).
 
 ### 📋 Want Chapter Outlines and Summaries?
 **Go here**: 
-- [`canonical-version/Book1.md`](canonical-version/Book1.md) - Chapter outline for Chapters 1-16
-- [`canonical-version/Book2.md`](canonical-version/Book2.md) - Chapter outline for Chapters 17-20
-- [`canonical-version/Book3.md`](canonical-version/Book3.md) - Chapter outline for Chapters 21-30
+- [`canonical-version/Book1.md`](canonical-version/Book1.md) - Structural outline for Chapters 1-16
+- [`canonical-version/Book2.md`](canonical-version/Book2.md) - Structural outline for Chapters 17-20
+- [`canonical-version/Book3.md`](canonical-version/Book3.md) - Structural outline for Chapters 21-30
 - [`canonical-version/Chapter-Summary-and-Timeline.md`](canonical-version/Chapter-Summary-and-Timeline.md) - Complete overview
 
-The chapter outlines provide detailed summaries of the canonical storyline structure.
+The chapter outlines provide detailed structural summaries of the canonical version.
 
 ---
 

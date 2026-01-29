@@ -10,9 +10,9 @@ This directory contains the **canonical/original storyline** of Blood Craft - a 
 
 ### What You'll Find Here
 
-- **Book1.md** - Chapters 1-16: Awakening (Chapter outline)
-- **Book2.md** - Chapters 17-20: The Rising Conflict (Chapter outline)
-- **Book3.md** - Chapters 21-30: The Final Confrontation (Chapter outline)
+- **Book1.md** - Chapters 1-16: Awakening (Structural outline)
+- **Book2.md** - Chapters 17-20: The Rising Conflict (Structural outline)
+- **Book3.md** - Chapters 21-30: The Final Confrontation (Structural outline)
 - **Chapter-Summary-and-Timeline.md** - Complete outline and summary of the canonical storyline
 - **Blood-Craft-Canonical.md** - **Complete 30-chapter novel (~525KB, ~88,000 words)**
 

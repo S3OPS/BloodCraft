@@ -92,7 +92,7 @@ The Paradox version appears to follow a traditional supernatural awakening... un
 ## 📊 Story Statistics
 
 - **Total Chapters**: 30 (complete)
-- **Word Count**: ~97,000+ words
+- **Word Count**: ~97,000 words
 - **File Size**: 581KB
 - **Lines**: 8,200+
 - **Completion Date**: January 2026
