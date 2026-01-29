@@ -10,6 +10,9 @@ This directory contains the **canonical/original storyline** of Blood Craft - a 
 
 ### What You'll Find Here
 
+- **Book1.md** - Chapters 1-16: Awakening (Complete outline)
+- **Book2.md** - Chapters 17-20: The Rising Conflict (Outlined)
+- **Book3.md** - Chapters 21-30: The Final Confrontation (Outlined)
 - **Chapter-Summary-and-Timeline.md** - Complete outline and summary of the canonical storyline
 - **Blood-Craft-Canonical.md** - *(Placeholder - full narrative not yet written)*
 
@@ -64,9 +67,36 @@ For a detailed comparison of both versions:
 
 ## 📖 Reading This Version
 
-1. Start with **Chapter-Summary-and-Timeline.md** to understand the full story arc
-2. The complete narrative chapters have not yet been fully written for this version
-3. For the fully-written story, see the Paradox version in `../paradox-version/`
+### Book Structure
+
+The story is organized into three books:
+
+1. **Book1.md** (Chapters 1-16: Awakening)
+   - Riven's introduction and awakening to his Blood Archon heritage
+   - Bonding with Raechelle
+   - Integration into Nocturne
+   - Establishment of alliances
+   - Ends with major revelations about his bloodline
+
+2. **Book2.md** (Chapters 17-20: The Rising Conflict)
+   - First major confrontations with Terravos's forces
+   - Development of offensive strategies
+   - Alliance building across supernatural factions
+   - Ends with preparation for all-out war
+
+3. **Book3.md** (Chapters 21-30: The Final Confrontation)
+   - Full-scale supernatural war
+   - Final confrontation with Terravos
+   - Resolution of Riven's parents' murder
+   - Establishment of peace and future
+
+### How to Read
+
+1. Start with **Book1.md** to understand the foundation and character introductions
+2. Continue with **Book2.md** for the escalation and tactical development
+3. Complete the story with **Book3.md** for the final confrontation
+4. For a comprehensive overview, see **Chapter-Summary-and-Timeline.md**
+5. For the fully-written story, see the Paradox version in `../paradox-version/`
 
 ---
 
