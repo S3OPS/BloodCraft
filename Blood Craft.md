@@ -7614,9 +7614,7 @@ I'd proven I could win without killing. But had I proven I was truly different?
 
 The Archons conferred quietly among themselves. Then, Kaelith stood.
 
-"You have demonstrated restraint," she acknowledged. "But there remains a question. In the heat of true battle, when lives you love are at stake, when the choice is between
-
- victory and death—can you still maintain this control? Or will the ancient Blood Archon's ruthlessness emerge?"
+"You have demonstrated restraint," she acknowledged. "But there remains a question. In the heat of true battle, when lives you love are at stake, when the choice is between victory and death—can you still maintain this control? Or will the ancient Blood Archon's ruthlessness emerge?"
 
 "I don't know," I admitted. "I hope I'll choose correctly. But I can't guarantee it."
 
