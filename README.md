@@ -24,8 +24,8 @@ BloodCraft/
 ├── canonical-version/           # Original storyline
 │   ├── README.md                # Overview of canonical version
 │   ├── Book1.md                 # Chapters 1-16: Awakening
-│   ├── Book2.md                 # Chapters 17-20: Rising Conflict
-│   ├── Book3.md                 # Chapters 21-30: Final Confrontation
+│   ├── Book2.md                 # Chapters 17-20: The Rising Conflict
+│   ├── Book3.md                 # Chapters 21-30: The Final Confrontation
 │   ├── Blood-Craft-Canonical.md # Placeholder for full narrative
 │   └── Chapter-Summary-and-Timeline.md
 │
@@ -58,8 +58,8 @@ The Paradox version is the only fully-written narrative (30 complete chapters, ~
 ### 📋 Want the Traditional Outline?
 **Go here**: 
 - [`canonical-version/Book1.md`](canonical-version/Book1.md) - Chapters 1-16: Awakening
-- [`canonical-version/Book2.md`](canonical-version/Book2.md) - Chapters 17-20: Rising Conflict
-- [`canonical-version/Book3.md`](canonical-version/Book3.md) - Chapters 21-30: Final Confrontation
+- [`canonical-version/Book2.md`](canonical-version/Book2.md) - Chapters 17-20: The Rising Conflict
+- [`canonical-version/Book3.md`](canonical-version/Book3.md) - Chapters 21-30: The Final Confrontation
 - [`canonical-version/Chapter-Summary-and-Timeline.md`](canonical-version/Chapter-Summary-and-Timeline.md) - Complete overview
 
 The canonical version exists as a detailed outline and summary, now organized into three books.

@@ -1,5 +1,5 @@
-# Blood Craft: Book Three
-**The Final Confrontation**
+# Blood Craft: Book Three - The Final Confrontation
+**Chapters 21-30**
 
 ---
 

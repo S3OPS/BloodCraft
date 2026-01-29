@@ -1,11 +1,12 @@
-# Blood Craft: Book Two
-**The Rising Conflict**
+# Blood Craft: Book Two - The Rising Conflict
+**Chapters 17-20**
 
 ---
 
 > **📖 NOTE:** This is Book Two of the Blood Craft series (Chapters 17-20)
 > 
 > For Book One (Chapters 1-16), see: `Book1.md`
+> For Book Three (Chapters 21-30), see: `Book3.md`
 
 ---
 
