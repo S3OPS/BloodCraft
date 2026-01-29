@@ -8196,3 +8196,37 @@ Every. Single. Day.
 ---
 
 *End of Blood Craft: Book One - Paradox Timeline*
+
+---
+
+## **Book Two: Blood Craft - Reckoning**
+
+### **Prologue**
+
+*Two weeks later*
+
+Snow dusted the runway in Moscow like powdered ash, a pale echo of the crimson moons that always seemed to follow me. Raechelle squeezed my hand as we stepped onto foreign soil, our breaths ghosting in the frozen air.
+
+"This place smells like old war," she murmured, ears flicking beneath her hood. "The pack leader you're hunting won't be alone."
+
+"Neither will we," I said, glancing back at our team. Three graduates from the Academy stood ready—Yelena with her ice wards, Marcus with his healing sigils, and Jun who could walk between shadows. They weren't just students anymore. They were proof that redemption could be taught, that a future could be built without burying the past.
+
+The news footage had been worse than we feared. Villages emptied. Bodies arranged in old ceremonial circles. A symbol painted in blood that I didn't recognize but felt in my bones all the same, like a memory trying to surface.
+
+Our local contact met us at the terminal's edge, a grizzled werewolf named Anya with scars crisscrossing her face. "He calls himself Vorin," she said without preamble. "He says he remembers everything. He says the old pack died because they grew weak."
+
+"And the people he's killing?" I asked.
+
+"He says they are offerings. To awaken the old ways."
+
+We drove north into the forests, the city lights shrinking behind us. The further we went, the stronger the pull became—a familiar thrum in my chest, not blood magic but something older. The same warning I felt the night my parents died, the night I first heard the name Terravos.
+
+When we stopped, the trees were silent. No birds, no wind, just the weight of a land holding its breath. I could feel him out there, a knot of rage and certainty, and beneath it a flicker of something else. Fear. Confusion. A crack in the armor.
+
+Raechelle touched my cheek. "You don't have to save him to prove you aren't a monster," she said. "You already did that."
+
+"Maybe," I admitted. "But if I can keep him from becoming the thing he thinks he has to be, then I have to try."
+
+We moved into the darkness, our wards humming low. Somewhere in the trees, a howl tore through the night—old, furious, and laced with the promise of a war that didn't belong to just one man.
+
+This wasn't the end of anything. It was the beginning of what came after redemption: the hard work of keeping it.
