@@ -9,9 +9,9 @@
 > 
 > This version explores themes of identity, redemption, and whether love can transform an ancient evil. The twist is gradually revealed through Chapters 21-27 and resolves in Chapters 28-30.
 > 
-> **For the CANONICAL storyline** (traditional hero's journey without the twist), see: `Chapter_Summary_and_Timeline.md`
+> **For the CANONICAL storyline** (traditional hero's journey without the twist), see: `../canonical-version/`
 > 
-> **For a comparison of both versions**, see: `ALTERNATE_STORYLINES.md`
+> **For a comparison of both versions**, see: `../docs/Comparison-Guide.md`
 
 ---
 

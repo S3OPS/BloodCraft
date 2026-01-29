@@ -4,7 +4,7 @@
 
 ---
 
-> **📖 NOTE:** An alternate universe version with a major twist exists: `Chapter_Summary_and_Timeline_ALTERNATE_TWIST.md`
+> **📖 NOTE:** An alternate universe version with a major twist exists in `../paradox-version/`
 > 
 > That version explores "The Blood Archon's Paradox" - a Shutter Island-style revelation where Riven is the reincarnation of an ancient evil. This file contains the **canonical storyline**.
 
