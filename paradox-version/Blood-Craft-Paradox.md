@@ -1,6 +1,17 @@
 # Blood Craft
+## ⚠️ PARADOX TIMELINE VERSION
 
 **Book One of the Blood Craft Series**
+
+---
+
+> **🌟 IMPORTANT NOTE:** This file contains the **ALTERNATE STORYLINE** featuring "The Blood Archon's Paradox" twist—a Shutter Island-level revelation where Riven Sixxx is revealed to be the reincarnation of the ancient "mad" Blood Archon. 
+> 
+> This version explores themes of identity, redemption, and whether love can transform an ancient evil. The twist is gradually revealed through Chapters 21-27 and resolves in Chapters 28-30.
+> 
+> **For the CANONICAL storyline** (traditional hero's journey without the twist), see: `../canonical-version/`
+> 
+> **For a comparison of both versions**, see: `../docs/Comparison-Guide.md`
 
 ---
 
