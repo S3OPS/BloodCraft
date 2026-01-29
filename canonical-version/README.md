@@ -10,11 +10,11 @@ This directory contains the **canonical/original storyline** of Blood Craft - a 
 
 ### What You'll Find Here
 
-- **Book1.md** - Chapters 1-16: Awakening (Complete outline)
-- **Book2.md** - Chapters 17-20: The Rising Conflict (Outlined)
-- **Book3.md** - Chapters 21-30: The Final Confrontation (Outlined)
+- **Book1.md** - Chapters 1-16: Awakening (Chapter outline)
+- **Book2.md** - Chapters 17-20: The Rising Conflict (Chapter outline)
+- **Book3.md** - Chapters 21-30: The Final Confrontation (Chapter outline)
 - **Chapter-Summary-and-Timeline.md** - Complete outline and summary of the canonical storyline
-- **Blood-Craft-Canonical.md** - *(Placeholder - full narrative not yet written)*
+- **Blood-Craft-Canonical.md** - **Complete 30-chapter novel (~525KB, ~88,000 words)**
 
 ---
 
@@ -49,7 +49,7 @@ With the help of Raechelle Darkpurr (his family's familiar), Riven learns to mas
 
 ## 📚 Current Status
 
-**⚠️ Note**: The full narrative for the canonical version exists only as an outline in `Chapter-Summary-and-Timeline.md`. The complete, fully-written story is currently available only in the **Paradox version** (see `../paradox-version/`).
+**✅ The canonical version is now fully written!** The complete 30-chapter novel is available in `Blood-Craft-Canonical.md` (~525KB, ~88,000 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the narrative.
 
 ---
 
@@ -92,11 +92,10 @@ The story is organized into three books:
 
 ### How to Read
 
-1. Start with **Book1.md** to understand the foundation and character introductions
-2. Continue with **Book2.md** for the escalation and tactical development
-3. Complete the story with **Book3.md** for the final confrontation
-4. For a comprehensive overview, see **Chapter-Summary-and-Timeline.md**
-5. For the fully-written story, see the Paradox version in `../paradox-version/`
+1. **Read the full novel**: Go directly to **Blood-Craft-Canonical.md** for the complete 30-chapter narrative
+2. **Chapter outlines**: Use **Book1.md**, **Book2.md**, and **Book3.md** for structural summaries
+3. **Complete overview**: See **Chapter-Summary-and-Timeline.md** for a comprehensive outline
+4. **Compare versions**: Check `../docs/Comparison-Guide.md` to see how this differs from the Paradox version
 
 ---
 
@@ -109,4 +108,4 @@ The story is organized into three books:
 
 ---
 
-**Last Updated**: January 2026
+**Last Updated**: January 2026 - Canonical version now fully written
