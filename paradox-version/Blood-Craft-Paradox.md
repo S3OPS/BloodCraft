@@ -6189,11 +6189,67 @@ And with Terravos escalating his attacks, that role was only going to grow more 
 
 ---
 
-That night, as Raechelle tended my wounds in the privacy of our bedroom, I made a decision.
+That night, as Raechelle tended my wounds in the privacy of our bedroom, I noticed her hands were shaking.
+
+"Raechelle?"
+
+She didn't respond at first, her focus entirely on cleaning the cut along my ribs. But her movements were mechanical, almost robotic, and through our bond I felt waves of emotion she was desperately trying to suppress.
+
+"Kitten, talk to me."
+
+"I'm fine," she said, her voice tight. "Just need to finish—"
+
+Her composure cracked. The cloth slipped from her hands as a sob escaped her throat. She pressed her palms against her face, her whole body trembling.
+
+"I thought I'd lost you," she whispered brokenly. "When you collapsed, when the blood was everywhere, I thought... I thought..."
+
+I pulled her close despite my injuries, feeling her shake against me. "I'm here. I'm alive."
+
+"You don't understand." Her words were muffled against my chest, thick with tears. "I can't lose you. Not you. Not again. I can't... I can't survive it twice."
+
+"Twice?"
+
+She pulled back slightly, confusion crossing her tear-streaked face. "I... I don't know why I said that. I meant..." She shook her head helplessly. "I just meant I can't lose you. Period. The thought of it, Sir, it's like there's this abyss inside me, this hole that opens up, and it feels so old and so deep that I think I'd fall forever if you weren't here to anchor me."
+
+The grief in her voice seemed disproportionate to our relatively short time together. We'd bonded weeks ago, loved each other intensely, but her despair felt like something deeper. Something rooted in loss that predated our relationship.
+
+"You've lost someone before," I said gently. "Someone important."
+
+"Maybe. I don't know." She was crying freely now, not bothering to hide it. "Sometimes I feel like there's this enormous weight of grief inside me, Sir, and I don't know where it comes from. Like I'm mourning something I can't remember. And when you almost died today, it all came flooding back—this terror that I've felt before, this devastating loss that I've survived before, and I..." She choked on the words. "I don't want to survive losing you. I don't think I could."
+
+I held her tighter, my mind racing. Her forgotten memories. Her disproportionate grief. The sense that she'd experienced this kind of loss before.
+
+All of it pointing to something we'd glimpsed in the Archives—a past she couldn't remember, connected to a Blood Archon who'd died three centuries ago.
+
+But now wasn't the time to push. She was breaking apart in my arms, and all I could do was hold her and let her grieve for things she couldn't even name.
+
+"I'm not leaving you," I promised. "Not today, not ever. I'll fight smarter, take fewer risks, let you help me instead of trying to protect you. Whatever it takes, Kitten. I'm not going anywhere."
+
+"You can't promise that." But she clung to me anyway, her fingers digging into my back. "You're a Blood Archon standing against an ancient power. You're walking into battles that could kill you a dozen different ways. You can't promise you'll always come back."
+
+"Then I promise this: I'll do everything in my power to come back to you. Every. Single. Time." I tilted her face up, making her meet my eyes. "Because you're right—I can't survive losing you either. We're bound, Raechelle. What we have goes deeper than magic or oaths. We're two halves of one whole. And I will fight like hell to keep that whole intact."
+
+She kissed me then, desperate and fierce, tasting of tears and blood and love so intense it ached. I kissed her back with everything I had, pouring my love and determination through our bond until I felt her trembling ease.
+
+"I'm sorry," she whispered eventually. "I didn't mean to fall apart like that."
+
+"Don't apologize. Ever." I brushed tears from her cheeks. "You're allowed to be afraid. Allowed to grieve. Allowed to be anything except alone. I'm here, and I'm not going anywhere."
+
+She managed a shaky smile, then returned to tending my wounds with more composure, though her hands still shook slightly. I watched her work, my mind still turning over her words.
+
+*I can't survive it twice.*
+
+What had happened three hundred years ago? What had she lost that left such deep scars she couldn't even remember them?
+
+And what would happen when those memories finally returned?
+
+---
+
+After she'd finished patching me up, I made a decision.
 
 "I need to take the fight to him," I said. "Stop reacting and start acting. If I wait for Terravos to make the next move, more people will die."
 
-"Agreed." Raechelle's hands were gentle but efficient as she cleaned a cut along my ribs. "But you can't face an ancient Archon alone, Sir. You're powerful, but you're not invincible. Today proved that."
+"Agreed." Raechelle's voice was steadier now, though her eyes were still red-rimmed. "But you can't face an ancient Archon alone, Sir. You're powerful, but you're not invincible. Today proved that."
 
 "Then I build a team. Viktor, Lysandra, maybe others. A strike force capable of hitting Terravos where he's vulnerable."
 
