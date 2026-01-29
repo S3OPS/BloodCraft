@@ -6627,3 +6627,254 @@ But the war inside me might prove even more dangerous.
 ---
 
 *End of Chapter 21*
+
+
+---
+
+# **Chapter 22**
+
+## The Mask Cracks
+
+The explosion had been a diversion.
+
+By the time we reached the western district, we'd figured that much out. The fire was real enough—a warehouse burning, sending smoke into Nocturne's perpetual twilight—but it wasn't the main attack. It was meant to draw us away from the real target.
+
+The Council chambers.
+
+We arrived to find the building under siege. Dozens of Terravos's elite warriors, backed by powerful earth elementals, had breached the outer defenses and were fighting their way toward the heart of Nocturne's government. If they succeeded, if they killed or captured the Council members...
+
+"We need to stop them," I said, already moving. Around us, Nocturne's defenders were rallying, but they were disorganized, caught off-guard. We needed a coordinated response.
+
+We needed a miracle.
+
+Or maybe just a Blood Archon willing to do what was necessary.
+
+I hit the enemy lines like a crimson hammer, blood magic tearing through their formations. Raechelle was at my side, her panther form a blur of midnight fur and amber eyes. Viktor and his pack appeared moments later, howling their battle cries. Lysandra and her coven threw up protective barriers around the Council chambers.
+
+It should have been enough. We'd repelled larger forces before.
+
+But Terravos had saved his best for this assault.
+
+The earth elemental that smashed through the Council's outer wall was massive—three stories tall, formed of compacted stone and animated rage. Its fists could shatter buildings. Its roar shook foundations.
+
+And behind it came a figure I'd never seen but somehow recognized.
+
+He was ancient—not just old but primordial. An earth mage who'd walked the world when the Archons were new. His power radiated like a physical force, making even the elemental seem small by comparison.
+
+"Blood whelp," he called out, his voice like grinding stone. "Terravos sends his regards. And his promise—your false reign ends tonight."
+
+"Then he'll be disappointed," I called back, gathering my power. "Just like all his other attempts."
+
+The ancient mage smiled. "Will he? Tell me, young Archon—do you even know what you are? What you've been? Who you were?"
+
+The words hit me like a physical blow. Raechelle tensed beside me, her thoughts through our bond a jumble of fear and guilt.
+
+"I'm Riven Sixxx. Blood Archon. Defender of Nocturne." I forced confidence into my voice. "That's all I need to be."
+
+"Is it?" The mage gestured, and the ground beneath us began to crack. "Then why do you fight like someone who's done this for centuries? Why do your allies look at you with fear when you think they're not watching? Why does your familiar weep at night when you're asleep?"
+
+"Shut up." My power flared, hot and angry. "You don't know anything about me."
+
+"Don't I?" He laughed. "I was there, young one. Three hundred years ago. I fought beside Terravos when we had to kill the Blood Archon. When we had to end the monster who nearly destroyed our world." His eyes bored into mine. "I watched him die. Watched the light leave his eyes. Felt relief when he finally stopped screaming."
+
+The world seemed to tilt. Around me, the battle continued, but it felt distant. Unreal.
+
+"And yet," the mage continued, "here you stand. Same power. Same mannerisms. Same arrogance. Tell me—are you his heir? Or something more?"
+
+"He's nothing like the ancient Blood Archon," Raechelle snarled, her mental voice sharp with desperation. "Riven is good. He's kind. He's—"
+
+"What we tried to make him," the mage finished. "What the Guardians hoped love could create. But blood doesn't lie, familiar. And you know it better than anyone."
+
+Something inside me snapped.
+
+Power erupted from my core—not the controlled magic I'd been learning, but something older. Deeper. More fundamental. It crashed through me like a tidal wave, and I felt myself... slip.
+
+The blackout was instantaneous.
+
+But this time, I wasn't completely gone. This time, I was... watching. A passenger in my own body as someone—something—else took control.
+
+My body moved with impossible grace. My hands wove patterns of blood magic that I'd never learned but somehow knew. My voice spoke words in a language dead for centuries, each syllable dripping with power and authority.
+
+"You dare speak to me of death?" My voice—but not my voice. Deeper. Older. Colder. "You, who barely scratched me three hundred years ago? You, who only succeeded because I allowed it?"
+
+The ancient mage's confidence wavered. "No. You're dead. We killed you. We—"
+
+"You killed a vessel. A body. A temporary anchor for consciousness that transcends flesh." Power poured from me in waves, and I watched in horror from within as my hands carved through reality itself. "Did you really think death would stop me? That love would redeem me? That a few decades of pretending to be human would erase centuries of purpose?"
+
+The battle around us had stopped. Everyone—ally and enemy alike—stared in shock as I... as something wearing my skin... unleashed power that made our previous displays look like children playing with candles.
+
+The massive earth elemental crumbled. The ancient mage tried to run, but tendrils of solidified blood caught him, held him, squeezed until bones cracked.
+
+"Tell Terravos," my voice commanded, "that I remember. Tell him I remember everything. Tell him that his old friend forgives him for the betrayal. And tell him..." A terrible smile crossed my face. "Tell him I'm coming home."
+
+The mage screamed as I—as it—tore information from his mind, ripping through mental defenses like tissue paper. Memories, plans, locations—all of Terravos's secrets laid bare in moments of brutal psychic violation.
+
+Then, just as suddenly, it released him. The mage collapsed, blood streaming from his eyes and ears, his mind shattered but his body intact.
+
+"Run," my voice whispered. "Run and tell your master what you saw. Tell him the game is ending. Tell him—"
+
+And then I was back. Fully back. The passenger retreated, and I crashed into my own consciousness like falling from a great height.
+
+I collapsed, gasping, my vision swimming. The last thing I saw before darkness claimed me was Raechelle's face—beautiful, terrified, and heartbroken beyond measure.
+
+---
+
+I woke in our townhouse, my head pounding like someone had taken a hammer to my skull.
+
+"Sir?" Raechelle's voice was quiet, careful. "Don't move too quickly. You've been out for hours."
+
+"What..." My throat was raw. "What happened?"
+
+"You don't remember?"
+
+I searched my memories. The battle. The ancient mage. The accusations. And then... then someone else had taken over. Someone who fought like a god, spoke like an ancient power, and treated life with casual contempt.
+
+"Some of it," I whispered. "I was there but... not in control. Like watching through someone else's eyes."
+
+Raechelle was silent for a long moment. When she finally spoke, her voice was thick with tears. "Sir, we need to talk. Really talk. About what you are. About what I know. About... about everything."
+
+"Then talk." I sat up despite the pain. "Please, Kitten. I'm losing my mind. I need to understand what's happening to me."
+
+She took a shaky breath. "What do you know about your parents' past? Before they left Nocturne?"
+
+"They were respected blood mages. They left because they wanted a quiet life. To raise me away from supernatural politics."
+
+"That's what they told you." She looked at me with eyes full of grief. "Sir, that's not the whole truth. Your parents weren't just blood mages. They were Guardians. Part of a secret order dedicated to... to ensuring certain threats never returned."
+
+My blood ran cold. "What kind of threats?"
+
+"The Blood Archon. The original one. The one who nearly destroyed the supernatural world three hundred years ago." She was crying openly now. "He was killed by a coalition of Archons led by Terravos. But there were prophecies. Warnings that he would return. That his consciousness would find a way back."
+
+"And my parents...?"
+
+"Were assigned to monitor for signs of his return. To watch for supernatural disturbances that might indicate his consciousness was trying to reincarnate." Her hands twisted in her lap. "Twenty-three years ago, they found something. A convergence of magical energies. A soul trying to anchor itself to the mortal plane."
+
+I couldn't breathe. Couldn't think. "Me."
+
+"They were supposed to destroy you. That was the order. Prevent the reincarnation before it could fully form." Fresh tears streamed down her face. "But they couldn't. They looked at this baby, this innocent soul, and they couldn't kill you. So they decided to try something else."
+
+"They tried to reshape me." The pieces were falling into place with horrible clarity. "Raise me with love. Give me a normal life. Hope that environment could override..." I couldn't finish the sentence.
+
+"Override what you were," Raechelle whispered. "What you are. What you've always been, underneath the person they tried to create."
+
+"The ancient Blood Archon."
+
+She nodded miserably. "Your parents thought they could change you. Redeem you through love. And for twenty-three years, it worked. You were everything they hoped—kind, compassionate, heroic. You were Riven Sixxx, and he was beautiful."
+
+"But?"
+
+"But then they activated the catalyst. The car accident. Your awakening. It was all planned—they chose the perfect moment when your personality was most solidified. They died hoping that their love had changed you enough that when your powers awakened, when the memories started returning, you'd still be you. Still be Riven."
+
+"And now?" I forced the question through numb lips.
+
+"Now the ancient Blood Archon's consciousness is waking up. Fighting for control. Every battle, every use of power, brings more of him to the surface." She grabbed my hands desperately. "But you're still in there too, Sir. You're still Riven. The man I love. The person your parents created. You're both, and you're fighting, and I don't know who's going to win."
+
+The room spun. My whole life—a lie. My identity—artificial. My parents—guardians tasked with containing a monster, not loving parents at all.
+
+"Did they ever love me?" The question came out broken. "Or was it all an act? A psychological experiment?"
+
+"They loved you." Raechelle's certainty cut through my spiraling thoughts. "I know they did. Whatever their mission was, whatever they were supposed to do—they fell in love with their son. Their real son. You. Riven. Not the ancient Blood Archon. You."
+
+"But I'm not real." Tears burned my eyes. "I'm just... what? A personality construct? A shell built over a monster?"
+
+"You're real to me." She pulled me into her arms, holding tight. "You're real to everyone who knows you. To Viktor. To Lysandra. To everyone you've helped and protected and saved. You're Riven Sixxx, and you're real, and you're good."
+
+"Even if I'm also a three-hundred-year-old monster who nearly destroyed the world?"
+
+"Even then." Her fierce determination flooded through our bond. "Because you're choosing to be Riven. Every day, every moment, you're choosing to be good. That choice matters more than anything else."
+
+I held her and tried to believe that. Tried to convince myself that I was more than just an ancient evil wearing a human mask.
+
+But deep inside, in the places I was afraid to examine, I could feel it. Him. The other me. The original me?
+
+Waiting. Patient. Certain that eventually, inevitably, he would reclaim what was his.
+
+And the most terrifying part?
+
+Part of me wanted to let him.
+
+Because the ancient Blood Archon knew things. Could do things. Was powerful in ways that Riven Sixxx could never match. And with Terravos coming, with war escalating, with Nocturne in danger...
+
+Maybe the monster was exactly what we needed.
+
+---
+
+The next morning, I woke to find Raechelle still curled against me, her breathing even with sleep. For a long moment, I just watched her, memorizing her face. If I lost myself—if the ancient Blood Archon fully took over—would he love her the way I did? Would he protect her? Or would she become just another tool in whatever grand design he'd been pursuing three centuries ago?
+
+I slipped out of bed carefully, not wanting to wake her. She'd barely slept since our conversation. The guilt of keeping my true nature from me, the fear of losing me to my past self—it was eating her alive.
+
+I found myself drawn to the mirror in our bathroom. The face that looked back was mine. Riven Sixxx. Twenty-three years old. Sharp features, dark hair, eyes that shifted from gray to crimson depending on my power usage.
+
+But as I stared, I could almost see someone else. Someone older. Someone who'd worn this face—or one very similar—hundreds of years ago.
+
+"Who are you?" I whispered to my reflection. "Are you me? Am I you? Are we the same person, or are you just squatting in my head, waiting to take over?"
+
+My reflection didn't answer. But for just a moment, I could have sworn my eyes flashed completely crimson—not the partial shift I'd learned to control, but a total transformation. The mark of the ancient Blood Archon.
+
+And when they shifted back, I was smiling. A smile I hadn't put there. A smile that promised terrible things.
+
+I jerked back from the mirror, my heart racing.
+
+"Sir?" Raechelle appeared in the doorway, sleep-tousled and concerned. "Are you okay?"
+
+"No." I turned to face her. "Raechelle, I need to know everything. Not just about my parents or the ancient Blood Archon. Everything. Every secret you've kept, every truth you've hidden. If I'm going to fight this—if I'm going to stay me—I need to know what I'm fighting."
+
+She nodded slowly. "Then we should visit someone who knew the original Blood Archon. Someone who can tell you what he was really like. What you might become if he wins."
+
+"Who?"
+
+"Terravos." Her expression was grim. "He was the Blood Archon's closest friend before the madness. If anyone can tell you how to resist, it's him. And if you can't resist..." She swallowed hard. "Then he'll know what needs to be done."
+
+"You mean he'll kill me."
+
+"He'll try." She took my hand. "But I won't let him. Whatever happens, whoever you become, you're mine. And I protect what's mine."
+
+"Even if I'm a monster?"
+
+"Even then." Her certainty was absolute. "Though preferably, let's avoid the monster option. I'm rather fond of Riven."
+
+Despite everything, I smiled. "I'm rather fond of him too."
+
+"Then let's fight for him. Together." She squeezed my hand. "But first, you need to see what the Council discovered last night. While you were unconscious, they found something. Records. Old ones. About the original Blood Archon."
+
+"What kind of records?"
+
+"The kind that show he looked exactly like you." Her voice was quiet. "Same face. Same build. Same eyes. Like looking at a portrait from three hundred years ago."
+
+My stomach dropped. "A portrait exists?"
+
+"In the restricted archives. Lady Seraphina wants you to see it. She says you deserve to know the truth about yourself—all of it."
+
+Part of me wanted to refuse. To run. To pretend none of this was happening and just be Riven Sixxx, college student turned supernatural defender.
+
+But that was a fantasy. The truth was catching up to me. My past—or someone's past—was bleeding through. And if I didn't face it, if I didn't understand what I was dealing with, I'd lose everything.
+
+Including myself.
+
+"When can we see these archives?"
+
+"This afternoon. Lady Seraphina is gathering everyone who needs to know. The inner Council. Your closest allies. She's calling it..." Raechelle hesitated. "She's calling it 'The Riven situation.'"
+
+"That's what I am now? A situation?"
+
+"You're the most powerful supernatural being in Nocturne, showing signs of possession by an ancient evil. You're kind of the definition of a situation." Her attempted levity fell flat. "But you're also my partner. My love. My everything. So we'll handle this situation together."
+
+I pulled her into my arms, needing her warmth. Through our bond, I felt her love—steady, certain, unshakeable. It was the only thing keeping me sane.
+
+"I'm scared," I admitted. "What if the portrait shows that I'm not real? That I'm just him pretending to be someone new?"
+
+"Then we'll deal with that. But Sir?" She pulled back to meet my eyes. "I've been with you every day since your awakening. I've felt your thoughts, your emotions, your soul through our bond. And I can tell you with absolute certainty—you're real. Riven Sixxx is real. Whatever else you might be, whoever else might be sharing your head, that core of you is genuine."
+
+"How can you be sure?"
+
+"Because the ancient Blood Archon would never cry over killing enemies. Would never spare Viktor. Would never care about protecting Nocturne's people rather than dominating them." She touched my face gently. "He was powerful, but he wasn't kind. You are. That's the difference. That's what makes you you."
+
+I wanted to believe her. God, I wanted to believe her.
+
+But deep inside, I could feel the other presence stirring. Watching. Waiting.
+
+And it was smiling.
+
+---
+
+*End of Chapter 22*
