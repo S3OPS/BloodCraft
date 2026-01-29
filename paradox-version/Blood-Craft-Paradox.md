@@ -6980,6 +6980,58 @@ She kissed me, hard and desperate and full of all the emotion we couldn't voice 
 
 ---
 
+Before the ceremony, as twilight deepened into Nocturne's version of night, I found myself alone on one of the Council Hall's balconies. The view from here showed the city spread out below, and beyond its shimmering barriers, the glow of Terravos's army like a ring of hostile fireflies.
+
+"Contemplating your empire, young Sixxx?"
+
+I didn't need to turn to recognize Ambassador Kaine's oily voice. He emerged from the shadows, his earth-power presence making the stone beneath my feet vibrate subtly.
+
+"I don't have an empire," I said. "And I don't want one."
+
+"Don't you?" He came to stand beside me, looking out at the same view. "Military command over Nocturne. An Air Archon as your ally. A familiar who'll be formalized as your life partner tonight. You're accumulating power at a remarkable rate for someone who claims not to want it."
+
+"I'm surviving. There's a difference."
+
+"Is there?" Kaine's smile was knowing, unpleasant. "I've been watching you, Riven. Watching how you lead, how you inspire loyalty, how you make impossible decisions. Do you know who else I've seen do these things, in exactly this way?"
+
+Despite myself, I asked, "Who?"
+
+"Him. The one whose blood you carry. The one whose face you wear." Kaine's voice dropped to a whisper. "The Mad Blood Archon, before he fell. He started just as you're starting—noble intentions, desperate circumstances, impossible choices. He told himself he was surviving too. Told himself every accumulation of power was necessary, justified, temporary."
+
+My blood ran cold. "I'm nothing like him."
+
+"Aren't you? You've nearly died multiple times for strangers. You've taken command of an entire city's defense. You're binding yourself permanently to a familiar who once served him." His eyes glinted with something that might have been pity or malice. "History doesn't repeat, young Sixxx. But it does rhyme. And your particular rhyme scheme is becoming... familiar."
+
+"Why are you telling me this? If you think I'm becoming a monster, why not just leave and let Terravos finish the job?"
+
+"Because Terravos believes you already are that monster. That blood alone determines destiny." Kaine turned to face me fully. "I'm not as certain. I've watched you make choices the old Blood Archon never would have made. Show mercy the old one never showed. But I've also seen how power changes people. How necessity becomes justification, how temporary measures become permanent habits."
+
+He reached into his coat and withdrew a small crystal, pressing it into my hand before I could refuse.
+
+"When you start to lose yourself—and you will, everyone does under enough pressure—activate this. It will show you the truth of what you're becoming. Not Terravos's truth, not the Council's truth. Just... truth." His expression was unreadable. "Consider it a gift from someone who's seen too many promising young leaders turn into the monsters they fought against."
+
+"If I activate it, will it hurt my people? Is this some kind of trap?"
+
+"No trap. Just a mirror." Kaine stepped back toward the shadows. "Use it or don't—your choice. But remember this moment, when you still have the luxury of doubt. When power accumulates too quickly, doubt is the last thing to go before the fall."
+
+He vanished into the darkness, leaving me alone with the crystal and a chill that had nothing to do with the evening air.
+
+I stared at the small object in my palm. It looked harmless—clear crystal, faintly warm, thrumming with contained magic. But Kaine's words had struck deeper than I wanted to admit.
+
+Was I becoming him? The Mad Blood Archon? Walking the same path, making the same justifications, accumulating the same power?
+
+*Sir?* Raechelle's voice through our bond, worried. *The ceremony starts soon. Are you alright?*
+
+*On my way.* I slipped the crystal into my pocket. Whether to use it or destroy it, I'd decide later. *Just needed some air.*
+
+But as I left the balcony, Kaine's final words echoed in my mind: *History doesn't repeat, but it does rhyme.*
+
+And I wondered which part of history I was currently rhyming with—the beginning, where the Mad Blood Archon was still noble and just?
+
+Or the end, where he had become the very monster he claimed to fight?
+
+---
+
 The ceremony was held that evening, in the Council Hall's grand chamber, before an audience of hundreds. Every faction leader attended, along with representatives from across Nocturne. Even Archon Sylvanas was present, watching with interested silver eyes.
 
 The ritual itself was ancient, predating even the Council. Lady Seraphina presided, speaking words in a language that predated modern supernatural society. Raechelle and I stood facing each other, our hands bound with crimson cord that glowed with blood magic.
