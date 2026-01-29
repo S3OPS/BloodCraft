@@ -2253,6 +2253,92 @@ be, my Archon. Now rest. Tomorrow, your true training begins."
 And as sleep claimed me, I dreamed of blood and fire, of power beyond measure, and of a future that shimmered with
 terrible, beautiful possibility.
 
+---
+
+But the dream didn't stay beautiful.
+
+*I stood in a throne room carved from obsidian and bone, lit by floating orbs of blood-red light. The throne behind me was massive, ornate, constructed from materials I couldn't quite identify—metal that seemed to shift between iron and something darker, cushions that looked like they might have once been...*
+
+*No. I didn't want to think about what they might have been.*
+
+*"My lord," a voice said, and I turned to see Raechelle—but not my Raechelle. This one was younger-looking somehow, though her eyes held centuries of sorrow. She wore different clothes, archaic robes that marked her as a servant rather than a partner. "The Council has sent another ambassador. They plead for you to reconsider the conquest of the Western Territories."*
+
+*"Let them plead," my voice said, though I wasn't controlling it. The words emerged cold, imperious, utterly without compassion. "The Western Territories are weak. They squander their magic on petty feuds and refuse to see the potential for true unity under proper leadership."*
+
+*"Your leadership, you mean." Her voice was careful, controlled. But I could see the fear in her eyes, the way she held herself rigidly as if expecting violence.*
+
+*"Who else? The Council of Archons is fractured, ineffective. Each Archon guards their territory jealously, refusing to cooperate for the greater good. Someone must take control. Someone must forge order from chaos."*
+
+*"At what cost?" The question was barely a whisper, but it hung in the air between us like a death sentence.*
+
+*I felt my face—his face—twist into something cruel. "Whatever cost is necessary. You of all beings should understand this, familiar. You're bound to me. My will is your will. My vision is your purpose."*
+
+*"Yes, my lord." She bowed her head, and I saw a tear escape down her cheek. "As you command."*
+
+*The scene shifted, fragmented. I was standing over bodies—so many bodies. Werewolves, vampires, witches, humans—all those who'd opposed my rule. All those who'd failed to understand that I was bringing order, peace, unity through strength.*
+
+*"This isn't peace," Raechelle's voice again, broken and desperate. "This is slaughter. You've become the very monster you claimed to be fighting against."*
+
+*"I've become what I needed to become!" My voice—his voice—echoed with fury and madness. "The weak will always resist the strong. Their blood fuels the magic that will reshape this world into something better!"*
+
+*"There's nothing better about this! Look at what you've done! Look at what you've become!"*
+
+*I saw myself turn toward her then, and the look in those eyes—my eyes, but not mine—was pure malevolence. "If you cannot support my vision, familiar, then perhaps you've outlived your usefulness."*
+
+*Her face crumbled in devastation. "You would... after everything... after all these centuries..."*
+
+*"I would do whatever serves my purpose. That has always been the truth of power. You were simply too weak to see it."*
+
+*The dream fractured again, and now I was somewhere else—a battlefield, perhaps, or a throne room in ruins. Raechelle stood before me, but she wasn't alone. Other figures surrounded me, their faces blurred but their power unmistakable. They were attacking, coordinating their assault with devastating precision.*
+
+*And I was laughing.*
+
+*Laughing as I slaughtered them, one by one. Laughing as my blood magic tore through their defenses. Laughing as the world burned.*
+
+*Until Raechelle stepped forward, tears streaming down her face, and drove a blade through my heart.*
+
+*"I'm sorry," she sobbed as I fell. "I'm so sorry. But you left me no choice. You left any of us no choice."*
+
+*The last thing I saw in the dream was her face, beautiful and broken, hovering above me as my vision dimmed. "In another life," she whispered. "In another life, I hope we get it right."*
+
+---
+
+I jerked awake with a gasp, my heart hammering so violently I thought it might burst from my chest. Cold sweat drenched my skin, and my hands were shaking.
+
+Raechelle was awake instantly, her instincts responding to my distress. "Sir? What's wrong?"
+
+"Just a nightmare," I managed, though my voice came out rough and shaken. "Just... just a bad dream."
+
+But even as I said it, I knew it was more than that. The dream had felt too real, too visceral. Not like something my imagination had constructed, but like...
+
+Like a memory.
+
+Raechelle's expression was troubled as she studied my face. "What did you dream about?"
+
+"I don't remember," I lied, pulling her closer and burying my face in her hair. "Nothing important. Just the stress of everything catching up with me."
+
+She made a small, uncertain sound but didn't press further. Instead, she wrapped her arms around me, her purr vibrating against my chest in a soothing rhythm.
+
+But I couldn't shake the images. Couldn't forget the cruelty in my own voice, the devastation in her eyes, the certainty that what I'd seen wasn't just a dream but a glimpse of something that had actually happened.
+
+To someone who'd looked exactly like me.
+
+Who'd felt exactly like me.
+
+Who might have been me, in another life.
+
+*No,* I told myself firmly. *That's impossible. Reincarnation isn't real. It was just a nightmare, nothing more.*
+
+But the conviction felt hollow, and as I held Raechelle close and tried to fall back asleep, I couldn't escape the haunting final words of the dream.
+
+*"In another life, I hope we get it right."*
+
+What if this was that other life?
+
+And what if I was doomed to repeat the same mistakes?
+
+---
+
 # **Chapter 7**
 
 Ten days had passed since my awakening, and I was no longer the same man who had stumbled out of that burning wreckage.
