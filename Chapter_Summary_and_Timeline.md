@@ -150,43 +150,35 @@
 ---
 
 ### Chapter 14: Allies and Enemies
-**Main Plot Points:**
-- Formal alliance with Lysandra Blackwood's coven
-- A werewolf pack offers tentative friendship
-- Ambassador Kaine requests a private meeting
-- Revelation of Terravos's larger plan: not just revenge, but conquest
-- Discovery of traitors within Nocturne's Council
-
-**World Expansion:**
-- Introduction to other Archons and their territories
-- Understanding the balance of power in the supernatural world
-- Ancient history of the Blood Archon lineage revealed
-
-**Personal Stakes:**
-- Learning more about Riven's parents' decision to leave Nocturne
-- Raechelle's past trauma and healing through their bond
-- Establishing the Sixxx household as a minor power center
+- Lysandra Blackwood proposes formal alliance between her coven and Riven's house
+- Revelation that Terravos is building an army for conquest, not just revenge
+- Discovery of at least three Council traitors meeting secretly with Ambassador Kaine
+- Meeting with Morgana Blackwood at the Blackwood estate
+- Riven receives memory crystal from his mother containing encoded knowledge
+- Viktor and Elder Mara establish formal ties between Ironclad pack and Sixxx house
+- Elder Mara requests blood magic training to help werewolf healers save lives
+- Introduction of mysterious disappearances in Nocturne's outer districts
+- Riven agrees to investigate disappearances to prove his value to Nocturne
+- Growing political power and expanding network of allies
+- *Complete: Establishes major alliances and reveals Terravos's true conquest plans*
 
 ---
 
 ### Chapter 15: The Crimson Ball
-**Main Plot Points:**
-- Annual supernatural social event in Nocturne
-- Riven makes his formal debut to high society
-- Dancing, intrigue, and political maneuvering
-- Assassination attempt during the festivities
-- Riven saves a Council member, earning powerful favor
-
-**Romance Highlight:**
-- Riven and Raechelle's first formal appearance as a couple
-- Dancing scene showcasing their bond
-- Jealousy subplot resolved with possessive claiming
-- Private moment after the ball
-
-**Political Developments:**
-- New alliances forged on the dance floor
-- Enemies revealed through the assassination attempt
-- Lady Darkthorne's growing investment in Riven's success
+- The Crimson Ball, Nocturne's annual celebration of unity
+- Riven and Raechelle make their formal debut as a bonded couple
+- Preparation and training in supernatural social protocols
+- Ambassador Kaine confronts Riven with veiled threats and ultimatum
+- Stunning display of Riven and Raechelle's bond through dance
+- Terravos-orchestrated attack on the Grand Hall during festivities
+- Corrupted earth elementals breach the ballroom targeting Council members
+- Riven helps defend against attackers, showing restraint and heroism
+- Three casualties: two vampires and one werewolf
+- Kaine threatens that Nocturne will be torn apart unless Riven leaves
+- Lysandra's recording crystal captures Kaine's threats as evidence
+- Lady Seraphina gains grounds for formal charges against Earth Archon embassy
+- Nocturne's Council united against Terravos by the brazen attack
+- *Complete: Major escalation of conflict; war now openly declared*
 
 ---
 
@@ -325,7 +317,7 @@
 | 8-9 | Day 14-15 | Bonding & Arrival | Complete |
 | 10-12 | Weeks 1-2 | Integration & Politics | **Complete** |
 | 13 | Week 3 | The Sanctioned Duel | **Complete** |
-| 14-15 | Months 1-3 | Establishment & Allies | Outlined |
+| 14-15 | Months 1-3 | Establishment & Allies | **Complete** |
 | 16-20 | Months 3-6 | Rising Conflict | Outlined |
 | 21-25 | Months 6-12 | War | Outlined |
 | 26-29 | Year 2 | Final Confrontation | Outlined |
