@@ -5,6 +5,16 @@
 
 ---
 
+## So It Begins...
+
+In the shadows between worlds, where ancient power meets modern destiny, a young man's journey begins with tragedy and awakens with blood. This is the story of Riven Sixxx—heir to a legacy he never knew existed, bound to a darkness he must learn to embrace, and destined for a truth that will shatter everything he believes about himself.
+
+**Welcome to Blood Craft**, where the line between hero and monster blurs, where love defies death itself, and where the greatest battle is not against external enemies, but against the very essence of who—and what—you truly are.
+
+*So it begins...*
+
+---
+
 > **🌟 CREATIVE NOTE:** This is an **ALTERNATE STORYLINE** featuring a Shutter Island-level twist where Riven is revealed to be the reincarnation of the original "mad" Blood Archon. This version explores themes of identity, redemption, and whether love can transform an ancient evil.
 > 
 > **For the CANONICAL storyline**, see: `Chapter_Summary_and_Timeline.md`
