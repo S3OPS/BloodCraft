@@ -927,14 +927,14 @@ experiences.*
 attraction toward you, but she won't truly understand why this is happening. It will likely confuse and frustrate her
 immensely, as everything you do or say will ignite a fire within her, an urge she might instinctively want to resist.
 Though she may not have conscious memories of the event from almost 15 years ago, a significant moment occurred when
-you first crossed paths when you were a child—at that moment, a blood bond was forged between you.  Th blood bond is
+you first crossed paths when you were a child—at that moment, a blood bond was forged between you.  The blood bond is
 an extraordinary and powerful connection that exists between two magical beings, creating an attraction that is far
 stronger than physical gravity. It’s important to remember that you do not get to choose who you become bonded with;
 the intricacies of magic and its energies are as enigmatic as the bond itself. This connection transcends the limits
 of time and space, and it remains a relatively uncharted territory in the realm of magic—much is still undiscovered.*
 
 *Once you both recognize and accept this connection, it will establish itself in a way that makes the two of you
-inseparable. When your father** and I** first came to understand this bond, we took decisive action to protect you
+inseparable. When your father and I first came to understand this bond, we took decisive action to protect you
 both. We separated you and cast a powerful spell to ensure that the memories of your bond would fade until the moment
 you kissed, shielding you from the intensity of the energies you would naturally emit. The forces at play between you
 are so strong that they would have been obvious to any being of higher power, thus the need for protection.*
