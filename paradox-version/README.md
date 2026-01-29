@@ -92,8 +92,8 @@ The Paradox version appears to follow a traditional supernatural awakening... un
 ## 📊 Story Statistics
 
 - **Total Chapters**: 30 (complete)
-- **Word Count**: ~150,000+ words
-- **File Size**: 593KB
+- **Word Count**: ~97,000 words
+- **File Size**: 581KB
 - **Lines**: 8,200+
 - **Completion Date**: January 2026
 
@@ -103,7 +103,7 @@ The Paradox version appears to follow a traditional supernatural awakening... un
 
 ### Canonical Version
 If you prefer traditional hero's journey without the psychological complexity:
-- **`../canonical-version/`** - The straightforward supernatural fantasy (outline only)
+- **`../canonical-version/`** - The straightforward supernatural fantasy (fully written, 30 chapters)
 
 ### Comparison
 For a detailed comparison of both versions:

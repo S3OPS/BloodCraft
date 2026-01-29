@@ -10,7 +10,7 @@ Blood Craft is a supernatural fantasy novel that follows Riven Sixxx, a 23-year-
 
 This repository contains **two versions** of the same story, each offering a unique creative direction:
 
-1. **Canonical Version** - Traditional hero's journey (outline only)
+1. **Canonical Version** - Traditional hero's journey (fully written, 30 chapters)
 2. **Paradox Version** - Psychological thriller with major twist (fully written, 30 chapters)
 
 ---
@@ -23,15 +23,15 @@ BloodCraft/
 │
 ├── canonical-version/           # Original storyline
 │   ├── README.md                # Overview of canonical version
-│   ├── Book1.md                 # Chapters 1-16: Awakening
-│   ├── Book2.md                 # Chapters 17-20: The Rising Conflict
-│   ├── Book3.md                 # Chapters 21-30: The Final Confrontation
-│   ├── Blood-Craft-Canonical.md # Placeholder for full narrative
+│   ├── Book1.md                 # Structural outline: Chapters 1-16
+│   ├── Book2.md                 # Structural outline: Chapters 17-20
+│   ├── Book3.md                 # Structural outline: Chapters 21-30
+│   ├── Blood-Craft-Canonical.md # COMPLETE 30-chapter novel (~525KB)
 │   └── Chapter-Summary-and-Timeline.md
 │
 ├── paradox-version/             # Alternate storyline with twist
 │   ├── README.md                # Overview of paradox version
-│   ├── Blood-Craft-Paradox.md   # COMPLETE 30-chapter novel (~150k words)
+│   ├── Blood-Craft-Paradox.md   # COMPLETE 30-chapter novel (~581KB)
 │   ├── Chapter-Summary-and-Timeline.md
 │   └── Completion-Summary.md
 │
@@ -51,18 +51,25 @@ BloodCraft/
 This guide explains both versions and helps you choose based on your preferences.
 
 ### 📖 Want to Read the Complete Story?
-**Go here**: [`paradox-version/Blood-Craft-Paradox.md`](paradox-version/Blood-Craft-Paradox.md)
 
-The Paradox version is the only fully-written narrative (30 complete chapters, ~150,000 words).
+**Both versions are fully written!**
 
-### 📋 Want the Traditional Outline?
+**Paradox Version** (with major psychological twist):  
+[`paradox-version/Blood-Craft-Paradox.md`](paradox-version/Blood-Craft-Paradox.md)
+
+**Canonical Version** (traditional hero's journey):  
+[`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
+
+Both versions are complete 30-chapter novels (~97,000 and ~88,000 words respectively).
+
+### 📋 Want Chapter Outlines and Summaries?
 **Go here**: 
-- [`canonical-version/Book1.md`](canonical-version/Book1.md) - Chapters 1-16: Awakening
-- [`canonical-version/Book2.md`](canonical-version/Book2.md) - Chapters 17-20: The Rising Conflict
-- [`canonical-version/Book3.md`](canonical-version/Book3.md) - Chapters 21-30: The Final Confrontation
+- [`canonical-version/Book1.md`](canonical-version/Book1.md) - Structural outline for Chapters 1-16
+- [`canonical-version/Book2.md`](canonical-version/Book2.md) - Structural outline for Chapters 17-20
+- [`canonical-version/Book3.md`](canonical-version/Book3.md) - Structural outline for Chapters 21-30
 - [`canonical-version/Chapter-Summary-and-Timeline.md`](canonical-version/Chapter-Summary-and-Timeline.md) - Complete overview
 
-The canonical version exists as a detailed outline and summary, now organized into three books.
+The chapter outlines provide detailed structural summaries of the canonical version.
 
 ---
 
@@ -72,7 +79,7 @@ The canonical version exists as a detailed outline and summary, now organized in
 **Location**: [`paradox-version/`](paradox-version/)
 
 Read this if you want:
-- ✅ Complete, fully-written 30-chapter novel
+- ✅ Complete, fully-written 30-chapter novel (~97,000 words)
 - ✅ Mind-bending plot twists (Shutter Island-style)
 - ✅ Psychological complexity and moral ambiguity
 - ✅ Deep philosophical questions about identity
@@ -81,17 +88,18 @@ Read this if you want:
 
 **Key Twist**: Riven is revealed to be the reincarnation of the ancient "mad" Blood Archon, transforming the entire narrative into a question of whether love can redeem ancient evil.
 
-### 📚 Canonical Version (OUTLINE ONLY)
+### 📚 Canonical Version (FULLY WRITTEN)
 **Location**: [`canonical-version/`](canonical-version/)
 
 Read this if you want:
+- ✅ Complete, fully-written 30-chapter novel (~88,000 words)
 - ✅ Traditional hero's journey structure
 - ✅ Clear heroes and villains
 - ✅ Romantic supernatural fantasy
 - ✅ Empowering protagonist growth
 - ✅ Straightforward good vs. evil
 
-**Note**: Currently exists only as a detailed outline in `Chapter-Summary-and-Timeline.md`. For a fully-written narrative, see the Paradox version.
+**Note**: The canonical version is now fully written in `Blood-Craft-Canonical.md`. Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries.
 
 ---
 
@@ -100,13 +108,13 @@ Read this if you want:
 ### [`canonical-version/`](canonical-version/)
 Contains the original/traditional storyline where Riven is simply a Blood Archon heir fighting against Terravos, the villain who killed his parents.
 
-- **Status**: Outline and summary form only
+- **Status**: Fully written 30-chapter novel (~525KB, ~88,000 words)
 - **Best for**: Readers who prefer traditional fantasy structure
 
 ### [`paradox-version/`](paradox-version/)  
 Contains the alternate storyline with the major psychological twist where Riven discovers he's the reincarnation of an ancient evil.
 
-- **Status**: Complete 30-chapter novel (~593KB, ~150k words)
+- **Status**: Complete 30-chapter novel (~581KB, ~97,000 words)
 - **Best for**: Readers who love psychological complexity
 - **Warning**: Contains major spoilers in the README
 
@@ -123,31 +131,40 @@ Supporting documentation, comparison guides, and archived files.
 ### File Naming Clarification
 - **There is NO file called "bloodcraft.md"** (lowercase, no space)
 - The main story files are:
-  - `paradox-version/Blood-Craft-Paradox.md` (Paradox version - fully written)
-  - `canonical-version/Blood-Craft-Canonical.md` (Canonical version - placeholder)
+  - `paradox-version/Blood-Craft-Paradox.md` (Paradox version - fully written, ~581KB)
+  - `canonical-version/Blood-Craft-Canonical.md` (Canonical version - fully written, ~525KB)
 
 ### What's Currently Written?
-- ✅ **Paradox Version**: Fully written (30 chapters, ~150,000 words)
-- ⏳ **Canonical Version**: Outline and summary only
+- ✅ **Paradox Version**: Fully written (30 chapters, ~97,000 words)
+- ✅ **Canonical Version**: Fully written (30 chapters, ~88,000 words)
+
+**Both versions are complete!** Choose based on your reading preferences.
 
 ---
 
 ## 📖 Recommended Reading Paths
 
 ### Path 1: Jump Right In (Recommended)
+
+**Paradox Version** (psychological thriller):
 1. Go to [`paradox-version/Blood-Craft-Paradox.md`](paradox-version/Blood-Craft-Paradox.md)
 2. Start reading from Chapter 1
 3. Experience the twist naturally as it unfolds
 
+**Canonical Version** (traditional hero's journey):
+1. Go to [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
+2. Start reading from Chapter 1
+3. Enjoy a straightforward supernatural fantasy
+
 ### Path 2: Learn First, Then Read
 1. Read [`docs/Comparison-Guide.md`](docs/Comparison-Guide.md) to understand both versions
-2. Choose your preferred version
-3. Start reading (Paradox is the only one fully written)
+2. Choose your preferred version based on reading preferences
+3. Start reading (both versions are fully written)
 
-### Path 3: Outline Only
+### Path 3: Structural Overview First
 1. Go to [`canonical-version/Chapter-Summary-and-Timeline.md`](canonical-version/Chapter-Summary-and-Timeline.md)
-2. Read the traditional storyline summary
-3. Optionally read the Paradox version for the full narrative
+2. Read the traditional storyline summary and structure
+3. Then read either full version based on preference
 
 ---
 
@@ -194,4 +211,4 @@ This repository uses a clean separation between the two story versions to avoid 
 
 ---
 
-**Last Updated**: January 2026 - Reorganized into separate directory structure
+**Last Updated**: January 2026 - Both canonical and paradox versions now fully written

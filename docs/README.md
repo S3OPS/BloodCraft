@@ -35,8 +35,8 @@ Original Word document containing an earlier version of the story. Archived here
 - Full novel: `../paradox-version/Blood-Craft-Paradox.md`
 - Overview: `../paradox-version/README.md`
 
-**Canonical Version (Outline Only)**  
-- Summary: `../canonical-version/Chapter-Summary-and-Timeline.md`
+**Canonical Version (Complete, 30 Chapters)**  
+- Full novel: `../canonical-version/Blood-Craft-Canonical.md`
 - Overview: `../canonical-version/README.md`
 
 ### Not Sure Which to Read?
@@ -49,11 +49,11 @@ Original Word document containing an earlier version of the story. Archived here
 
 Blood Craft is a supernatural fantasy series that explores identity, power, and redemption through two distinct creative directions:
 
-1. **Canonical Version**: Traditional hero's journey with clear heroes and villains
-2. **Paradox Version**: Psychological thriller with Shutter Island-level twist
+1. **Canonical Version**: Traditional hero's journey with clear heroes and villains (fully written, 30 chapters)
+2. **Paradox Version**: Psychological thriller with Shutter Island-level twist (fully written, 30 chapters)
 
-Both versions tell the story of Riven Sixxx, but with dramatically different implications and thematic depth.
+Both versions tell the story of Riven Sixxx with complete 30-chapter narratives, but with dramatically different implications and thematic depth.
 
 ---
 
-**Last Updated**: January 2026
+**Last Updated**: January 2026 - Both versions now fully written
