@@ -8393,6 +8393,389 @@ Let the shadows come. We would be ready.
 
 ---
 
+# **Chapter 28**
+
+## The Hunt
+
+Dawn came too quickly, painting Nocturne's skyline in shades of crimson and gold that seemed almost prophetic. I'd barely slept—my mind too active, replaying yesterday's battle with Zephyra, analyzing every move, every word, every tactical error. The taste of failure sat bitter on my tongue. She'd waltzed into my city, planted bombs throughout its foundations, and escaped with barely a scratch. Worse, she'd threatened my daughter by name.
+
+That was unforgivable.
+
+"You're brooding," Raechelle observed from the doorway, two cups of coffee in her hands. She'd changed from her sleepwear into practical hunting leathers—dark, fitted, designed for mobility. Her silver-streaked hair was pulled back in a warrior's braid, and her amber eyes held the focused intensity I'd learned to recognize over fifteen years together. This was Raechelle in her element: the predator preparing for the hunt.
+
+"I'm planning," I corrected, accepting the coffee gratefully. The warmth helped chase away the lingering chill of an almost-sleepless night.
+
+"You can do both." She settled beside me at the war table I'd set up in my study, examining the map of Nocturne I'd marked with the locations of yesterday's explosive charges. Red pins marked each site, forming a disturbing pattern across the city. "See anything useful?"
+
+"She targeted infrastructure," I said, tracing lines between the pins. "Water treatment facilities, major intersections, the Academy's foundation. If these had detonated, Nocturne wouldn't have been destroyed—but it would have been crippled. Weeks or months of repairs, thousands displaced, our defensive capabilities compromised."
+
+"Softening us up for a larger assault," Raechelle concluded, her tactical mind racing alongside mine. "Which means yesterday wasn't the main event. It was a test."
+
+"Testing our response time, our coordination, our vulnerabilities." I stabbed a finger at the Grand Promenade, where Zephyra had first appeared. "She knew I'd transport her away from civilians. Knew I'd prioritize saving lives over finishing the fight. She played me."
+
+"You made the right choice," Raechelle said firmly. "A leader who lets innocents die to satisfy his pride isn't worth following."
+
+"A leader who lets enemies escape to kill another day isn't much better."
+
+"Stop." She caught my hand, forcing me to meet her gaze. "You're angry. I understand. But anger makes you sloppy, and we can't afford sloppy. What we need is cold, calculated hunting—the kind where emotion serves the goal rather than driving it."
+
+She was right, as usual. I took a breath, centering myself, letting the churning emotions settle into something more focused. More useful.
+
+"Morgana's arriving within the hour," I said, shifting mental gears. "Viktor's pack is already tracking earth magic signatures. Seraphina's coordinating with city security. And Chancellor Aldric is analyzing the explosives for any clues about their origin."
+
+"What about Elena?" Raechelle asked carefully.
+
+"Still asleep. I checked on her an hour ago." I'd stood in her doorway for ten minutes, watching her breathe, reassuring myself that she was safe. That the wards I'd placed had held. That my daughter hadn't been stolen away while I was dealing with Zephyra's distractions. "We need to talk to her. She sensed things yesterday—about Zephyra's corruption, about her timeline. Elena's blood sensing is becoming as refined as mine."
+
+"She's ten," Raechelle reminded me gently. "Ten years old, and already we're asking her to help hunt a dangerous enemy."
+
+"She's a Blood Archon," I countered. "And she's already a target. I won't leave her ignorant of the threats she faces. But I won't put her in direct danger either. There's a balance—"
+
+"The Balance finding balance," Raechelle quoted my words from last night, a small smile crossing her lips despite the serious discussion. "I know. I just... I want her to have a childhood."
+
+"She will. But it'll be the childhood of someone born to power, with all that entails." I squeezed her hand. "We'll protect her. But we'll also prepare her. That's the best we can do."
+
+A soft knock interrupted us. Elena pushed the door open, still in her nightclothes but wide awake, her crimson eyes alert. "I can hear you talking about me," she said matter-of-factly. "If you're planning something, I should be involved."
+
+Raechelle shot me a look that clearly said, *She's your daughter.*
+
+"Come here, sweetpea," I said, gesturing to a chair. Elena climbed up, her feet not quite reaching the floor, but her bearing remarkably poised for a ten-year-old. "You're right—we were discussing you. And we've decided that you should participate in the intelligence gathering phase of hunting Zephyra."
+
+Her face lit up with excitement before carefully smoothing into something more serious. "What do you need me to do?"
+
+"Yesterday, you sensed things about Zephyra that I missed," I said, impressed by her quick maturity. "Her pain, her timeline, the corruption in her blood. That kind of detailed sensing could be invaluable for identifying her cultists or tracking her movements. But—" I held up a hand as she started to speak, "—you will not engage in any combat. You will not put yourself in danger. You will work from secure locations, with multiple guards, and you will follow every safety protocol. Understood?"
+
+"Understood," Elena said immediately. "When do we start?"
+
+"After breakfast," Raechelle said, ever practical. "No one hunts dangerous cultists on an empty stomach."
+
+---
+
+An hour later, my study had transformed into an impromptu war room. Morgana arrived first, her purple robes swirling with barely contained magical energy. She carried a leather satchel filled with books and scrolls, her green eyes bright with the fervor of someone who'd been researching all night.
+
+"I found something," she announced without preamble, spreading an ancient tome across my desk. The pages were yellowed with age, the script written in a dialect I recognized as Old Celtic. "This is a treatise on corrupted magic from the Third Age. It describes cases where mages attempted to absorb power beyond their natural capacity."
+
+"And?" I leaned forward, trying to parse the archaic text.
+
+"And it never ends well," Morgana said grimly. "The human body—or any supernatural body, for that matter—isn't designed to contain power from multiple incompatible sources. Blood magic and earth magic have fundamental differences in how they interact with living tissue. Attempting to merge them creates a cascade effect—the body literally tears itself apart from the inside."
+
+"Elena sensed that Zephyra was dying," Raechelle interjected. "Maybe a year at most."
+
+Morgana nodded. "That tracks with the historical accounts. Which means she's operating under a deadline. She'll escalate quickly, taking bigger risks, because she knows her time is limited."
+
+"Making her more dangerous," I said, completing the thought. "Desperate enemies don't play by conventional rules."
+
+Viktor arrived next, his massive frame filling the doorway. He was accompanied by two of his pack lieutenants—Rafe and Sasha, both experienced trackers. They carried themselves with the controlled tension of predators ready to spring.
+
+"Found three earth magic signatures outside the city," Viktor reported, moving to the map. He placed markers at three locations, all within a ten-mile radius of Nocturne. "Here, here, and here. Each one pulsing with the same corrupted energy we felt from Zephyra. Could be cultist safe houses, ritual sites, or supply caches."
+
+"Or traps," I cautioned. "She knows we'll come looking."
+
+"Always assume traps," Viktor agreed, his amber eyes gleaming. "But we've faced worse odds. My pack can scout the locations, identify threats before we commit to a raid."
+
+Chancellor Aldric was the last to arrive, looking considerably more disheveled than usual. His normally immaculate robes were creased, and his white hair stood in disarray from running his hands through it. But his eyes held the sharp focus of someone who'd made a breakthrough.
+
+"The explosive charges," he said, producing several crystallized samples. "They're fascinating from a theoretical perspective—absolutely abhorrent from a practical one. Whoever designed these had training in both earth magic and blood magic. The two systems are woven together in ways that shouldn't be possible."
+
+"Multiple people could have made them," Seraphina observed, entering the room with her usual silent grace. "Different crafters, perhaps, specializing in different aspects."
+
+"That's what I thought initially," Aldric agreed. "But the magical signatures are too consistent. One person made all of these—someone with knowledge spanning multiple disciplines. Someone who's been studying for a very long time."
+
+"Zephyra said she spent ten years preparing," I said. "Learning. Planning. If she had access to Terravos's research, his libraries, his experimental notes—"
+
+"Then she'd have had a decade to master techniques that would normally take multiple lifetimes," Morgana finished. "Concerning."
+
+"More than concerning," Seraphina said coolly. "It means we're not just facing a powerful enemy. We're facing an educated one. Someone who understands magical theory well enough to break fundamental rules and survive—at least temporarily."
+
+Elena, who'd been listening quietly from her seat by the window, suddenly spoke up. "She's not alone."
+
+Everyone turned to look at her. She met their gazes without flinching, her small chin raised.
+
+"What do you mean, sweetpea?" I asked gently.
+
+"Yesterday, when she breached the wards, I felt..." Elena paused, gathering her thoughts. "It wasn't just one corrupted blood signature. It was like... an echo. Or a chorus. Multiple people with similar corruption, but hers was the strongest."
+
+Viktor leaned forward. "You're saying there are other cultists with similar powers?"
+
+"Not as strong," Elena clarified. "But similar. Like..." She struggled for an analogy her young mind could express. "Like a pack. She's the alpha, but there are others who've been changed the same way, just less."
+
+Morgana and I exchanged sharp glances. "She's sharing her corruption," Morgana breathed. "Creating a cult not just of followers, but of corrupted mages. All of them drawing from earth and blood magic, all of them loyal to her."
+
+"How many?" Seraphina demanded.
+
+Elena closed her eyes, clearly remembering. "When the wards flared, I counted... maybe ten? Fifteen? The signals were faint, hard to separate. But they were there."
+
+"Fifteen earth-blood hybrid mages," Viktor said slowly. "Any one of them potentially as dangerous as a regular Archon-level threat."
+
+"Not quite that strong," I countered, thinking through the implications. "Zephyra's the only one who absorbed power directly from the Heart of Stone. The others are probably recipients of diluted corruption—powerful, yes, but not Archon-level. More like enhanced mages."
+
+"Still enough to cause enormous damage if deployed strategically," Seraphina noted. "Especially if they can create those explosive charges. Fifteen saboteurs with Zephyra directing them could tear Nocturne apart from within."
+
+The room fell silent as we absorbed this new information. What had seemed like a solo threat had suddenly multiplied into a coordinated network.
+
+"We need intelligence," I said, breaking the silence. "Real intelligence, not guesswork. We need to know where they're operating, how many there really are, what their targets might be. Viktor, your scouts—"
+
+"Already on it," Viktor confirmed. "But tracking them won't be enough. We need to capture one. Question them. Get inside their organizational structure."
+
+"A raid," Raechelle said, her tactical mind already working through possibilities. "Hit one of the locations your pack identified. Fast, hard, designed to capture rather than kill."
+
+"Risky," Seraphina observed. "If it is a trap, we could lose people."
+
+"We're losing people anyway if we sit here reacting to her attacks," I countered. "She's had the initiative since yesterday. It's time we took it back."
+
+Morgana nodded slowly. "A raid could work. If we hit the right target with overwhelming force, we can grab a cultist before they have time to escape or self-destruct."
+
+"Which location?" Viktor asked, studying the map. "The one to the northeast is closest, but that makes it the most obvious target. The one to the west is isolated, harder to reinforce—"
+
+"The southern location," Elena said suddenly. All eyes turned to her again. "The corruption feels... newer there. Fresher. Like they're still setting up. The others have had time to establish defenses, but that one hasn't."
+
+Viktor looked at me questioningly. I nodded. "Elena's blood sensing has proven reliable. If she says the southern site is our best option, I trust her judgment."
+
+"Then we have our target," Viktor said with satisfaction. "When do we move?"
+
+"Tonight," I decided. "We need darkness for approach, and we can't give them time to relocate. Viktor, assemble a strike team—your best fighters, people who can handle themselves if things go wrong. Morgana, I need counter-spell specialists in case they have magical traps. Raechelle, you're with me on point."
+
+"I'm coming too," Seraphina said, her tone brooking no argument. "My vampires have experience with night operations, and we can provide aerial reconnaissance."
+
+I wanted to argue—having a Council member on a potentially dangerous raid was risky politically—but she was right. We needed every advantage.
+
+"Agreed," I said. "But we keep the team small. No more than twenty fighters total. We go in fast, grab a cultist, get out. No heroics, no unnecessary risks."
+
+"What about me?" Elena asked.
+
+"You stay here," Raechelle said firmly, before I could respond. "Protected by the best wards we have, with guards stationed throughout the house. This is a combat operation, sweetpea. Not appropriate for children."
+
+Elena looked like she wanted to argue, but ultimately nodded. "I understand."
+
+"You did amazing work today," I told her, moving to kneel beside her chair. "You gave us information we desperately needed. That's a real contribution—not just someone trying to be helpful, but genuine intelligence that will save lives. I'm proud of you."
+
+Her face brightened at the praise, and she hugged me tightly. "Be careful, Daddy."
+
+"Always," I promised, though we both knew it was a lie we told to comfort each other.
+
+---
+
+The rest of the day passed in preparation. Viktor assembled his strike team—twelve werewolves, including his most experienced pack members. Morgana brought four witches specializing in combat magic and trap detection. Seraphina arrived with three vampire warriors who moved with the deadly grace of trained assassins.
+
+And Raechelle and I prepared our equipment and strategy, falling into the familiar rhythm of pre-combat planning that we'd perfected years ago.
+
+"Feels like old times," Raechelle observed, checking her weapons. She carried twin daggers enchanted for penetrating magical shields, along with an assortment of other tools I'd learned not to ask too many questions about.
+
+"Old times when we were hunting rogue vampires," I agreed. "Not corrupted earth-blood cultists."
+
+"Fundamentally the same principle. Find them, corner them, make them talk." She shot me a predatory smile. "I've missed this, actually. The peace was nice, but I'm a hunter at heart. I need challenges."
+
+"Careful what you wish for," I murmured, but I understood the sentiment. There was something clarifying about hunting—a purity of purpose that politics and diplomacy rarely provided.
+
+As dusk approached, I stood in Elena's room one more time, watching her read a book about magical theory. She looked up, sensing my presence.
+
+"I'll be fine, Dad," she said, sounding far older than her ten years. "The wards are strong. The guards are experienced. And I have my panic button." She held up a small crystal I'd given her—linked directly to me, it would alert me instantly if she activated it.
+
+"I know," I said. "But I'm your father. Worrying is part of the job description."
+
+"Then worry while you work," she said with a small smile. "And come back safe."
+
+"Deal."
+
+---
+
+We assembled two miles south of Nocturne as full darkness fell. Twenty fighters, each a veteran of multiple conflicts, each prepared for the dangers ahead. Viktor's wolves formed the perimeter, their enhanced senses extending our awareness. Morgana's witches wove detection spells, creating a magical net that would alert us to hostile magic. Seraphina's vampires took to the air, scouting from above with their preternatural vision.
+
+And Raechelle and I stood at the center, coordinating the operation through a combination of blood bonds and communication crystals.
+
+"Target is one mile ahead," Viktor reported, his nose tilted to the wind. "Earth magic is strong—definitely an active site. I'm counting... two distinct heartbeats inside the structure, maybe a third deeper underground."
+
+"Only three?" That seemed suspiciously low. "Could be a trap."
+
+"Could be a forward outpost," Raechelle suggested. "Not every location needs heavy staffing."
+
+"Morgana, what are you sensing magically?" I asked.
+
+The witch closed her eyes, her consciousness extending through the spell net we'd deployed. "Defensive wards, definitely. Nothing too sophisticated—basic alarm spells, some structural reinforcement. No active combat magic that I can detect. If it's a trap, it's a subtle one."
+
+"Or they're genuinely not expecting us," Seraphina offered. "We moved faster than they anticipated. They may still believe yesterday's attack succeeded in keeping us reactive and off-balance."
+
+I weighed the options. Waiting meant giving them time to reinforce or relocate. Moving forward meant potentially walking into an ambush. Neither option was perfect.
+
+"We go," I decided. "But carefully. Viktor, your pack creates a perimeter—nothing gets in or out. Morgana, witches ready to counter any hostile magic. Seraphina, your vampires maintain aerial overwatch. Raechelle and I will breach and secure the cultists. Everyone clear?"
+
+Nods all around. We moved forward as one unit, a well-oiled machine of supernatural hunters converging on our prey.
+
+The cultist safe house was a dilapidated farm structure, the kind that dotted the countryside around Nocturne—abandoned decades ago, perfect for squatters who didn't want attention. To mundane eyes, it would look uninhabited. But my blood sense painted a different picture—lives inside, warm and pulsing with corrupted energy.
+
+Raechelle and I approached the front door while the others took positions. She met my gaze, and we moved in perfect synchronization—a partnership forged over years of fighting together.
+
+I hit the door with blood magic, shattering the wood and the ward simultaneously. Raechelle flowed through the opening like smoke, her daggers already drawn. I followed, my blood constructs forming into shields and weapons as needed.
+
+Inside, chaos erupted.
+
+The first cultist was a woman in her thirties, her skin bearing the grayish tint I'd seen on Zephyra. She raised her hands, and the floor erupted in stone spikes. I deflected them with a blood barrier while Raechelle closed the distance, moving too fast for earth magic to track. A precise strike to a nerve cluster, and the woman collapsed, unconscious but alive.
+
+"One down," Raechelle called out.
+
+The second cultist was faster—a man who seemed to melt into the stone wall, using earth magic to travel through the structure itself. Viktor's wolves caught him emerging on the other side, tackling him before he could fully rematerialize. He fought viciously, stone covering his fists as he landed blows that would have shattered bones. But werewolves were hard to hurt, and three of them together were overwhelming. They pinned him, and Morgana quickly wove binding spells.
+
+"Two down," Viktor reported.
+
+"Third target is underground," I said, following my blood sense to a concealed trapdoor. "Everyone stay sharp—this could be where it gets complicated."
+
+The underground chamber was larger than expected—a ritual space carved from living rock, walls covered in runes that pulsed with corrupted earth magic. And at its center stood the third cultist.
+
+Except this one was different.
+
+He was older, his transformation more advanced. Stone and flesh had merged almost completely, leaving him looking like a living statue. His eyes glowed with the same sickly green light I'd seen in Zephyra, and when he spoke, his voice carried the grinding resonance of tectonic plates.
+
+"Blood Archon," he intoned. "The Priestess predicted you would come. She wanted me to deliver a message."
+
+"I'm listening," I said, ready for an attack.
+
+"She says: 'The hunt works both ways.'" He smiled, a terrible expression on his stone-like face. "While you've been searching for us, we've been searching for—"
+
+He never finished the sentence. Alarm exploded through my blood wards—not the ones here, but the ones at home. The wards protecting my house. Protecting Elena.
+
+"It's a distraction," I breathed, ice flooding my veins. "This entire site was bait to draw us away—"
+
+I didn't wait to hear more. I transported instantly, blood magic tearing through space as I crossed the miles back to Nocturne in a single desperate jump.
+
+I materialized in my home's main hall to find one of my guards down, unconscious but alive. The wards were holding, but barely—someone was hammering at them with corrupted earth magic, trying to force entry. And upstairs, I sensed Elena's terror through our blood connection.
+
+Rage like I'd never known erupted through me. They'd attacked my home. Threatened my daughter. Crossed every line that mattered.
+
+I ascended the stairs in a blur of motion, following the sounds of combat to Elena's room. Two cultists were there, working to breach her door while a third stood guard. They turned as I appeared, their stone-covered fists raised.
+
+I didn't give them a chance to attack.
+
+Blood magic exploded from me in a wave of pure fury—not the controlled, precise techniques Corvinus had taught me, but raw power channeled through absolute determination to protect what was mine. The cultists' corrupted blood answered my call, and I seized it, controlling their own life force against them.
+
+They collapsed, screaming, as I systematically shut down their bodies. Not killing them—I needed answers—but rendering them completely helpless.
+
+"Elena!" I called through the door. "It's Dad. You're safe now. Open the door."
+
+The wards parted, and Elena threw herself into my arms, crying with relief and residual fear. I held her tight, checking for injuries, reassuring myself that she was whole and unharmed.
+
+"I hit the panic button," she said through tears. "Just like you said. And I reinforced the wards, made them stronger. They couldn't get through."
+
+"You did perfectly," I told her, my heart still racing. "You were so brave, sweetpea. So smart."
+
+Raechelle arrived moments later, having transported as soon as she'd received my alert. She gathered both of us into a fierce embrace, her relief palpable through our bond.
+
+"The cultists at the farm?" I asked.
+
+"Secured. Viktor and Morgana have them." She pulled back to study Elena. "Are you hurt?"
+
+"I'm okay," Elena said, though she was still shaking. "Just scared."
+
+"Being scared is smart," Raechelle told her. "It means you understood the danger and reacted appropriately. But you're safe now. We're both here."
+
+We spent the next few minutes securing the house, checking on the guards (all alive, just knocked unconscious), and reinforcing the wards until they practically hummed with power. Only when I was absolutely certain the threat was eliminated did I allow myself to breathe.
+
+Five cultists captured total—two from the farmhouse, three from my home. One of them would talk. They always did, eventually.
+
+But as I held Elena, feeling her heartbeat gradually slow to normal, I understood something fundamental had changed.
+
+Zephyra had made this personal by threatening my daughter. Now I was going to make it permanent by destroying everything she'd built.
+
+The hunt had just become a war.
+
+---
+
+Three hours later, I stood in a secure interrogation chamber beneath the Council building. The five captured cultists were separated, each in their own warded cell, each being "encouraged" to cooperate by specialists who understood how to extract information from reluctant subjects.
+
+I focused on the leader—the stone-covered man from the underground chamber. He sat in his cell with disturbing calm, his transformed body barely fitting on the reinforced chair.
+
+"You came for my daughter," I said without preamble. "That was a mistake."
+
+"Was it?" His stone face cracked into something resembling a smile. "You're here now. Emotional. Angry. Exactly where the Priestess wanted you."
+
+"She wanted me to capture five of her cultists? Interesting strategy."
+
+"She wanted you to understand that nowhere is safe. That your power means nothing if you can't protect what matters. That we can reach you, reach your family, anytime we choose."
+
+"You failed," I pointed out. "Elena is safe. Your people are captured. You've accomplished nothing except proving my defenses work."
+
+"This time," the cultist agreed. "But there will be a next time. And another. And another. The Priestess has patience, Blood Archon. She's willing to spend cultists like currency, testing your defenses, learning your patterns, until she finds the weakness that lets her strike where it truly hurts."
+
+I leaned forward, letting my power flare enough that the temperature in the room dropped and frost formed on the cell bars. "Then let me make something clear. Every time you attack my family, I will hunt you. Every time you threaten Nocturne, I will find you. And eventually—maybe next week, maybe next month—I will find Zephyra herself. And when I do, I will end this permanently."
+
+"The Priestess looks forward to it," the cultist said. "She's been preparing her entire life for the moment she faces you in final combat. Everything else is just prelude. The real war hasn't even begun."
+
+I studied him, reading the truth in his corrupted blood. He believed what he was saying. They all did. Zephyra had inspired a level of loyalty that went beyond reason, beyond self-preservation.
+
+Which meant simple interrogation wouldn't break them quickly.
+
+But I had time. And Morgana had truth serums. And Viktor had... less conventional methods.
+
+"We'll talk again," I said, turning to leave. "After you've had time to reconsider your loyalty versus your survival."
+
+Behind me, the cultist laughed—a grinding, terrible sound. "There is no survival for us, Blood Archon. We're already dead. The corruption is consuming us day by day. We serve the Priestess because she gave us purpose in our final months. You can't threaten someone who's already dying."
+
+I paused at the door, that statement resonating with something Elena had sensed. They were all dying. Zephyra's corruption wasn't just power—it was a death sentence, extended enough to serve her purposes but ultimately fatal.
+
+Which meant every cultist was a suicide soldier, willing to spend their remaining time in service to her cause.
+
+Desperate enemies were the most dangerous kind.
+
+---
+
+I found Raechelle and Morgana in an adjacent chamber, reviewing information the other captured cultists had provided.
+
+"The stone-faced one won't break easily," I reported. "He's accepted his death. They all have."
+
+"The woman from the farmhouse is less committed," Morgana said. "Younger, newer to the corruption. I think with the right pressure, she might give us useful intelligence."
+
+"Then focus on her," I decided. "I need to know where Zephyra is operating from, how many cultists she has, what her endgame looks like. Get me something I can act on."
+
+"What about you?" Raechelle asked.
+
+"I'm going to spend time with Elena. Make sure she's actually okay, not just pretending to be brave." I rubbed my temples, feeling exhaustion creeping in. "And then I'm going to figure out how we end this before Zephyra tries again."
+
+Raechelle moved close, placing a hand on my chest. Through our bond, I felt her grounding presence, her steady calm balancing my churning emotions. "We'll figure it out together," she said. "You're not alone in this."
+
+"I know." I pulled her into a brief, tight embrace. "Thank you. For everything."
+
+"That's what bond-mates do," she said with a small smile. "Now go be with your daughter. I'll coordinate with Morgana and Viktor, make sure we extract every scrap of useful information from our prisoners."
+
+I returned home to find Elena in the kitchen, being fussed over by the recovered house guards and surrounded by protective wards that practically vibrated with power. She looked up when I entered, relief flooding her face.
+
+"Dad! Is it really over? Are they all captured?"
+
+"For tonight, yes." I sat beside her, accepting the hot chocolate one of the guards pressed into my hands. "How are you feeling? Really?"
+
+Elena considered the question seriously. "Scared," she admitted. "But also... proud? I did what you taught me. I stayed calm, activated the wards, hit the panic button. I didn't freeze."
+
+"You were perfect," I told her honestly. "Many adult mages would have panicked in that situation. You kept your head and protected yourself exactly as we'd trained. I couldn't be more proud."
+
+"Will they come again?" she asked quietly. "The bad people?"
+
+I wanted to lie, to reassure her with false promises. But Elena was a Blood Archon—she deserved truth, even when it was frightening.
+
+"Probably," I said. "Zephyra is determined, and she has resources. But now we know more about her tactics. We've captured some of her cultists. And most importantly, we've proven that our defenses work. You're safe here, Elena. I promise."
+
+She nodded slowly, accepting this. "When I'm older, I'm going to help you hunt people like her. Protect people the way you protect me."
+
+"When you're older," I agreed, "you'll be an amazing Blood Archon. But for now, you're ten. And it's okay to just be ten."
+
+We sat together in comfortable silence, drinking hot chocolate, both of us gradually releasing the tension of the evening. Outside, Nocturne slept—unaware of how close it had come to another tragedy, unaware of the five captured cultists now being interrogated beneath the Council building.
+
+But I was aware. And so was Zephyra.
+
+The hunt was fully engaged now—both sides searching, probing, testing. She'd tried to hurt me through Elena and failed. Now it was my turn to strike back.
+
+And I would make certain she regretted ever speaking my daughter's name.
+
+Tomorrow would bring new intelligence, new leads, new strategies. But tonight, I held my daughter close and was grateful she was safe.
+
+The war had begun in earnest. But so had our response.
+
+And I intended to win.
+
+---
+
+*End of Chapter 28*
+
+
+---
+
 ## Epilogue
 
 Ten years later, Elena stood in the Academy's main hall, preparing for her first formal lesson in advanced blood magic. At fifteen, she was already surpassing many adult mages, her power controlled and precise in ways that had taken me years to achieve.
