@@ -18,10 +18,19 @@ def write_file(filename, content):
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(content)
 
-def renumber_chapters(content, start_line_num, increment):
-    """Renumber chapters starting from start_line_num by adding increment"""
+def renumber_chapters(content, start_line_num, increment, skip_first_instance=False):
+    """Renumber chapters starting from start_line_num by adding increment
+    
+    Args:
+        content: The file content
+        start_line_num: Chapter number to start renumbering from
+        increment: Amount to add to chapter numbers
+        skip_first_instance: If True, skip the first instance of start_line_num (both header and end marker)
+    """
     lines = content.split('\n')
     modified = False
+    seen_start_num_header = False
+    seen_start_num_end = False
     
     for i in range(len(lines)):
         # Match chapter headings like "# **Chapter 15**"
@@ -29,6 +38,11 @@ def renumber_chapters(content, start_line_num, increment):
         if match:
             old_num = int(match.group(1))
             if old_num >= start_line_num:
+                # If skip_first_instance and this is the first time we see start_line_num, skip it
+                if skip_first_instance and old_num == start_line_num and not seen_start_num_header:
+                    seen_start_num_header = True
+                    continue
+                    
                 new_num = old_num + increment
                 lines[i] = f'# **Chapter {new_num}**'
                 modified = True
@@ -39,6 +53,11 @@ def renumber_chapters(content, start_line_num, increment):
         if match:
             old_num = int(match.group(1))
             if old_num >= start_line_num:
+                # If skip_first_instance and this is the first time we see start_line_num end marker, skip it
+                if skip_first_instance and old_num == start_line_num and not seen_start_num_end:
+                    seen_start_num_end = True
+                    continue
+                    
                 new_num = old_num + increment
                 lines[i] = f'*End of Chapter {new_num}*'
                 modified = True
@@ -106,30 +125,29 @@ def main():
     print("Step 1: Insert NEW Chapter 4 after old Chapter 3")
     print("=" * 60)
     content = insert_chapter_after(content, 3, 'NEW_CHAPTER_4_FAMILIAR_BOND.md', 4)
-    print("Renumbering old chapters 4+ to 5+...")
-    content = renumber_chapters(content, 4, 1)
+    print("Renumbering old chapters 4+ to 5+ (skip the new Ch 4)...")
+    content = renumber_chapters(content, 4, 1, skip_first_instance=True)
     
     print("\n" + "=" * 60)
     print("Step 2: Insert NEW Chapter 7 after new Chapter 6 (old 5)")
     print("=" * 60)
     content = insert_chapter_after(content, 6, 'NEW_CHAPTER_7_TRAINING_IN_SHADOWS.md', 7)
     print("Renumbering chapters 7+ to 8+ (but skip the new Ch 7)...")
-    # Need to renumber old 6+ (now 7+ after first insertion) to 8+
-    content = renumber_chapters(content, 8, 1)  # Start from 8 to skip new Ch 7
+    content = renumber_chapters(content, 7, 1, skip_first_instance=True)
     
     print("\n" + "=" * 60)
     print("Step 3: Insert NEW Chapter 11 after new Chapter 10 (old 8)")
     print("=" * 60)
     content = insert_chapter_after(content, 10, 'NEW_CHAPTER_11_GATEWAY_CITY.md', 11)
     print("Renumbering chapters 11+ to 12+ (but skip the new Ch 11)...")
-    content = renumber_chapters(content, 12, 1)  # Start from 12 to skip new Ch 11
+    content = renumber_chapters(content, 11, 1, skip_first_instance=True)
     
     print("\n" + "=" * 60)
     print("Step 4: Insert NEW Chapter 15 after new Chapter 14 (old 11)")
     print("=" * 60)
     content = insert_chapter_after(content, 14, 'NEW_CHAPTER_15_ACADEMY_TRIALS.md', 15)
     print("Renumbering chapters 15+ to 16+ (but skip the new Ch 15)...")
-    content = renumber_chapters(content, 16, 1)  # Start from 16 to skip new Ch 15
+    content = renumber_chapters(content, 15, 1, skip_first_instance=True)
     
     # Write the integrated content
     print(f"\n5. Writing integrated content to {original_file}...")
