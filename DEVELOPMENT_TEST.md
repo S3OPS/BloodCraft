@@ -44,6 +44,7 @@ BloodCraft/
 │   ├── DEVELOPMENT.md            [NEW] - Paradox-specific guide
 │   ├── Blood-Craft-Paradox.md    [EXISTING] - Full novel
 │   ├── Chapter-Summary-and-Timeline.md
+│   ├── Book1.md, Book2.md, Book3.md  [NEW] - Structural outlines
 │   ├── Completion-Summary.md
 │   └── README.md
 │

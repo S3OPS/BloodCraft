@@ -123,6 +123,9 @@ BloodCraft/
 │   ├── README.md            # Paradox version overview
 │   ├── Blood-Craft-Paradox.md            # Full novel (Chapters 1-30)
 │   ├── Chapter-Summary-and-Timeline.md   # Detailed chapter outlines
+│   ├── Book1.md             # Structural outline for Chapters 1-16 (The Deception)
+│   ├── Book2.md             # Structural outline for Chapters 17-25 (The Cracks)
+│   ├── Book3.md             # Structural outline for Chapters 26-30 (The Truth & Redemption)
 │   ├── Completion-Summary.md             # Implementation notes
 │   └── DEVELOPMENT.md       # Version-specific development notes
 │
@@ -330,6 +333,7 @@ Both versions are complete first books. Future development will focus on:
 ## 📚 Resources
 
 ### Reference Documents
+- `Book1.md, Book2.md, Book3.md` (in each version folder) - Structural outlines by book arc
 - `Chapter-Summary-and-Timeline.md` (in each version folder) - Chapter-by-chapter breakdown
 - `WORKFLOW.md` - Parallel development workflow and examples
 - `docs/Comparison-Guide.md` - Side-by-side version comparison

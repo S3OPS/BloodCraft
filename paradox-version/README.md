@@ -17,6 +17,9 @@ This directory contains the **Paradox Timeline** - an alternate storyline featur
 ### What You'll Find Here
 
 - **Blood-Craft-Paradox.md** - The complete 30-chapter novel (fully written, ~593KB)
+- **Book1.md** - Chapters 1-16: The Deception (Structural outline)
+- **Book2.md** - Chapters 17-25: The Cracks (Structural outline)
+- **Book3.md** - Chapters 26-30: The Truth & Redemption (Structural outline)
 - **Chapter-Summary-and-Timeline.md** - Detailed chapter breakdown and analysis
 - **Completion-Summary.md** - Technical summary of the writing process and implementation
 
@@ -120,9 +123,29 @@ For a detailed comparison of both versions:
 4. Let the twist reveal naturally around Chapters 21-27
 
 ### Returning Readers
-1. **Chapter-Summary-and-Timeline.md** - Detailed analysis of each chapter
-2. **Completion-Summary.md** - Behind-the-scenes implementation notes
-3. **Blood-Craft-Paradox.md** - Re-read with knowledge of the twist
+1. **Book1.md, Book2.md, Book3.md** - Structural outlines with hidden truth layers
+2. **Chapter-Summary-and-Timeline.md** - Detailed analysis of each chapter
+3. **Completion-Summary.md** - Behind-the-scenes implementation notes
+4. **Blood-Craft-Paradox.md** - Re-read with knowledge of the twist
+
+### Understanding the Structure
+
+The paradox version is organized into three books:
+
+1. **Book1.md** (Chapters 1-16: The Deception)
+   - The surface story of Riven's awakening
+   - Subtle foreshadowing and hidden truths
+   - Building the foundation for the revelation
+   
+2. **Book2.md** (Chapters 17-25: The Cracks)
+   - Reality beginning to fracture
+   - Blackouts and memory bleed-through
+   - The facade crumbling
+   
+3. **Book3.md** (Chapters 26-30: The Truth & Redemption)
+   - The full twist revealed
+   - Identity crisis and choice
+   - Redemption through conscious decision
 
 ---
 

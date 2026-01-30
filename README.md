@@ -27,13 +27,18 @@ BloodCraft/
 │   ├── Book2.md                 # Structural outline: Chapters 17-20
 │   ├── Book3.md                 # Structural outline: Chapters 21-30
 │   ├── Blood-Craft-Canonical.md # COMPLETE 30-chapter novel (~525KB)
-│   └── Chapter-Summary-and-Timeline.md
+│   ├── Chapter-Summary-and-Timeline.md
+│   └── DEVELOPMENT.md
 │
 ├── paradox-version/             # Alternate storyline with twist
 │   ├── README.md                # Overview of paradox version
+│   ├── Book1.md                 # Structural outline: Chapters 1-16 (The Deception)
+│   ├── Book2.md                 # Structural outline: Chapters 17-25 (The Cracks)
+│   ├── Book3.md                 # Structural outline: Chapters 26-30 (The Truth & Redemption)
 │   ├── Blood-Craft-Paradox.md   # COMPLETE 30-chapter novel (~581KB)
 │   ├── Chapter-Summary-and-Timeline.md
-│   └── Completion-Summary.md
+│   ├── Completion-Summary.md
+│   └── DEVELOPMENT.md
 │
 └── docs/                        # Supporting documentation
     ├── README.md                # Documentation overview
