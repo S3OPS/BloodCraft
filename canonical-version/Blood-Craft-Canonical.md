@@ -3359,13 +3359,7 @@ Tomorrow, the real work would begin.
 
 But tonight, we had earned our rest.
 
-# Blood Craft: Chapters 10-12
-
-**Book One of the Blood Craft Series**
-
----
-
-## Chapter 10: The First Week
+## Chapter 10
 
 The morning light in Nocturne was unlike anything the human world could offer—not the harsh brightness of the sun, but a soft, diffused glow that filtered through the perpetual twilight sky like honey through gauze. I woke slowly, awareness returning in gentle waves rather than the jarring snap I was accustomed to.
 
