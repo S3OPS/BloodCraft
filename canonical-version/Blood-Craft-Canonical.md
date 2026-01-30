@@ -5018,7 +5018,7 @@ Then the screaming started.
 
 The attack came from the gardens adjacent to the ballroom. One moment, couples were dancing and conversations were flowing. The next, the crystal walls exploded inward in a shower of deadly shards.
 
-Dark figures poured through the breach—supernatural beings twisted by corrupted magic, their forms warped and wrong. Earth elementals given monstrous shape, moving with inhuman speed and strength.
+Dark figures poured through the breach—corrupted earth elementals, supernatural constructs created from living stone and soil, animated through magic but twisted by dark enchantments into mindless weapons. Their forms were massive and terrifying: humanoid shapes of compacted earth and stone standing eight feet tall, their movements causing tremors with each step, their strength capable of crushing stone pillars. They moved with inhuman speed and precision, targeting Council members specifically.
 
 "Protect the Council!" someone shouted.
 
