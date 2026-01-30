@@ -4809,7 +4809,7 @@ But I was learning the rules. And soon, I'd be strong enough to make my own.
 
 ---
 
-*End of Chapter 14*
+*End of Chapter 10*
 
 
 ---
@@ -5178,7 +5178,7 @@ For now.
 
 ---
 
-*End of Chapter 15*
+*End of Chapter 11*
 
 
 ---
@@ -5411,7 +5411,7 @@ Now it was time to show everyone what I chose to be.
 
 ---
 
-*End of Chapter 16*
+*End of Chapter 12*
 
 
 ---
@@ -5776,7 +5776,7 @@ Now it was time to show him that prey could bite back.
 
 ---
 
-*End of Chapter 17*
+*End of Chapter 13*
 
 
 ---
@@ -6035,7 +6035,7 @@ And that was enough.
 
 ---
 
-*End of Chapter 18*
+*End of Chapter 14*
 
 
 ---
@@ -6376,7 +6376,7 @@ But at least we weren't standing alone.
 
 ---
 
-*End of Chapter 19*
+*End of Chapter 15*
 
 
 ---
@@ -6707,7 +6707,7 @@ Now we just had to prepare for the tempest to come.
 
 ---
 
-*End of Chapter 20*
+*End of Chapter 16*
 
 
 ---
@@ -6929,10 +6929,6 @@ I kissed her then, pouring all my fear and hope and love into that connection. T
 
 "Always, my Blood Archon," she breathed. "Always."
 
----
-
-*End of Chapter 21*
-
 
 The following days were a blur of intensive training. Master Corvinus pushed me harder than I'd ever been pushed, drilling me in advanced combat techniques that required split-second timing and absolute control.
 
@@ -7000,7 +6996,7 @@ Corvinus nodded approvingly. "Then let's continue. We have much work ahead of us
 
 ---
 
-*End of Chapter 21*
+*End of Chapter 17*
 
 ---
 
@@ -7228,7 +7224,7 @@ The war had truly begun. And I was done playing defense.
 
 ---
 
-*End of Chapter 22*
+*End of Chapter 18*
 
 ---
 
@@ -7320,7 +7316,7 @@ The war was about to change. No more defending. Only attacking.
 
 ---
 
-*End of Chapter 23*
+*End of Chapter 19*
 
 
 ---
@@ -7379,7 +7375,7 @@ It had better be worth it.
 
 ---
 
-*End of Chapter 24*
+*End of Chapter 20*
 
 
 ---
@@ -7536,7 +7532,7 @@ I intended to make sure it wasn't me.
 
 ---
 
-*End of Chapter 25*
+*End of Chapter 21*
 
 
 ---
@@ -7721,7 +7717,7 @@ And I intended to make the most of it.
 
 ---
 
-*End of Chapter 26*
+*End of Chapter 22*
 
 
 ---
@@ -7798,7 +7794,7 @@ Her smile was brilliant. "I think that can be arranged."
 
 ---
 
-*End of Chapter 27*
+*End of Chapter 23*
 
 
 ---
@@ -7867,7 +7863,7 @@ I pulled her into my arms, kissing her with all the love I felt. "Happy doesn't 
 
 ---
 
-*End of Chapter 28*
+*End of Chapter 24*
 
 
 ---
@@ -7926,7 +7922,7 @@ Whatever challenges came—political, magical, or otherwise—we would face them
 
 ---
 
-*End of Chapter 29*
+*End of Chapter 25*
 
 
 ---
