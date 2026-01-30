@@ -4,24 +4,35 @@
 
 ---
 
+## 📢 Important Update - January 2026
+
+**The Paradox Version has moved!** 
+
+The Paradox Version of Blood Craft is now maintained in a separate repository for clarity and independent development:
+
+👉 **[Blood Craft: Paradox Version](https://github.com/S3OPS/BloodCraftParadox)**
+
+This repository now focuses exclusively on the **Canonical Version** of Blood Craft. See [`paradox-version/MOVED.md`](paradox-version/MOVED.md) for details about the migration.
+
+---
+
 ## 📚 What is Blood Craft?
 
 Blood Craft is a supernatural fantasy novel that follows Riven Sixxx, a 23-year-old college student whose life is forever changed when his parents die in a mysterious accident, awakening his dormant powers as a Blood Archon.
 
-This repository contains **two versions** of the same story, each offering a unique creative direction:
+This repository contains the **Canonical Version** - a traditional hero's journey following Riven's supernatural awakening and his journey to master his powers while navigating romance, politics, and ancient threats.
 
-1. **Canonical Version** - Traditional hero's journey (fully written, 32 chapters)
-2. **Paradox Version** - Psychological thriller with major twist (fully written, 30 chapters)
+**Status**: ✅ Complete (32 chapters, ~88,000 words)
 
 ---
 
-## 📖 Repository Structure
+## 📖 Repository Contents
 
 ```
 BloodCraft/
 ├── README.md (you are here)
 │
-├── canonical-version/           # Original storyline
+├── canonical-version/           # Canonical storyline (active)
 │   ├── README.md                # Overview of canonical version
 │   ├── Book1.md                 # Structural outline: Chapters 1-16
 │   ├── Book2.md                 # Structural outline: Chapters 17-20
@@ -30,42 +41,28 @@ BloodCraft/
 │   ├── Chapter-Summary-and-Timeline.md
 │   └── DEVELOPMENT.md
 │
-├── paradox-version/             # Alternate storyline with twist
-│   ├── README.md                # Overview of paradox version
-│   ├── Book1.md                 # Structural outline: Chapters 1-16 (The Deception)
-│   ├── Book2.md                 # Structural outline: Chapters 17-25 (The Cracks)
-│   ├── Book3.md                 # Structural outline: Chapters 26-30 (The Truth & Redemption)
-│   ├── Blood-Craft-Paradox.md   # COMPLETE 30-chapter novel (~581KB)
-│   ├── Chapter-Summary-and-Timeline.md
-│   ├── Completion-Summary.md
-│   └── DEVELOPMENT.md
+├── paradox-version/             # ARCHIVED - See MOVED.md
+│   └── MOVED.md                 # Migration notice and new location
 │
 └── docs/                        # Supporting documentation
-    ├── README.md                # Documentation overview
-    ├── Comparison-Guide.md      # Side-by-side version comparison
-    └── Blood-Craft.docx         # Archived Word document
+    └── README.md                # Documentation overview
 ```
 
 ---
 
 ## 🚀 Quick Start
 
-### 🎯 Not Sure Which Version to Read?
-**Start here**: [`docs/Comparison-Guide.md`](docs/Comparison-Guide.md)
+### 📖 Want to Read the Story?
 
-This guide explains both versions and helps you choose based on your preferences.
+**Start here**: [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
 
-### 📖 Want to Read the Complete Story?
+The complete 32-chapter novel follows Riven's supernatural awakening and journey to master his powers.
 
-**Both versions are fully written!**
+### 🔀 Looking for the Paradox Version?
 
-**Paradox Version** (with major psychological twist):  
-[`paradox-version/Blood-Craft-Paradox.md`](paradox-version/Blood-Craft-Paradox.md)
+The Paradox Version (psychological thriller with major twist) has moved to its own repository:
 
-**Canonical Version** (traditional hero's journey):  
-[`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
-
-Both versions are complete novels: Paradox Version has 30 chapters (~97,000 words), and Canonical Version has 32 chapters (~88,000 words).
+👉 **[BloodCraftParadox Repository](https://github.com/S3OPS/BloodCraftParadox)**
 
 ### 📋 Want Chapter Outlines and Summaries?
 **Go here**: 
