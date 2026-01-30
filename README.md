@@ -65,7 +65,7 @@ This guide explains both versions and helps you choose based on your preferences
 **Canonical Version** (traditional hero's journey):  
 [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
 
-Both versions are complete 30-chapter novels (~97,000 and ~88,000 words respectively).
+Both versions are complete novels: Paradox Version has 30 chapters (~97,000 words), and Canonical Version has 32 chapters (~88,000 words).
 
 ### 📋 Want Chapter Outlines and Summaries?
 **Go here**: 
