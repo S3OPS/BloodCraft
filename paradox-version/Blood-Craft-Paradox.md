@@ -2380,6 +2380,11 @@ relationship had deepened in ways I hadn't anticipated. The Dom/sub dynamic rema
 responded to my commands with eager obedience—but there was a tenderness beneath it now, a genuine affection that
 transcended the formal bonds between mage and familiar.
 
+I covered her hand with mine, tracing the fine bones beneath her skin. She leaned into my shoulder, the purr in her
+chest a quiet admission. "You're getting stronger," she said softly, "but power doesn't matter if I lose you again."
+
+"We don't repeat old losses," I answered, the vow landing heavier than it should. "We face Nocturne together."
+
 "We need to talk about Nocturne," she said, her tail curling around my waist. "The full moon is in four days. After the
 bonding ritual, I think we should leave immediately for the city."
 
@@ -2425,6 +2430,10 @@ Raechelle's eyes grew distant, memories playing across her features. "Nocturne i
 It exists in a pocket dimension, accessible only through specific portals scattered throughout Austin. The city is
 ancient—far older than the Texas capital that houses its gateways—and it has developed its own culture, its own economy,
 its own way of life."
+
+Her gaze unfocused, as if she were walking its alleys in her mind. "The gates are carved with wards that hum when you
+touch them, and the Council's sigil hangs over every threshold like a verdict. The air tastes of iron and incense, and
+the markets never sleep. The Crimson Door is the easiest entrance, but it only opens after sundown."
 
 She gestured as she spoke, painting pictures in the air with her clawed hands. "The architecture is a blend of every era
 and style—Gothic spires next to Art Deco towers, medieval fortresses alongside sleek modern buildings. Time moves
