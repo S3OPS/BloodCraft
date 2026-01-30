@@ -3359,7 +3359,7 @@ Tomorrow, the real work would begin.
 
 But tonight, we had earned our rest.
 
-## Chapter 10
+# **Chapter 10**
 
 The morning light in Nocturne was unlike anything the human world could offer—not the harsh brightness of the sun, but a soft, diffused glow that filtered through the perpetual twilight sky like honey through gauze. I woke slowly, awareness returning in gentle waves rather than the jarring snap I was accustomed to.
 
@@ -3657,7 +3657,7 @@ Her purr resonated through us both as she pressed herself against me.
 
 ---
 
-## Chapter 11: The Academy
+# **Chapter 11**
 
 The Academy of Magical Arts loomed before us, its crystalline spires catching the perpetual twilight in ways that made them seem to glow from within. Students moved across the central courtyard in robes of various colors—each hue, Raechelle had explained, denoting their primary area of study. Blue for elemental manipulation. Green for nature magic. Purple for mind arts. And crimson, rarest of all, for blood magic.
 
@@ -3897,7 +3897,7 @@ But for now, I had a home to return to, a familiar who loved me, and the growing
 
 ---
 
-## Chapter 12: Shadows and Schemes
+# **Chapter 12**
 
 The body was discovered three days after my enrollment at the Academy.
 
@@ -4121,14 +4121,8 @@ But I was learning to walk among them.
 
 ---
 
-*End of Chapters 10-12*
-# Blood Craft: Chapter 13
 
-**Book One of the Blood Craft Series**
-
----
-
-## Chapter 13: The Sanctioned Duel
+# **Chapter 13**
 
 The challenge arrived three days before the full moon in the traditional manner of werewolf dueling culture—a sealed scroll delivered by a neutral pack representative, accompanied by a Council observer to ensure legitimacy and proper protocol. The courier was a young werewolf I didn't recognize, his expression studiously neutral as he waited on our doorstep. Behind him stood Councilor Marcus, the ancient werewolf law-speaker, his presence lending official weight to the proceedings.
 
