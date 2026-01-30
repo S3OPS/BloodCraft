@@ -10,7 +10,7 @@ Blood Craft is a supernatural fantasy novel that follows Riven Sixxx, a 23-year-
 
 This repository contains **two versions** of the same story, each offering a unique creative direction:
 
-1. **Canonical Version** - Traditional hero's journey (fully written, 30 chapters)
+1. **Canonical Version** - Traditional hero's journey (fully written, 32 chapters)
 2. **Paradox Version** - Psychological thriller with major twist (fully written, 30 chapters)
 
 ---
@@ -26,7 +26,7 @@ BloodCraft/
 │   ├── Book1.md                 # Structural outline: Chapters 1-16
 │   ├── Book2.md                 # Structural outline: Chapters 17-20
 │   ├── Book3.md                 # Structural outline: Chapters 21-30
-│   ├── Blood-Craft-Canonical.md # COMPLETE 30-chapter novel (~525KB)
+│   ├── Blood-Craft-Canonical.md # COMPLETE 32-chapter novel (~525KB)
 │   ├── Chapter-Summary-and-Timeline.md
 │   └── DEVELOPMENT.md
 │
@@ -65,7 +65,7 @@ This guide explains both versions and helps you choose based on your preferences
 **Canonical Version** (traditional hero's journey):  
 [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
 
-Both versions are complete 30-chapter novels (~97,000 and ~88,000 words respectively).
+Both versions are complete novels: Paradox Version has 30 chapters (~97,000 words), and Canonical Version has 32 chapters (~88,000 words).
 
 ### 📋 Want Chapter Outlines and Summaries?
 **Go here**: 
@@ -97,7 +97,7 @@ Read this if you want:
 **Location**: [`canonical-version/`](canonical-version/)
 
 Read this if you want:
-- ✅ Complete, fully-written 30-chapter novel (~88,000 words)
+- ✅ Complete, fully-written 32-chapter novel (~88,000 words)
 - ✅ Traditional hero's journey structure
 - ✅ Clear heroes and villains
 - ✅ Romantic supernatural fantasy
@@ -113,7 +113,7 @@ Read this if you want:
 ### [`canonical-version/`](canonical-version/)
 Contains the original/traditional storyline where Riven is simply a Blood Archon heir fighting against Terravos, the villain who killed his parents.
 
-- **Status**: Fully written 30-chapter novel (~525KB, ~88,000 words)
+- **Status**: Fully written 32-chapter novel (~525KB, ~88,000 words)
 - **Best for**: Readers who prefer traditional fantasy structure
 
 ### [`paradox-version/`](paradox-version/)  
@@ -141,7 +141,7 @@ Supporting documentation, comparison guides, and archived files.
 
 ### What's Currently Written?
 - ✅ **Paradox Version**: Fully written (30 chapters, ~97,000 words)
-- ✅ **Canonical Version**: Fully written (30 chapters, ~88,000 words)
+- ✅ **Canonical Version**: Fully written (32 chapters, ~88,000 words)
 
 **Both versions are complete!** Choose based on your reading preferences.
 
