@@ -1,0 +1,43 @@
+# Development artifacts
+*.tmp
+*.bak
+*.backup
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Draft files
+drafts/
+scratch/
+notes.txt
+TODO.txt
+
+# Build artifacts (if any)
+build/
+dist/
+out/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary markdown files
+*.md.tmp
+temp-*.md
+
+# Personal notes (use these for local work)
+PERSONAL_NOTES.md
+MY_NOTES.md
