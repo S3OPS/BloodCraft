@@ -3689,6 +3689,8 @@ I understood. This was my introduction to supernatural academia, my first step t
 
 The interior of the central tower was a labyrinth of floating staircases and corridors that seemed to shift when you weren't looking directly at them. Fortunately, illuminated guides—small floating orbs of light—appeared to direct visitors to their destinations. Mine led me upward, through passages lined with portraits of famous graduates and historical artifacts, until I reached a door marked "Chancellor's Office."
 
+I quickly learned the corridors actually did shift—the Academy's architecture designed to test students' navigation skills and magical awareness. Turn your back, and the hallway you just walked down might have relocated itself entirely. The floating orbs helped, but I suspected students were expected to learn the building's patterns through experience and, no doubt, occasional frustration.
+
 Master Corvinus's academic quarters were considerably warmer than his registration office—rich woods, comfortable seating, walls of books that practically thrummed with accumulated knowledge. The ancient vampire looked up from his desk as I entered, his silver eyes assessing me with renewed interest.
 
 "Lord Sixxx. Punctual. An excellent trait." He gestured to a chair before his desk. "Please, sit. We have much to discuss."
@@ -3727,9 +3729,17 @@ Corvinus's expression had shifted from professional interest to something closer
 
 The comparison sent a complex rush of emotions through me—pride, grief, and a sudden crushing weight of expectation.
 
+He leaned back in his chair, steepling his fingers as he studied me. "The evaluation measures not just raw power, but control, creativity, theoretical understanding, and capacity for rapid learning. You scored exceptionally high on potential and learning capacity, but..." He tapped the crystal thoughtfully. "Your control is undeveloped, your theoretical foundation shaky. It's like possessing a high-performance engine without proper understanding of gears, brakes, or steering."
+
 "What does this mean for my placement?"
 
-"It means I cannot put you in regular classes. You would either bore yourself into madness or accidentally injure your fellow students." Corvinus rose from his desk and moved to a window overlooking the courtyard below. "I will instruct you personally in advanced blood magic techniques. Additionally, you will attend Master Thalia's class on Supernatural Politics and History—the knowledge there is essential for someone of your position—and Master Blackwood's class on Defensive Warding and Combat Magic."
+"It means you present unique challenges that our standard curriculum cannot adequately address." Corvinus rose from his desk and moved to a window overlooking the courtyard below. "You would either bore yourself into madness in basic classes, or accidentally injure your fellow students in advanced ones. Neither outcome is acceptable."
+
+He turned back to face me. "I've conferred mentally with senior faculty while you held the crystal. We've devised a hybrid approach: I will instruct you personally in the most dangerous and advanced blood magic techniques—work that requires controlled environment and experienced supervision. You will also attend carefully selected group classes for broader supernatural education." 
+
+"Personal instruction from the Chancellor himself?"
+
+"Consider it both an honor and a burden." His expression grew grave. "You will attend Master Thalia's class on Supernatural Politics and History—the knowledge there is essential for someone of your position—and Master Blackwood's class on Defensive Warding and Combat Magic. Both instructors have been briefed on your... unique situation."
 
 "Personal instruction from the Chancellor himself?"
 
@@ -3787,7 +3797,7 @@ The implication was clear: Terravos's attack on my family was precisely this kin
 
 As class ended and students began filing out, I noticed several of them giving me evaluating looks. Some seemed curious, others hostile, and a few wore expressions of calculation that suggested they were already considering how my presence might benefit or threaten them.
 
-One figure in particular caught my attention—a young woman with skin like polished mahogany and hair that seemed to absorb light rather than reflect it. She was watching me with undisguised interest, and when our eyes met, she smiled slightly before turning away and vanishing into the crowd.
+One figure in particular caught my attention—a young woman with skin like polished mahogany and hair that seemed to absorb light rather than reflect it. She was watching me with undisguised interest, and when our eyes met, she smiled slightly—a calculated expression that seemed to assess and weigh simultaneously—before turning away and vanishing into the crowd.
 
 "Who was that?" I asked Raechelle when I found her waiting in the courtyard.
 
@@ -3795,11 +3805,15 @@ One figure in particular caught my attention—a young woman with skin like poli
 
 "A young woman. Dark skin, unusual hair. She was watching me during class."
 
-Raechelle's expression flickered with recognition. "Lysandra Blackwood. Heir to one of the oldest witch families in Nocturne. Her grandmother sits on the Council."
+Raechelle's expression flickered with recognition. "Lysandra Blackwood. Heir to one of the oldest witch families in Nocturne. Master Blackwood's niece—though they're generations apart in actual age. Her grandmother sits on the Council."
 
 "Friend or foe?"
 
-"Unknown. The Blackwood family has historically maintained neutral relations with Blood Archons—neither allied nor opposed." She took my arm as we began walking. "But Lysandra herself is ambitious. She'll be weighing your potential value as an ally against the risks of associating with someone Terravos wants dead."
+"Unknown. The Blackwood family has historically maintained neutral relations with Blood Archons—neither allied nor opposed." She took my arm as we began walking. "But Lysandra herself is ambitious. Very ambitious. She'll be weighing your potential value as an ally against the risks of associating with someone Terravos wants dead."
+
+I thought back to that calculated smile, the way she'd studied me. "She seemed... interested."
+
+"Oh, she's interested." Raechelle's tone carried a note of warning. "The question is whether that interest is genuine attraction to your power and potential, political calculation about advantages of connection to a Blood Archon heir, authentic personal interest that transcends strategic considerations, or most likely—all three operating simultaneously."
 
 "Another person I need to be careful around."
 
@@ -3807,15 +3821,15 @@ Raechelle's expression flickered with recognition. "Lysandra Blackwood. Heir to 
 
 ---
 
-My second class of the day was Defensive Warding and Combat Magic, taught in an entirely different part of the Academy—a wing designed specifically to contain the kind of energies that combat training released.
+My second class of the day was Defensive Warding and Combat Magic, taught in an entirely different part of the Academy—a wing designed specifically to contain the kind of energies that combat training released. The corridors leading there had shifted again; I made mental notes about architectural patterns, suspecting the constant reconfigurations were partly security measure, partly educational tool.
 
-The classroom was actually an arena: a circular space bounded by shimmering shields that would contain any magical discharge. Students lined the perimeter, leaving the central area clear for demonstrations and practice.
+The classroom was actually an arena: a circular space bounded by shimmering shields that would contain any magical discharge. Students lined the perimeter, leaving the central area clear for demonstrations and practice. I noticed scorch marks on the floor and walls—evidence that the containment shields weren't always entirely successful.
 
 Master Blackwood was not what I expected.
 
-She was younger than Master Thalia—appearing perhaps thirty, with sharp features and hair cropped close to her scalp. Her robes were practical rather than ceremonial, and she moved with the fluid economy of someone accustomed to violence. A faint network of scars traced patterns across her exposed forearms, each one clearly a testament to battles survived.
+She was younger than Master Thalia—appearing perhaps thirty, with sharp features and hair cropped close to her scalp. Her robes were practical rather than ceremonial, and she moved with the fluid economy of someone accustomed to violence. A faint network of scars traced patterns across her exposed forearms, each one clearly a testament to battles survived. More scars crossed her neck and disappeared beneath her collar—a combat veteran who'd survived conflicts that should have killed her.
 
-"Lord Sixxx," she greeted as I entered, her voice carrying a edge that suggested she didn't care about my title. "I've heard impressive things about your evaluation results. Let's see if they translate into actual combat capability."
+"Lord Sixxx," she greeted as I entered, her voice carrying an edge that suggested she didn't care about my title. "I've heard impressive things about your evaluation results. Let's see if they translate into actual combat capability."
 
 Without warning, she raised her hand and released a bolt of concentrated energy directly at my face.
 
@@ -3825,7 +3839,13 @@ I threw up my hands, and blood magic responded—a shield of crimson energy that
 
 "Acceptable reflexes," Master Blackwood said, lowering her hand. "Your shield construction is crude but effective. We'll work on refinement." She turned to address the class at large. "What Lord Sixxx just demonstrated is the fundamental principle of combat magic: act first, think second. In a real fight, hesitation is death."
 
-I was still processing the fact that my new instructor had just tried to fry my face when she continued.
+I was still processing the fact that my new instructor had just tried to fry my face when she continued, pacing the arena with predatory grace.
+
+"My teaching philosophy is simple: training must hurt. It must push you past your comfort zones. It must simulate real combat conditions as closely as safety permits." Her scarred hands gestured sharply. "Because gentle instruction produces gentle students, and gentle students die when actual danger manifests. Anyone uncomfortable with that reality should leave now."
+
+No one moved.
+
+"Good. Then let's begin."
 
 "Combat magic is not about power—though power helps. It's about speed, precision, and adaptability. The mage who can react fastest, target most accurately, and adjust to changing circumstances will win, regardless of raw magical strength." She paced the arena's perimeter, her gaze sweeping across the assembled students. "Today, we begin with defensive fundamentals. Shields, wards, and evasion. Tomorrow, we discuss offensive applications. By the end of the month, you will all be capable of surviving—note I said surviving, not winning—a magical duel."
 
