@@ -4440,12 +4440,12 @@ But my story—our story—was just beginning.
 
 ---
 
-*End of Chapter 13*
+*End of Chapter 9*
 
 
 ---
 
-# **Chapter 14**
+# **Chapter 10**
 
 ## Allies and Enemies
 
@@ -4814,7 +4814,7 @@ But I was learning the rules. And soon, I'd be strong enough to make my own.
 
 ---
 
-# **Chapter 15**
+# **Chapter 11**
 
 ## The Crimson Ball
 
@@ -5183,7 +5183,7 @@ For now.
 
 ---
 
-# **Chapter 16**
+# **Chapter 12**
 
 ## Bloodlines
 
@@ -5416,7 +5416,7 @@ Now it was time to show everyone what I chose to be.
 
 ---
 
-# **Chapter 17**
+# **Chapter 13**
 
 ## The Hunt Begins
 
@@ -5781,7 +5781,7 @@ Now it was time to show him that prey could bite back.
 
 ---
 
-# **Chapter 18**
+# **Chapter 14**
 
 ## Recovery and Resolve
 
@@ -6040,7 +6040,7 @@ And that was enough.
 
 ---
 
-# **Chapter 19**
+# **Chapter 15**
 
 ## Into Enemy Territory
 
@@ -6381,7 +6381,7 @@ But at least we weren't standing alone.
 
 ---
 
-# **Chapter 20**
+# **Chapter 16**
 
 ## The Gathering Storm
 
@@ -6715,7 +6715,7 @@ Now we just had to prepare for the tempest to come.
 
 ---
 
-# **Chapter 21**
+# **Chapter 17**
 
 ## Bloodlines
 
@@ -7004,7 +7004,7 @@ Corvinus nodded approvingly. "Then let's continue. We have much work ahead of us
 
 ---
 
-# **Chapter 22**
+# **Chapter 18**
 
 ## Blood and Stone
 
@@ -7232,7 +7232,7 @@ The war had truly begun. And I was done playing defense.
 
 ---
 
-# **Chapter 23**
+# **Chapter 19**
 
 ## Recovery and Resolve
 
@@ -7325,7 +7325,7 @@ The war was about to change. No more defending. Only attacking.
 
 ---
 
-# **Chapter 24**
+# **Chapter 20**
 
 ## Into Enemy Territory
 
@@ -7384,7 +7384,7 @@ It had better be worth it.
 
 ---
 
-# **Chapter 25**
+# **Chapter 21**
 
 ## Revelations and Preparations
 
@@ -7541,7 +7541,7 @@ I intended to make sure it wasn't me.
 
 ---
 
-# **Chapter 26**
+# **Chapter 22**
 
 ## The Heart of Stone
 
@@ -7726,7 +7726,7 @@ And I intended to make the most of it.
 
 ---
 
-# **Chapter 27**
+# **Chapter 23**
 
 ## Aftermath and Ascension
 
@@ -7803,7 +7803,7 @@ Her smile was brilliant. "I think that can be arranged."
 
 ---
 
-# **Chapter 28**
+# **Chapter 24**
 
 ## New Beginnings
 
@@ -7872,7 +7872,7 @@ I pulled her into my arms, kissing her with all the love I felt. "Happy doesn't 
 
 ---
 
-# **Chapter 29**
+# **Chapter 25**
 
 ## Trials and Triumphs
 
@@ -7931,7 +7931,7 @@ Whatever challenges came—political, magical, or otherwise—we would face them
 
 ---
 
-# **Chapter 30**
+# **Chapter 26**
 
 ## Blood Craft
 
