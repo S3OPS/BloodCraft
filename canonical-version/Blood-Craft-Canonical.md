@@ -1376,7 +1376,7 @@ Those words followed me down into sleep, a promise and a comfort and a hope for 
 
 ---
 
-*End of Chapter 5*
+*End of Chapter 4*
 
 # **Chapter 5**
 
@@ -2624,7 +2624,7 @@ He'd be ready.
 
 ---
 
-*End of Chapter 8*
+*End of Chapter 7*
 
 # **Chapter 8**
 
@@ -3924,7 +3924,7 @@ The game was about to begin.
 
 ---
 
-*End of Chapter 12*
+*End of Chapter 11*
 
 # **Chapter 12**
 
@@ -6240,7 +6240,7 @@ The first week was complete. The real trials were just beginning.
 
 ---
 
-*End of Chapter 16*
+*End of Chapter 15*
 
 ---
 

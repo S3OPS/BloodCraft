@@ -25,11 +25,12 @@ def renumber_chapters(content, start_line_num, increment, skip_first_instance=Fa
         content: The file content
         start_line_num: Chapter number to start renumbering from
         increment: Amount to add to chapter numbers
-        skip_first_instance: If True, skip the first instance of start_line_num
+        skip_first_instance: If True, skip the first instance of start_line_num (both header and end marker)
     """
     lines = content.split('\n')
     modified = False
-    seen_start_num = False
+    seen_start_num_header = False
+    seen_start_num_end = False
     
     for i in range(len(lines)):
         # Match chapter headings like "# **Chapter 15**"
@@ -38,8 +39,8 @@ def renumber_chapters(content, start_line_num, increment, skip_first_instance=Fa
             old_num = int(match.group(1))
             if old_num >= start_line_num:
                 # If skip_first_instance and this is the first time we see start_line_num, skip it
-                if skip_first_instance and old_num == start_line_num and not seen_start_num:
-                    seen_start_num = True
+                if skip_first_instance and old_num == start_line_num and not seen_start_num_header:
+                    seen_start_num_header = True
                     continue
                     
                 new_num = old_num + increment
@@ -52,6 +53,11 @@ def renumber_chapters(content, start_line_num, increment, skip_first_instance=Fa
         if match:
             old_num = int(match.group(1))
             if old_num >= start_line_num:
+                # If skip_first_instance and this is the first time we see start_line_num end marker, skip it
+                if skip_first_instance and old_num == start_line_num and not seen_start_num_end:
+                    seen_start_num_end = True
+                    continue
+                    
                 new_num = old_num + increment
                 lines[i] = f'*End of Chapter {new_num}*'
                 modified = True
