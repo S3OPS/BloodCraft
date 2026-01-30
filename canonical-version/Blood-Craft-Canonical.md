@@ -5231,7 +5231,7 @@ The defensive barrier that protected Nocturne—ancient wards maintained by the 
 
 Corrupted. Twisted by dark magic into mindless weapons.
 
-The defenders were fighting valiantly. I spotted Viktor leading a pack of Ironclad werewolves, tearing into the corrupted wolves with savage efficiency. Lysandra stood with a group of Blackwood witches, throwing combat spells that cracked against the elementals' stone hides.
+The defenders were fighting valiantly. I spotted Viktor leading a pack of Ironclad werewolves, tearing into the corrupted wolves with savage efficiency. Lysandra stood with a group of Blackwood witches, throwing combat spells that cracked against the elementals' stone hides. And there, coordinating the defensive positions with practiced authority, was Captain Aldric—the grizzled vampire who'd commanded Nocturne's border guards for as long as anyone could remember. His voice carried across the battle, directing reinforcements and rallying wavering defenders with the confidence of centuries of experience.
 
 And there was Raechelle, in her full panther form, her sleek black body darting between enemies, harassing and distracting, keeping corrupted wolves away from the more vulnerable spellcasters.
 
@@ -5343,7 +5343,7 @@ Not my pain—hers. Transmitted through our bond with agonizing clarity. I felt 
 
 *No!* she commanded through the bond, her alpha authority cutting through my panic. *Don't you dare let my sacrifice be wasted! FINISH IT!*
 
-She was right. Corvinus had just died saving me. Now Raechelle was grievously wounded protecting me. If I didn't end this now, both sacrifices would be meaningless.
+She was right. Aldric had just died saving me. Now Raechelle was grievously wounded protecting me. If I didn't end this now, both sacrifices would be meaningless.
 
 Through our bond, I felt her pushing strength toward me despite her injury. Felt her suppressing her own pain to keep me focused. Felt her absolute faith that I could do this.
 
@@ -5351,37 +5351,37 @@ I pulled myself together, channeling my grief and rage into cold determination.
 
 The elemental raised its massive fist for another strike. This one would crush me—and probably Raechelle too.
 
-Before I could react, Magistrate Corvinus appeared from nowhere, his ancient form moving with impossible speed. He slammed into me from the side, shoving me clear just as the elemental's fist came down.
+Before I could react, Captain Aldric appeared from nowhere—the grizzled vampire who'd commanded Nocturne's border guards for centuries. His ancient form moved with impossible speed, enhanced by desperate magic. He slammed into me from the side, shoving me clear just as the elemental's fist came down.
 
 The impact caught him squarely. Stone met vampire in a sickening crunch that I heard even through the chaos of battle.
 
-"Corvinus!" I screamed.
+"Aldric!" I screamed.
 
-The ancient vampire was crushed against the ground, his body broken. But even dying, he moved with purpose. His hand shot out, glowing with concentrated blood magic, and struck the elemental's core. The spell he'd been teaching me—the molecular disruption technique—executed with perfect, lethal precision.
+The captain was crushed against the ground, his body broken. But even dying, he moved with purpose. His hand shot out, glowing with what looked like concentrated blood magic—a technique I'd never seen before. He struck the elemental's core, and the spell detonated inside it.
 
 The elemental shuddered, its form destabilizing.
 
-I scrambled to Corvinus's side, still feeling Raechelle's pain like fire through our bond. Two people I cared about, both bleeding for me.
+I scrambled to Aldric's side, still feeling Raechelle's pain like fire through our bond. Two people I cared about, both bleeding for me.
 
-"Magistrate—" My hands hovered uselessly over his shattered form.
+"Captain—" My hands hovered uselessly over his shattered form.
 
-"Precision... over power," he whispered, blood flowing from his lips. His ancient eyes met mine with perfect clarity despite his wounds. "Save... your familiar first. I'm... already gone. Remember... the scalpel... not the hammer."
+"Protect... the city," he whispered, blood flowing from his lips. His eyes were dimming, but held perfect clarity. "Magistrate... Corvinus... he can teach you... more than I ever could. Learn from him. Use what he... teaches. Don't let this... be for nothing."
 
-"We'll get healers for both of you—"
+"We'll get healers—"
 
-"No time. Already... fading." His hand gripped mine with surprising strength. "You were... a worthy student. Better than I deserved. Finish what... we started. Protect this city... and the one you love."
+"No time. Already... fading." His hand gripped mine with surprising strength. "You have... what it takes, Blood Archon. I've seen... centuries of warriors. You're... something special. Finish this... protect our home."
 
-His eyes dimmed. The presence that had defined him for centuries simply... stopped.
+His eyes dimmed. The presence that had commanded the border guards for longer than I'd been alive simply... stopped.
 
-Magistrate Corvinus, who had survived millennia, who had taught me everything about precision and control, was gone. Sacrificed to save me.
+Captain Aldric, who had held Nocturne's borders against countless threats, was gone. Sacrificed to save me.
 
 The grief hit like a physical blow, but I couldn't afford to process it. Not yet. The battle still raged, and Raechelle was still pinned by that earth spear, her pain still flooding through our bond.
 
 *Break the connection with Terravos!* Raechelle commanded through our bond, her panic cutting through my shock even as she endured her own agony. *Sir, you have to let go before it kills you!*
 
-But if I let go, the elemental would destroy the defensive wards. Would tear into Nocturne proper. Would kill everyone here. Would make Corvinus's sacrifice meaningless.
+But if I let go, the elemental would destroy the defensive wards. Would tear into Nocturne proper. Would kill everyone here. Would make Aldric's sacrifice meaningless.
 
-I couldn't allow that. I wouldn't dishonor his final lesson.
+I couldn't allow that. I wouldn't dishonor his final command.
 
 Instead of letting go, I pulled harder. I opened myself completely to the flow of magic, became a conduit between Terravos's power and the elemental. And in that moment of total openness, I did something insane.
 
@@ -5455,11 +5455,11 @@ She sagged against me in relief. "That... was unpleasant."
 
 "Can't promise that." Her smile widened slightly. "But I promise I'll try not to die in the process."
 
-I laughed despite everything—the grief for Corvinus, the exhaustion, the knowledge that we'd both nearly died. She laughed with me, the sound half-sob, and kissed me hard enough to hurt. I kissed her back, drawing strength not just from our bond but from the simple fact that we were alive, together, having survived another impossible battle.
+I laughed despite everything—the grief for Captain Aldric, the exhaustion, the knowledge that we'd both nearly died. She laughed with me, the sound half-sob, and kissed me hard enough to hurt. I kissed her back, drawing strength not just from our bond but from the simple fact that we were alive, together, having survived another impossible battle.
 
-Around us, the defenders were securing the area. The corrupted werewolves I'd cleansed were being tended to by healers. Corvinus's body was being carried away with honor. The casualties... I didn't want to count the casualties.
+Around us, the defenders were securing the area. The corrupted werewolves I'd cleansed were being tended to by healers. Captain Aldric's body was being carried away with honor by his fellow guards. The casualties... I didn't want to count the casualties.
 
-Viktor approached, looking battered but whole. "The other breaches are secured. Whatever Terravos was trying to do, we stopped it. And I saw what happened—both of you." His expression was solemn. "Corvinus's sacrifice won't be forgotten. Neither will yours, Raechelle."
+Viktor approached, looking battered but whole. "The other breaches are secured. Whatever Terravos was trying to do, we stopped it. And I saw what happened—both of you." His expression was solemn. "Captain Aldric's sacrifice won't be forgotten. Neither will yours, Raechelle."
 
 "I'd do it again," she said simply.
 
@@ -5495,19 +5495,19 @@ As the various groups dispersed to tend their wounded and secure the perimeter, 
 
 "How many did we lose?" I asked quietly.
 
-Raechelle was silent for a moment, her hand unconsciously touching her healed shoulder where the earth spear had pierced her. "Six confirmed dead, including Magistrate Corvinus. Dozens wounded. Could have been much worse without your intervention."
+Raechelle was silent for a moment, her hand unconsciously touching her healed shoulder where the earth spear had pierced her. "Six confirmed dead, including Captain Aldric. Dozens wounded. Could have been much worse without your intervention."
 
-Six people who woke up this morning not knowing it would be their last day. Six families who would grieve. And Corvinus—ancient, wise, patient Corvinus who had taught me precision over power. His final lesson had been taught with his life.
+Six people who woke up this morning not knowing it would be their last day. Six families who would grieve. And Aldric—veteran commander who had held the borders for centuries, teaching countless defenders through example. His final command had been to learn from Corvinus, to protect the city.
 
-"Corvinus died because of me," I said, the guilt crushing my chest. "He pushed me out of the way. Took that hit for me."
+"Aldric died because of me," I said, the guilt crushing my chest. "He pushed me out of the way. Took that hit for me."
 
-"No." Raechelle stopped walking and turned to face me, her amber eyes blazing despite her own exhaustion. "Corvinus chose to save you. He made that choice, Sir. Just like I chose to take that earth spear for you. This is Terravos's fault. He attacked. He corrupted those werewolves. He killed those people. You did everything you could to minimize the damage."
+"No." Raechelle stopped walking and turned to face me, her amber eyes blazing despite her own exhaustion. "Aldric chose to save you. He made that choice, Sir. Just like I chose to take that earth spear for you. This is Terravos's fault. He attacked. He corrupted those werewolves. He killed those people. You did everything you could to minimize the damage."
 
 "But they died because of me. Because I'm here, refusing to do what he wants."
 
-"They died defending their home against a tyrant. Corvinus died protecting someone he believed in. That's not on you, Sir." She took my face in her hands, wincing slightly as her shoulder protested the movement. "Don't you dare take responsibility for Terravos's crimes. That path leads to either surrender or madness. Corvinus wouldn't want that for you."
+"They died defending their home against a tyrant. Aldric died protecting someone he believed in—he told you to learn from Corvinus, to use that knowledge. That's not on you, Sir." She took my face in her hands, wincing slightly as her shoulder protested the movement. "Don't you dare take responsibility for Terravos's crimes. That path leads to either surrender or madness. Aldric wouldn't want that for you."
 
-She was right. I knew she was right. But the weight of those deaths—especially Corvinus's sacrifice—still sat heavy on my chest.
+She was right. I knew she was right. But the weight of those deaths—especially Aldric's sacrifice—still sat heavy on my chest.
 
 "Come on," she said more gently. "Let's get you home. You need blood, rest, and probably about twelve hours of sleep."
 
@@ -5517,7 +5517,7 @@ She was right. I knew she was right. But the weight of those deaths—especially
 
 We walked home through a Nocturne that felt different now—no longer a safe haven but a city under siege. Supernatural beings eyed each other with new suspicion, wondering if more corruption lurked unseen. The attack had shattered the illusion of perfect safety.
 
-But I also saw something else. As we passed, defenders nodded to us both with respect. Citizens who'd hidden during the attack emerged to offer thanks. A young witch pressed a healing draught into my hands with tears in her eyes, saying her sister had been among those we'd saved. An old vampire bowed deeply as we passed, murmuring something about Corvinus having chosen his successor well.
+But I also saw something else. As we passed, defenders nodded to us both with respect. Citizens who'd hidden during the attack emerged to offer thanks. A young witch pressed a healing draught into my hands with tears in her eyes, saying her sister had been among those we'd saved. An old vampire who'd served under Aldric bowed deeply as we passed, murmuring something about the captain having died for the right cause.
 
 I was becoming what I'd never imagined—a symbol. A protector. A leader. And Raechelle beside me, who'd taken a blow meant for me, was becoming a symbol too. The familiar who would give everything for her Archon.
 
@@ -5527,7 +5527,7 @@ And with Terravos escalating his attacks, those roles were only going to grow mo
 
 That night, as Raechelle tended my remaining cuts in the privacy of our bedroom, both of us moving carefully around our injuries, I made a decision.
 
-"I need to take the fight to him," I said. "Stop reacting and start acting. If I wait for Terravos to make the next move, more people will die. Corvinus died buying me time—I need to use it."
+"I need to take the fight to him," I said. "Stop reacting and start acting. If I wait for Terravos to make the next move, more people will die. Aldric died buying me time—and he told me to learn from Corvinus. I need to use both."
 
 "Agreed." Raechelle's hands were gentle but efficient as she cleaned a cut along my ribs, her healed shoulder supporting her weight now. "But you can't face an ancient Archon alone, Sir. You're powerful, but you're not invincible. Today proved that. We both almost died."
 
@@ -6013,7 +6013,7 @@ I reached out with my consciousness and declared the space around me mine. For f
 
 The power was intoxicating. I could feel every living thing in my domain, could sense the magic animating the lieutenant, could command with a thought what would normally take minutes of concentration.
 
-But maintaining it while grief for Corvinus still tore at my heart was agony.
+But maintaining it while grief for Aldric still tore at my heart was agony.
 
 I spoke to the earth magic flowing through the stone creature, and this time, it had no choice but to listen.
 
