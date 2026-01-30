@@ -646,12 +646,12 @@ The question isn't whether Riven will defeat his enemies, but whether Riven can 
 
 ## Notes for Future Development
 
-- Each chapter should balance action, politics, romance, and character development
+- Each chapter should balance action, politics, character development, and while revolving mainly romance
 - The Dom/sub relationship should deepen organically, reflecting trust and intimacy
 - Supernatural world-building should continue throughout without overwhelming the narrative
 - Supporting characters should have their own arcs that intersect with the main story
 - Maintain tension between Riven's desire for revenge and his growing responsibilities
-- Romance scenes should serve character development, not just titillation
+- Romance scenes should serve character development, with ample titillation
 - **Plant subtle hints of the twist throughout middle chapters without revealing it**
 - **Develop Riven's occasional "blackouts" or "intuitions" that are actually ancient memories**
 - **Show Raechelle's moments of grief or guilt that seem disproportionate to current events**
