@@ -221,6 +221,10 @@ lingered. As we continued on our way to the cabin, a peaceful and happy silence 
 of the road and the promise of the relaxing weekend ahead. None of us noticed the darkness that seemed to gather at the
 edge of the headlights, nor the way the moon above us had begun to shift from silver to crimson.
 
+---
+
+*End of Chapter 1*
+
 # **Chapter 2**
 
 It couldn't have been more than 15 minutes after the music cut off abruptly, silencing the cheerful notes that filled
@@ -710,6 +714,10 @@ Just as I adjusted myself, fatigue crashed over me like a wave, pulling me into 
 My last conscious thought was that her hand was still gently resting against my face, an anchor in the darkness, and that
 for the first time since the accident, I didn't feel quite so alone.
 
+---
+
+*End of Chapter 2*
+
 # **Chapter 3**
 
 As we glided down the lengthy driveway of my home, a gentle jolt of realization roused me from my slumber. The world
@@ -1088,6 +1096,10 @@ I nodded, urgency coursing through my veins, and started to gather some clothes,
 mysteries of its own, a silent testament to the journey I was about to embark upon. As we stepped out of the house, I
 felt the weight of the world on my shoulders, but also a flicker of hope ignited by the unknown possibilities that
 awaited us.
+
+---
+
+*End of Chapter 3*
 
 # **Chapter 4**
 
@@ -1685,6 +1697,10 @@ for too long. Relieved yet still playful, we decided to retreat into the comfort
 each other’s arms, we succumbed to the warmth of our connection, nuzzled comfortably against the plush fabric of the
 sofa, utterly content as the fire crackled softly nearby, lulling us into a peaceful slumber.
 
+---
+
+*End of Chapter 4*
+
 # **Chapter 5**
 
 The warmth of the fire had dwindled to glowing embers by the time I stirred from sleep, consciousness returning in slow,
@@ -2020,6 +2036,10 @@ The Blood Archon had awakened.
 
 And the magical world would never be the same.
 
+---
+
+*End of Chapter 5*
+
 # **Chapter 6**
 
 The night air was crisp and invigorating, carrying the scent of pine and earth as we stepped into the moonlit clearing.
@@ -2353,6 +2373,10 @@ be, my Archon. Now rest. Tomorrow, your true training begins."
 And as sleep claimed me, I dreamed of blood and fire, of power beyond measure, and of a future that shimmered with
 terrible, beautiful possibility.
 
+---
+
+*End of Chapter 6*
+
 # **Chapter 7**
 
 Ten days had passed since my awakening, and I was no longer the same man who had stumbled out of that burning wreckage.
@@ -2663,6 +2687,9 @@ Four more nights until destiny called.
 
 I would be ready.
 
+---
+
+*End of Chapter 7*
 
 # **Chapter 8**
 
@@ -3064,7 +3091,9 @@ I raised the glass of blood-wine in a silent toast to my parents' memory.
 
 Then I drank, and the taste of destiny filled my mouth.
 
+---
 
+*End of Chapter 8*
 
 # **Chapter 9**
 
