@@ -5285,7 +5285,25 @@ But I did it. The elemental fell, crumbling to dust.
 
 The third elemental, sensing the threat I represented, turned its massive bulk toward me. Intelligence flickered in its eyes—Terravos wasn't just animating these things, he was controlling them directly.
 
-"There you are," I said grimly. "Let's talk, Earth Archon."
+*Together, Sir,* Raechelle sent through our bond. *Like we trained. I'll draw its attention, you disrupt it.*
+
+*Too dangerous—*
+
+*No time to argue. Trust me.* 
+
+She was right. And through our bond, I could feel her absolute confidence in our coordination.
+
+*On my mark,* I sent back. *Three... two... one... now!*
+
+Raechelle exploded into motion, her panther form a blur of black fur and lethal grace. She attacked the elemental's flank with perfectly timed strikes, each one precisely where I needed it to focus its attention. Through our bond, I felt her movements before she made them, anticipated her positioning, adjusted my own strategy to complement hers.
+
+We moved as one entity—she the distraction and harrier, I the surgeon seeking weak points. When the elemental swung at her, I felt her intent to dodge through the bond and was already preparing my strike at its exposed core. When I needed an opening, she created one without me having to ask, our connection making verbal communication unnecessary.
+
+For thirty seconds, we were perfectly synchronized. Two fighters with one purpose, our bond transforming individual actions into seamless coordination.
+
+But then Terravos noticed our coordination and adapted.
+
+"There you are," I said grimly, feeling his direct attention focus on us both. "Let's talk, Earth Archon."
 
 I reached out, not to the elemental but through it, following the threads of power back to their source. It was risky—opening myself to Terravos's magic could let him strike back at me. But I needed him to see what he was facing.
 
@@ -5680,11 +5698,19 @@ She leaned down and kissed me, slow and deep.
 
 "Then you'll have it." I rolled her beneath me, drinking in her gasp of surprise. "After we survive the next few weeks. After we face Terravos. After we secure a future worth living in."
 
-"Always so practical." But her eyes shone with emotion.
+"Always so practical." But her eyes shone with emotion, and something else—a challenge, an invitation.
 
-"Someone has to be, when you're busy being romantic."
+"Someone has to be, when you're busy being romantic." I caught her wrists, pinning them gently above her head, watching her pupils dilate with desire. "But right now, I'm going to stop being practical and just feel. Let go with you."
 
-This time her laugh turned into a moan as I showed her exactly how practical I could be.
+"Sir—" Her voice held that particular note, the one that meant surrender and trust intertwined.
+
+"I've got you, Rae. Always." I pressed a kiss to her pulse point, feeling it race beneath my lips. "Let me take care of you. Let me make you forget about war and death and tomorrow. Just for tonight, let there be nothing but us."
+
+"Yes," she breathed, arching into my touch. "Yes, Sir. I'm yours."
+
+The words were simple, but in them was everything—trust given freely, control surrendered willingly, vulnerability shared completely. In this space between us, she didn't have to be the fierce protector, the tactical advisor, the one who took earth spears meant for me. She could just be Raechelle, and I could give her what she needed: the safety to let go, the security of my strength, the certainty that I would catch her no matter how far she fell.
+
+This time her laugh turned into a moan as I showed her exactly how thoroughly I could worship her surrender.
 
 ---
 
@@ -6014,6 +6040,16 @@ We ran.
 The explosion caught us just as we cleared the entrance, a massive blast of fire and force that consumed the supply depot. The shockwave knocked us all flat, but we were clear of the worst of it.
 
 I looked back to see flames erupting from multiple points in the complex, the entire structure beginning to collapse. Months of Terravos's preparation, gone in minutes.
+
+As we picked ourselves up, I saw the team's faces—exhaustion, yes, but also something else. Pride. Unity. We'd just survived our first true mission in enemy territory, and every single person had made it out alive.
+
+Marcus, the shadow walker, approached with the intelligence crystals. "Never thought I'd see someone face down a lieutenant and live, let alone a whole team do it together." His normally stoic expression held a hint of respect.
+
+"We're not just any team," Lysandra said, dusting herself off with practiced grace despite the soot covering her robes. "We're the ones crazy enough to follow a Blood Archon into Terravos's backyard." She smiled, tired but genuine. "And apparently crazy enough to succeed."
+
+One of Viktor's younger pack members, a werewolf named Kira who'd nearly been crushed during the battle, spoke up. "In the old days, my alpha says supernatural alliances lasted only as long as self-interest. But today..." She looked around at the assembled team—vampires, witches, werewolves, all from different factions. "Today, we fought for each other. That's different."
+
+"That's what Nocturne is supposed to be," I said quietly. "What it can be, if we survive this war."
 
 "Viktor, status?" I called into the communication crystal.
 
