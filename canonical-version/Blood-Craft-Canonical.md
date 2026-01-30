@@ -5229,7 +5229,7 @@ When I touched it, power flooded through me—not hostile, but overwhelming. Mem
 
 I opened the book.
 
-The first pages detailed the origin of the Blood Archons—not born from magic like other supernatural beings, but created. Forged by the first Council of Archons to maintain balance in a world where power threatened to consume everything. Blood Archons were designed to be the ultimate arbiters, capable of controlling the life force of any being, making them feared and respected by all others.
+The first pages detailed the origin of the Blood Archons—not born from magic like other supernatural beings, but artificially created. Forged by the first Council of Archons as living weapons to maintain balance in a world where power threatened to consume everything. We were designed, engineered, created with specific purpose: to be the ultimate arbiters, capable of controlling the life force of any being, making us feared and respected by all others.
 
 But with that power came a terrible burden.
 
@@ -5237,7 +5237,7 @@ But with that power came a terrible burden.
 
 Raechelle pressed close to my side, reading over my shoulder. "Your parents..."
 
-"Were the Balance for their generation." The words felt heavy in my mouth. "That's why they left Nocturne. That's why they tried to live normal lives. They were trying to escape their destiny."
+"Were the Balance for their generation." The words felt heavy in my mouth. "That's why they left Nocturne. That's why they tried to live normal lives. They were trying to escape their destiny. To prevent me from being bound to this system."
 
 I turned the pages, finding entries written in my mother's elegant script. Her journal entries, copied here for safekeeping.
 
