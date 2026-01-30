@@ -5343,11 +5343,9 @@ Not my pain—hers. Transmitted through our bond with agonizing clarity. I felt 
 
 *No!* she commanded through the bond, her alpha authority cutting through my panic. *Don't you dare let my sacrifice be wasted! FINISH IT!*
 
-She was right. Aldric had just died saving me. Now Raechelle was grievously wounded protecting me. If I didn't end this now, both sacrifices would be meaningless.
+She was right. I couldn't let her sacrifice be for nothing. Through our bond, I felt her pushing strength toward me despite her injury. Felt her suppressing her own pain to keep me focused. Felt her absolute faith that I could do this.
 
-Through our bond, I felt her pushing strength toward me despite her injury. Felt her suppressing her own pain to keep me focused. Felt her absolute faith that I could do this.
-
-I pulled myself together, channeling my grief and rage into cold determination.
+I pulled myself together, channeling my fear and determination into cold focus.
 
 The elemental raised its massive fist for another strike. This one would crush me—and probably Raechelle too.
 
@@ -5357,7 +5355,7 @@ The impact caught him squarely. Stone met vampire in a sickening crunch that I h
 
 "Aldric!" I screamed.
 
-The captain was crushed against the ground, his body broken. But even dying, he moved with purpose. His hand shot out, glowing with what looked like concentrated blood magic—a technique I'd never seen before. He struck the elemental's core, and the spell detonated inside it.
+The captain was crushed against the ground, his body broken. But even dying, he moved with purpose. His hand shot out, glowing with desperate vampire magic—centuries of accumulated power released all at once. He struck the elemental's core, and the spell detonated inside it with devastating force.
 
 The elemental shuddered, its form destabilizing.
 
@@ -5379,11 +5377,11 @@ The grief hit like a physical blow, but I couldn't afford to process it. Not yet
 
 *Break the connection with Terravos!* Raechelle commanded through our bond, her panic cutting through my shock even as she endured her own agony. *Sir, you have to let go before it kills you!*
 
-But if I let go, the elemental would destroy the defensive wards. Would tear into Nocturne proper. Would kill everyone here. Would make Aldric's sacrifice meaningless.
+But if I let go, the elemental would destroy the defensive wards. Would tear into Nocturne proper. Would kill everyone here. Would make both Aldric's sacrifice and Raechelle's injury meaningless.
 
-I couldn't allow that. I wouldn't dishonor his final command.
+I couldn't allow that. I wouldn't dishonor his final command or waste her protection.
 
-Instead of letting go, I pulled harder. I opened myself completely to the flow of magic, became a conduit between Terravos's power and the elemental. And in that moment of total openness, I did something insane.
+Instead of letting go, I pulled harder. Channeling my grief and rage into determination, I opened myself completely to the flow of magic, became a conduit between Terravos's power and the elemental. And in that moment of total openness, I did something insane.
 
 I merged with the elemental's corruption, dove into it, surrounded it with my own essence. And then I began to purge myself, using my blood magic to burn away the foreign power, treating it like a poison in my own system.
 
@@ -5437,7 +5435,7 @@ I opened my eyes to find Raechelle staring down at me, her face streaked with te
 
 "On it." I pulled myself up with effort, immediately focusing my blood magic on her wound. The earth corruption fought me, but I'd just destroyed three elementals—I knew how to handle Terravos's magic now.
 
-I placed my hands on her wounded shoulder and pushed. My blood magic flooded the injury, seeking out and destroying the foreign earth magic with surgical precision. Thanks to Corvinus's final lesson, I knew exactly how much force to apply.
+I placed my hands on her wounded shoulder and pushed. My blood magic flooded the injury, seeking out and destroying the foreign earth magic with surgical precision. Thanks to Corvinus's teaching, I knew exactly how much force to apply.
 
 Raechelle bit back a scream as I worked, her good hand gripping my arm hard enough to bruise.
 
@@ -5533,7 +5531,7 @@ That night, as Raechelle tended my remaining cuts in the privacy of our bedroom,
 
 "Then I build a team. Viktor, Lysandra, maybe others. A strike force capable of hitting Terravos where he's vulnerable."
 
-"That's... actually a good plan." She paused in her ministrations. "But Corvinus won't be there to train you anymore. You'll need to master your Blood Archon abilities on your own now. And you need allies powerful enough to stand against an Archon."
+"That's... actually a good plan." She paused in her ministrations. "But it will be dangerous without the preparation time we'd like. You'll need to accelerate your training with Corvinus, master the advanced techniques faster than normal. And you need allies powerful enough to stand against an Archon."
 
 "How long will that take?"
 
