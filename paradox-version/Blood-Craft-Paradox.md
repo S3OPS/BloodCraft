@@ -1921,6 +1921,120 @@ The Blood Archon had awakened.
 
 And the magical world would never be the same.
 
+---
+
+The training began immediately, though "training" felt like an inadequate word for what Raechelle put me through over the following days. Each session pushed me further, testing the limits of my newfound abilities in ways that should have been impossible for someone so newly awakened.
+
+"Blood sense is the foundation of all blood magic," Raechelle explained on the second night, her voice taking on the patient tone of an experienced teacher. "It's the ability to perceive the life force flowing through living beings—their blood singing its unique song."
+
+We stood in the clearing behind the cabin, the moon painting everything in shades of silver and shadow. She had set up a series of challenges, beginning with simple perception exercises.
+
+"Close your eyes," she instructed. "Reach out with your awareness. Don't try to see me—feel my blood moving through my veins."
+
+I did as she asked, letting my eyes drift shut. At first, there was only darkness and the ambient sounds of the forest. But as I focused inward, something shifted. I became aware of a presence—not visual, but almost musical. A rhythm that pulsed in harmony with my own heartbeat, yet distinctly separate.
+
+Raechelle's blood sang to me, each note carrying information. I could sense her position, her emotional state, even the subtle variations in her circulation as she moved.
+
+"I feel you," I whispered, marveling at the sensation. "It's like... like a melody only I can hear."
+
+"Good. Now, without opening your eyes, tell me where I am."
+
+I pointed directly at her, then tracked her movement as she circled me slowly. "Six feet to my left. Now behind me. Now to my right."
+
+When I opened my eyes, she was smiling with pride and something else—something that looked almost like relief. "Perfect. Most fledgling blood mages take weeks to develop that level of sensitivity. You accomplished it in minutes."
+
+"Must be the Archon blood," I suggested, but even as I said it, something felt off about that explanation. The ability hadn't felt new—it had felt like remembering how to ride a bicycle after years of not practicing.
+
+If Raechelle noticed my moment of confusion, she didn't comment on it. Instead, she moved to the next exercise. "Blood sense can be extended beyond simple awareness. With practice, you can read emotional states, detect injuries, even identify individuals by their unique blood signature."
+
+She produced a strip of cloth from her pocket and blindfolded me. "I'm going to move around the clearing. I want you to track not just my position, but my emotional state. Can you tell when I'm calm versus anxious?"
+
+The exercise was more challenging, requiring a level of focus that left my head aching. But as the night wore on, I began to distinguish the subtle variations in her blood's rhythm. When she was calm, it flowed smooth and steady. When she deliberately made herself anxious, it quickened, becoming almost agitated.
+
+"Extraordinary," she murmured after I correctly identified her emotional state for the tenth consecutive time. "Riven, you're progressing at a rate that should be impossible. It's almost as if..." She trailed off, her expression troubled.
+
+"As if what?"
+
+She shook her head, forcing a smile. "Never mind. Let's move on to blood manipulation."
+
+This was where the training became truly dangerous. Blood manipulation required not just sensing blood, but actively influencing it—either one's own or someone else's.
+
+"We'll start with your own blood," Raechelle said, her voice taking on a more serious tone. "External manipulation requires consent or overwhelming power. But your own blood responds to your will naturally. Watch."
+
+She held out her hand, and before my eyes, a small cut appeared on her palm. Blood welled up, but instead of dripping to the ground, it pooled in her palm, forming a perfect crimson sphere. With a gesture, she shaped it into a blade, then a rose, then dissipated it back into mist that sank back into her skin, the cut healing instantly.
+
+"Your turn. Make a small cut—just a drop or two. We're not trying to impress anyone yet."
+
+I extended my hand, focusing on my palm. I meant to create just a small scratch, but the moment I willed it, a clean incision appeared exactly where I intended, as if I'd been doing this for years. The precision of it startled me.
+
+"Riven?" Raechelle's voice carried a note of concern. "Did you... have you done this before?"
+
+"No," I said slowly, watching the blood well up. "But it felt... natural. Like I knew exactly how deep to cut, exactly where to place it."
+
+She was watching me intently now, her ruby eyes sharp with an emotion I couldn't quite read. "Show me what you can do with it."
+
+I focused on the blood pooling in my palm, willing it to rise. It obeyed instantly, forming a sphere just as Raechelle's had. But I didn't stop there. Without consciously planning it, I shaped the blood into a blade—not a simple knife, but an ornate dagger with a curved hilt and detailed crossguard. The level of detail should have been impossible for a complete beginner.
+
+Raechelle's breath caught. "Where did you learn that design?"
+
+I stared at the blood-blade, equally confused. "I... I don't know. It just felt right. Like this is what a blood-blade should look like."
+
+She was silent for a long moment, her expression carefully controlled. When she spoke again, her voice was gentle but strained. "That's a classical design, Sir. From the old days, before the purge. Only the most skilled blood mages created blades with that level of artistry."
+
+"Maybe I saw it in a book somewhere?" I suggested, but the explanation felt hollow. The knowledge hadn't come from a book—it had come from somewhere deeper, somewhere I couldn't quite access.
+
+"Perhaps," Raechelle agreed, but I could feel through our bond that she didn't believe it. She was worried, though she was trying hard to hide it.
+
+Over the following days, the pattern repeated itself. Raechelle would introduce a technique, and I would master it with startling speed—speed that sometimes seemed to unsettle her. Combat applications of blood magic came particularly naturally. When she taught me how to use blood sense to predict an opponent's movements, I found myself instinctively knowing not just where they would move, but how to counter it.
+
+"Your fighting style," she said on the fifth night, after I'd successfully deflected a series of her attacks, "it's too refined. You move like someone with decades of training, not days."
+
+"I'm a fast learner?" I offered, but even I could hear the uncertainty in my voice.
+
+She studied me with those ancient ruby eyes, and I saw pain flicker across her face—pain and something that looked almost like recognition. "Yes," she finally said. "You are. Just... be careful, Riven. Power that comes too easily can be dangerous. Always question your instincts, especially the ones that feel most natural."
+
+I wanted to ask her what she meant, but she quickly changed the subject, moving us into a new exercise. Yet her words stayed with me, along with the growing sense that there was something she wasn't telling me—something about why my abilities were developing so unnaturally fast.
+
+On the seventh night, we attempted our most ambitious exercise yet: manipulating another person's blood with their consent. Raechelle offered herself as the subject.
+
+"Start small," she instructed. "Just try to slow my heartbeat slightly. It requires incredible precision—too little pressure and nothing happens, too much and you could cause serious harm."
+
+I reached out with my blood sense, feeling the rhythm of her circulation. I could perceive every vessel, every capillary, the strong steady beat of her heart. And as I focused on it, I realized I understood the system in a way that went beyond mere sensing. I could see how to adjust the flow, where to apply subtle pressure to achieve the desired effect.
+
+I made the adjustment, a minute modification to the blood flow near her heart. Her heartbeat slowed, dropping from its resting rate to something deeper and more relaxed.
+
+"Perfect," she whispered, but there were tears in her eyes. "You have such a gentle touch. Such precise control."
+
+"Are you okay?" I asked, concerned by her emotional response.
+
+"I'm fine, Sir. It's just..." She wiped at her eyes quickly. "You reminded me of someone. Someone who had that same delicate precision. The same instinctive understanding of blood magic's true purpose—not just destruction, but healing, protection, and care."
+
+"Who?"
+
+She shook her head. "Someone from a long time ago. Someone I lost." Before I could press further, she straightened, forcing the melancholy away. "That's enough for tonight. You've made remarkable progress—more than I could have hoped for. Tomorrow, we should work on channeling your power through manifestations. Blood constructs, shields, bindings. The practical applications that will keep you alive if Terravos finds us."
+
+As we walked back to the cabin, I couldn't shake the feeling that every lesson was revealing something larger, something Raechelle wasn't ready to tell me. The way she watched me during training, with that mixture of pride and sorrow. The way certain techniques seemed to upset her more than they should. The way she kept comparing me to someone from her past.
+
+And beneath it all, the growing certainty that my abilities weren't awakening—they were returning.
+
+That night, as we settled on the sofa together, I finally voiced the question that had been building for days.
+
+"Raechelle, have I done this before?"
+
+She stiffened in my arms. "Done what, Sir?"
+
+"This. Blood magic. Combat training. All of it. Sometimes when you're teaching me, it doesn't feel like I'm learning something new. It feels like I'm remembering something I already knew."
+
+For a long moment, she was silent. When she finally spoke, her voice was carefully measured. "You're a Blood Archon, Riven. The knowledge is in your blood, passed down through generations. It's not uncommon for powerful bloodlines to experience something like genetic memory—instincts and abilities that feel innate because they've been inherited from your ancestors."
+
+It was a reasonable explanation. But something in the way she said it, the careful precision of her words, made me think she was choosing them very deliberately.
+
+"Is that all it is?" I asked softly. "Genetic memory?"
+
+She turned to look at me, her ruby eyes bright with unshed tears. "What else would it be?"
+
+I didn't have an answer. But as I held her close and felt sleep beginning to claim me, I couldn't shake the conviction that there was more to my rapid progression than simply inherited talent. And I couldn't shake the feeling that Raechelle knew exactly what it was—and was terrified to tell me.
+
 # **Chapter 6**
 
 The night air was crisp and invigorating, carrying the scent of pine and earth as we stepped into the moonlit clearing.
