@@ -4440,12 +4440,12 @@ But my story—our story—was just beginning.
 
 ---
 
-*End of Chapter 13*
+*End of Chapter 9*
 
 
 ---
 
-# **Chapter 14**
+# **Chapter 10**
 
 ## Allies and Enemies
 
@@ -4809,12 +4809,12 @@ But I was learning the rules. And soon, I'd be strong enough to make my own.
 
 ---
 
-*End of Chapter 14*
+*End of Chapter 10*
 
 
 ---
 
-# **Chapter 15**
+# **Chapter 11**
 
 ## The Crimson Ball
 
@@ -5178,12 +5178,12 @@ For now.
 
 ---
 
-*End of Chapter 15*
+*End of Chapter 11*
 
 
 ---
 
-# **Chapter 16**
+# **Chapter 12**
 
 ## Bloodlines
 
@@ -5411,12 +5411,12 @@ Now it was time to show everyone what I chose to be.
 
 ---
 
-*End of Chapter 16*
+*End of Chapter 12*
 
 
 ---
 
-# **Chapter 17**
+# **Chapter 13**
 
 ## The Hunt Begins
 
@@ -5776,12 +5776,12 @@ Now it was time to show him that prey could bite back.
 
 ---
 
-*End of Chapter 17*
+*End of Chapter 13*
 
 
 ---
 
-# **Chapter 18**
+# **Chapter 14**
 
 ## Recovery and Resolve
 
@@ -6035,12 +6035,12 @@ And that was enough.
 
 ---
 
-*End of Chapter 18*
+*End of Chapter 14*
 
 
 ---
 
-# **Chapter 19**
+# **Chapter 15**
 
 ## Into Enemy Territory
 
@@ -6376,12 +6376,12 @@ But at least we weren't standing alone.
 
 ---
 
-*End of Chapter 19*
+*End of Chapter 15*
 
 
 ---
 
-# **Chapter 20**
+# **Chapter 16**
 
 ## The Gathering Storm
 
@@ -6707,7 +6707,7 @@ Now we just had to prepare for the tempest to come.
 
 ---
 
-*End of Chapter 20*
+*End of Chapter 16*
 
 
 ---
@@ -6715,7 +6715,7 @@ Now we just had to prepare for the tempest to come.
 
 ---
 
-# **Chapter 21**
+# **Chapter 17**
 
 ## Bloodlines
 
@@ -6929,10 +6929,6 @@ I kissed her then, pouring all my fear and hope and love into that connection. T
 
 "Always, my Blood Archon," she breathed. "Always."
 
----
-
-*End of Chapter 21*
-
 
 The following days were a blur of intensive training. Master Corvinus pushed me harder than I'd ever been pushed, drilling me in advanced combat techniques that required split-second timing and absolute control.
 
@@ -7000,11 +6996,11 @@ Corvinus nodded approvingly. "Then let's continue. We have much work ahead of us
 
 ---
 
-*End of Chapter 21*
+*End of Chapter 17*
 
 ---
 
-# **Chapter 22**
+# **Chapter 18**
 
 ## Blood and Stone
 
@@ -7228,11 +7224,11 @@ The war had truly begun. And I was done playing defense.
 
 ---
 
-*End of Chapter 22*
+*End of Chapter 18*
 
 ---
 
-# **Chapter 23**
+# **Chapter 19**
 
 ## Recovery and Resolve
 
@@ -7320,12 +7316,12 @@ The war was about to change. No more defending. Only attacking.
 
 ---
 
-*End of Chapter 23*
+*End of Chapter 19*
 
 
 ---
 
-# **Chapter 24**
+# **Chapter 20**
 
 ## Into Enemy Territory
 
@@ -7379,12 +7375,12 @@ It had better be worth it.
 
 ---
 
-*End of Chapter 24*
+*End of Chapter 20*
 
 
 ---
 
-# **Chapter 25**
+# **Chapter 21**
 
 ## Revelations and Preparations
 
@@ -7536,12 +7532,12 @@ I intended to make sure it wasn't me.
 
 ---
 
-*End of Chapter 25*
+*End of Chapter 21*
 
 
 ---
 
-# **Chapter 26**
+# **Chapter 22**
 
 ## The Heart of Stone
 
@@ -7721,12 +7717,12 @@ And I intended to make the most of it.
 
 ---
 
-*End of Chapter 26*
+*End of Chapter 22*
 
 
 ---
 
-# **Chapter 27**
+# **Chapter 23**
 
 ## Aftermath and Ascension
 
@@ -7798,12 +7794,12 @@ Her smile was brilliant. "I think that can be arranged."
 
 ---
 
-*End of Chapter 27*
+*End of Chapter 23*
 
 
 ---
 
-# **Chapter 28**
+# **Chapter 24**
 
 ## New Beginnings
 
@@ -7867,12 +7863,12 @@ I pulled her into my arms, kissing her with all the love I felt. "Happy doesn't 
 
 ---
 
-*End of Chapter 28*
+*End of Chapter 24*
 
 
 ---
 
-# **Chapter 29**
+# **Chapter 25**
 
 ## Trials and Triumphs
 
@@ -7926,12 +7922,12 @@ Whatever challenges came—political, magical, or otherwise—we would face them
 
 ---
 
-*End of Chapter 29*
+*End of Chapter 25*
 
 
 ---
 
-# **Chapter 30**
+# **Chapter 26**
 
 ## Blood Craft
 
@@ -8194,7 +8190,7 @@ It was everything.
 **Blood Craft: Book One - Complete**
 
 *Total Word Count: ~80,000 words*
-*Chapters: 30*
+*Chapters: 26*
 *Genre: Urban Fantasy, Supernatural Romance*
 
 ---
