@@ -191,11 +191,27 @@ Supporting documentation, comparison guides, and archived files.
 ### Repository Organization
 This repository uses a clean separation between the two story versions to avoid confusion and maintain clear creative boundaries.
 
+### Development Infrastructure
+Both versions are fully set up for parallel development:
+
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Complete contribution guidelines
+- **[WORKFLOW.md](WORKFLOW.md)** - Dual-version development workflow guide
+- **[canonical-version/DEVELOPMENT.md](canonical-version/DEVELOPMENT.md)** - Canonical version guidelines
+- **[paradox-version/DEVELOPMENT.md](paradox-version/DEVELOPMENT.md)** - Paradox version guidelines
+
+### Quick Start for Contributors
+1. Read **CONTRIBUTING.md** for general guidelines
+2. Review version-specific **DEVELOPMENT.md** for creative direction
+3. Follow **WORKFLOW.md** for parallel development best practices
+4. Check **.gitignore** to see what files are excluded
+
 ### Structure Benefits
 - ✅ Clear separation of canonical vs. alternate storylines
 - ✅ Self-contained directories with their own documentation
 - ✅ Easy navigation for readers
 - ✅ Scalable for future additions
+- ✅ Comprehensive development guidelines for both versions
+- ✅ Parallel development workflow support
 
 ---
 
