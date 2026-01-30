@@ -234,7 +234,7 @@ Her expression softened. "You're right. I'm just..." She took a shaky breath. "I
 
 She laughed against my chest. "Eloquent as always, Blood Archon."
 
-"My eloquence has been shorted out by joy." I pulled back to look at her face, memorizing this moment. "We should tell the others. Viktor, Morgana, Seraphina—they'll want to know."
+"My eloquence has short-circuited from joy." I pulled back to look at her face, memorizing this moment. "We should tell the others. Viktor, Morgana, Seraphina—they'll want to know."
 
 "Tomorrow," Raechelle decided. "Tonight, this is just ours. Tomorrow we share it with our family."
 
