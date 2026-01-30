@@ -5309,13 +5309,61 @@ Pain exploded through me as he reversed the flow, sending earth magic flooding b
 
 Through the agony, I heard Raechelle scream my name.
 
-Then she was there, her panther form slamming into my body, knocking me aside as the elemental's massive fist crashed down where I'd been standing. The impact created a crater in the ground, sending shockwaves that knocked defenders off their feet.
+Terravos, sensing his advantage, didn't wait. The ground erupted beside me, stone reshaping into a massive spear aimed directly at my heart. I was too disoriented to dodge, still reeling from the earth magic flooding my system.
 
-*Break the connection!* she commanded through our bond. *Sir, you have to let go before it kills you!*
+Raechelle moved faster than thought.
 
-But if I let go, the elemental would destroy the defensive wards. Would tear into Nocturne proper. Would kill everyone here.
+Her panther form became a black blur, slamming into me and knocking me aside. The earth spear caught her instead—driving through her shoulder and out the other side, pinning her to the ground.
 
-I couldn't allow that.
+The pain hit me like a thunderbolt.
+
+Not my pain—hers. Transmitted through our bond with agonizing clarity. I felt the stone tearing through muscle and bone, felt her nerves screaming in protest, felt the earth magic corrupting the wound and trying to spread through her system. It was worse than any injury I'd personally suffered because I was experiencing it secondhand but couldn't do anything to stop it.
+
+*Sir—* Her mental voice was tight with agony but still focused on me. *The elemental—finish it—*
+
+"Raechelle!" I scrambled toward her, but another earth spear erupted between us, forcing me back.
+
+*No!* she commanded through the bond, her alpha authority cutting through my panic. *Don't you dare let my sacrifice be wasted! FINISH IT!*
+
+She was right. Corvinus had just died saving me. Now Raechelle was grievously wounded protecting me. If I didn't end this now, both sacrifices would be meaningless.
+
+Through our bond, I felt her pushing strength toward me despite her injury. Felt her suppressing her own pain to keep me focused. Felt her absolute faith that I could do this.
+
+I pulled myself together, channeling my grief and rage into cold determination.
+
+The elemental raised its massive fist for another strike. This one would crush me—and probably Raechelle too.
+
+Before I could react, Magistrate Corvinus appeared from nowhere, his ancient form moving with impossible speed. He slammed into me from the side, shoving me clear just as the elemental's fist came down.
+
+The impact caught him squarely. Stone met vampire in a sickening crunch that I heard even through the chaos of battle.
+
+"Corvinus!" I screamed.
+
+The ancient vampire was crushed against the ground, his body broken. But even dying, he moved with purpose. His hand shot out, glowing with concentrated blood magic, and struck the elemental's core. The spell he'd been teaching me—the molecular disruption technique—executed with perfect, lethal precision.
+
+The elemental shuddered, its form destabilizing.
+
+I scrambled to Corvinus's side, still feeling Raechelle's pain like fire through our bond. Two people I cared about, both bleeding for me.
+
+"Magistrate—" My hands hovered uselessly over his shattered form.
+
+"Precision... over power," he whispered, blood flowing from his lips. His ancient eyes met mine with perfect clarity despite his wounds. "Save... your familiar first. I'm... already gone. Remember... the scalpel... not the hammer."
+
+"We'll get healers for both of you—"
+
+"No time. Already... fading." His hand gripped mine with surprising strength. "You were... a worthy student. Better than I deserved. Finish what... we started. Protect this city... and the one you love."
+
+His eyes dimmed. The presence that had defined him for centuries simply... stopped.
+
+Magistrate Corvinus, who had survived millennia, who had taught me everything about precision and control, was gone. Sacrificed to save me.
+
+The grief hit like a physical blow, but I couldn't afford to process it. Not yet. The battle still raged, and Raechelle was still pinned by that earth spear, her pain still flooding through our bond.
+
+*Break the connection with Terravos!* Raechelle commanded through our bond, her panic cutting through my shock even as she endured her own agony. *Sir, you have to let go before it kills you!*
+
+But if I let go, the elemental would destroy the defensive wards. Would tear into Nocturne proper. Would kill everyone here. Would make Corvinus's sacrifice meaningless.
+
+I couldn't allow that. I wouldn't dishonor his final lesson.
 
 Instead of letting go, I pulled harder. I opened myself completely to the flow of magic, became a conduit between Terravos's power and the elemental. And in that moment of total openness, I did something insane.
 
@@ -5333,47 +5381,73 @@ The elemental collapsed in a rush of dust and stone. The breach in the defensive
 
 And I collapsed too, blood running from my nose, my ears, my eyes. I'd pushed too far, spent too much.
 
-Raechelle caught me before I hit the ground, her panther form shifting back to human as she cradled my head in her lap.
+Raechelle somehow pulled herself free from the earth spear—ripping through stone and her own wounded flesh to reach me. She caught me before I hit the ground, her panther form shifting back to human despite the gaping wound in her shoulder that was still bleeding freely.
 
-"You idiot," she sobbed. "You beautiful, brave, stupid idiot. What did you do?"
+"You idiot," she sobbed, pressing one hand against my chest while her other arm hung useless at her side. "You beautiful, brave, stupid idiot. What did you do?"
 
-"Won," I managed to whisper. "We won."
+"Won," I managed to whisper. "We won. But you're... hurt..."
 
-"At what cost?" She was pressing her hands against my chest, and I realized with distant concern that I was bleeding from wounds I didn't remember receiving. "Sir, stay with me. Please. Don't you dare leave me."
+"I'm fine," she lied through gritted teeth. Through our bond, I could still feel her pain—dulled now as she fought to suppress it, but there nonetheless. The earth magic in the wound was resisting healing, spreading corruption through her system.
 
-"Not... leaving." Each word was agony. "Just... need a minute."
+"At what cost?" She was pressing her good hand against my chest, and I realized with distant concern that I was bleeding from wounds I didn't remember receiving. "Sir, stay with me. Please. Don't you dare leave me."
+
+"Not... leaving." Each word was agony. "But your shoulder... the corruption..."
+
+"Shut up and let me save you first." Her tears fell on my face.
 
 The world was going dark around the edges. I could hear Viktor shouting for healers, Lysandra chanting something that felt like healing magic. But it all seemed very far away.
 
 *Stay with me,* Raechelle pleaded through our bond. *Use my strength. Take whatever you need. Please, Sir. Don't leave me alone.*
 
-I felt her offering herself completely through our bond—her life force, her magic, her very essence. All of it available to me if I just reached out and took it.
+I felt her offering herself completely through our bond—her life force, her magic, her very essence. All of it available to me if I just reached out and took it. Even with corruption eating at her shoulder, even grievously wounded, she was trying to save me.
 
-I started to refuse. Couldn't let her sacrifice herself for me.
+I started to refuse. Couldn't let her sacrifice herself for me, not when she was already hurt.
 
-But then I felt something else through the bond—her absolute certainty that losing me would destroy her anyway. That a life without me wasn't a life worth living.
+But then I felt something else through the bond—her absolute certainty that losing me would destroy her anyway. That a life without me wasn't a life worth living. That she'd already taken an earth spear for me and would do it again without hesitation.
 
-*Together,* she insisted. *We live together or die together. Those are the only options. Now take my strength and survive.*
+*Together,* she insisted. *We live together or die together. Those are the only options. Now take my strength and survive. Then you can heal me.*
 
-So I did. I drew gently on our bond, taking just enough to stabilize myself without risking her. Her life force flowed into me, warm and familiar, tasting of her love and devotion.
+The logic was sound, even if it terrified me. If I died, she couldn't heal herself alone—the corruption would consume her. But if I lived, I could use my blood magic to purge the earth magic from her wound.
+
+So I did. I drew gently on our bond, taking just enough to stabilize myself without risking her. Her life force flowed into me, warm and familiar, tasting of her love and devotion—and carrying an undercurrent of her pain that she was trying to hide.
 
 The bleeding stopped. My wounds began to close. The darkness receded.
 
-I opened my eyes to find Raechelle staring down at me, her face streaked with tears but her expression fierce.
+I opened my eyes to find Raechelle staring down at me, her face streaked with tears and pale from blood loss, but her expression fierce.
 
-"Don't ever do that again," she demanded.
+"Good," she gasped. "Now... fix my shoulder... before I pass out."
 
-"Can't promise that." I managed a weak smile. "But I promise I'll try not to die in the process."
+"On it." I pulled myself up with effort, immediately focusing my blood magic on her wound. The earth corruption fought me, but I'd just destroyed three elementals—I knew how to handle Terravos's magic now.
 
-She laughed, the sound half-sob, and kissed me hard enough to hurt. I kissed her back, drawing strength not just from our bond but from the simple fact that we were alive, together, having survived another impossible battle.
+I placed my hands on her wounded shoulder and pushed. My blood magic flooded the injury, seeking out and destroying the foreign earth magic with surgical precision. Thanks to Corvinus's final lesson, I knew exactly how much force to apply.
 
-Around us, the defenders were securing the area. The corrupted werewolves I'd cleansed were being tended to by healers. The casualties... I didn't want to count the casualties.
+Raechelle bit back a scream as I worked, her good hand gripping my arm hard enough to bruise.
 
-Viktor approached, looking battered but whole. "The other breaches are secured. Whatever Terravos was trying to do, we stopped it."
+"Sorry," I muttered. "Almost done."
 
-"For now." I let Raechelle help me sit up, my body protesting every movement. "He'll try again. This was just a test—seeing what we could handle."
+The last traces of corruption burned away. With the earth magic gone, her natural healing abilities kicked in, accelerated by our bond. The wound began to close, muscle and bone knitting back together.
 
-"Then we need to be ready for the real attack." Viktor offered me his hand, pulling me to my feet. "But Riven? What you did here—purging the corruption, closing the breaches—that's going to become legend. Every defender here saw you nearly kill yourself to protect Nocturne."
+She sagged against me in relief. "That... was unpleasant."
+
+"You took an earth spear for me." My voice cracked. "You could have died."
+
+"So could you. That's kind of the point of being partners, Sir." She managed a weak smile despite her lingering pain. "We keep each other alive."
+
+"Don't ever do that again," I demanded, echoing her earlier words.
+
+"Can't promise that." Her smile widened slightly. "But I promise I'll try not to die in the process."
+
+I laughed despite everything—the grief for Corvinus, the exhaustion, the knowledge that we'd both nearly died. She laughed with me, the sound half-sob, and kissed me hard enough to hurt. I kissed her back, drawing strength not just from our bond but from the simple fact that we were alive, together, having survived another impossible battle.
+
+Around us, the defenders were securing the area. The corrupted werewolves I'd cleansed were being tended to by healers. Corvinus's body was being carried away with honor. The casualties... I didn't want to count the casualties.
+
+Viktor approached, looking battered but whole. "The other breaches are secured. Whatever Terravos was trying to do, we stopped it. And I saw what happened—both of you." His expression was solemn. "Corvinus's sacrifice won't be forgotten. Neither will yours, Raechelle."
+
+"I'd do it again," she said simply.
+
+"For now." I let Raechelle help me sit up, both of us moving stiffly, our bodies protesting every movement. "He'll try again. This was just a test—seeing what we could handle."
+
+"Then we need to be ready for the real attack." Viktor offered me his hand, pulling me to my feet while Raechelle steadied herself against me. "But Riven? What you did here—purging the corruption, closing the breaches, saving your familiar after she saved you—that's going to become legend. Every defender here saw you both nearly kill yourselves to protect Nocturne."
 
 "I did what had to be done."
 
@@ -5403,45 +5477,45 @@ As the various groups dispersed to tend their wounded and secure the perimeter, 
 
 "How many did we lose?" I asked quietly.
 
-Raechelle was silent for a moment. "Five confirmed dead. Dozens wounded. Could have been much worse without your intervention."
+Raechelle was silent for a moment, her hand unconsciously touching her healed shoulder where the earth spear had pierced her. "Six confirmed dead, including Magistrate Corvinus. Dozens wounded. Could have been much worse without your intervention."
 
-Five people who woke up this morning not knowing it would be their last day. Five families who would grieve. Five lives ended because Terravos wanted to hurt me.
+Six people who woke up this morning not knowing it would be their last day. Six families who would grieve. And Corvinus—ancient, wise, patient Corvinus who had taught me precision over power. His final lesson had been taught with his life.
 
-"This is my fault," I said.
+"Corvinus died because of me," I said, the guilt crushing my chest. "He pushed me out of the way. Took that hit for me."
 
-"No." Raechelle stopped walking and turned to face me, her amber eyes blazing. "This is Terravos's fault. He attacked. He corrupted those werewolves. He killed those people. You did everything you could to minimize the damage."
+"No." Raechelle stopped walking and turned to face me, her amber eyes blazing despite her own exhaustion. "Corvinus chose to save you. He made that choice, Sir. Just like I chose to take that earth spear for you. This is Terravos's fault. He attacked. He corrupted those werewolves. He killed those people. You did everything you could to minimize the damage."
 
 "But they died because of me. Because I'm here, refusing to do what he wants."
 
-"They died defending their home against a tyrant. That's not on you, Sir." She took my face in her hands, forcing me to meet her gaze. "Don't you dare take responsibility for Terravos's crimes. That path leads to either surrender or madness."
+"They died defending their home against a tyrant. Corvinus died protecting someone he believed in. That's not on you, Sir." She took my face in her hands, wincing slightly as her shoulder protested the movement. "Don't you dare take responsibility for Terravos's crimes. That path leads to either surrender or madness. Corvinus wouldn't want that for you."
 
-She was right. I knew she was right. But the weight of those deaths still sat heavy on my chest.
+She was right. I knew she was right. But the weight of those deaths—especially Corvinus's sacrifice—still sat heavy on my chest.
 
 "Come on," she said more gently. "Let's get you home. You need blood, rest, and probably about twelve hours of sleep."
 
-"In that order?"
+"You need the same," I pointed out. "That wound isn't fully healed yet."
 
-"Definitely in that order." She smiled, but I could see the strain around her eyes. She'd been terrified when I collapsed, and that fear hadn't fully faded.
+"I'll heal faster with you beside me. Bond works both ways, remember?" She smiled, but I could see the strain around her eyes. We'd both been terrified today—her when I nearly died, me when she took that earth spear.
 
 We walked home through a Nocturne that felt different now—no longer a safe haven but a city under siege. Supernatural beings eyed each other with new suspicion, wondering if more corruption lurked unseen. The attack had shattered the illusion of perfect safety.
 
-But I also saw something else. As we passed, defenders nodded to me with respect. Citizens who'd hidden during the attack emerged to offer thanks. A young witch pressed a healing draught into my hands with tears in her eyes, saying her sister had been among those I'd saved.
+But I also saw something else. As we passed, defenders nodded to us both with respect. Citizens who'd hidden during the attack emerged to offer thanks. A young witch pressed a healing draught into my hands with tears in her eyes, saying her sister had been among those we'd saved. An old vampire bowed deeply as we passed, murmuring something about Corvinus having chosen his successor well.
 
-I was becoming what I'd never imagined—a symbol. A protector. A leader.
+I was becoming what I'd never imagined—a symbol. A protector. A leader. And Raechelle beside me, who'd taken a blow meant for me, was becoming a symbol too. The familiar who would give everything for her Archon.
 
-And with Terravos escalating his attacks, that role was only going to grow more demanding.
+And with Terravos escalating his attacks, those roles were only going to grow more demanding.
 
 ---
 
-That night, as Raechelle tended my wounds in the privacy of our bedroom, I made a decision.
+That night, as Raechelle tended my remaining cuts in the privacy of our bedroom, both of us moving carefully around our injuries, I made a decision.
 
-"I need to take the fight to him," I said. "Stop reacting and start acting. If I wait for Terravos to make the next move, more people will die."
+"I need to take the fight to him," I said. "Stop reacting and start acting. If I wait for Terravos to make the next move, more people will die. Corvinus died buying me time—I need to use it."
 
-"Agreed." Raechelle's hands were gentle but efficient as she cleaned a cut along my ribs. "But you can't face an ancient Archon alone, Sir. You're powerful, but you're not invincible. Today proved that."
+"Agreed." Raechelle's hands were gentle but efficient as she cleaned a cut along my ribs, her healed shoulder supporting her weight now. "But you can't face an ancient Archon alone, Sir. You're powerful, but you're not invincible. Today proved that. We both almost died."
 
 "Then I build a team. Viktor, Lysandra, maybe others. A strike force capable of hitting Terravos where he's vulnerable."
 
-"That's... actually a good plan." She paused in her ministrations. "But it's also suicide if you rush it. You need more training from Corvinus. You need to fully master your Blood Archon abilities. And you need allies powerful enough to stand against an Archon."
+"That's... actually a good plan." She paused in her ministrations. "But Corvinus won't be there to train you anymore. You'll need to master your Blood Archon abilities on your own now. And you need allies powerful enough to stand against an Archon."
 
 "How long will that take?"
 
@@ -5765,9 +5839,19 @@ We stepped through.
 
 The transition was jarring. One moment I stood in Nocturne's controlled environment, the next I was stumbling onto rocky ground under an open sky. Real stars glittered above—not the eternal twilight I'd grown accustomed to, but actual night.
 
-We'd emerged in a canyon, tall stone walls rising on either side. The air tasted of dust and minerals, and I could feel Terravos's power in the very ground beneath my feet. This was his domain, shaped by centuries of earth magic.
+We'd emerged in a canyon, tall stone walls rising on either side. The air tasted of dust and minerals, dry and harsh compared to Nocturne's carefully maintained atmosphere. And I could feel Terravos's power in the very ground beneath my feet—oppressive, ancient, watching. This was his domain, shaped by centuries of earth magic.
 
-"Shadow walkers, scout ahead," I ordered quietly. "Viktor, position your pack for rapid response. Lysandra, defensive wards around our position."
+But it was more than just the magic that felt different. As my Blood Sight expanded, searching for threats, I sensed life forces in the distance that moved with the jerky, controlled patterns of corruption. Not just a few guards—hundreds of beings, all bound to Terravos's will. An entire population living under his absolute control.
+
+Through the bond, I felt Raechelle's revulsion. *This whole territory feels wrong, Sir. Like the land itself is sick.*
+
+*That's what absolute Archon rule looks like,* I replied grimly. *No balance. No freedom. Just power imposed from above.*
+
+In Nocturne, supernatural beings came and went freely, governed by Council consensus and ancient law. But here? Here, I could sense the invisible chains binding every living thing to Terravos's will. The earth remembered every footstep, reported every movement. Privacy didn't exist. Dissent would be impossible.
+
+This was what he'd tried to make me become—Balance not as a stabilizing force but as a tyrant's tool.
+
+"Shadow walkers, scout ahead," I ordered quietly, pushing aside my disgust. "Viktor, position your pack for rapid response. Lysandra, defensive wards around our position."
 
 The team moved with practiced efficiency. Within minutes, we'd secured our landing zone and the scouts were reporting back.
 
@@ -5845,9 +5929,23 @@ We poured inside.
 
 The interior was a maze of corridors carved from living rock, lit by luminescent crystals. Storage rooms branched off the main passages, filled with weapons, armor, and supplies meant to equip an army.
 
-"Burn it all," I ordered.
+But it was what I saw in one of the side chambers that made my blood run cold.
 
-Lysandra's witches began their work, placing incendiary charges with practiced efficiency. The shadow walkers disappeared into the depths, seeking intelligence.
+Cages. Dozens of them, carved directly into the stone walls. And inside—beings. Werewolves, vampires, witches, even some fae. All bearing the sickly green tint of corruption in their eyes, but with something else too. Terror. They were conscious enough to know what had been done to them, aware of their own enslavement but powerless to resist.
+
+"Gods," Lysandra whispered beside me, staring at the imprisoned beings. "He's not just corrupting them for battle. He's keeping them. Storing them like... like tools."
+
+*Sir, we can't leave them like this,* Raechelle sent urgently.
+
+*We can't free them either. Not safely. The corruption would make them attack us, or each other.* The reality sickened me, but we didn't have time for a rescue operation. *We document this. Make sure the world knows what Terravos does to those who resist him.*
+
+One of the shadow walkers was already sketching the scene, magical crystals recording everything for evidence. This was the true face of Terravos's rule—not just tyranny but dehumanization. Reducing thinking beings to weapons and slaves.
+
+This was what awaited every supernatural community if he won.
+
+"Burn it all," I ordered, my voice harder than before. "Every supply, every weapon. And..." I looked at the caged beings, my heart breaking. "Document their faces. Their factions. Someone needs to know what happened to them."
+
+Lysandra's witches began their work, placing incendiary charges with practiced efficiency. The shadow walkers disappeared deeper into the complex, seeking intelligence—and recording everything they found.
 
 And I felt it—a massive presence awakening in the heart of the complex. The lieutenant, responding to our intrusion.
 
@@ -5888,6 +5986,8 @@ Blood Dominion. The forbidden technique Corvinus had taught me. I'd sworn to use
 I reached out with my consciousness and declared the space around me mine. For fifty feet in every direction, I was absolute. Life and death answered to my will. Blood—even the metaphorical blood of animated stone—obeyed my command.
 
 The power was intoxicating. I could feel every living thing in my domain, could sense the magic animating the lieutenant, could command with a thought what would normally take minutes of concentration.
+
+But maintaining it while grief for Corvinus still tore at my heart was agony.
 
 I spoke to the earth magic flowing through the stone creature, and this time, it had no choice but to listen.
 
