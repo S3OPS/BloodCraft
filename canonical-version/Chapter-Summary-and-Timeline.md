@@ -354,12 +354,12 @@ Revealed in layers—from distant threat to immediate danger to complex villain 
 
 ## Notes for Future Development
 
-- Each chapter should balance action, politics, romance, and character development
+- Each chapter should balance action, politics, character development, and while revolving mainly romance
 - The Dom/sub relationship should deepen organically, reflecting trust and intimacy
 - Supernatural world-building should continue throughout without overwhelming the narrative
 - Supporting characters should have their own arcs that intersect with the main story
 - Maintain tension between Riven's desire for revenge and his growing responsibilities
-- Romance scenes should serve character development, not just titillation
+- Romance scenes should serve character development, with ample titillation
 
 ---
 
@@ -376,11 +376,8 @@ This first book in the series should conclude around Chapter 15 (The Crimson Bal
 - A satisfying emotional climax while leaving threads for future books
 
 **Suggested Book One Ending Points:**
-1. **Chapter 15 (The Crimson Ball)** - Ends on a social triumph and romantic high note, with the assassination attempt providing urgency for Book Two
-2. **Chapter 16 (Bloodlines)** - Ends with major revelations about Riven's true heritage and potential, creating a cliffhanger for the sequel
+1. **Chapter 16 (Bloodlines)** - Ends with major revelations about Riven's true heritage and potential, creating a cliffhanger for the sequel
 
 **Potential Book One Subtitle Ideas:**
-- Blood Craft: Awakening
 - Blood Craft: The Crimson Heir
-- Blood Craft: Night's Embrace
 - Blood Craft: Born of Blood
