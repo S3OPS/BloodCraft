@@ -3907,7 +3907,7 @@ But for now, I had a home to return to, a familiar who loved me, and the growing
 
 The body was discovered three days after my enrollment at the Academy.
 
-Lord Maximilian Thorne—a vampire noble of considerable influence and distant cousin to Lady Seraphina herself—was found in his townhouse with every drop of blood drained from his body. The method was unmistakable: blood magic, applied with devastating precision.
+Lord Maximilian Thorne—a vampire noble of considerable influence and distant cousin to Lady Seraphina herself—was found in his townhouse with every drop of blood drained from his body. The method was unmistakable: blood magic, applied with devastating precision. His life force hadn't simply been taken—it had been systematically drained in a manner that required exceptional skill and intimate knowledge of Blood Archon techniques. The victim's body bore the unmistakable signature of blood manipulation at the highest levels of mastery, narrowing the suspect pool to beings capable of such precise and deadly application of power.
 
 The news reached us through the official Council notification system—a crystalline chime that sounded throughout the city whenever matters of public importance required attention. Raechelle and I were reviewing my assignment for Master Thalia's class when the announcement came.
 
@@ -3947,7 +3947,9 @@ I recognized the futility of argument. Besides, having Raechelle at my side migh
 
 The Council chambers occupied the highest level of Nocturne's administrative complex—a vast circular room with a domed ceiling painted with scenes from supernatural history. Thirteen seats arranged in a semicircle faced a single position at the room's center: the supplicant's stand, where those called before the Council were expected to present themselves.
 
-Lady Seraphina Darkthorne occupied the central and highest seat, her violet eyes following my progress across the marble floor with unsettling intensity. The other Council members—representatives of various supernatural factions—regarded me with expressions ranging from curiosity to open hostility.
+The political implications couldn't have been more obvious—the newest Blood Archon arrives in Nocturne, and shortly thereafter a prominent Council member dies by blood magic. The timing appeared damningly deliberate.
+
+Lady Seraphina Darkthorne occupied the central and highest seat, her violet eyes following my progress across the marble floor with unsettling intensity. The other Council members—representatives of various supernatural factions—regarded me with expressions ranging from curiosity to open hostility. Several Council members sat forward in their seats, their body language suggesting they'd already reached a verdict. I could feel the weight of their suspicion, thick as smoke in the air.
 
 I recognized a few faces from my studies. The werewolf representative, a massive man with silver-streaked hair and yellow eyes. The witch delegation's leader, an ancient woman who appeared perpetually surrounded by swirling motes of light. A fae lord whose beauty was so perfect it seemed almost aggressive.
 
@@ -3995,7 +3997,7 @@ The ancient witch rose from her seat, the lights swirling around her coalescing 
 
 "I understand."
 
-Her fingers touched my temples, and suddenly I felt her presence in my mind—a careful, clinical intrusion that reminded me of a doctor's examination. Uncomfortable, as promised, but not painful.
+Her fingers touched my temples, and suddenly I felt her presence in my mind—a careful, clinical intrusion that reminded me of a doctor's examination. But this went deeper than discomfort. Her magic delved into my consciousness with invasive thoroughness, examining recent memories and emotional states, leaving me feeling violated despite intellectual understanding that the process was necessary for my exoneration. I felt her sifting through my thoughts, my feelings, even my dreams, searching for any trace of guilt or concealment.
 
 "Did you kill Lord Maximilian Thorne?" The question echoed in my consciousness.
 
@@ -4052,6 +4054,10 @@ I stopped, turning to look at her. "Explain."
 "Think about it, Sir. A Blood Archon-style murder occurs. You're the obvious suspect. The Council investigates, finds you innocent, and publicly clears your name." Her amber eyes glittered with dark understanding. "Now you're not just a newcomer—you're a newcomer who was accused of murder. Your reputation is tainted regardless of the verdict. Some will always suspect you got away with it through political maneuvering."
 
 The insight was chilling in its implications. "Terravos isn't just trying to kill me. He's trying to isolate me. Make potential allies hesitant to associate with someone so controversial."
+
+"Exactly. And the frame attempt accomplishes so much more than just accusation." She ticked points off on her fingers. "If the Council had convicted you, Terravos achieves removal of a future threat without the political cost of openly violating Nocturne's neutrality. But even with your exoneration—which he probably expected—he still wins. It isolates you politically by making potential allies wary. It demonstrates that Terravos's reach extends even into supposedly safe territory, capable of committing murder and directing suspicion. It establishes you as someone who brings danger and chaos rather than stability. And it forces you to operate from a position of defensive weakness rather than offensive strength."
+
+I felt my jaw clench. The sophistication of it was infuriating. "This isn't simply about survival against an enemy who wants me dead. It's about sophisticated political warfare where Terravos is operating several moves ahead."
 
 "And if this first attempt doesn't work, there will be others. Different accusations, different crimes, all designed to keep you off balance and marginalized." Raechelle's expression hardened. "We need allies, Sir. Real ones, who will stand with us regardless of manufactured scandals."
 
