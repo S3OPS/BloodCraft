@@ -202,7 +202,27 @@
 
 ---
 
-### Chapter 17: The Hunt Begins
+### Chapter 17: Echoes of the Past
+**Main Plot Points:**
+- Riven explores memory crystals from three Blood Archon ancestors
+- Processes the weight of his destiny through their experiences
+- Learns Blood Resonance technique from Corvinus
+- Intimate conversations with Raechelle about bearing burdens together
+- Accepts his path forward on his own terms
+
+**Training Milestone:**
+- Mastery of Blood Resonance—reading emotional imprints in blood
+- Deeper understanding of the Blood Archon legacy's burden
+- Connection to ancestral wisdom strengthens resolve
+
+**Character Development:**
+- Riven reconciles personal desires with inherited responsibility
+- Raechelle shares her own struggles with destiny and duty
+- Their bond deepens through mutual vulnerability and support
+
+---
+
+### Chapter 18: The Hunt Begins
 **Main Plot Points:**
 - Terravos's patience runs out; he sends elite hunters
 - Attack on Nocturne's borders—testing the city's defenses
@@ -222,7 +242,7 @@
 
 ---
 
-### Chapter 18: Recovery and Resolve
+### Chapter 19: Recovery and Resolve
 **Main Plot Points:**
 - Aftermath of the attack; healing and regrouping
 - Council debate on response to Terravos's aggression
@@ -242,7 +262,7 @@
 
 ---
 
-### Chapter 19: Into Enemy Territory
+### Chapter 20: Into Enemy Territory
 **Main Plot Points:**
 - Strike team infiltrates Earth Archon territory
 - Series of surgical strikes against Terravos's infrastructure
@@ -262,7 +282,29 @@
 
 ---
 
-### Chapter 20: The Gathering Storm (Mid-Point Climax)
+### Chapter 21: Bonds of Alliance
+**Main Plot Points:**
+- Analysis of intelligence gathered from enemy territory raid
+- Deepening brotherhood with Viktor through pack run
+- Morgana Blackwood coven politics and alliance solidification
+- Life-bonding ceremony with Raechelle
+- War council reveals Terravos allied with Mordecai the Deathless
+- Building coalition with multiple Archons
+
+**Relationship Milestone:**
+- Life-bonding ceremony: formal supernatural marriage equivalent
+- Sacred ritual connecting souls across lifetimes
+- Public declaration of eternal commitment
+- New bond abilities unlocked through deepened connection
+
+**Strategic Developments:**
+- Intelligence reveals larger conspiracy beyond Terravos
+- Alliance network expands to counter growing threats
+- Coalition building requires political negotiation and compromise
+
+---
+
+### Chapter 22: The Gathering Storm (Mid-Point Climax)
 **Main Plot Points:**
 - Terravos responds with devastating retaliation
 - Nocturne faces a potential siege
@@ -282,9 +324,9 @@
 
 ---
 
-## Long-Term Story Arc (Chapters 21-30)
+## Long-Term Story Arc (Chapters 23-38)
 
-### Phase 3: The War (Chapters 21-25)
+### Phase 3: The War (Chapters 23-27)
 - Full supernatural conflict between Archon factions
 - Riven growing into his role as Blood Archon
 - Major battles and tactical engagements
@@ -292,19 +334,155 @@
 - Discovery of the ultimate weapon or knowledge Terravos seeks
 - Riven unlocking his full Blood Archon potential
 
-### Phase 4: The Confrontation (Chapters 26-29)
-- Final campaign against Terravos
-- Infiltration of the Earth Archon's stronghold
-- Epic confrontation between Riven and Terravos
-- Resolution of parents' murder; justice served
-- Consequences for the supernatural world
+### Chapter 23: [War Chapter 1]
+*Placeholder for first major war chapter - Full supernatural conflict begins*
 
-### Phase 5: New Dawn (Chapter 30 - Conclusion)
-- Establishing peace after Terravos's defeat
-- Riven's position in the new supernatural order
-- Marriage/permanent bonding ceremony with Raechelle
-- Hints at future adventures and challenges
-- Epilogue showing their life together
+---
+
+### Chapter 24: [War Chapter 2]
+*Placeholder for second war chapter - Major battles and tactical engagements*
+
+---
+
+### Chapter 25: [War Chapter 3]
+*Placeholder for third war chapter - Discovery of ultimate weapon or knowledge*
+
+---
+
+### Chapter 26: The Price of Leadership
+**Main Plot Points:**
+- Visits to wounded warriors in healing ward
+- Personal memorial meetings with families of fallen
+- Council debates surrender vs. offensive action
+- Corvinus mentorship on bearing the weight of command
+- Raechelle recovery and intimate conversations
+- Strike team recruitment from 100+ volunteers to final 23
+
+**Leadership Development:**
+- Riven faces the human cost of his decisions
+- Learning to honor sacrifice while continuing to lead
+- Balancing compassion with strategic necessity
+- Understanding that leadership means carrying others' grief
+
+**Character Moments:**
+- Intimate vulnerability with Raechelle during her recovery
+- Corvinus reveals his own losses and leadership lessons
+- Personal connection with each strike team member
+- Acceptance of command's burden and privilege
+
+---
+
+### Chapter 27: [War Chapter 4]
+*Placeholder for fourth war chapter - Continued conflict and losses*
+
+---
+
+### Chapter 28: [War Chapter 5]
+*Placeholder for fifth war chapter - Riven unlocking full Blood Archon potential*
+
+---
+
+### Chapter 29: Revelations in the Ruins
+**Main Plot Points:**
+- War council analyzes captured Terravos intelligence
+- Discovery of imprisoned backup Blood Archon
+- Mother Elara's journal reveals third path: transformation of Balance
+- Strategic planning for dual mission: Riven's duel and rescue operation
+- Corvinus provides moonlight vial weapon
+- Army rallying speech about chosen family
+
+**Major Revelations:**
+- Ancient prophecy about transforming supernatural balance
+- Another Blood Archon survivor exists, imprisoned by Terravos
+- Mother's true intentions went beyond simple protection
+- The conflict has deeper implications for all supernatural society
+
+**Strategic Preparation:**
+- Dual-pronged mission planning: duel and rescue
+- Specialized magical weapons and tactics prepared
+- Army unified through shared purpose and conviction
+- Final preparations before ultimate confrontation
+
+---
+
+### Chapter 30: [Confrontation Chapter 1]
+*Placeholder for infiltration - Final campaign against Terravos begins*
+
+---
+
+### Chapter 31: [Confrontation Chapter 2]
+*Placeholder for stronghold infiltration - Rescue mission and tactical advances*
+
+---
+
+### Chapter 32: The Calm Between Storms
+**Main Plot Points:**
+- First peaceful morning after war, domestic moments
+- Exploration of Nocturne in peacetime
+- Symbolic bloodmoon silver promise rings
+- Tribute to fallen through art and remembrance
+- Romantic dinner and intimate bonding
+- Serious family planning discussions
+
+**Relationship Deepening:**
+- Experiencing normal life together for the first time
+- Planning for a future beyond survival and war
+- Discussing children, legacy, and long-term dreams
+- Celebrating their bond in peace, not just battle
+
+**Character Moments:**
+- Quiet domesticity contrasts with warrior life
+- Processing trauma and loss through memorial art
+- Intimate vulnerability about hopes and fears
+- Strengthening foundation for their shared future
+
+---
+
+### Chapter 33: [Confrontation Chapter 3]
+*Placeholder for escalation - Continued campaign and tactical victories*
+
+---
+
+### Chapter 34: [Confrontation Chapter 4]
+*Placeholder for penultimate battle - Epic confrontation between Riven and Terravos begins*
+
+---
+
+### Chapter 35: [Confrontation Chapter 5]
+*Placeholder for climax - Resolution of parents' murder; justice served*
+
+---
+
+### Chapter 36: Legacy and Preparation
+**Main Plot Points:**
+- Post-war reconstruction efforts three weeks after final battle
+- Pregnancy reveal - Raechelle expecting Elena
+- Peace summit with Fire, Water, and Air Archons
+- Signing of Accords of the Crystal Spire
+- Preparing ancestral home as true family space
+- Bridge to 40-year time-jump epilogue
+
+**Major Life Changes:**
+- Transition from war to peace and governance
+- Pregnancy announcement and family planning
+- Diplomatic leadership in new supernatural order
+- Home transformation from headquarters to family sanctuary
+
+**World Building:**
+- Inter-Archon peace accords establish new era
+- Riven's role in shaping supernatural society
+- Legacy considerations for next generation
+- Setting stage for long-term peace and prosperity
+
+---
+
+### Chapter 37: [New Dawn Chapter 1]
+*Placeholder for establishing peace - Riven's position in new supernatural order*
+
+---
+
+### Chapter 38: New Beginning (Epilogue)
+*Placeholder for epilogue - 40-year time jump showing their life together, Elena grown, hints at future adventures*
 
 ---
 
@@ -318,10 +496,19 @@
 | 10-12 | Weeks 1-2 | Integration & Politics | **Complete** |
 | 13 | Week 3 | The Sanctioned Duel | **Complete** |
 | 14-15 | Months 1-3 | Establishment & Allies | **Complete** |
-| 16-20 | Months 3-6 | Rising Conflict | Outlined |
-| 21-25 | Months 6-12 | War | Outlined |
-| 26-29 | Year 2 | Final Confrontation | Outlined |
-| 30 | Epilogue | New Beginning | Outlined |
+| 16 | Month 3 | Bloodlines Discovery | **Complete** |
+| 17 | Month 3 | Echoes of the Past | **Complete** |
+| 18-20 | Months 3-6 | Rising Conflict | Outlined |
+| 21 | Month 6 | Bonds of Alliance | **Complete** |
+| 22-25 | Months 6-12 | War Begins | Outlined |
+| 26 | Month 9 | Price of Leadership | **Complete** |
+| 27-28 | Months 9-12 | War Continues | Outlined |
+| 29 | Month 12 | Revelations in Ruins | **Complete** |
+| 30-31 | Year 2 | Final Campaign | Outlined |
+| 32 | Year 2 | Calm Between Storms | **Complete** |
+| 33-35 | Year 2 | Final Confrontation | Outlined |
+| 36 | Year 2 | Legacy & Preparation | **Complete** |
+| 37-38 | Epilogue | New Beginning | Outlined |
 
 ---
 
