@@ -331,6 +331,7 @@ Both versions are complete first books. Future development will focus on:
 
 ### Reference Documents
 - `Chapter-Summary-and-Timeline.md` (in each version folder) - Chapter-by-chapter breakdown
+- `WORKFLOW.md` - Parallel development workflow and examples
 - `docs/Comparison-Guide.md` - Side-by-side version comparison
 - "Notes for Future Development" sections - Version-specific guidelines
 

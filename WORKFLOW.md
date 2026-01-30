@@ -325,7 +325,7 @@ When unsure about whether something fits a version:
 ### Reference Order
 
 **Before Starting**:
-1. Read CONTRIBUTING.md (this file)
+1. Read CONTRIBUTING.md for general guidelines
 2. Review relevant version's DEVELOPMENT.md
 3. Check Chapter-Summary-and-Timeline.md for context
 

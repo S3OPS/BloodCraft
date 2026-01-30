@@ -3,15 +3,12 @@
 *.bak
 *.backup
 *~
-.DS_Store
-Thumbs.db
 
 # Editor files
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
 
 # Draft files
 drafts/
