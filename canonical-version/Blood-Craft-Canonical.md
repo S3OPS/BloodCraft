@@ -3449,7 +3449,25 @@ I met his gaze directly. "Justice for my parents. And ultimately, to take my pla
 
 Corvinus studied me for a long moment, his expression unreadable. Then, surprisingly, he smiled—a thin, approving expression that somehow made his ancient face appear almost human.
 
-"Honestly spoken, Lord Sixxx. That is refreshing." He waved a hand over the crystal sphere, which stopped glowing. "Your registration is complete. You are now officially recognized as a resident of Nocturne with full noble privileges and protections."
+"Honestly spoken, Lord Sixxx. That is refreshing." He made several more notations. "However, before your registration is complete, there are additional requirements. The Council must verify your identity magically, assess your threat potential, and bind you to Nocturne's laws."
+
+My apprehension must have shown, because he continued in a reassuring tone. "Standard procedure for all powerful newcomers. Nothing to concern yourself with, though I admit it can be... invasive."
+
+What followed was indeed invasive. Corvinus produced a ceremonial blade and required a blood sample—not a simple drop, but enough to fill a small vial that he sealed with wax bearing the Council's sigil. "Blood verification," he explained. "The most reliable method of confirming bloodline claims."
+
+Then came the psychological evaluation. A witch was summoned—Madame Callista, a severe-looking woman with eyes that seemed to see directly into my thoughts. She asked questions that seemed innocuous at first but gradually probed deeper: my fears, my desires, my capacity for violence, my respect for authority. Through our bond, I felt Raechelle's steady presence, anchoring me as the questioning grew more uncomfortable.
+
+"No signs of instability or malicious intent," Madame Callista finally declared. "Grief and rage are present, but controlled. Acceptable risk level."
+
+The magical capability testing came next. Corvinus led us to a warded chamber where I was instructed to demonstrate my blood magic. Under his watchful silver eyes, I performed the techniques Raechelle had taught me: blood manifestation, healing acceleration, sensory enhancement. Each demonstration was measured by crystals that glowed with varying intensity, cataloging my power level for the official records.
+
+"Impressive," Corvinus murmured, making notes. "Raw potential matching historical records of your lineage. Chancellor Corvinus at the Academy will be most interested in your evaluation."
+
+Finally came the binding oaths. Corvinus produced an ancient scroll inscribed with words that glowed faintly with magical energy. "Place your hand here and repeat after me," he instructed. "These oaths will bind you magically to Nocturne's primary laws. Violation would cause significant physical pain—not enough to incapacitate, but enough to serve as deterrent and warning."
+
+I placed my palm on the scroll and spoke the words he dictated: vows not to murder within city bounds except in sanctioned duels, not to use coercive magic on unwilling city residents, to respect Council authority in matters of public safety. With each vow, I felt something settle into my chest—not oppressive, but present. A magical contract woven into my very being.
+
+"Registration complete," Corvinus finally declared, waving a hand over the crystal sphere that had been recording everything. "You are now officially recognized as a resident of Nocturne with full noble privileges and protections."
 
 He rose, extending his hand. I stood and shook it, feeling the papery coolness of his skin against my palm.
 
@@ -3465,13 +3483,85 @@ With that gentle threat lingering in the air, we were shown out of the registrat
 
 The tour Raechelle had promised proved to be equal parts education and wonder. She led me through the city's major districts with the ease of long familiarity, pointing out landmarks and explaining their significance while I absorbed it all like a sponge desperate for water.
 
-The Midnight Market sprawled across several blocks near the eastern edge of the central district—a chaotic maze of stalls and shops where merchants hawked goods that defied human comprehension. Bottled dreams, literal ones, swirled with colors and scenes inside crystal vials. Weapons forged from solidified shadows hung on racks, their edges somehow sharp despite appearing to be made of nothing at all. A vendor called out prices for memories—specific ones, carefully extracted and preserved, available for purchase by anyone willing to pay.
+The Midnight Market sprawled across several blocks near the eastern edge of the central district—a chaotic maze of stalls and shops where merchants hawked goods that defied human comprehension. Blood potions promising enhanced abilities filled entire shelves—crimson vials labeled with claims of increased strength, heightened senses, accelerated healing. Spelled weapons hung on display: swords that blazed with elemental fire, daggers that could pierce magical shields, bows whose arrows never missed their mark.
 
 "Don't accept anything free," Raechelle warned as we navigated the crowded aisles. "In the Market, every gift comes with strings attached. Some of those strings are literal."
 
-We passed through the Artists' Quarter, where supernatural creators crafted works impossible in the human realm. Painters who used actual light as their medium. Sculptors whose creations moved and breathed. Musicians whose instruments produced sounds that could heal or harm depending on the composition.
+A particularly exotic stall caught my attention—jars filled with ingredients I couldn't begin to identify. Phoenix ash, powdered unicorn horn, crystallized demon tears, the shed scales of dragons. The proprietor, a being whose species I couldn't determine, watched me with too many eyes and smiled with too many teeth.
 
-The Hunting Grounds, which bordered the werewolf district, were visible only from a distance—Raechelle explained that non-wolves were not welcome without explicit invitation. But I could see the vast wilderness beyond the city walls, an impossible forest that seemed to stretch into infinity, where moonlight perpetually silvered the trees and the howls of wolves echoed like music.
+"First time in the Market, young blood?" The voice was layered, as if multiple people spoke simultaneously. "I have rare components for blood magic, if you're interested. Freshly harvested from willing donors, of course."
+
+"We're just browsing," Raechelle said firmly, her hand on my arm guiding me away.
+
+We passed fortune-tellers offering to read blood signatures, curse-breakers advertising their services, and an entire section dedicated to familiars-for-hire. The sheer variety was overwhelming—this was a complete economy built on magic, operating in plain sight yet hidden from mundane human awareness.
+
+The Artists' Quarter proved equally fascinating. Paintings shifted and changed as we watched, reflecting our emotions back at us. A sculpture of intertwined figures moved in slow, graceful patterns, telling stories through their endless dance. Musicians performed on street corners, their instruments producing sounds that made my blood vibrate in resonance—not unpleasant, but deeply affecting in ways I couldn't quite articulate.
+
+As we explored a quieter gallery showcasing enchanted portraiture, I felt Raechelle tense beside me. Through our bond, her sudden wariness flooded into my awareness.
+
+"Sir," she murmured, her voice carrying warning. "We have company."
+
+I turned to find a figure approaching—tall, imposing, with skin that seemed to be composed of smooth gray stone and eyes like chips of obsidian. His movements had an unnatural quality, as if gravity affected him differently than it affected others. The very air around him felt heavier, oppressive with barely contained power.
+
+"Riven Sixxx," the figure said, his voice like grinding stone. "The new Blood Archon. I have been expecting to encounter you."
+
+"You have me at a disadvantage," I replied, keeping my tone neutral despite the spike of adrenaline.
+
+"I am Ambassador Kaine, official representative of Archon Terravos within Nocturne." He offered no hand to shake, no gesture of friendliness. "It is my duty to monitor threats to my lord's interests. You, young Sixxx, represent such a threat."
+
+The gallery had gone conspicuously quiet. Other supernatural beings had melted away, sensing the tension and wisely removing themselves from potential conflict.
+
+"I'm no threat to anyone who doesn't threaten me," I said carefully. "I've come to Nocturne seeking sanctuary, not conflict."
+
+"Sanctuary." Kaine's laugh was humorless, like rocks grinding together. "You seek shelter from consequences of your bloodline's actions. My lord has long memory, longer than your brief human life can comprehend. The vendettas between Archons do not simply disappear because one party hides behind neutrality laws."
+
+"Those vendettas don't justify murdering innocents," I snapped, unable to contain my anger entirely.
+
+"Innocents?" Kaine stepped closer, and I felt the weight of his presence like physical pressure. "Your mother killed dozens of my lord's followers over the centuries. Your bloodline has been thorn in his side for generations. There are no innocents in blood feuds, boy—only survivors and the dead."
+
+Raechelle moved to position herself slightly in front of me, a subtle protective gesture. "Ambassador," she said, her voice carrying steel beneath its politeness, "this conversation approaches the boundaries of what neutrality permits. Nocturne's laws forbid threats against registered residents."
+
+"I make no threats," Kaine replied, though his obsidian eyes never left mine. "I merely state facts. Lord Terravos knows precisely where you are. This city's protection is temporary obstacle, not permanent barrier. You cannot hide here forever, and when you eventually venture beyond these walls—as you must—my lord's patience will be rewarded."
+
+He took a step back, the oppressive weight lifting slightly. "Enjoy your sanctuary while it lasts, young Sixxx. Time favors those who can wait, and my lord has nothing but time."
+
+With that, he turned and walked away, his stone-like form moving through the crowd that parted before him like water.
+
+I released a breath I hadn't realized I'd been holding. Through our bond, I felt Raechelle's concern mixed with anger.
+
+"That was a message," she said quietly. "A reminder that Terravos's reach extends even here."
+
+"I understand." My hands clenched into fists. "He wants me afraid, looking over my shoulder constantly."
+
+"Are you?" Raechelle asked, studying my face.
+
+"No," I said, surprised to find it was true. "I'm angry. And I'm determined. I won't spend my life in fear, Raechelle. We'll find a way to end this."
+
+She squeezed my hand, pride flowing through our bond. "That's the spirit I was hoping to see, Sir."
+
+As we continued our tour, I noticed a lithe figure watching us from the shadows of a nearby alcove. When our eyes met, she stepped forward—a woman with midnight-black hair and eyes like liquid silver, wearing clothes that seemed to be woven from shadow itself.
+
+"Raechelle," she greeted, her voice smooth as silk. "It's been too long."
+
+"Selene," Raechelle replied, and I sensed complicated history in her tone. "I was hoping to encounter you."
+
+"Were you?" Selene's silver eyes shifted to me, assessing. "And this must be the Blood Archon heir everyone is talking about. You've caused quite a stir, Lord Sixxx."
+
+"Not intentionally," I replied.
+
+"The most interesting disruptions rarely are." She glided closer, and I noticed she cast no shadow—appropriate for a shadow mage. "I trade in information, Lord Sixxx. Secrets are my currency. And I have some that might interest you."
+
+"What kind of information?" I asked warily.
+
+"The kind about why Terravos wants you dead." Her smile was enigmatic. "It's not just revenge for old grudges. He's been researching Blood Archon capabilities—specific ones. He wants something from your bloodline, or fears something you might develop."
+
+"Why tell me this?" I asked. "What do you want in return?"
+
+"Future favors," Selene said simply. "I helped your mother on occasion. She was... fair in her dealings. I hope her son will be similar." She handed me a small card that seemed to be made of solidified darkness. "Come find me when you're ready to learn more. But be warned—my information doesn't come cheap."
+
+Before I could respond, she melted back into the shadows and was gone.
+
+We passed through several more districts—the Hunting Grounds visible in the distance beyond the werewolf territory, where moonlight perpetually silvered an impossible forest.
 
 And then, rising at the northern edge of the city like a monument to knowledge itself, stood the Academy of Magical Arts.
 
