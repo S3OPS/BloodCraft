@@ -310,9 +310,10 @@ tone I had never heard from her before. There was a raw urgency in her command t
 asked and get to the glove box now!”
 
 Her eyes were wide with panic, and I could see the tension in her shoulders, her knuckles white as they gripped the
-edges of her seat. Not fully grasping why she couldn't reach the glove box herself, I began to carefully climb over the
-seat, each utterly painful movement filled with a mix of apprehension and instinct. Then, as realization struck like a
-bolt of lightning, I halted abruptly.
+edges of her seat. From my twisted position in the back, I could only see her face and shoulders; the rest was swallowed
+by shadow and crumpled metal. Thinking her seat belt had jammed or the dash had pinned her legs, I began to carefully
+climb over the seat, each utterly painful movement filled with a mix of apprehension and instinct. Then, as I leaned
+forward and moonlight caught a glint of stone, realization struck like a bolt of lightning, and I halted abruptly.
 
 The terrifying truth dawned on me: my mother wasn't moving because she was pinned, unable to maneuver or escape the
 destruction surrounding us. Massive, jagged spikes, seemingly forged from a blend of stone and earth, pierced through
