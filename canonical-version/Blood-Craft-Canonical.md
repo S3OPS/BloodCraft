@@ -4509,7 +4509,11 @@ The word hung in the air between us like a thundercloud.
 
 "Explain," I said quietly.
 
-"My coven has sources. Contacts in other Archon territories." Lysandra leaned forward. "Terravos has been systematically eliminating or absorbing smaller supernatural factions across his domain. He's building an army—not of earth elementals like you'd expect, but of displaced supernaturals desperate enough to serve him. Werewolves who've lost their packs. Vampires cast out from their covens. Witches who've been excommunicated. He's offering them power, protection, and purpose."
+"My coven has sources. Contacts in other Archon territories. Intelligence networks spanning multiple supernatural territories." Lysandra leaned forward, her voice dropping. "Terravos is not simply seeking revenge for old grievances as initially believed. He's actively building a conquest army designed to subjugate multiple territories beyond Nocturne. Your elimination is merely the first step in a broader campaign to establish dominance over all Life Archon domains and then expand into territories currently governed by other Archon factions."
+
+My blood ran cold. "Evidence?"
+
+"Intercepted communications between his generals. Reports from deep-cover operatives within the Earth Archon embassy staff who've grown uncomfortable with their employer's methods. Scrying recordings of secret meetings." She pulled a small crystal from her robes. "We've documented training camps producing elite earth elementalist warriors. Diplomatic missions to neutral territories offering protection in exchange for future military support. Supply stockpiling suggesting preparations for prolonged campaign rather than limited conflict."
 
 My mind raced. "And once he's strong enough?"
 
