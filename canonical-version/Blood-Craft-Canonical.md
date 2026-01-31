@@ -9240,7 +9240,7 @@ The invocation of my mother stung, but it also worked. I nodded, accepting her p
 
 We left the healing ward together, stepping into Nocturne's eternal twilight. The city had taken on a muted quality since the attack, as though the sky itself was in mourning. Magic still flowed through the streets, but subdued, respectful. Even the ever-present music seemed softer.
 
-Our first stop was the vampire district, to visit the family of Marcus Draven. He'd been young—only two centuries old—but fierce in his dedication to Nocturne's defense. The Titan's fist had caught him mid-leap, pulverizing him against the city wall before anyone could reach him.
+Our first stop was the vampire district, to visit the family of Adrian Draven. He'd been young—only two centuries old—but fierce in his dedication to Nocturne's defense. The Titan's fist had caught him mid-leap, pulverizing him against the city wall before anyone could reach him.
 
 His widow, Elena, greeted us at the door of their modest home. She was composed, her face a mask of aristocratic control, but I could see the devastation in her eyes.
 
@@ -9256,9 +9256,9 @@ Elena's mask cracked slightly. "Did it? Forgive me, Lord Sixxx, but he's still d
 
 The room had gone silent. Every vampire was watching us now, waiting to see how this would play out.
 
-"I can't undo what happened," I continued. "I can't bring Marcus back. What I can do is promise you that his death will not be meaningless. We will stop Terravos. We will protect Nocturne. And when we do, when history remembers this war, Marcus Draven's name will be among the heroes who made our victory possible."
+"I can't undo what happened," I continued. "I can't bring Adrian back. What I can do is promise you that his death will not be meaningless. We will stop Terravos. We will protect Nocturne. And when we do, when history remembers this war, Adrian Draven's name will be among the heroes who made our victory possible."
 
-Elena stared at me for a long moment. Then, slowly, she nodded. "He would have appreciated that. Marcus always said..." She swallowed hard. "He said you were different from other leaders. That you saw warriors as people, not resources. I hope that's true, Lord Sixxx. Because if we're going to keep dying for you, we need to know you actually care."
+Elena stared at me for a long moment. Then, slowly, she nodded. "He would have appreciated that. Adrian always said..." She swallowed hard. "He said you were different from other leaders. That you saw warriors as people, not resources. I hope that's true, Lord Sixxx. Because if we're going to keep dying for you, we need to know you actually care."
 
 "I do," I said simply. "More than I can express."
 
@@ -9356,7 +9356,7 @@ The Council chamber fell silent as the implications sank in.
 
 "You're asking for volunteers to go on suicide missions," Thornwick said flatly.
 
-"I'm asking for volunteers to go on high-risk missions that could change the course of this war," I corrected. "Yes, some might not come back. But the alternative is staying here, waiting for Terravos to send another Titan, and losing more people like Marcus Draven and Iris Moonwhisper to attacks we could have prevented."
+"I'm asking for volunteers to go on high-risk missions that could change the course of this war," I corrected. "Yes, some might not come back. But the alternative is staying here, waiting for Terravos to send another Titan, and losing more people like Adrian Draven and Iris Moonwhisper to attacks we could have prevented."
 
 "I'll volunteer," Viktor said immediately. "Along with my best warriors."
 
@@ -9446,7 +9446,7 @@ Later, in bed, with Raechelle curled against my side, I finally allowed myself t
 
 *That's what makes you a leader,* she replied. *Not being ready, but doing what needs to be done despite the fear.*
 
-I thought about Marcus Draven, dying against the city wall. About Iris and Thalia Moonwhisper, holding the line with magic blazing from their hands. About the thirteen empty beds in the healing ward and the families who would never be whole again.
+I thought about Adrian Draven, dying against the city wall. About Iris and Thalia Moonwhisper, holding the line with magic blazing from their hands. About the thirteen empty beds in the healing ward and the families who would never be whole again.
 
 Terravos wanted to break us with fear. To make us believe that resistance was futile. But he'd made a critical miscalculation. Each person he killed, each family he shattered, didn't make Nocturne weaker. It made us more determined.
 
