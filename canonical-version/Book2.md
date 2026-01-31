@@ -1145,7 +1145,7 @@ I would be something new. Something my parents had hoped for when they chose to 
 
 I would be Riven Sixxx—Blood Archon not by obligation but by choice. Balance not by cosmic decree but by personal decision. Protector not because tradition demanded it but because I chose to stand between the people I loved and the darkness that threatened them.
 
-I felt my power rise in response to that resolve, blood singing through my veins with certainty. The weight of legacy was still there, but it felt different now—not a burden crushing me, but a foundation supporting me. The strength of generations, offering guidance without demanding obedience.
+I felt my power rise in response to that resolve, certainty thrumming through my veins. The weight of legacy was still there, but it felt different now—not a burden crushing me, but a foundation supporting me. The strength of generations, offering guidance without demanding obedience.
 
 I was ready.
 
@@ -3086,7 +3086,7 @@ Blood wasn't just a weapon. It was the very essence of life, and those who could
 
 The Codex taught me in ways that transcended normal learning. It wasn't reading words—it was experiencing the memories of those who'd written them. I lived through countless battles, felt victories and defeats as if they were my own. I learned from Blood Archons who'd been dead for centuries, their wisdom preserved in blood and magic.
 
-I learned to sense the blood in every living thing within a hundred yards—not just humans and vampires, but animals, even insects. Each heartbeat was a beacon to my awareness, a potential tool or weapon. The technique required opening my senses in ways that felt almost invasive, but the Codex showed me how to do it with precision, how to filter the overwhelming flood of information into something useful.
+I learned to sense the blood in every living thing within a hundred yards—not just humans and vampires, but animals, even insects. Each heartbeat was a beacon to my awareness, a potential tool or weapon. The technique required opening my senses in ways that felt almost invasive, but the Codex showed me how to do it with precision, how to filter the overwhelming torrent of information into something useful.
 
 I learned to manipulate blood at a distance, stopping hearts or rupturing vessels with a thought. It was dark magic, forbidden for good reason—the kind of power that could turn even the most moral person into a monster. But the Codex didn't shy away from teaching me. "A Balance must understand all aspects of their power," Carmilla's voice whispered through the blood-memories. "To preserve life, you must understand death. To maintain equilibrium, you must know both light and darkness."
 
