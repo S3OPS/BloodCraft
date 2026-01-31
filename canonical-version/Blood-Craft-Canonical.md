@@ -8348,9 +8348,9 @@ She kissed me, hard and desperate and full of all the emotion we couldn't voice 
 
 The ceremony was held that evening, in the Council Hall's grand chamber, before an audience of hundreds. Every faction leader attended, along with representatives from across Nocturne. Even Archon Sylvanas was present, watching with interested silver eyes.
 
-The ritual itself was ancient, predating even the Council. Lady Seraphina presided, speaking words in a language that predated modern supernatural society. Raechelle and I stood facing each other, our hands bound with crimson cord that glowed with blood magic.
+Unlike the intimate midnight ritual in my ancestral chapel, this was a grand public declaration. The formal ritual was ancient, predating even the Council. Lady Seraphina presided once more, her voice resonating through the vast chamber as she spoke words in a language that predated modern supernatural society. Raechelle and I stood facing each other on a raised dais, visible to all, our hands bound with the same crimson cord that glowed with blood magic.
 
-"You've already bonded as Archon and familiar," Seraphina intoned. "Now you bond as equals, as partners, as two souls choosing to walk the same path forever. This is no light commitment—to break such a bond would destroy you both. Do you accept these terms?"
+"Before witnesses gathered from across the supernatural world," Seraphina proclaimed, her voice amplified by the hall's acoustics, "you reaffirm your bond. Archon and familiar, equals and partners, two souls walking the same path forever. Let all present bear witness to this union."
 
 "I do," I said clearly.
 
@@ -9149,7 +9149,7 @@ The war was about to change. No more defending. Only attacking.
 
 ## The Price of Leadership
 
-The healing ward smelled of herbs, copper, and the peculiar tang of supernatural blood—distinct from human blood in ways I'd never noticed before my awakening. Each species had its own scent signature: vampires carried an undertone of preserved roses, werewolves smelled of earth and wild things, witches bore traces of whatever magic they practiced most. Now, walking through the long hall of recovering warriors, I could identify each without looking.
+Two days after the memorial services, the healing ward smelled of herbs, copper, and the peculiar tang of supernatural blood—distinct from human blood in ways I'd never noticed before my awakening. Each species had its own scent signature: vampires carried an undertone of preserved roses, werewolves smelled of earth and wild things, witches bore traces of whatever magic they practiced most. Now, walking through the long hall of recovering warriors, I could identify each without looking.
 
 Thirteen beds stood empty. Permanently empty.
 
@@ -9532,7 +9532,7 @@ No other option was acceptable.
 
 ## Into Enemy Territory
 
-The portal deposited us fifty miles from Terravos's primary supply depot—close enough to strike quickly, far enough to avoid immediate detection. The landscape was hostile: barren earth studded with volcanic rock, the sky perpetually overcast with ash-gray clouds.
+Three days after forming the strike team, the portal deposited us fifty miles from Terravos's primary supply depot—close enough to strike quickly, far enough to avoid immediate detection. The landscape was hostile: barren earth studded with volcanic rock, the sky perpetually overcast with ash-gray clouds.
 
 "This is his domain," Morgana whispered, her magical senses extending outward. "Every stone, every grain of sand—it's all connected to him. We need to move fast."
 
