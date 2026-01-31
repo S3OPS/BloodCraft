@@ -1402,6 +1402,8 @@ I took stock of myself. The overwhelming sensory chaos from earlier had settled 
 
 I sat up, running a hand through my hair. The journal lay on the floor where it had fallen when I'd dozed off. I picked it up, my mother's familiar handwriting on the cover sending another pang through my heart.
 
+For a moment, I just held it, feeling the weight of all it represented. But the mundane needs of my body reasserted themselves, pulling me back to the present.
+
 As the need to relieve myself suddenly became apparent, I turned to Raechelle, pointing toward the closed door and
 inquiring politely, “May I use your facilities?” My voice barely above a whisper, I felt an undeniable urge to blend
 into this warm, welcoming sanctuary.
