@@ -1183,7 +1183,7 @@ I was in the training grounds beneath the Academy with Magistrate Corvinus, lear
 
 "Patience, young Archon," the ancient vampire said, his tone neither harsh nor gentle. "Blood is not a weapon to be wielded—it is a language to be spoken. You must learn its grammar before you can compose poetry."
 
-Then the alarm bells rang.
+Then the alarm bells began to ring.
 
 Corvinus's head snapped up, his ageless eyes suddenly sharp. "That's the northern border. Multiple breaches."
 

@@ -1782,7 +1782,7 @@ They studied me with varying degrees of interest and caution. I was the youngest
 
 "I didn't plan to," I said honestly. "I just wanted justice for my parents and peace for Nocturne."
 
-"And in pursuing those simple goals, you've overthrown centuries of established order." Meridian's voice carried a melodic quality, rising and falling with natural grace. "The question now is what comes next."
+"And in pursuing those simple goals, you've overthrown centuries of established order." Meridian's voice was musical, like water over stones. "The question now is what comes next."
 
 "That's what we're here to discuss," Lady Seraphina interjected smoothly, stepping forward in her role as Nocturne's diplomatic representative. "The old order was broken, sustained by fear and force. The Blood Archon proposes something different."
 
