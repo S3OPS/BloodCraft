@@ -14,7 +14,7 @@
 
 # **Chapter 1**
 
-The full moon hung low in the night sky, closer than it should be, following our car down the winding road with ancient, knowing eyes. Its light should have been silver—but tonight it cast everything in a warm, reddish glow that sank into my bones like a fever. I'd always been a creature of the night, more comfortable in darkness than daylight, but tonight felt different. The moon felt different. Like it was waiting for something.
+The full moon hung low in the night sky, closer than normal, following our car down the winding road with ancient, knowing eyes. Its light should have been silver—but tonight it cast everything in a warm, reddish glow that sank into my bones like a fever. I'd always been a creature of the night, more comfortable in darkness than daylight, but tonight felt different. The moon felt different. Like it was waiting for something.
 
 I'd spent countless nights wandering the woods that bordered our property, drawn to something I couldn't name. The darkness called to me. Dad always said it was in our blood—the way he emphasized that word should have told me something. Mom would joke we needed coffins instead of beds. I'd laughed. Little did I know how prophetic her words would prove.
 
@@ -314,7 +314,7 @@ vivid scarlet as the two mixed. My gaze shifted to the dark figure waiting silen
 inscrutable mask of indifference, devoid of any emotion that might have hinted at the impending consequences of my
 actions.
 
-I hesitated only for an instant before tilting the vial, allowing the thick liquid to cascade over my lips and slip into my mouth. It coated my tongue like polished metal, its flavor a bizarre amalgamation of iron and something I could not quite place—something ancient, something that tasted of secrets buried in blood and bone. 
+I hesitated only for an instant before tilting the vial, allowing the thick liquid to cascade over my lips and slip into my mouth. It coated my tongue like warm syrup mixed with copper, its flavor a bizarre amalgamation of iron and something I could not quite place—something ancient, something that tasted of secrets buried in blood and bone. 
 
 I swallowed. The sensation was both foreign and unsettling. I waited for something—anything—to happen.
 
@@ -322,9 +322,7 @@ Nothing.
 
 An oppressive stillness enveloped the air, thick and heavy like a blanket. I turned to face Raechelle, ready to demand answers, to tell her this was all bullshit, that she'd drugged me or lied or—
 
-Then it hit.
-
-Not gradually. Not gently. Like a freight train slamming into my chest, driving the air from my lungs. I stumbled backward, gasping, choking on nothing. My heart hammered against my ribs so hard I thought it would burst through my sternum.
+Then it hit—not gradually, not gently—like a freight train slamming into my chest, driving the air from my lungs. I stumbled backward, gasping, choking on nothing. My heart hammered against my ribs so hard I thought it would burst through my sternum.
 
 "What—what's happening—" The words came out strangled, terrified.
 
@@ -338,7 +336,7 @@ It felt like my blood was boiling, like something was rewriting my DNA one cell 
 
 "Fight it," Raechelle's voice cut through the chaos, sharp and commanding. "Don't let it consume you. You control it—it doesn't control you!"
 
-But she was wrong. I wasn't in control of anything. I was drowning in sensation, in power that had no outlet, no direction. My body lifted off the ground without my consent, suspended by forces I couldn't comprehend. The iridescent lights that had seemed beautiful at first now felt like they were tearing me apart from the inside—reds like arterial blood, blues like the depths of the ocean crushing me, greens writhing like living things beneath my skin.
+But she was wrong. I wasn't in control of anything. I was drowning in sensation, in power that had no outlet, no direction. My body lifted off the ground without my consent, suspended by forces I couldn't comprehend. The iridescent lights that had seemed beautiful at first now felt like they were tearing me apart from the inside—reds like arterial blood, blues like drowning in the ocean's depths, greens writhing like living vines beneath my skin. The pressure was immense, crushing, as if the weight of the deep sea was collapsing my chest.
 
 Every nerve ending fired at once. My fists clenched so tight my nails drew blood. The magic—if that's what this was—surged through me with a hunger of its own, demanding release, demanding more. Even my most primal instincts awakened, a rush of sensation that was both terrifying and intoxicating, like every dominant impulse I'd ever felt amplified a thousandfold.
 
@@ -945,7 +943,7 @@ As I reached for the door handle, Raechelle's hand shot out, gripping my wrist. 
 
 "Wait." Her voice was barely a whisper, but the fear in it froze me in place. "Do you hear that?"
 
-I strained my ears. At first, nothing. Then—there. A sound so faint I almost thought I imagined it. A rhythmic thumping, like distant footfalls. Multiple sets. Getting closer.
+I strained my ears. At first, nothing. Then—there. A sound so faint I almost thought I imagined it. A rhythmic thumping, like distant footfalls. Multiple sets, getting closer with each passing second.
 
 "They're already here," she breathed, her crimson eyes wide with alarm. "They found us faster than I expected. We need to go. Now."
 
