@@ -1508,23 +1508,14 @@ Her words hung in the air, a thick tension settling between us as I processed wh
 her statement hit me like a cold wave, and my eyes widened in shock. I could feel the adrenaline coursing through my
 veins, a mix of disbelief and intrigue flooding my thoughts as I waited for her to gauge my reaction.
 
-"What the fuck do you mean I'm a vampire?" I exclaimed, the accusation hitting me like a cold splash of water. My heart
-raced as I stood there, a mix of disbelief and anger surging through me. The word itself seemed absurd—vampires were
-creatures of fiction, of late-night horror movies and gothic romance novels. They weren't real. They couldn't be real.
-But even as I thought it, I remembered the way I could see in perfect darkness, the way my senses had sharpened, the
-hunger that gnawed at me in ways food couldn't satisfy. Raechelle, noticing my escalating emotions, quickly raised her
-hands in a placating gesture, trying to signal me to calm down.
+"What the fuck do you mean by testing if I'm a vampire?" I exclaimed, the statement hitting me like a cold splash of water. My heart raced as I stood there, a mix of confusion and worry surging through me. "You already told me I was becoming one. What more is there to test?" I remembered what she'd said before—about the transformation, about my enhanced senses, about needing to feed. But even as I thought it, I felt a surge of anxiety about what this test might reveal. Raechelle, noticing my escalating emotions, quickly raised her hands in a placating gesture, trying to signal me to calm down.
 
 Reluctantly, I sank back into my chair, breathing deeply to regain my composure. The room felt stifling, and I focused
 on the surrounding details—the flickering candlelight casting shadows on the walls, the faint scent of incense lingering
 in the air—as I attempted to center myself. Raechelle remained patient, allowing a few minutes to pass in silence,
 ensuring I was grounded before she chose to speak again.
 
-"I'm guessing your mother left that part out, huh?" she said, her voice low and steady. I could see the concern etched
-in her features, a mix of sympathy and understanding—she knew exactly how world-shattering this revelation was. "Well,
-all blood mages of the Sixxx lineage—" she paused, as if weighing the significance of the name "—become vampires after
-they awaken. It's a transition that carries its own set of... complications." Her eyes held mine with an intensity that
-demanded I accept this truth, no matter how much I wanted to deny it.
+"I'm confirming what you already suspected," she said, her voice low and steady. I could see the concern etched in her features, a mix of sympathy and understanding—she knew exactly how overwhelming this all was. "You know you're transforming into a vampire—I explained that when you awakened. But now we need to test whether the transformation is complete. All blood mages of the Sixxx lineage—" she paused, as if weighing the significance of the name "—become vampires after they awaken. But the timing varies. It's a transition that carries its own set of... complications." Her eyes held mine with an intensity that demanded I accept this truth, no matter how much I wanted to deny it.
 
 Her tone shifted to one of clinical detachment, a stark contrast to the turmoil swirling inside me. “It’s easy to test,”
 she continued. “We simply need to see if you can eat normal food. If you can stomach it, then you’re not a vampire. But
