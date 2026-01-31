@@ -6129,9 +6129,7 @@ I climbed back into bed, and she immediately wrapped herself around me like she 
 
 This time when I closed my eyes, there were no nightmares. Just darkness and warmth and the feeling of being held by someone who'd seen the worst parts of me and chosen to stay anyway.
 
-When I woke again a few hours later, Raechelle was already up and dressed, pacing the bedroom with an intensity that told me she'd been thinking while I slept.
-
-But that was a problem for the morning. For now, I let myself sink into exhausted sleep, holding onto the knowledge that whatever came next—we'd face it together.
+I let myself sink into exhausted sleep, holding onto the knowledge that whatever came next—we'd face it together.
 
 For now, that was enough.
 
