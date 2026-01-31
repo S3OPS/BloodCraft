@@ -86,7 +86,7 @@ She was stunning. Her dress was midnight blue, almost black, that clung to her c
 
 ---
 
-The Crimson Ball was held in the Grand Hall of the Council building, a space I'd never seen before. It was breathtaking—vaulted ceilings that seemed to stretch into infinity, walls lined with crystalline formations that pulsed with stored magic, and a dance floor made of polished obsidian that reflected the room like a dark mirror.
+The Crimson Ball was held in the Grand Hall of the Council building, a space I'd never seen before. Vaulted ceilings soared overhead, walls lined with crystalline formations pulsing with stored magic, and a dance floor of polished obsidian reflected the room in perfect clarity.
 
 Supernatural beings of every variety filled the space, all dressed in their finest. Vampires in elegant evening wear that spanned centuries of fashion. Werewolves in formal attire that somehow still conveyed their wild nature. Witches and warlocks in flowing robes decorated with mystical symbols. Even a few fae, their otherworldly beauty almost painful to look at directly.
 
@@ -240,7 +240,7 @@ I scanned the chaos and saw she was right. The attackers were moving with purpos
 
 *Always, Sir. Always.*
 
-We moved through the chaos like water, my blood sense letting me track the attackers even in the crowd. I disabled two more elementals, using my power to disrupt their forms from the inside. It was brutal work, forcing corruption out through force of will, but it worked.
+We moved through the chaos with fluid precision, my blood sense tracking the attackers even in the crowd. I disabled two more elementals, using my power to disrupt their forms from the inside. It was brutal work, forcing corruption out through force of will, but it worked.
 
 Then I saw him.
 
@@ -382,7 +382,7 @@ For now.
 
 The darkness was different in the hours after midnight. Thicker. More oppressive. Like the city itself was holding its breath, waiting for the next disaster.
 
-I lay in bed beside Raechelle, listening to her breathing even out into the slow rhythm of sleep. She'd collapsed almost instantly, exhausted from the night's chaos—the dancing, the attack, the politics. Her face was peaceful now, one hand curled loosely against my chest, amber hair spilled across the pillow like liquid copper.
+I lay in bed beside Raechelle, listening to her breathing even out into the slow rhythm of sleep. She'd collapsed almost instantly, exhausted from the night's chaos—the dancing, the attack, the politics. Her face was peaceful now, one hand curled loosely against my chest, amber hair spilling across the pillow in copper waves.
 
 I should have been sleeping too. My body ached from the fighting, my formal clothes were ruined in a heap on the floor, and my mind felt like it had been wrung out and left to dry. But every time I closed my eyes, I saw the Crimson Ball exploding into violence. The earth elementals tearing through crystal walls. The blood and chaos and fear.
 
@@ -702,7 +702,7 @@ Beyond her, I could sense every living thing in Nocturne. Thousands of supernatu
 
 I pulled back from the overwhelming sensory input, centering myself in our bond. Using her as my anchor, I carefully explored these new abilities, learning to filter and control what I was sensing.
 
-Blood Memory came next—genetic knowledge flowing through me like water. I saw through my mother's eyes as she first discovered her powers. I felt my grandfather's pride and burden. I experienced centuries of Blood Archon history in compressed moments.
+Blood Memory came next—genetic knowledge cascading through my consciousness. I saw through my mother's eyes as she first discovered her powers. I felt my grandfather's pride and burden. I experienced centuries of Blood Archon history in compressed moments.
 
 And I understood, finally, what it meant to be Balance.
 
@@ -1057,7 +1057,7 @@ It was complex, requiring precise control and unwavering trust. But as we practi
 
 "Good," Corvinus said after an hour of intense practice. "Now push further. Extend the resonance beyond just sensation. Share your power with her. Let her feel your strength as her own."
 
-I pushed, and suddenly Raechelle gasped. Through the connection, I felt what she felt—my power flowing into her like a river of liquid fire, enhancing her already formidable abilities. Her panther form rippled with red energy, blood magic augmenting shifter strength.
+I pushed, and suddenly Raechelle gasped. Through the connection, I felt what she felt—my power surging into her, enhancing her already formidable abilities. Her panther form rippled with red energy, blood magic augmenting shifter strength.
 
 "This is incredible," she breathed. "Sir, I can feel everything. Your power, your certainty, your—" She smiled. "Your absolute confidence that we'll win whatever comes next."
 
@@ -1931,7 +1931,7 @@ We poured inside.
 
 The interior was a maze of corridors carved from living rock, lit by luminescent crystals. Storage rooms branched off the main passages, filled with weapons, armor, and supplies meant to equip an army.
 
-But it was what I saw in one of the side chambers that made my blood run cold.
+But it was what I saw in one of the side chambers that stopped me cold.
 
 Cages. Dozens of them, carved directly into the stone walls. And inside—beings. Werewolves, vampires, witches, even some fae. All bearing the sickly green tint of corruption in their eyes, but with something else too. Terror. They were conscious enough to know what had been done to them, aware of their own enslavement but powerless to resist.
 
@@ -2254,7 +2254,7 @@ I stood alone on two legs, suddenly very aware that I was about to try keeping p
 
 *Don't overthink it, Sir,* Raechelle sent. *Just move. Your body knows how.*
 
-Viktor howled—a sound that resonated through my chest and seemed to wake something primal in my blood. Then he was off, the pack flowing after him like liquid shadow.
+Viktor howled—a sound that resonated through my chest and seemed to wake something primal in my blood. Then he was off, the pack racing after him in perfect formation.
 
 I ran.
 
@@ -2900,7 +2900,7 @@ And it was working. His focus was divided, his siege magic wavering. The barrier
 
 "Clever," Terravos rumbled. "But insufficient."
 
-He raised both hands, and I felt reality itself ripple. The ground became liquid, the air grew thick as stone, and gravity seemed to reverse for a heart-stopping moment.
+He raised both hands, and I felt reality itself ripple. The ground became liquid, the air grew thick as stone, and gravity reversed in a nauseating lurch.
 
 Domain magic. He was declaring this space his, rewriting the rules of reality within his power.
 
@@ -3403,7 +3403,7 @@ She was right. We were losing this fight. Already I could see wounded among our 
 
 The cost of war was becoming very real, very quickly.
 
-Then I saw something that made my blood run cold.
+Then I saw something that sent ice through my veins.
 
 Councilor Marcus Stonehelm, one of the vampire lords who'd voted to grant me access to the archives, was surrounded by earth elementals. His combat skills were legendary—I'd watched him train, seen him move with the grace of centuries of experience. But there were too many, and they were coordinated in a way that suggested direct control from Terravos himself.
 
@@ -3604,7 +3604,7 @@ I'd ordered them left that way, a visual reminder of what we'd lost. The Council
 
 Each one had fought for Nocturne. For me. Because I'd asked them to stand against something that had nearly destroyed us all.
 
-Raechelle occupied a private alcove at the ward's far end, propped against pillows with her panther form draped across her lap like a living shadow. The smaller form allowed her to project her consciousness more easily while her primary body healed. Her eyes—violet in both forms—tracked me as I approached.
+Raechelle occupied a private alcove at the ward's far end, propped against pillows with her panther form draped across her lap. The smaller form allowed her to project her consciousness more easily while her primary body healed. Her eyes—violet in both forms—tracked me as I approached.
 
 "You're hovering again," she said, her mental voice carrying amusement despite the exhaustion I felt through our bond. "I can feel your guilt from here. Stop it."
 
