@@ -6733,7 +6733,7 @@ It was time to meet it head-on.
 
 ---
 
-*End of Chapter 16.5*
+*End of Chapter 17*
 
 
 # **Chapter 18**
@@ -7096,7 +7096,7 @@ Now it was time to show him that prey could bite back.
 
 ---
 
-*End of Chapter 17*
+*End of Chapter 18*
 
 
 ---
@@ -7355,7 +7355,7 @@ And that was enough.
 
 ---
 
-*End of Chapter 18*
+*End of Chapter 19*
 
 
 ---
@@ -7696,7 +7696,7 @@ But at least we weren't standing alone.
 
 ---
 
-*End of Chapter 19*
+*End of Chapter 20*
 
 
 ---
@@ -8210,7 +8210,7 @@ And sometimes, that was enough.
 
 ---
 
-*End of Chapter 19.5*
+*End of Chapter 21*
 
 
 # **Chapter 22**
@@ -8539,7 +8539,7 @@ Now we just had to prepare for the tempest to come.
 
 ---
 
-*End of Chapter 20*
+*End of Chapter 22*
 
 
 ---
@@ -8828,7 +8828,7 @@ Corvinus nodded approvingly. "Then let's continue. We have much work ahead of us
 
 ---
 
-*End of Chapter 21*
+*End of Chapter 23*
 
 ---
 
@@ -9056,7 +9056,7 @@ The war had truly begun. And I was done playing defense.
 
 ---
 
-*End of Chapter 22*
+*End of Chapter 24*
 
 ---
 
@@ -9148,7 +9148,7 @@ The war was about to change. No more defending. Only attacking.
 
 ---
 
-*End of Chapter 23*
+*End of Chapter 25*
 
 
 ---
@@ -9591,7 +9591,7 @@ It had better be worth it.
 
 ---
 
-*End of Chapter 24*
+*End of Chapter 27*
 
 
 ---
@@ -9748,7 +9748,7 @@ I intended to make sure it wasn't me.
 
 ---
 
-*End of Chapter 25*
+*End of Chapter 28*
 
 
 ---
@@ -10062,7 +10062,7 @@ But to transform everything.
 
 ---
 
-*End of Chapter 25.5*
+*End of Chapter 29*
 
 
 # **Chapter 30**
@@ -10245,7 +10245,7 @@ And I intended to make the most of it.
 
 ---
 
-*End of Chapter 26*
+*End of Chapter 30*
 
 
 ---
@@ -10322,7 +10322,7 @@ Her smile was brilliant. "I think that can be arranged."
 
 ---
 
-*End of Chapter 27*
+*End of Chapter 31*
 
 
 ---
@@ -10762,7 +10762,7 @@ But tonight? Tonight was ours. The calm between storms. The peace we'd earned.
 
 And it was beautiful.
 
-*End of Chapter 27.5*
+*End of Chapter 32*
 
 ---
 
@@ -10833,7 +10833,7 @@ I pulled her into my arms, kissing her with all the love I felt. "Happy doesn't 
 
 ---
 
-*End of Chapter 28*
+*End of Chapter 33*
 
 
 ---
@@ -10892,7 +10892,7 @@ Whatever challenges came—political, magical, or otherwise—we would face them
 
 ---
 
-*End of Chapter 29*
+*End of Chapter 34*
 
 
 ---
@@ -11446,7 +11446,7 @@ And I'd never been more ready.
 
 ---
 
-**End of Chapter 30.5**
+*End of Chapter 36*
 
 
 # **Chapter 37**
@@ -11817,7 +11817,7 @@ Let the shadows come. We would be ready.
 
 ---
 
-*End of Chapter 31*
+*End of Chapter 37*
 
 
 ---
@@ -12200,7 +12200,7 @@ And I intended to win.
 
 ---
 
-*End of Chapter 32*
+*End of Chapter 38*
 
 
 ---
