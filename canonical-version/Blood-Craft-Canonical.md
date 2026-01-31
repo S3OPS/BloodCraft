@@ -227,9 +227,7 @@ edge of the headlights, nor the way the moon above us had begun to shift from si
 
 # **Chapter 2**
 
-It couldn't have been more than 15 minutes after the music cut off abruptly, silencing the cheerful notes that filled
-the air and causing my head to snap up in alarm. The silence was deafening—not just the absence of music, but something
-deeper, as if the world itself had drawn a breath and held it. I glanced at my parents, their faces pale and taut in the
+It couldn't have been more than 15 minutes later when the radio cut off abruptly—Sinatra's smooth voice silenced mid-note—and my head snapped up in alarm. The silence was deafening—not just the absence of music, but something deeper, as if the world itself had drawn a breath and held it. I glanced at my parents, their faces pale and taut in the
 dashboard's glow. They exchanged a look charged with unspoken words, a fleeting glimpse of fear and urgency that I had
 never seen before. In hushed tones, they began to mumble to each other, their voices edged with anxiety, but I strained
 to hear anything that could decipher this unsettling moment. It almost sounded like Dad muttered something about "they
