@@ -151,7 +151,7 @@ My reflection showed crimson eyes that now glowed with their own light. My hair,
 
 A Blood Archon. Not in training, not growing into the role. Fully realized.
 
-"How do you feel?" Raechelle asked through our bond, her mental voice tinged with wonder and concern.
+"How do you feel?" Raechelle asked, her mental voice tinged with wonder and concern.
 
 "Complete," I answered honestly. "For the first time since I woke up in that cabin, I feel like all the pieces fit together."
 
@@ -450,7 +450,7 @@ I showed her mine: standing beside her as equals, ruling Nocturne together, rebu
 
 "I'm holding you to that," she said fiercely. "You're going to survive this, Riven. We both are. And when we do, we're going to build that future. Children, vacations, growing old together—all of it."
 
-"All of it," I agreed, and through our bond, I felt the absolute certainty that made it feel real.
+"All of it," I agreed, and I felt the absolute certainty that made it real flowing between us.
 
 ---
 
@@ -476,7 +476,7 @@ I drew my blood sword, the crimson blade materializing in a flash of power. "Tod
 
 I raised the sword high. "Today, we fight for family!"
 
-The roar that answered shook the foundations of Nocturne itself. Five hundred voices united in a battle cry that seemed to make the very air vibrate with power.
+The roar that answered shook the foundations of Nocturne itself. Five hundred voices united in a battle cry that made the very air vibrate with power.
 
 As the echoes faded, Raechelle turned to me, her strike team assembled behind her. Viktor and his best wolves, Corvinus with his ancient power, a dozen of Morgana's witches, and Seraphina's shadow walkers.
 
@@ -492,7 +492,7 @@ She grinned, fierce and beautiful. "I'll hold you to that."
 
 Then she shifted, her panther form melting into existence, and led her team into the portal Seraphina had prepared. They vanished in a swirl of shadow, heading toward Terravos's fortress and the imprisoned Archon within.
 
-I watched them go, feeling the distance grow between us through our bond. But I could still sense her—still feel her determination and strength.
+I watched them go, feeling the distance grow between us even as I sensed her—her determination and strength still vivid despite the miles separating us.
 
 *Stay alive,* I sent through our connection.
 
@@ -802,7 +802,7 @@ I woke to sunlight filtering through silk curtains—actual natural sunlight, no
 
 Raechelle was curled against my side, her breathing deep and even. In sleep, she looked younger somehow—the centuries of burden and worry smoothed away, leaving only the beautiful woman I'd bound my soul to. Her midnight hair spilled across my chest in silken waves, and I couldn't resist running my fingers through it gently, careful not to wake her.
 
-*I'm awake, Sir,* she sent through our bond, her mental voice warm with amusement. *I've been awake for ten minutes, just enjoying this.*
+*I'm awake, Sir,* she sent, her mental voice warm with amusement. *I've been awake for ten minutes, just enjoying this.*
 
 "Why didn't you say something?" I asked aloud, my voice rough with sleep.
 
@@ -842,7 +842,7 @@ The room reflected both of us. My preference for modern minimalism blended with 
 
 We'd made a life here. Not just survived, but actually built something worth protecting.
 
-*Riven Sixxx, if you're not in this kitchen in three minutes, I'm eating all the bacon,* Raechelle threatened through our bond.
+*Riven Sixxx, if you're not in this kitchen in three minutes, I'm eating all the bacon,* Raechelle threatened.
 
 I smiled and rolled out of bed, pulling on sleep pants and making my way through our home. The Sixxx ancestral house had been restored after the war—all the damage from Terravos's early attacks repaired, the wards stronger than ever. But we'd also made changes. Opened up walls to let in more light. Added cozy spaces designed for living, not just impressing visiting dignitaries. Turned my mother's formal parlor into a reading room with deep comfortable chairs and shelves groaning under the weight of books we'd actually read.
 
@@ -888,7 +888,7 @@ We loaded up plates and took them to the breakfast nook—a small alcove with wi
 
 "You love me anyway."
 
-"Desperately." She said it without hesitation, without games. Just pure truth flowing through our bond and her words.
+"Desperately." She said it without hesitation, without games. Just pure truth in both her words and the connection flowing between us.
 
 We ate in comfortable silence, stealing bites from each other's plates and occasionally pausing to just look at each other—really look, without the pressure of impending battle or political maneuvering. It was intimate in a way that had nothing to do with physical touch and everything to do with simply being present.
 
@@ -1010,7 +1010,7 @@ The gnome's eyebrows rose as he turned his attention to me. "The Blood Archon hi
 
 "Raechelle said you make enchanted jewelry?" I said, feeling slightly out of my depth.
 
-"Enchanted doesn't begin to cover it, young Archon." He pulled out a small box, opening it to reveal an array of rings, pendants, and bracelets that seemed to pulse with contained power. "Each piece is attuned to its wearer, growing stronger as they do. They can store magic, amplify existing abilities, or provide protection in combat."
+"Enchanted doesn't begin to cover it, young Archon." He pulled out a small box, opening it to reveal an array of rings, pendants, and bracelets pulsing with contained power. "Each piece is attuned to its wearer, growing stronger as they do. They can store magic, amplify existing abilities, or provide protection in combat."
 
 "Show him the matching set," Raechelle urged. "The one we discussed before the war."
 
@@ -1486,7 +1486,7 @@ Evidence of life, not just legacy.
 
 I found Raechelle in the garden, which had somehow survived the war mostly intact. She sat on a stone bench, still in her panther form, basking in the sun. The sight made something tight in my chest loosen slightly.
 
-*You're home early,* she sent through our bond, opening one violet eye to regard me. *Did Corvinus finally convince you to take a break?*
+*You're home early,* she sent, opening one violet eye to regard me. *Did Corvinus finally convince you to take a break?*
 
 "He can be very persuasive when he wants to be."
 
@@ -1530,7 +1530,7 @@ I took a bite, buying time to think. "I want... this. Peace. Normal days where t
 
 "I want..." I hesitated, the words feeling too big, too vulnerable. "I want a family. Not just the found family we've built with Viktor and Morgana and the others, but... an actual family. With you. Children who grow up in peace, who never have to know the fear and loss we've experienced."
 
-Raechelle's expression softened, and through our bond, I felt her love wash over me like warm sunlight. "Children, plural?"
+Raechelle's expression softened, and I felt her love wash over me like warm sunlight. "Children, plural?"
 
 "I mean, I'm open to negotiation on the exact number."
 
@@ -1594,7 +1594,7 @@ I returned home to find Raechelle in the study, reviewing supply manifests by la
 
 I wrapped my arms around her, breathing in her scent—jasmine and midnight and home. "I love you. I don't say it enough, but I do. More than anything."
 
-"I know." She kissed me softly. "I feel it through our bond every moment. And I love you too. My Blood Archon. My partner. My future."
+"I know." She kissed me softly. "I feel it every moment. And I love you too. My Blood Archon. My partner. My future."
 
 We stayed like that for a long time, just holding each other in the quiet study, letting the day's stress and tension drain away. This was what I'd fought for, I realized. Not glory or power or even justice, but this—the simple peace of being with someone you loved in a safe home in a city that wasn't burning.
 
@@ -1774,7 +1774,7 @@ The Fire Archon, Pyrus, arrived in a chariot of flame that cooled to mere warmth
 
 The Water Archon, Meridian, emerged from a fountain in the courtyard, her form coalescing from liquid to solid in a display of precise control. She looked like living water given female form, her skin tinted blue-green and her hair flowing like a waterfall.
 
-The Air Archon, Zephyr, simply appeared in a gust of wind, his arrival more subtle but no less impressive. He was tall and willowy, with white hair that moved in a constant breeze that seemed to emanate from his presence.
+The Air Archon, Zephyr, simply appeared in a gust of wind, his arrival more subtle but no less impressive. He was tall and willowy, with white hair that moved in a constant breeze emanating from his presence.
 
 They studied me with varying degrees of interest and caution. I was the youngest Archon by centuries, maybe millennia. An unknown quantity who had killed an Earth Archon in single combat. I represented change, and change was inherently threatening to beings who'd lived through epochs.
 
