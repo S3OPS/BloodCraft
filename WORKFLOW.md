@@ -1,127 +1,128 @@
-# Dual-Version Development Workflow
+# Development Workflow
 
-This guide explains how to effectively work on both the Canonical and Paradox versions of Blood Craft in parallel.
+This guide explains the workflow for developing the Canonical Version of Blood Craft.
 
 ---
 
 ## 🎯 Overview
 
-Blood Craft maintains two complete storylines with different creative approaches:
-- **Canonical Version**: Traditional hero's journey
-- **Paradox Version**: Psychological thriller with major twist
+This repository contains the **Canonical Version** of Blood Craft - a traditional hero's journey following Riven Sixxx's supernatural awakening.
 
-This document outlines best practices for developing both versions simultaneously.
+**Note**: The Paradox Version (psychological thriller) is maintained in a separate repository: [github.com/S3OPS/BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox)
 
 ---
 
 ## 🔄 Development Workflows
 
-### Workflow 1: World-Building Updates
+### Workflow 1: Adding New Chapters
 
-**Use When**: Updating supernatural rules, locations, or lore that affects both versions
+**Steps**:
+1. Review Chapter-Summary-and-Timeline.md for story context
+2. Plan the chapter's role in the overall narrative
+3. Write the chapter in Blood-Craft-Canonical.md
+4. Update Chapter-Summary-and-Timeline.md with chapter summary
+5. Update word/chapter counts in README.md
+6. Commit with clear message
+
+**Example**:
+```bash
+# Edit the novel
+vim canonical-version/Blood-Craft-Canonical.md
+
+# Update summary
+vim canonical-version/Chapter-Summary-and-Timeline.md
+
+# Update counts
+vim canonical-version/README.md
+
+# Commit
+git commit -m "Add Chapter 39 - New Beginnings
+
+Added epilogue chapter showing Riven's life 40 years later
+- Introduces daughter Elena
+- Shows lasting peace achieved
+- Wraps up character arcs"
+```
+
+### Workflow 2: World-Building Updates
+
+**Use When**: Updating supernatural rules, locations, or fundamental lore
 
 **Steps**:
 1. Identify the world-building element to update
-2. Plan how it affects both storylines
-3. Update canonical version files
-4. Update paradox version files (maintaining version-specific tone)
-5. Verify consistency across both versions
-6. Update both Chapter-Summary-and-Timeline.md files
+2. Plan how it affects the storyline
+3. Update relevant chapters in Blood-Craft-Canonical.md
+4. Update Chapter-Summary-and-Timeline.md
+5. Verify consistency across all references
+6. Consider if changes should be synchronized with Paradox version (in separate repo)
 
-**Example**: Updating blood magic regeneration mechanics
+**Example**: Updating blood magic mechanics
 ```bash
-# Edit both versions
-- canonical-version/Chapter-Summary-and-Timeline.md
-- paradox-version/Chapter-Summary-and-Timeline.md
-- Update relevant chapters in both Blood-Craft-{Version}.md files
+# Edit canonical version
+vim canonical-version/Blood-Craft-Canonical.md
 
-# Commit with clear message
-git commit -m "[Both] Update blood magic regeneration mechanics
+# Update summary
+vim canonical-version/Chapter-Summary-and-Timeline.md
+
+# Verify consistency
+grep -r "blood magic" canonical-version/
+
+# Commit
+git commit -m "Update blood magic regeneration mechanics
 
 Clarified energy costs and healing limits
-- Affects Chapters 8, 15, 23 in both versions
-- Maintains consistency across storylines"
+- Updated Chapters 8, 15, 23
+- Maintains internal consistency"
 ```
+### Workflow 3: Character Development Updates
 
-### Workflow 2: Character Trait Updates
-
-**Use When**: Updating core personality traits or backstory
+**Use When**: Updating character traits, backstories, or arcs
 
 **Steps**:
-1. Identify which character traits are shared vs. version-specific
-2. Update shared traits in both versions
-3. Adjust version-specific character development accordingly
-4. Verify character voice consistency
-5. Update character references in documentation
+1. Identify what needs to be updated
+2. Update relevant chapters in Blood-Craft-Canonical.md
+3. Verify character voice consistency throughout
+4. Update character references in documentation
+5. Check Chapter-Summary-and-Timeline.md
 
-**Example**: Updating Raechelle's backstory
+**Example**: Expanding character backstory
 ```bash
-# Shared trait update
-- Both versions: Update core backstory elements
-- Canonical: Emphasize straightforward motivation
-- Paradox: Layer in hidden knowledge/complexity
+# Edit chapters
+vim canonical-version/Blood-Craft-Canonical.md
 
-# Commit appropriately
-git commit -m "[Both] Expand Raechelle's backstory
+# Update documentation
+vim canonical-version/Chapter-Summary-and-Timeline.md
+
+# Commit
+git commit -m "Expand Raechelle's backstory
 
 Added details about her training years
-- Canonical: Focus on growth and dedication
-- Paradox: Layer in foreshadowing of deeper knowledge"
+- Enhances character depth
+- Maintains consistency throughout"
 ```
 
-### Workflow 3: Version-Specific Development
+### Workflow 4: Enhancing Existing Chapters
 
-**Use When**: Adding chapters or content to only one version
-
-**Steps**:
-1. Determine which version needs the update
-2. Review version-specific DEVELOPMENT.md guidelines
-3. Ensure changes align with version's creative direction
-4. Update relevant documentation for that version only
-5. Check if any world-building changes need syncing
-
-**Example**: Adding Paradox-specific foreshadowing
-```bash
-# Edit paradox version only
-- paradox-version/Blood-Craft-Paradox.md (specific chapter)
-- paradox-version/Chapter-Summary-and-Timeline.md
-
-# Commit with version tag
-git commit -m "[Paradox] Enhance foreshadowing in Chapter 12
-
-Added subtle hint about Riven's ancient memories
-- Integrated through dream sequence
-- Maintains ambiguity for first-time readers"
-```
-
-### Workflow 4: Parallel Chapter Development
-
-**Use When**: Writing new chapters for both versions simultaneously
+**Use When**: Improving pacing, adding detail, or deepening emotional resonance
 
 **Steps**:
-1. Plan chapter outline for both versions
-2. Identify shared elements (events, world-building)
-3. Identify divergent elements (tone, complexity, foreshadowing)
-4. Write canonical version chapter
-5. Write paradox version chapter
-6. Cross-check for consistency in shared elements
-7. Update documentation for both versions
-8. Commit both together or separately based on scope
+1. Identify chapter(s) to enhance
+2. Review current content and tone
+3. Make targeted improvements
+4. Update chapter summary if significantly changed
+5. Test read for flow and pacing
 
-**Example**: Adding Chapter 31 to both versions
+**Example**: Enhancing romantic scenes
 ```bash
-# If very similar, commit together
-git commit -m "[Both] Add Chapter 31 - New Threats
+# Edit chapter
+vim canonical-version/Blood-Craft-Canonical.md
 
-Introduces antagonist faction in both versions
-- Canonical: Clear threat, heroic response planned
-- Paradox: Layered complexity, identity questions raised
-- Shared: Faction structure, world-building elements
-- ~4,500 words canonical, ~5,200 words paradox"
+# Commit
+git commit -m "Enhance romantic scene in Chapter 18
 
-# If significantly different, commit separately
-git commit -m "[Canonical] Add Chapter 31 - New Threats"
-git commit -m "[Paradox] Add Chapter 31 - Identity Crisis"
+- Added sensory details
+- Deepened emotional connection
+- Advanced Dom/sub dynamic naturally"
 ```
 
 ---
@@ -131,45 +132,34 @@ git commit -m "[Paradox] Add Chapter 31 - Identity Crisis"
 ### Starting a New Development Session
 
 - [ ] Pull latest changes
-- [ ] Review recent commits to both versions
-- [ ] Check current status in both Chapter-Summary-and-Timeline.md
-- [ ] Identify what needs to be synced vs. what's version-specific
+- [ ] Review recent commits
+- [ ] Check current status in Chapter-Summary-and-Timeline.md
 - [ ] Review any TODOs or development notes
+- [ ] Verify working on correct branch
 
 ### Before Committing Changes
 
-**For World-Building Changes**:
-- [ ] Updated in both versions (if applicable)
-- [ ] Consistency verified across versions
-- [ ] Both Chapter-Summary-and-Timeline.md files updated
-- [ ] No contradictions introduced
-
-**For Character Development**:
-- [ ] Core traits consistent across versions (if shared)
-- [ ] Version-specific arcs maintained appropriately
+- [ ] Proofread for typos and grammar
+- [ ] Verify character voice consistency
+- [ ] Check timeline consistency
+- [ ] Ensure world-building rules maintained
+- [ ] Update documentation as needed
+- [ ] Test read for flow
 - [ ] Character voice consistent within each version
 - [ ] Documentation updated
 
 **For New Chapters**:
-- [ ] Follows version-specific guidelines (check DEVELOPMENT.md)
+- [ ] Follows canonical version guidelines (check DEVELOPMENT.md)
 - [ ] Chapter-Summary-and-Timeline.md updated
 - [ ] Word count updated in README.md
-- [ ] Cross-version consistency maintained (world-building)
 - [ ] Quality standards met (grammar, flow, pacing)
 
-### Regular Maintenance
+### After Completing Changes
 
-**Weekly**:
-- [ ] Review consistency between versions
-- [ ] Check for any sync issues in world-building
-- [ ] Update any planning documents
-- [ ] Review development notes
-
-**After Major Updates**:
-- [ ] Verify timeline consistency
-- [ ] Check character arc alignment where needed
-- [ ] Update comparison documentation if needed
-- [ ] Test reading experience in both versions
+- [ ] Read through changes for flow
+- [ ] Update word count in README.md
+- [ ] Push to repository
+- [ ] Note any follow-up work needed
 
 ---
 
@@ -187,27 +177,46 @@ git commit -m "[Paradox] Add Chapter 31 - Identity Crisis"
 - ❌ Avoid psychological complexity that confuses
 - ❌ Don't undermine heroic journey
 
-**Paradox Version**:
-- ✅ Psychological depth and complexity
-- ✅ Moral ambiguity and grey areas
-- ✅ Layered foreshadowing for twist
-- ✅ Questions about identity and choice
-- ✅ Earned redemption arc
-- ❌ Avoid making twist obvious
-- ❌ Don't sacrifice character for shock
-- ❌ Don't forget romance at the core
+### Quality Standards
 
-### Decision Framework
+Every chapter should have:
+- Clear plot progression
+- Character development moment  
+- Balanced pacing (action, romance, introspection)
+- Consistent world-building
+- Proper grammar and spelling
 
-When unsure about whether something fits a version:
+---
 
-**Ask yourself**:
-1. Does this serve the version's core identity?
-2. Does this align with reader expectations for this version?
-3. Does this maintain the version's tone and themes?
-4. Would this be better in the other version?
+## 🔍 Troubleshooting Common Issues
 
-**If the answer is unclear**: Default to the version's DEVELOPMENT.md guidelines.
+### Issue: Lost track of timeline
+**Solution**: Review Chapter-Summary-and-Timeline.md, look for date markers in recent chapters
+
+### Issue: Character voice feels off
+**Solution**: Re-read previous chapters with that character, check DEVELOPMENT.md for character guidelines
+
+### Issue: World-building contradiction
+**Solution**: Search for previous mentions (`grep -r "term" canonical-version/`), resolve inconsistency
+
+### Issue: Pacing feels slow
+**Solution**: Review chapter for necessary content, consider combining scenes or trimming exposition
+
+### Issue: Unsure about creative direction
+**Solution**: Check canonical-version/DEVELOPMENT.md, review version identity guidelines
+
+---
+
+## 📚 Additional Resources
+
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Common tasks and quick tips
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Full contribution guidelines
+- **[canonical-version/DEVELOPMENT.md](canonical-version/DEVELOPMENT.md)** - Version-specific guidelines
+- **[CHAPTER_TEMPLATE.md](CHAPTER_TEMPLATE.md)** - Template for new chapters
+
+---
+
+**Last Updated**: January 2026
 
 ---
 
@@ -293,15 +302,13 @@ When unsure about whether something fits a version:
 ### Version Status Overview
 
 **Current Status**:
-- Canonical Version: ✅ 30 chapters complete (~88,000 words)
-- Paradox Version: ✅ 30 chapters complete (~97,000 words)
+- Canonical Version: ✅ 38 chapters complete (~157,000 words)
+- Paradox Version: ✅ 30 chapters complete (~97,000 words) - **In [separate repository](https://github.com/S3OPS/BloodCraftParadox)**
 
 ### Future Development Tracking
 
-**Book 2 Planning**:
-- [ ] Outline canonical Book 2 direction
-- [ ] Outline paradox Book 2 direction
-- [ ] Identify shared vs. divergent storylines
+**Book 2/Sequel Planning**:
+- [ ] Outline canonical Book 2/sequel direction
 - [ ] Plan character arc continuations
 - [ ] Establish new world-building elements
 
@@ -318,24 +325,24 @@ When unsure about whether something fits a version:
 ### Key Documents
 1. **CONTRIBUTING.md** - General contribution guidelines
 2. **canonical-version/DEVELOPMENT.md** - Canonical-specific guidelines
-3. **paradox-version/DEVELOPMENT.md** - Paradox-specific guidelines
-4. **Chapter-Summary-and-Timeline.md** (both versions) - Current state
-5. **docs/Comparison-Guide.md** - Understanding differences
+3. **Chapter-Summary-and-Timeline.md** - Current state and chapter outlines
+4. **docs/Comparison-Guide.md** - Understanding differences between versions
+5. **QUICK_REFERENCE.md** - Quick reference for common tasks
 
 ### Reference Order
 
 **Before Starting**:
 1. Read CONTRIBUTING.md for general guidelines
-2. Review relevant version's DEVELOPMENT.md
+2. Review canonical-version/DEVELOPMENT.md
 3. Check Chapter-Summary-and-Timeline.md for context
 
 **During Development**:
-1. Refer to version-specific DEVELOPMENT.md
-2. Cross-reference with other version for consistency
-3. Check existing chapters for voice/tone
+1. Refer to canonical-version/DEVELOPMENT.md
+2. Check existing chapters for voice/tone
+3. Maintain consistency with established lore
 
 **After Completing**:
-1. Review against version guidelines
+1. Review against canonical version guidelines
 2. Verify consistency with documentation
 3. Update all relevant files
 
@@ -346,22 +353,18 @@ When unsure about whether something fits a version:
 ### Do's ✅
 
 - **Do** commit frequently with clear messages
-- **Do** use version tags in commit messages [Canonical], [Paradox], [Both]
-- **Do** maintain both versions' documentation equally
+- **Do** maintain documentation with code changes
 - **Do** cross-reference for consistency regularly
-- **Do** keep versions' creative identities distinct
-- **Do** plan ahead for parallel development
-- **Do** use the DEVELOPMENT.md files as guides
+- **Do** keep the canonical version's identity distinct
+- **Do** plan ahead for development
+- **Do** use the DEVELOPMENT.md file as a guide
 
 ### Don'ts ❌
 
-- **Don't** let one version lag behind in quality
-- **Don't** introduce contradictions in shared elements
-- **Don't** blur the lines between versions' creative directions
+- **Don't** introduce contradictions in world-building
 - **Don't** forget to update documentation
 - **Don't** commit without testing changes
-- **Don't** mix version-specific changes in one commit
-- **Don't** lose sight of each version's target audience
+- **Don't** lose sight of the target audience
 
 ---
 
@@ -370,10 +373,10 @@ When unsure about whether something fits a version:
 ### Working with Others
 
 **Communication**:
-- Clearly indicate which version(s) you're working on
-- Note any changes that affect both versions
+- Clearly indicate what you're working on
+- Note any changes that affect world-building
 - Document major creative decisions
-- Share drafts for consistency review
+- Share drafts for review
 
 **Coordination**:
 - Check for ongoing work before starting
@@ -383,7 +386,7 @@ When unsure about whether something fits a version:
 
 **Conflict Resolution**:
 - Refer to DEVELOPMENT.md guidelines
-- Prioritize version's creative identity
+- Prioritize canonical version's creative identity
 - Consider target audience expectations
 - Discuss ambiguous cases before committing
 
@@ -393,17 +396,14 @@ When unsure about whether something fits a version:
 
 ### Common Issues
 
-**Issue**: Inconsistency between versions in world-building
-**Solution**: Review Chapter-Summary-and-Timeline.md in both versions, identify discrepancy, update to match established rules
+**Issue**: Inconsistency in world-building
+**Solution**: Review Chapter-Summary-and-Timeline.md, identify discrepancy, update to match established rules
 
 **Issue**: Character feels out of voice
 **Solution**: Review previous chapters with that character, check DEVELOPMENT.md character guidelines, adjust for consistency
 
-**Issue**: Unsure if change should affect both versions
-**Solution**: Check if it's a core world-building element (both) or version-specific narrative choice (one)
-
-**Issue**: Commit includes changes to both versions
-**Solution**: If tightly coupled (world-building), commit together with [Both] tag. If separate changes, use separate commits.
+**Issue**: Unsure about creative direction
+**Solution**: Check canonical-version/DEVELOPMENT.md for guidelines on tone, themes, and character arcs
 
 ---
 
@@ -412,12 +412,12 @@ When unsure about whether something fits a version:
 Refer to:
 - **General questions**: CONTRIBUTING.md
 - **Canonical-specific**: canonical-version/DEVELOPMENT.md
-- **Paradox-specific**: paradox-version/DEVELOPMENT.md
 - **Comparison info**: docs/Comparison-Guide.md
-- **Current state**: Chapter-Summary-and-Timeline.md (in each version)
+- **Current state**: canonical-version/Chapter-Summary-and-Timeline.md
+- **Quick tasks**: QUICK_REFERENCE.md
 
 ---
 
 **Last Updated**: January 2026
 
-Happy writing! May both versions flourish. 🩸✨
+Happy writing! 🩸✨

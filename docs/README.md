@@ -7,11 +7,11 @@ This directory contains supporting documentation, guides, and archived files for
 ## 📚 Contents
 
 ### Comparison-Guide.md
-**Comprehensive comparison of both storyline versions**
+**Comprehensive comparison of Canonical and Paradox versions**
 
 This guide helps readers decide which version to read by explaining:
 - The canonical (original) storyline structure
-- The Paradox timeline twist and its implications
+- The Paradox timeline twist and its implications (in separate repository)
 - Side-by-side comparison of key differences
 - Thematic explorations of each version
 - Recommendations based on reader preferences
@@ -31,13 +31,13 @@ Original Word document containing an earlier version of the story. Archived here
 
 ### Want to Read the Story?
 
-**Paradox Version (Complete, 30 Chapters)**
-- Full novel: `../paradox-version/Blood-Craft-Paradox.md`
-- Overview: `../paradox-version/README.md`
-
-**Canonical Version (Complete, 30 Chapters)**  
+**Canonical Version (Complete, 38 Chapters)**  
 - Full novel: `../canonical-version/Blood-Craft-Canonical.md`
 - Overview: `../canonical-version/README.md`
+
+**Paradox Version (Complete, 30 Chapters)**
+- Repository: [BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox)
+- Note: Moved to separate repository for independent development
 
 ### Not Sure Which to Read?
 - **Start here**: `Comparison-Guide.md` in this directory
@@ -49,11 +49,11 @@ Original Word document containing an earlier version of the story. Archived here
 
 Blood Craft is a supernatural fantasy series that explores identity, power, and redemption through two distinct creative directions:
 
-1. **Canonical Version**: Traditional hero's journey with clear heroes and villains (fully written, 30 chapters)
-2. **Paradox Version**: Psychological thriller with Shutter Island-level twist (fully written, 30 chapters)
+1. **Canonical Version**: Traditional hero's journey with clear heroes and villains (fully written, 38 chapters, ~157,000 words) - **In this repository**
+2. **Paradox Version**: Psychological thriller with Shutter Island-level twist (fully written, 30 chapters, ~97,000 words) - **In [separate repository](https://github.com/S3OPS/BloodCraftParadox)**
 
-Both versions tell the story of Riven Sixxx with complete 30-chapter narratives, but with dramatically different implications and thematic depth.
+Both versions tell the story of Riven Sixxx, but with dramatically different implications and thematic depth.
 
 ---
 
-**Last Updated**: January 2026 - Both versions now fully written
+**Last Updated**: January 2026 - Canonical version complete with 38 chapters

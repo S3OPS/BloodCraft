@@ -7,9 +7,8 @@ This is a quick reference for common development tasks. For detailed information
 ## 📚 Documentation Map
 
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Full contribution guidelines (read first!)
-- **[WORKFLOW.md](WORKFLOW.md)** - How to work on both versions in parallel
 - **[canonical-version/DEVELOPMENT.md](canonical-version/DEVELOPMENT.md)** - Canonical version specifics
-- **[paradox-version/DEVELOPMENT.md](paradox-version/DEVELOPMENT.md)** - Paradox version specifics
+- **[CHAPTER_TEMPLATE.md](CHAPTER_TEMPLATE.md)** - Template for new chapters
 
 ---
 
@@ -32,16 +31,15 @@ cd BloodCraft
 # Pull latest changes
 git pull origin main
 
-# Check status of both versions
+# Check current status
 - Review canonical-version/Chapter-Summary-and-Timeline.md
-- Review paradox-version/Chapter-Summary-and-Timeline.md
 ```
 
 ---
 
 ## 📋 Common Tasks
 
-### Adding a New Chapter to One Version
+### Adding a New Chapter
 
 **Canonical Version**:
 ```bash
@@ -54,28 +52,15 @@ canonical-version/Chapter-Summary-and-Timeline.md
 # 3. Update word count in
 canonical-version/README.md
 
-# 4. Commit with version tag
-git commit -m "[Canonical] Add Chapter XX - Title"
+# 4. Commit with descriptive message
+git commit -m "Add Chapter XX - Title"
 ```
 
-**Paradox Version**:
-```bash
-# 1. Edit the main novel file
-paradox-version/Blood-Craft-Paradox.md
+### Updating World-Building
 
-# 2. Update chapter summary
-paradox-version/Chapter-Summary-and-Timeline.md
+World-building changes affect the fundamental rules and systems of the story universe. 
 
-# 3. Update word count in
-paradox-version/README.md
-
-# 4. Commit with version tag
-git commit -m "[Paradox] Add Chapter XX - Title"
-```
-
-### Updating World-Building (Both Versions)
-
-World-building changes affect the fundamental rules and systems of the story universe. These MUST be consistent across both versions.
+**Note**: The Paradox Version is now in a separate repository ([BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox)). If you need to synchronize world-building changes, you'll need to apply them there separately.
 
 **Common World-Building Elements**:
 - Blood magic mechanics (regeneration, energy costs, limitations)
@@ -88,25 +73,21 @@ World-building changes affect the fundamental rules and systems of the story uni
 
 **Update Process**:
 ```bash
-# 1. Update both versions consistently
+# 1. Update the canonical version
 canonical-version/Blood-Craft-Canonical.md (affected chapters)
-paradox-version/Blood-Craft-Paradox.md (affected chapters)
 
-# 2. Update both summaries
+# 2. Update summary
 canonical-version/Chapter-Summary-and-Timeline.md
-paradox-version/Chapter-Summary-and-Timeline.md
 
 # 3. Verify consistency across all references
-# Search for other mentions of the updated element
 grep -r "element_name" canonical-version/
-grep -r "element_name" paradox-version/
 
-# 4. Commit with [Both] tag
-git commit -m "[Both] Update blood magic mechanics
+# 4. Commit with clear message
+git commit -m "Update blood magic mechanics
 
 - Clarified regeneration rules
 - Updated energy cost system
-- Affects Chapters X, Y, Z in both versions"
+- Affects Chapters X, Y, Z"
 ```
 
 **World-Building Update Checklist**:
@@ -124,34 +105,24 @@ git commit -m "[Both] Update blood magic mechanics
 - **Factions**: "Clarified the Council's authority structure"
 - **Creatures**: "Expanded werewolf transformation triggers and limitations"
 
-### Enhance Romance (Both Versions)
+### Enhance Romance
 
-Romance is central to both versions but expressed differently. Updates must respect each version's identity while maintaining core relationship elements.
+Romance is central to the canonical version. Updates should maintain the version's identity while deepening emotional connections.
 
-**Core Romance Elements (Must Sync)**:
+**Core Romance Elements**:
 - Riven and Raechelle's fundamental connection
 - Key relationship milestones (first kiss, first intimacy, commitment)
 - Core emotional beats (trust, vulnerability, devotion)
 - Dom/sub dynamic foundation (consent, care, boundaries)
 - Character growth through the relationship
 
-**Version-Specific Romance Approaches**:
-
-**Canonical Version**:
+**Canonical Version Romance Approach**:
 - Straightforward romantic progression
 - Clear emotional communication
 - Uplifting and affirming intimate scenes
 - Power fantasy elements (protective, strong bond)
 - Satisfying, uncomplicated love story
 - Focus on joy and connection
-
-**Paradox Version**:
-- Psychological depth and complexity
-- Hidden emotional tensions (Raechelle's secret)
-- Intimate scenes carry weight of past/identity
-- Question of whether love is redemption
-- Emotional vulnerability as central theme
-- Focus on healing and transformation
 
 **Enhancement Process**:
 ```bash
@@ -161,70 +132,37 @@ Romance is central to both versions but expressed differently. Updates must resp
 # - Developing Dom/sub dynamics
 # - Character vulnerability
 
-# 2. Update in both versions (version-appropriate style)
+# 2. Update in canonical version
 canonical-version/Blood-Craft-Canonical.md (specific chapters)
-paradox-version/Blood-Craft-Paradox.md (specific chapters)
 
 # 3. Ensure romance serves character development
 # Not just added for its own sake
 
-# 4. Commit with appropriate tag
-git commit -m "[Both] Enhance intimate scene in Chapter X
+# 4. Commit with appropriate message
+git commit -m "Enhance intimate scene in Chapter X
 
 - Deepened emotional vulnerability
 - Advanced Dom/sub dynamic naturally
-- Canonical: Focus on joy and connection
-- Paradox: Added psychological complexity"
-```
-
-**Romance Enhancement Checklist**:
-- [ ] Scene serves character development
-- [ ] Maintains consent and boundaries
-- [ ] Advances relationship believably
-- [ ] Appropriate to chapter pacing
-- [ ] Respects version's romantic identity
-- [ ] Balances intimacy with plot progression
-- [ ] Dom/sub dynamic feels earned and natural
-- [ ] Emotional beats land authentically
-
-**Examples of Romance Enhancements**:
-- **Emotional Depth**: Add vulnerable conversation after battle
-- **Physical Intimacy**: Expand existing scene with more sensory detail
-- **Dom/Sub Dynamic**: Show trust-building through power exchange
-- **Character Growth**: Use intimate moment to reveal character change
-- **Tension**: Add romantic tension in political/action scenes
-
-**Common Enhancement Scenarios**:
-```bash
-# Adding a new romantic scene
-- Canonical: Focus on connection and satisfaction
-- Paradox: Layer in psychological complexity
-
-# Deepening existing intimate scene
-- Add sensory details and emotional reactions
-- Ensure Dom/sub dynamic is clear and consensual
-- Balance physical and emotional intimacy
-
-# Enhancing emotional vulnerability
-- Show characters revealing fears or hopes
-- Use intimate settings for character revelations
-- Build trust through gradual disclosure
+- Focus on joy and connection"
 ```
 
 ### Updating a Character's Core Traits
 
 ```bash
-# 1. Update in both version files
+# 1. Update in the canonical version file
 canonical-version/Blood-Craft-Canonical.md
-paradox-version/Blood-Craft-Paradox.md
 
 # 2. Update chapter summaries if needed
+canonical-version/Chapter-Summary-and-Timeline.md
+
 # 3. Check for consistency across all appearances
-# 4. Commit with [Both] tag
-git commit -m "[Both] Update Raechelle's backstory
+grep -r "character_name" canonical-version/
+
+# 4. Commit with clear message
+git commit -m "Update Raechelle's backstory
 
 - Added training history details
-- Maintains consistency across versions"
+- Maintains consistency throughout"
 ```
 
 ---
@@ -281,44 +219,23 @@ git commit -m "[Both] Update Raechelle's backstory
 - Overly dark or cynical tones
 - Complicated philosophical questions
 
-### Paradox Version - Key Elements
-
-✅ **Include**:
-- Psychological depth and complexity
-- Moral ambiguity and grey characters
-- Layered foreshadowing for twist
-- Questions about identity and consciousness
-- Earned redemption arcs
-
-❌ **Avoid**:
-- Making twist obvious
-- Sacrificing character for shock value
-- Ignoring emotional consequences
-- Forgetting romance at the core
-
 ---
 
 ## 🔄 Commit Message Format
 
 ```bash
 # Format
-[Version] Brief description
+Brief description
 
 Detailed explanation
 - Specific change 1
 - Specific change 2
 
 # Examples
-[Canonical] Add Chapter 31 - New Threats
-[Paradox] Enhance foreshadowing in Chapter 12
-[Both] Update blood magic mechanics
+Add Chapter 31 - New Threats
+Enhance foreshadowing in Chapter 12
+Update blood magic mechanics
 ```
-
-**Version Tags**:
-- `[Canonical]` - Changes only to canonical version
-- `[Paradox]` - Changes only to paradox version
-- `[Both]` - Changes affecting both versions
-- `[Docs]` - Documentation-only changes
 
 ---
 
@@ -326,19 +243,18 @@ Detailed explanation
 
 **As of January 2026**:
 
-| Version | Status | Chapters | Word Count |
-|---------|--------|----------|------------|
-| Canonical | ✅ Complete | 30 | ~88,000 |
-| Paradox | ✅ Complete | 30 | ~97,000 |
+| Version | Status | Chapters | Word Count | Location |
+|---------|--------|----------|------------|----------|
+| Canonical | ✅ Complete | 38 | ~157,000 | This repository |
+| Paradox | ✅ Complete | 30 | ~97,000 | [Separate repository](https://github.com/S3OPS/BloodCraftParadox) |
 
-**Current Focus**: Both versions complete; infrastructure ready for Book 2 development
+**Current Focus**: Canonical version complete; ready for Book 2 development or sequel planning
 
 ---
 
 ## 🔍 Consistency Requirements
 
-### Must Stay Synchronized Between Versions
-
+### Core Elements to Maintain
 - Blood magic mechanics and rules
 - Nocturne geography and locations
 - Core character traits and backstories
@@ -346,14 +262,8 @@ Detailed explanation
 - Supernatural faction structures
 - Magic system fundamentals
 
-### Can Differ Between Versions
-
-- Character arc trajectories
-- Relationship complexity levels
-- Moral framework (clear vs. ambiguous)
-- Narrative tone and style
-- Plot resolutions
-- Thematic depth and exploration
+### Note on Paradox Version
+The Paradox Version is now in a separate repository: [BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox). If world-building changes need to be synchronized, they must be applied in that repository separately.
 
 ---
 
@@ -362,38 +272,36 @@ Detailed explanation
 ### Do's ✅
 
 - Commit frequently with clear messages
-- Use version tags in commit messages
-- Cross-reference for consistency regularly
 - Review DEVELOPMENT.md when unsure
 - Update documentation alongside content
+- Maintain consistency in world-building
+- Test changes before committing
 
 ### Don'ts ❌
 
-- Don't let one version lag in quality
 - Don't introduce world-building contradictions
-- Don't blur versions' creative identities
 - Don't forget to update documentation
-- Don't commit without testing
+- Don't commit without checking for errors
+- Don't make changes that conflict with established lore
 
 ---
 
 ## 📖 Where to Find Things
 
 **World-Building Information**:
-- Chapter-Summary-and-Timeline.md (both versions)
-- Early chapters of both versions
+- canonical-version/Chapter-Summary-and-Timeline.md
+- Early chapters of Blood-Craft-Canonical.md
 
 **Character Information**:
-- Chapter-Summary-and-Timeline.md (both versions)
-- DEVELOPMENT.md (both versions - character sections)
+- canonical-version/Chapter-Summary-and-Timeline.md
+- canonical-version/DEVELOPMENT.md (character sections)
 
 **Creative Guidelines**:
-- DEVELOPMENT.md (version-specific)
+- canonical-version/DEVELOPMENT.md
 - CONTRIBUTING.md (general guidelines)
 
-**Workflow Help**:
-- WORKFLOW.md (parallel development)
-- This file (quick tasks)
+**Quick Reference**:
+- This file (common tasks)
 
 **Version Comparison**:
 - docs/Comparison-Guide.md
@@ -403,48 +311,41 @@ Detailed explanation
 
 ## ❓ Common Questions
 
-**Q: Which version should I work on first?**
-A: Work on whichever version your changes apply to. If it's world-building, do both together.
+**Q: Where is the Paradox Version?**
+A: The Paradox Version has been moved to a separate repository: [github.com/S3OPS/BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox). This repository now focuses exclusively on the Canonical Version.
 
-**Q: How do I know if a change affects both versions?**
-A: If it's about supernatural rules, locations, or core character traits, it likely affects both. If it's about narrative tone or complexity, it's probably version-specific.
+**Q: Should I synchronize world-building changes with the Paradox version?**
+A: If you're making fundamental changes to blood magic rules, Nocturne geography, or core lore, consider whether they should be synchronized with the Paradox version in its separate repository. However, this is now optional since they're maintained separately.
 
-**Q: Can I change the twist in the Paradox version?**
-A: The core twist (Riven as reincarnation) is fundamental to the version. You can refine how it's revealed or foreshadowed, but the twist itself should remain.
-
-**Q: What if I want to add content that doesn't fit either version's style?**
-A: Consider if it can be adapted to fit either version, or if it might be better as a separate companion piece or side story.
-
-**Q: How often should I sync changes between versions?**
-A: For world-building changes, sync immediately. For other changes, review weekly or after major updates.
+**Q: What if I want to add content that doesn't fit the canonical version's style?**
+A: Consider if it can be adapted to fit the canonical version's heroic, romantic style. If not, it might be better suited for a different project or the Paradox version repository.
 
 ---
 
 ## 🚨 Emergency Troubleshooting
 
-**Issue**: Git conflict between versions
-- Solution: Check which version the conflict is in, resolve based on that version's guidelines
+**Issue**: Git conflict
+- Solution: Review the conflict, resolve based on canonical version's guidelines
 
-**Issue**: Forgot which version a file belongs to
-- Solution: Check file path: `canonical-version/` or `paradox-version/`
+**Issue**: Forgot which file to edit
+- Solution: Check file path - everything is in `canonical-version/`
 
 **Issue**: Character acting inconsistently
 - Solution: Review previous chapters, check DEVELOPMENT.md character guidelines
 
 **Issue**: Can't remember world-building rule
-- Solution: Search Chapter-Summary-and-Timeline.md in both versions
+- Solution: Search Chapter-Summary-and-Timeline.md in canonical-version
 
 **Issue**: Unsure about creative direction
-- Solution: Check version-specific DEVELOPMENT.md for guidelines
+- Solution: Check canonical-version/DEVELOPMENT.md for guidelines
 
 ---
 
 ## 📞 Need More Help?
 
 - **Full guidelines**: [CONTRIBUTING.md](CONTRIBUTING.md)
-- **Workflow details**: [WORKFLOW.md](WORKFLOW.md)
 - **Canonical specifics**: [canonical-version/DEVELOPMENT.md](canonical-version/DEVELOPMENT.md)
-- **Paradox specifics**: [paradox-version/DEVELOPMENT.md](paradox-version/DEVELOPMENT.md)
+- **Chapter template**: [CHAPTER_TEMPLATE.md](CHAPTER_TEMPLATE.md)
 
 ---
 

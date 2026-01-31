@@ -2852,7 +2852,7 @@ It was everything.
 
 ---
 
-> **Author's Note:** Thank you for reading Blood Craft. This canonical version follows Riven's journey from tragedy to triumph, showing how love, determination, and found family can transform anyone into a hero. For an alternate take on this story—one with darker themes and a shocking psychological twist—see the Paradox Version in `../paradox-version/`.
+> **Author's Note:** Thank you for reading Blood Craft. This canonical version follows Riven's journey from tragedy to triumph, showing how love, determination, and found family can transform anyone into a hero. For an alternate take on this story—one with darker themes and a shocking psychological twist—visit the Paradox Version at [github.com/S3OPS/BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox).
 > 
 > The Blood Craft universe continues with future stories exploring Elena's journey, the adventures of other Archons, and the ongoing evolution of the supernatural world Riven helped protect.
 
@@ -2860,8 +2860,8 @@ It was everything.
 
 **Blood Craft: Book One - Complete**
 
-*Total Word Count: ~120,000 words*
-*Chapters: 32 + Epilogue*
+*Total Word Count: ~157,000 words*
+*Chapters: 38 (including Epilogue)*
 *Genre: Urban Fantasy, Supernatural Romance*
 
 ---

@@ -1,82 +1,71 @@
 # Contributing to Blood Craft
 
-Thank you for your interest in contributing to Blood Craft! This document outlines guidelines for developing both the **Canonical Version** and **Paradox Version** of the story.
+Thank you for your interest in contributing to Blood Craft! This document outlines guidelines for developing the **Canonical Version** of the story.
 
 ---
 
 ## 📚 Repository Overview
 
-Blood Craft maintains **two parallel storylines** with distinct creative directions:
+This repository contains the **Canonical Version** of Blood Craft - a traditional hero's journey following Riven Sixxx's supernatural awakening and transformation into a Blood Archon.
 
-1. **Canonical Version** (`canonical-version/`) - Traditional hero's journey
-2. **Paradox Version** (`paradox-version/`) - Psychological thriller with major twist
-
-Both versions share the same core characters and world but diverge in narrative approach and thematic depth.
+**Note**: The Paradox Version (psychological thriller with major twist) is now maintained in a separate repository: [github.com/S3OPS/BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox)
 
 ---
 
 ## 🎯 Development Philosophy
 
-### Parallel Development
-- Both versions should be developed simultaneously to maintain parity in quality and scope
-- Changes to world-building elements should be synchronized across both versions
-- Character development may diverge based on each version's narrative needs
+### Focus on Quality
+- Maintain high-quality writing standards
+- Ensure consistency in character voices and world-building
+- Balance action, romance, politics, and character development
 
-### Version Independence
-- Each version stands alone as a complete narrative
-- Readers should be able to enjoy either version without needing the other
-- Creative decisions for one version don't dictate the other
+### Canon Consistency
+- Keep the traditional hero's journey structure
+- Maintain clear moral framework (good vs. evil)
+- Focus on satisfying power progression and romantic elements
 
 ---
 
 ## 📝 Development Guidelines
 
-### Working on Both Versions
+### Working on the Canonical Version
 
-When making changes that affect both versions:
+When making changes to the story:
 
 1. **World-Building Changes**
-   - Update both `canonical-version/` and `paradox-version/` files
    - Maintain consistency in supernatural rules, locations, and lore
-   - Document changes in both Chapter-Summary-and-Timeline.md files
+   - Document changes in Chapter-Summary-and-Timeline.md
+   - Ensure changes don't contradict established canon
 
 2. **Character Development**
-   - Ensure core character traits remain consistent
-   - Allow for version-specific character growth
-   - Update character arcs in both versions appropriately
+   - Keep core character traits consistent
+   - Allow for organic character growth
+   - Update character arcs appropriately
 
 3. **Timeline Consistency**
-   - Major events should occur at similar story beats
-   - Pacing should remain comparable between versions
-   - Update both timeline documents when adding chapters
+   - Maintain logical progression of events
+   - Keep pacing appropriate for the story
+   - Update timeline document when adding chapters
 
-### Working on Individual Versions
+### Creative Focus
 
-When making version-specific changes:
-
-1. **Canonical Version Focus**
-   - Maintain clear hero's journey structure
-   - Keep morality straightforward (clear heroes/villains)
-   - Emphasize romantic fantasy and power progression
-   - Ensure satisfying, uplifting resolutions
-
-2. **Paradox Version Focus**
-   - Maintain psychological complexity
-   - Layer in subtle foreshadowing for the twist
-   - Develop moral ambiguity and grey characters
-   - Ensure the twist feels earned and emotionally resonant
+The Canonical Version should maintain:
+- Clear hero's journey structure
+- Straightforward morality (clear heroes/villains)
+- Romantic fantasy and power progression
+- Satisfying, uplifting resolutions
 
 ---
 
 ## 📋 Chapter Development Checklist
 
-When adding new chapters to either version:
+When adding new chapters:
 
 ### Pre-Writing
 - [ ] Review Chapter-Summary-and-Timeline.md for context
 - [ ] Check "Notes for Future Development" section
-- [ ] Ensure new chapter aligns with version's creative direction
-- [ ] Identify any world-building elements that need to be mirrored in the other version
+- [ ] Ensure new chapter aligns with the canonical version's creative direction
+- [ ] Identify any world-building elements that need documentation
 
 ### Writing
 - [ ] Balance action, politics, character development, and romance
@@ -86,17 +75,9 @@ When adding new chapters to either version:
 - [ ] Maintain tension between Riven's goals and responsibilities
 - [ ] Include romance scenes that serve character development
 
-### Paradox Version Additional Checklist
-- [ ] Plant subtle hints of the twist (if pre-reveal chapters)
-- [ ] Develop Riven's "blackouts" or "intuitions" as ancient memories
-- [ ] Show Raechelle's moments that hint at her deeper knowledge
-- [ ] Include cryptic warnings from Terravos
-- [ ] Add dreams/visions that work as dismissed nightmares and actual memories
-
 ### Post-Writing
 - [ ] Update Chapter-Summary-and-Timeline.md with new chapter summary
 - [ ] Update word count and chapter count in README.md
-- [ ] Cross-reference with other version to ensure consistency where needed
 - [ ] Review for consistency with established character voices
 - [ ] Proofread for grammar, spelling, and formatting
 
@@ -109,36 +90,29 @@ When adding new chapters to either version:
 BloodCraft/
 ├── CONTRIBUTING.md          # This file
 ├── README.md                # Main repository overview
+├── QUICK_REFERENCE.md       # Quick reference guide
+├── CHAPTER_TEMPLATE.md      # Template for new chapters
 │
 ├── canonical-version/
 │   ├── README.md            # Canonical version overview
-│   ├── Blood-Craft-Canonical.md          # Full novel (Chapters 1-30)
+│   ├── Blood-Craft-Canonical.md          # Full novel (38 chapters)
 │   ├── Chapter-Summary-and-Timeline.md   # Detailed chapter outlines
-│   ├── Book1.md             # Structural outline for Chapters 1-16
-│   ├── Book2.md             # Structural outline for Chapters 17-20
-│   ├── Book3.md             # Structural outline for Chapters 21-30
-│   └── DEVELOPMENT.md       # Version-specific development notes
-│
-├── paradox-version/
-│   ├── README.md            # Paradox version overview
-│   ├── Blood-Craft-Paradox.md            # Full novel (Chapters 1-30)
-│   ├── Chapter-Summary-and-Timeline.md   # Detailed chapter outlines
-│   ├── Book1.md             # Structural outline for Chapters 1-16 (The Deception)
-│   ├── Book2.md             # Structural outline for Chapters 17-25 (The Cracks)
-│   ├── Book3.md             # Structural outline for Chapters 26-30 (The Truth & Redemption)
-│   ├── Completion-Summary.md             # Implementation notes
-│   └── DEVELOPMENT.md       # Version-specific development notes
+│   ├── Book1.md             # Structural outline for Chapters 1-13
+│   ├── Book2.md             # Structural outline for Chapters 14-26
+│   ├── Book3.md             # Structural outline for Chapters 27-38
+│   ├── DEVELOPMENT.md       # Development notes and guidelines
+│   └── new-chapters/        # Additional chapter files
 │
 └── docs/
     ├── README.md            # Documentation overview
-    ├── Comparison-Guide.md  # Side-by-side version comparison
+    ├── Comparison-Guide.md  # Comparison with Paradox version
     └── Blood-Craft.docx     # Archived Word document
 ```
 
 ### File Naming Conventions
 - Use kebab-case for file names: `Chapter-Summary-and-Timeline.md`
-- Main story files: `Blood-Craft-{Version}.md`
-- Keep consistent naming across both versions
+- Main story file: `Blood-Craft-Canonical.md`
+- Keep consistent naming throughout
 
 ---
 
@@ -163,6 +137,8 @@ BloodCraft/
 ## 🎨 Creative Direction
 
 ### Canonical Version Guidelines
+### Canonical Version Guidelines
+
 **Target Audience**: Readers who enjoy traditional fantasy romance
 
 **Key Elements**:
@@ -171,7 +147,7 @@ BloodCraft/
 - Satisfying power fantasy
 - Romantic supernatural themes
 - Uplifting, hopeful tone
-- Traditional three-act structure
+- Traditional hero's journey structure
 
 **Avoid**:
 - Excessive moral ambiguity
@@ -180,50 +156,29 @@ BloodCraft/
 - Complicated philosophical questions
 - Twist endings that undermine the hero's journey
 
-### Paradox Version Guidelines
-**Target Audience**: Readers who enjoy psychological complexity and narrative twists
-
-**Key Elements**:
-- Psychological depth and complexity
-- Moral ambiguity and grey characters
-- Layered foreshadowing
-- Questions about identity and consciousness
-- Earned redemption arcs
-- Unreliable narration elements (pre-twist)
-
-**Avoid**:
-- Simplistic good vs. evil framing
-- Obvious foreshadowing
-- Twist for twist's sake
-- Sacrificing character for plot
-- Shallow psychological exploration
-
 ---
 
 ## 🚀 Future Expansion Ideas
 
-### Potential Book 2 Direction
-Both versions currently complete 30 chapters. Future expansions could include:
+### Potential Book 2 / Sequel Direction
+The canonical version is complete with 38 chapters. Future expansions could include:
 
-**Canonical Version - Book 2**:
+**Canonical Version - Book 2/Sequel**:
 - Riven's establishment as a Blood Archon leader
 - New external threats to the supernatural world
 - Expansion of the Dom/sub relationship dynamics
 - Introduction of new allies and enemies
 - Further exploration of Blood Archon history
+- Riven and Raechelle's family life (building on the epilogue)
 
-**Paradox Version - Book 2**:
-- Riven dealing with the weight of his ancient identity
-- Exploration of redemption vs. destiny
-- Consequences of the twist revelation
-- Relationship evolution with full truth revealed
-- Questions about whether love can truly redeem ancient evil
-
-### Parallel Storylines
+### Other Story Ideas
 - Companion stories from supporting character POVs
 - Prequel stories (ancient Blood Archon era)
 - Side stories exploring secondary relationships
 - World-building expansions (other supernatural factions)
+
+### Note on Paradox Version
+The Paradox Version is now maintained in a separate repository: [github.com/S3OPS/BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox)
 
 ---
 
@@ -265,7 +220,6 @@ Both versions currently complete 30 chapters. Future expansions could include:
 - [ ] Character voices remain consistent
 - [ ] Timeline consistency verified
 - [ ] World-building rules maintained
-- [ ] Both versions updated if applicable
 - [ ] Documentation updated (Chapter summaries, READMEs, etc.)
 - [ ] File formatting is consistent
 
@@ -296,21 +250,20 @@ Detailed explanation of changes
 
 **Examples**:
 ```
-[Canonical] Add Chapter 31 - New Threats Emerge
+Add Chapter 39 - New Beginnings
 
-Introduces new antagonist faction, advances Riven's leadership arc
-- Added 4,200-word chapter
+Epilogue chapter showing Riven's life 40 years later
+- Added 3,500-word chapter
 - Updated Chapter-Summary-and-Timeline.md
 - Updated README.md with new word count
 ```
 
 ```
-[Both] Update blood magic mechanics
+Update blood magic mechanics
 
 Clarified regeneration limits and energy costs
 - Updated canonical-version/Chapter-Summary-and-Timeline.md
-- Updated paradox-version/Chapter-Summary-and-Timeline.md
-- Ensures consistency across both storylines
+- Maintains internal consistency
 ```
 
 ---
@@ -318,12 +271,12 @@ Clarified regeneration limits and energy costs
 ## 📊 Progress Tracking
 
 ### Version Status
-- **Canonical Version**: ✅ Complete (30 chapters, ~88,000 words)
-- **Paradox Version**: ✅ Complete (30 chapters, ~97,000 words)
+- **Canonical Version**: ✅ Complete (38 chapters, ~157,000 words) - **In this repository**
+- **Paradox Version**: ✅ Complete (30 chapters, ~97,000 words) - **In [separate repository](https://github.com/S3OPS/BloodCraftParadox)**
 
 ### Current Focus
-Both versions are complete first books. Future development will focus on:
-- Book 2 planning and development
+The canonical version is complete. Future development could focus on:
+- Book 2/sequel planning and development
 - Refinements to existing chapters
 - World-building expansions
 - Supporting documentation

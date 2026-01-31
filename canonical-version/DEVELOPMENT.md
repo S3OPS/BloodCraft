@@ -19,16 +19,16 @@ This document contains development-specific notes and guidelines for the **Canon
 
 ## 📊 Current Status
 
-- **Status**: ✅ Book 1 Complete
-- **Total Chapters**: 30
-- **Word Count**: ~88,000 words
+- **Status**: ✅ Complete
+- **Total Chapters**: 38
+- **Word Count**: ~157,000 words
 - **File**: `Blood-Craft-Canonical.md`
 
 ---
 
 ## 📖 Story Structure
 
-### Book 1: Awakening (Chapters 1-30)
+### The Complete Story (Chapters 1-38)
 
 #### Act 1: Discovery (Chapters 1-10)
 - Riven's ordinary world and inciting incident
@@ -44,12 +44,18 @@ This document contains development-specific notes and guidelines for the **Canon
 - First confrontations with enemies
 - Political maneuvering
 
-#### Act 3: Confrontation (Chapters 21-30)
-- Major battles and supernatural war
+#### Act 3: Escalation (Chapters 21-30)
+- Major battles and supernatural war intensifies
 - Full power realization
-- Final confrontation with Terravos
+- Strategic victories and setbacks
+- Deepening of all relationships
+- Preparation for final confrontation
+
+#### Act 4: Resolution (Chapters 31-38)
+- Climactic battle with Terravos
 - Resolution of parents' murder mystery
 - Establishment of new order and peace
+- Epilogue: Future with daughter Elena
 
 ---
 
@@ -346,19 +352,17 @@ A successful chapter in the Canonical Version:
 
 ## 🔄 Synchronization Notes
 
-### Must Sync with Paradox Version
+### Note on Paradox Version
+The Paradox Version has moved to a separate repository: [github.com/S3OPS/BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox)
+
+If making changes that affect fundamental world-building (blood magic rules, Nocturne geography, core character traits), consider whether they should be synchronized with the Paradox version in its separate repository.
+
+### Core Elements That Should Stay Consistent
 - Blood magic rules and mechanics
 - Nocturne geography and layout
 - Supporting character personalities (core traits)
 - Timeline of major events
 - Supernatural faction structures
-
-### Can Differ from Paradox Version
-- Character arc trajectories
-- Relationship complexity levels
-- Moral framework (clear vs. ambiguous)
-- Narrative tone (heroic vs. psychological)
-- Plot resolutions and consequences
 
 ---
 
@@ -381,8 +385,8 @@ A successful chapter in the Canonical Version:
 ## 📝 Notes
 
 ### Current Development Focus
-- Book 1 is complete and polished
-- Future work will focus on Book 2 planning
+- The canonical version is complete with 38 chapters
+- Future work could focus on Book 2/sequel planning
 - Consider reader feedback for expansion
 - Maintain quality and consistency standards
 

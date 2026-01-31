@@ -4,9 +4,9 @@
 
 ---
 
-> **📖 NOTE:** An alternate universe version with a major twist exists in `../paradox-version/`
+> **📖 NOTE:** An alternate universe version with a major twist is available in a separate repository
 > 
-> That version explores "The Blood Archon's Paradox" - a Shutter Island-style revelation where Riven is the reincarnation of an ancient evil. This file contains the **canonical storyline**.
+> The Paradox Version explores "The Blood Archon's Paradox" - a Shutter Island-style revelation where Riven is the reincarnation of an ancient evil. It's now maintained at [github.com/S3OPS/BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox). This file contains the **canonical storyline**.
 
 ---
 

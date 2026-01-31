@@ -10,11 +10,12 @@ This directory contains the **canonical/original storyline** of Blood Craft - a 
 
 ### What You'll Find Here
 
-- **Book1.md** - Chapters 1-16: Awakening (Structural outline)
-- **Book2.md** - Chapters 17-20: The Rising Conflict (Structural outline)
-- **Book3.md** - Chapters 21-30: The Final Confrontation (Structural outline)
+- **Book1.md** - Chapters 1-13: Awakening (Structural outline)
+- **Book2.md** - Chapters 14-26: The Rising Conflict (Structural outline)
+- **Book3.md** - Chapters 27-38: The Final Confrontation (Structural outline)
 - **Chapter-Summary-and-Timeline.md** - Complete outline and summary of the canonical storyline
-- **Blood-Craft-Canonical.md** - **Complete 38-chapter novel (~750KB, ~120,000 words)**
+- **Blood-Craft-Canonical.md** - **Complete 38-chapter novel (~944KB, ~157,000 words)**
+- **new-chapters/** - Additional chapter files
 
 ---
 
@@ -49,7 +50,7 @@ With the help of Raechelle Darkpurr (his family's familiar), Riven learns to mas
 
 ## 📚 Current Status
 
-**✅ The canonical version is now fully written!** The complete 38-chapter novel is available in `Blood-Craft-Canonical.md` (~750KB, ~120,000 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the narrative.
+**✅ The canonical version is now fully written!** The complete 38-chapter novel is available in `Blood-Craft-Canonical.md` (~944KB, ~157,000 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the narrative.
 
 **Recent Enhancement (January 2026):** Added 6 new chapters strategically placed throughout the narrative to improve pacing, deepen character development, and enhance emotional resonance in key story moments.
 
@@ -58,8 +59,8 @@ With the help of Raechelle Darkpurr (his family's familiar), Riven learns to mas
 ## 🔀 Want the Other Version?
 
 ### Paradox Version
-If you prefer psychological complexity, moral ambiguity, and mind-bending twists similar to Shutter Island or Westworld, check out:
-- **`../paradox-version/Blood-Craft-Paradox.md`** - The complete 30-chapter novel with the alternate storyline
+If you prefer psychological complexity, moral ambiguity, and mind-bending twists similar to Shutter Island or Westworld, check out the separate repository:
+- **[BloodCraftParadox Repository](https://github.com/S3OPS/BloodCraftParadox)** - The complete 30-chapter novel with the alternate storyline
 
 ### Comparison
 For a detailed comparison of both versions:
@@ -73,20 +74,20 @@ For a detailed comparison of both versions:
 
 The story is organized into three books:
 
-1. **Book1.md** (Chapters 1-16: Awakening)
+1. **Book1.md** (Chapters 1-13: Awakening)
    - Riven's introduction and awakening to his Blood Archon heritage
    - Bonding with Raechelle
    - Integration into Nocturne
    - Establishment of alliances
    - Ends with major revelations about his bloodline
 
-2. **Book2.md** (Chapters 17-20: The Rising Conflict)
+2. **Book2.md** (Chapters 14-26: The Rising Conflict)
    - First major confrontations with Terravos's forces
    - Development of offensive strategies
    - Alliance building across supernatural factions
    - Ends with preparation for all-out war
 
-3. **Book3.md** (Chapters 21-38: The Final Confrontation)
+3. **Book3.md** (Chapters 27-38: The Final Confrontation)
    - Full-scale supernatural war
    - Final confrontation with Terravos
    - Resolution of Riven's parents' murder
@@ -98,7 +99,7 @@ The story is organized into three books:
 1. **Read the full novel**: Go directly to **Blood-Craft-Canonical.md** for the complete 38-chapter narrative
 2. **Chapter outlines**: Use **Book1.md**, **Book2.md**, and **Book3.md** for structural summaries
 3. **Complete overview**: See **Chapter-Summary-and-Timeline.md** for a comprehensive outline
-4. **Compare versions**: Check `../docs/Comparison-Guide.md` to see how this differs from the Paradox version
+4. **Compare versions**: Check `../docs/Comparison-Guide.md` to see how this differs from the Paradox version (in separate repository)
 
 ---
 
