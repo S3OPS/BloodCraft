@@ -41,3 +41,4 @@ temp-*.md
 # Personal notes (use these for local work)
 PERSONAL_NOTES.md
 MY_NOTES.md
+*.backup
