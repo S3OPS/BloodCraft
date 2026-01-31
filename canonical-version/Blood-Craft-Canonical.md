@@ -227,9 +227,7 @@ edge of the headlights, nor the way the moon above us had begun to shift from si
 
 # **Chapter 2**
 
-It couldn't have been more than 15 minutes after the music cut off abruptly, silencing the cheerful notes that filled
-the air and causing my head to snap up in alarm. The silence was deafening—not just the absence of music, but something
-deeper, as if the world itself had drawn a breath and held it. I glanced at my parents, their faces pale and taut in the
+It couldn't have been more than 15 minutes later when the radio cut off abruptly—Sinatra's smooth voice silenced mid-note—and my head snapped up in alarm. The silence was deafening—not just the absence of music, but something deeper, as if the world itself had drawn a breath and held it. I glanced at my parents, their faces pale and taut in the
 dashboard's glow. They exchanged a look charged with unspoken words, a fleeting glimpse of fear and urgency that I had
 never seen before. In hushed tones, they began to mumble to each other, their voices edged with anxiety, but I strained
 to hear anything that could decipher this unsettling moment. It almost sounded like Dad muttered something about "they
@@ -1510,23 +1508,14 @@ Her words hung in the air, a thick tension settling between us as I processed wh
 her statement hit me like a cold wave, and my eyes widened in shock. I could feel the adrenaline coursing through my
 veins, a mix of disbelief and intrigue flooding my thoughts as I waited for her to gauge my reaction.
 
-"What the fuck do you mean I'm a vampire?" I exclaimed, the accusation hitting me like a cold splash of water. My heart
-raced as I stood there, a mix of disbelief and anger surging through me. The word itself seemed absurd—vampires were
-creatures of fiction, of late-night horror movies and gothic romance novels. They weren't real. They couldn't be real.
-But even as I thought it, I remembered the way I could see in perfect darkness, the way my senses had sharpened, the
-hunger that gnawed at me in ways food couldn't satisfy. Raechelle, noticing my escalating emotions, quickly raised her
-hands in a placating gesture, trying to signal me to calm down.
+"What the fuck do you mean by testing if I'm a vampire?" I exclaimed, the statement hitting me like a cold splash of water. My heart raced as I stood there, a mix of confusion and worry surging through me. "You already told me I was becoming one. What more is there to test?" I remembered what she'd said before—about the transformation, about my enhanced senses, about needing to feed. But even as I thought it, I felt a surge of anxiety about what this test might reveal. Raechelle, noticing my escalating emotions, quickly raised her hands in a placating gesture, trying to signal me to calm down.
 
 Reluctantly, I sank back into my chair, breathing deeply to regain my composure. The room felt stifling, and I focused
 on the surrounding details—the flickering candlelight casting shadows on the walls, the faint scent of incense lingering
 in the air—as I attempted to center myself. Raechelle remained patient, allowing a few minutes to pass in silence,
 ensuring I was grounded before she chose to speak again.
 
-"I'm guessing your mother left that part out, huh?" she said, her voice low and steady. I could see the concern etched
-in her features, a mix of sympathy and understanding—she knew exactly how world-shattering this revelation was. "Well,
-all blood mages of the Sixxx lineage—" she paused, as if weighing the significance of the name "—become vampires after
-they awaken. It's a transition that carries its own set of... complications." Her eyes held mine with an intensity that
-demanded I accept this truth, no matter how much I wanted to deny it.
+"I'm confirming what you already suspected," she said, her voice low and steady. I could see the concern etched in her features, a mix of sympathy and understanding—she knew exactly how overwhelming this all was. "You know you're transforming into a vampire—I explained that when you awakened. But now we need to test whether the transformation is complete. All blood mages of the Sixxx lineage—" she paused, as if weighing the significance of the name "—become vampires after they awaken. But the timing varies. It's a transition that carries its own set of... complications." Her eyes held mine with an intensity that demanded I accept this truth, no matter how much I wanted to deny it.
 
 Her tone shifted to one of clinical detachment, a stark contrast to the turmoil swirling inside me. “It’s easy to test,”
 she continued. “We simply need to see if you can eat normal food. If you can stomach it, then you’re not a vampire. But
@@ -5941,219 +5930,199 @@ For now.
 
 # **Chapter 15**
 
-## The Academy Trials
+## Shadows and Sleep
 
-The Academy of Magical Arts stood against the morning sky like a monument to centuries of accumulated power. Riven paused at the main gates, his pack slung over one shoulder, and tried to calm the nervous energy thrumming through his veins. The iron gates were wrought with symbols that shifted and changed as he watched—protection wards, he recognized, but far more sophisticated than anything he'd encountered before.
+The darkness was different in the hours after midnight. Thicker. More oppressive. Like the city itself was holding its breath, waiting for the next disaster.
 
-"First day nerves?" 
+I lay in bed beside Raechelle, listening to her breathing even out into the slow rhythm of sleep. She'd collapsed almost instantly, exhausted from the night's chaos—the dancing, the attack, the politics. Her face was peaceful now, one hand curled loosely against my chest, amber hair spilled across the pillow like liquid copper.
 
-Riven turned to find a young woman with copper-red hair and eyes that flickered between green and gold. She wore the Academy's standard training uniform—dark trousers, a fitted tunic bearing the institution's crest, and a cloak that seemed to ripple with contained energy.
+I should have been sleeping too. My body ached from the fighting, my formal clothes were ruined in a heap on the floor, and my mind felt like it had been wrung out and left to dry. But every time I closed my eyes, I saw the Crimson Ball exploding into violence. The earth elementals tearing through crystal walls. The blood and chaos and fear.
 
-"That obvious?" Riven asked.
+Kaine's words echoed in my head like a poison I couldn't sweat out.
 
-She laughed, extending a hand. "I'm Sera Nightwhisper. Third-year elemental. And yes, you have that wide-eyed look all the first-years get. Though..." She tilted her head, studying him with an intensity that made him uncomfortable. "You're different. Blood Archon, right? We don't get many of your kind here."
+*"Power respects only power. These alliances you're building—they're built on sand."*
 
-The way she said "your kind" wasn't overtly hostile, but it carried a weight that Riven was learning to recognize. He shook her hand carefully, aware of his own strength. "Riven Blackthorne."
+Was he right? Were Viktor and Lysandra and the others only with me because I was useful? Because a Blood Archon made a convenient ally when the real monsters came knocking?
 
-"Oh, I know who you are." Sera's smile turned knowing. "Chancellor Corvinus doesn't personally evaluate students often. Word travels fast in these halls. Come on, I'll show you around before orientation. Consider it a welcome gift—and a warning."
+*No.* I pushed the thought away. I'd seen Viktor risk himself to fight beside me. I'd felt Lysandra's genuine concern. These weren't people looking for an advantage—they were people trying to survive in a city that wanted to tear itself apart.
 
-She led him through the gates, and Riven felt the wards wash over him like cold water, assessing, cataloging, deciding whether to permit entry. For a moment, something in the magic pushed back against his blood magic, and he felt his power rise instinctively in defense.
+But Kaine's other words were harder to dismiss.
 
-"Easy," Sera said without looking back. "The wards react to power. Don't fight them. Let them read you."
+*"Everyone in this room is competing. For influence, for power, for survival."*
 
-Riven forced himself to relax, and the sensation passed. They walked through, and suddenly the full scope of the Academy revealed itself.
+That part was true. I'd seen it in every conversation at the ball, felt it in every carefully calculated gesture. Even our dance—Raechelle and I showing ourselves as equals, as partners—that had been a political statement as much as anything else. Everything in Nocturne was a game, and I was still learning the rules.
 
-The main campus was a sprawling complex of interconnected buildings, each one a masterwork of magical architecture. Towers spiraled upward, defying conventional physics, their peaks wreathed in clouds that sparked with lightning. Courtyards opened like flowers between the structures, gardens where plants grew in impossible colors and formations. Bridges of pure crystallized magic connected buildings hundreds of feet above the ground, and through open windows, Riven could see classrooms where students practiced everything from elemental conjuration to intricate spellwork that made the air shimmer.
+Beside me, Raechelle stirred slightly, murmuring something I couldn't make out. Her hand tightened briefly against my chest, then relaxed again. Even in sleep, she was protecting me. Or maybe just holding on.
 
-"Impressive, isn't it?" Sera said. "The Academy was founded four hundred years ago by the Council of Eight—one representative from each major magical lineage. Well, seven now. The Blood Archon seat has been empty for... how long has it been?"
+*I'm yours,* she'd said. *And together, we're going to survive whatever comes next.*
 
-"Seventy-three years," Riven said quietly.
+I believed her. The bond between us was the one thing in my life that felt solid, unchangeable. Not politics or alliances or carefully negotiated truces—just her and me, bound by ancient magic and something deeper that didn't have a name.
 
-"Right. Since the Purge." She said it matter-of-factly, but Riven caught the quick glance she gave him. "That tower there—" she pointed to a structure of black stone that seemed to drink in light rather than reflect it, "—that's where Corvinus teaches. Advanced blood magic and hemomancy theory. No one goes there except by invitation."
+But that made the danger worse, didn't it? Because if I failed, if I made the wrong choice or trusted the wrong person or wasn't strong enough when it counted—she'd pay the price too.
 
-They walked through the main courtyard, and Riven became aware of the stares. Students clustered in groups, and conversations died as he passed. Some looks were curious, others calculating. A few were openly hostile.
+The thought made my blood magic stir, responding to my anxiety. I felt it coiling beneath my skin, eager and restless. My power had grown since I'd come to Nocturne. Stronger. More responsive. Sometimes it felt like a second heartbeat, a living thing that wanted to be used.
 
-"You're going to deal with that a lot," Sera said, her voice lower now. "Most students here have only heard stories about Blood Archons. Usually stories about the wars, the blood tyrants, the..." She trailed off awkwardly.
+That should have been comforting. Instead, it scared the hell out of me.
 
-"The monsters," Riven finished.
+Because I could feel it trying to change me. Every time I used blood magic, every time I reached for that power, I felt something shift inside. A coldness that hadn't been there before. A willingness to do things I'd never have considered a few months ago.
 
-"I wasn't going to say that."
+Was this what had happened to the Blood Archons who came before? Had they started as scared college kids trying to survive, then slowly transformed into the monsters history remembered?
 
-"But others will." Riven had dealt with fear and suspicion his entire life. The Academy would be no different, except here, the people who feared him were also trained in how to kill him.
+*You're not a monster,* Raechelle's voice whispered through the bond. Apparently I'd projected that thought loud enough to wake her.
 
-Sera stopped at a fountain where water flowed upward, defying gravity. "Listen, I'm going to give you some advice. The Academy has a hierarchy. The old families—pure bloodlines going back centuries—they run things. Witches like the Thornwickes, the elemental houses, the high fae descendants. Then you've got the rest of us, talented enough to get in but without the pedigree. And then..." She hesitated.
+*Sorry. Didn't mean to—*
 
-"Then there's me," Riven said. "Bottom of the ladder."
+*Shut up and listen, Sir.* Her mental voice was warm but firm. *You're lying there catastrophizing again. I can feel it.*
 
-"Or off the ladder entirely," she admitted. "But that doesn't mean you can't earn respect. Power speaks loudly here. Show them what you can do, but..." She met his eyes seriously. "Don't show them too much. Blood magic scares people for a reason."
+I shifted slightly to look at her. Her eyes were still closed, but a faint smile curved her lips.
 
-Before Riven could respond, a bell rang out across the campus—not a physical bell, but a pure note of magic that resonated in his bones.
+*You should be sleeping,* I thought to her.
 
-"Orientation," Sera said. "Main hall. Good luck, Blackthorne. Something tells me you're going to need it."
+*You should be too. But you're too busy being dramatic.* She opened one amber eye, studying me. "You saved people tonight. You made allies. You survived an assassination attempt at a formal ball—which, admittedly, is very on-brand for us. Stop torturing yourself."
 
----
+"I'm not—"
 
-The main hall was a cathedral-like space with a ceiling that displayed the night sky regardless of the actual time of day. Hundreds of students filled the benches, and Riven found himself directed to a section marked for first-years. He sat near the back, conscious of the empty seats around him.
+"You absolutely are." She propped herself up on one elbow, her gaze serious now. "You're wondering if you're becoming like the old Blood Archons. If the power is corrupting you. If everyone at that ball was secretly plotting against us."
 
-Chancellor Corvinus stood at the front, his presence commanding immediate silence. "Welcome," he said, his voice carrying effortlessly through the space without magical amplification—though Riven suspected there was magic involved anyway. "To those returning, welcome back. To the first-years, welcome to your transformation."
+"Well when you say it like that, it sounds paranoid."
 
-Riven listened as Corvinus outlined the Academy's history, its purpose, and its expectations. The school trained the magical elite, preparing them to serve the realm as advisors, protectors, and scholars. Students would be pushed to their limits and beyond. Many would fail. Those who succeeded would join a legacy spanning centuries.
+"It is paranoid. And also probably accurate, because this is Nocturne." She touched my face gently. "But here's what you're missing. The old Blood Archons—the ones who went bad—they stopped caring about the consequences. They saw people as tools or obstacles. You see people as... people. You worry about protecting them. That's the difference."
 
-"Your power is raw material," Corvinus continued. "Here, we will forge it into something purposeful. You will learn control, discipline, and wisdom. You will learn when to use your abilities and—perhaps more importantly—when not to." His eyes swept the room and seemed to linger on Riven for just a moment. "This week, you will undergo placement trials. These will determine your class assignments and training paths. I expect excellence. Nothing less will be tolerated."
+"What if that changes?"
 
-After the ceremony, students filed out, and Riven found himself swept along with the crowd toward the residential quarters. The dormitories were organized by year and specialization, and he discovered he'd been assigned to a single room in the first-year wing—unusual, according to the muttering around him. Most students shared quarters.
+"It won't. Because I won't let it." Her voice was absolutely certain. "That's what I'm here for, remember? To keep you grounded. To remind you who you are when things get dark."
 
-His room was spartanly furnished: a bed, a desk, a wardrobe, and a window that overlooked the training grounds. He unpacked quickly, then headed to the common area where first-years were gathering.
+I caught her hand, pressing it against my chest where she could feel my heart beating. "And who am I?"
 
-The atmosphere was charged with nervous energy and competitive posturing. Clusters had already formed—students from the same families or regions or species grouping together. Riven recognized the social dynamics immediately. He'd been an outsider his entire life.
+"Riven Sixxx. Blood Archon. Terrible at sleeping after stressful events. Surprisingly good dancer. Mine."
 
-"Blood Archon."
+Despite everything, I smiled. "Yours."
 
-The voice was cold and aristocratic. Riven turned to face a tall young man with platinum blonde hair and the kind of perfect features that spoke of generations of magical breeding. His uniform was immaculate, and he wore it with the confidence of someone who'd never doubted his place in the world.
+"Damn right." She kissed me softly, then settled back down against my shoulder. "Now shut off your brain and sleep. Tomorrow's going to be complicated enough without you being exhausted."
 
-"Lucian Thornwicke," the young man introduced himself, though his tone suggested Riven should have already known. "Seventh generation witch, House Thornwicke. My family has trained at this Academy since its founding."
+She was right, of course. But my mind wasn't done spiraling yet.
 
-"Congratulations," Riven said neutrally.
+"Rae?"
 
-Lucian's smile didn't reach his eyes. "I want to make something clear. The Academy may have lowered its standards enough to admit your kind, but that doesn't mean you belong here. Blood Archons are relics of a darker age. Your magic is corrupted, dangerous, and frankly, an insult to those of us with pure lineages."
+"Mm?"
 
-Several students had gathered to watch the confrontation. Riven kept his expression calm, though his blood sang with the urge to respond. "I'm here on merit, same as you."
+"What Kaine said—about Terravos tearing Nocturne apart to get to me. He was serious, wasn't he?"
 
-"Merit?" Lucian laughed. "You're here because Corvinus has some misguided notion about preserving dying bloodlines. Trust me, Blackthorne—you won't last the month."
+A long pause. Then: "Yes. I think he was."
 
-"Lucian, leave him alone." A new voice cut through the tension. A young woman stepped forward—dark skin, natural hair styled close to her scalp, and eyes that crackled with barely contained lightning. "Save your posturing for the trials."
+"So we need to figure out why. Why me specifically. What makes me so valuable that an Earth Archon would risk war to capture me?"
 
-"Stay out of this, Kara," Lucian said dismissively.
+"We will." Her voice was sleepy now, fading. "In the morning. Talk to Viktor. Hit the archives. Your mother's journal... there's something we're missing..."
 
-"Or what? You'll throw another tantrum like you did last year when Master Blackwood told you your technique was sloppy?" Kara turned to Riven. "Kara Stormborn. Don't let the pure-blood snobs intimidate you. Half of them can barely light a candle without their family grimoires."
+She trailed off, sleep finally claiming her. But she'd planted the seed, and now my thoughts turned in a new direction.
 
-Lucian's face reddened. "You'll regret that."
+My mother's journal. The memory crystal. All the things my parents had left behind, cryptic warnings and half-explanations about our bloodline. They'd been running from something—not just my father's family, but something bigger. Something they'd tried to protect me from.
 
-"Add it to the list," Kara said cheerfully. She nodded to Riven. "See you at the trials."
+Maybe it was time to stop running and start understanding.
 
-As the crowd dispersed, Riven found himself alone again. But the encounter had confirmed what Sera had warned him about. The Academy might train magical elites, but it was also a battlefield of politics, prejudice, and power. And he was walking into it alone.
+The restricted archives. Lady Seraphina had mentioned them when we first arrived—Blood Archon family records going back centuries, sealed away after my parents fled. If there were answers about what made me so important to Terravos, they'd be there.
 
----
+Tomorrow, I decided. Tomorrow we'd go looking for answers.
 
-The placement trials began the next morning. First-years gathered in the main training arena—a vast circular space with walls carved with containment runes and a floor that could be reconfigured magically to simulate any terrain.
-
-Master Blackwood stood at the center, arms crossed, expression stern. He was a bear of a man, scarred and grizzled, with the look of someone who'd spent decades in combat rather than behind a desk. "Combat assessment," he announced. "You'll face a series of challenges designed to test your reflexes, power control, and tactical thinking. Fail to defend yourself adequately, you'll be placed in remedial training. Excel, and you'll join advanced combat classes."
-
-One by one, students stepped forward. Lucian went first, his magic precise and flashy—spectral weapons that he wielded with practiced ease. Impressive, but Riven noticed how much energy he burned for relatively simple effects.
-
-Kara was next, and her elemental magic was raw and powerful. Lightning danced at her fingertips, and when she faced the conjured opponents Blackwood summoned, she fought with a combination of magic and physical prowess that drew approving nods from the instructor.
-
-Then it was Riven's turn.
-
-He stepped into the arena, and immediately felt every eye on him. The whispers started—Blood Archon, dangerous, watch what happens.
-
-"Blackthorne," Master Blackwood said. "Show me what you can do."
-
-Three constructs materialized—humanoid shapes made of solid magic, armed and aggressive. They attacked simultaneously.
-
-Riven's blood magic responded instinctively. He didn't need incantations or gestures like the other students. His power was part of him, as natural as breathing. Blood drawn from a vial at his belt became a whip that lashed out, wrapping around one construct's neck. He pulled, and the construct shattered.
-
-The second construct closed in. Riven shaped his blood magic into a blade, intercepting the creature's weapon. The clash sent sparks of crimson energy across the arena floor. He pivoted, using the construct's momentum against it, and drove his blood-blade through its chest.
-
-The third construct was faster, more aggressive. It forced Riven to defend, to move, to think. He could feel his power wanting to surge, to overwhelm, to simply flood the arena with blood magic and crush everything in his path. But he remembered Corvinus's words. Control. Discipline.
-
-He feinted left, then rolled right, coming up with his hand extended. Blood magic coalesced into a spear that he hurled with lethal precision. The construct exploded into fragments of dissipating energy.
-
-Silence filled the arena.
-
-Master Blackwood studied him with an unreadable expression. "Raw power, good instincts, but sloppy technique. You rely too much on brute force. In a real fight against a skilled opponent, that'll get you killed." He made a note on his tablet. "Advanced combat class. We'll work on refinement."
-
-Riven returned to the sidelines, aware of the changed atmosphere. The stares now held more calculation, more respect—and more fear.
+But tonight...
 
 ---
 
-The afternoon brought academic assessments. In Master Thalia's chamber—a circular room filled with books that floated in slowly rotating orbits—the students were tested on magical history and theory.
+The nightmare caught me somewhere in the hours before dawn.
 
-Master Thalia herself was an ancient witch, her age impossible to determine, with silver hair that moved like it was underwater and eyes that had seen centuries pass. "Magic," she said, her voice like rustling parchment, "is not merely power. It is legacy, consequence, and responsibility. To wield magic without understanding its history is to walk blindfolded through a minefield."
+I was back at the Crimson Ball, but wrong. The crystal walls were red instead of clear, dripping with blood that pooled on the marble floor. The guests were all there—Viktor, Lysandra, Lady Seraphina—but they stood frozen like statues, their eyes tracking me as I moved past.
 
-She questioned each student, probing their knowledge. When she reached Riven, her expression softened slightly. "Mr. Blackthorne. Tell me about the Blood Wars."
+*Blood Archon,* they whispered, though their lips didn't move. *Monster. Tyrant. Destroyer.*
 
-It was a loaded question. The Blood Wars were the conflict that had led to the near-extinction of his people. "The Blood Wars began three centuries ago," Riven said carefully, "when Blood Archon houses sought to expand their territories. The conflict escalated into a campaign of conquest that threatened all other magical lineages. It ended with the Council's intervention and the Purge that followed."
+"No," I tried to say, but my voice came out garbled. I looked down and saw my hands were covered in blood that wasn't mine. Crimson dripped from my fingers, and everywhere it touched, the floor cracked and withered.
 
-"The official history," Master Thalia said. "Now tell me what really happened."
+Raechelle stood in the center of the ballroom, still in her silver dress. But when I moved toward her, she backed away.
 
-Riven hesitated. Every eye in the room was on him again. "The Blood Wars were more complex than simple conquest. Blood Archon society was fractured—some houses sought power, others sought survival. When the other lineages united against them, they didn't distinguish between the aggressors and the innocent. The Purge killed indiscriminately."
+*You're changing,* her voice echoed in my skull. *Becoming what they fear. What they hate.*
 
-"And do you believe your people were victims?" Thalia's question was sharp.
+"I'm not—I would never—"
 
-"I believe," Riven said, "that both sides committed atrocities. But history is written by the victors."
+But my power was surging out of control, blood magic radiating from me in waves. The frozen guests began to crack and crumble, turning to dust. The walls collapsed inward. The ceiling fell in chunks of shattered crystal.
 
-Thalia's lips curved in something that might have been approval. "An honest answer. Remember, Mr. Blackthorne, that the truth is rarely simple and never comfortable. Advanced theory class. You'll need to understand the politics that shaped the world you're inheriting."
+And through it all, I heard Terravos laughing, his voice like grinding stone: *Give in. Accept what you are. Stop pretending to be something you're not.*
 
----
-
-The final assessment was with Chancellor Corvinus himself, in his tower of black stone. Only a handful of students were summoned—those with particularly unique or powerful abilities.
-
-Corvinus's study was lined with artifacts that pulsed with barely contained magic. Ancient texts bound in materials Riven couldn't identify. Vials of substances that seemed to shift between solid and liquid states. And everywhere, the scent of blood magic, old and powerful.
-
-"Sit," Corvinus instructed.
-
-Riven sat across from the Chancellor, who studied him with those ancient, knowing eyes. "Your combat assessment was impressive. Your academic understanding is adequate. But I want to test something more fundamental." He stood, moving to a shelf and retrieving a crystal orb filled with swirling red mist. "This is a blood resonance sphere. It responds to the depth and purity of blood magic. Most Blood Archons can activate a basic glow. The most powerful can ignite it fully."
-
-He placed the orb on the desk between them. "Show me."
-
-Riven extended his hand, not touching the sphere but letting his magic reach toward it. The connection was immediate and overwhelming. The orb blazed with crimson light, so bright Riven had to shield his eyes. But more than that—he could feel the resonance singing through his blood, connecting him to something vast and ancient.
-
-"Enough," Corvinus said sharply, and Riven pulled back. The orb's light dimmed but didn't extinguish completely. The Chancellor's expression was a mixture of satisfaction and concern. "Your power is remarkable, Riven. Far beyond what I expected for your age and training. But power without control is a liability."
-
-"I can control it," Riven insisted.
-
-"Can you?" Corvinus leaned forward. "Your instincts in combat were to overwhelm, to dominate. That's the blood magic speaking—the legacy of those who came before you, warriors and conquerors who saw power as the ultimate answer. But you're here to learn a different path."
-
-He stood, moving to the window that overlooked the Academy. "I brought you here not just to train your abilities, but to help you understand their weight. Blood Archons fell because they forgot that magic serves a purpose beyond personal gain. I won't let you make the same mistakes."
-
-Riven felt the rebuke, but also something else—genuine concern. Corvinus wasn't just an instructor. In some strange way, he was trying to be what Riven had never had: a mentor.
-
-"I'll work harder," Riven said.
-
-"See that you do. Dismissed."
+I wanted to scream, to fight, to—
 
 ---
 
-By the end of the week, Riven had settled into a routine. Morning combat training with Master Blackwood, where he learned to refine his instinctive fighting style into something more technical. Afternoons with Master Thalia, diving deep into magical history and the political forces that shaped the realm. Evenings with Corvinus, studying blood magic theory and learning to push his abilities in controlled, measured ways.
+I woke with a gasp, my heart hammering against my ribs. For a disorienting moment I didn't know where I was. Then reality reasserted itself—our bedroom in Nocturne, early morning light filtering through the curtains, Raechelle still sleeping peacefully beside me.
 
-The other students remained distant, though the outright hostility had dulled somewhat. Lucian still made pointed comments about corrupted bloodlines, but Kara had taken to sitting near Riven during meals, their conversations brief but gradually warming into something like friendship.
+Just a dream. Just a nightmare brought on by stress and fear and too much adrenaline.
 
-On the seventh day, Riven found himself in the training grounds after hours, practicing the forms Master Blackwood had taught him. The grounds were supposed to be empty, but he sensed another presence.
+But my hands were shaking, and I could still feel the phantom sensation of blood magic spiraling out of control.
 
-"You're getting better." Sera materialized from the shadows, her elemental nature making her nearly invisible when she wanted to be. "I've been watching your progress. Impressive."
+*You okay?* Raechelle's mental voice was foggy with sleep but concerned.
 
-"Thanks," Riven said, lowering his practice blade. "What are you doing here?"
+*Yeah. Bad dream.*
 
-"Making sure you survived your first week." She smiled. "Not everyone does. Well, not literally—the Academy's safety protocols are extensive—but plenty of first-years wash out or transfer when they realize they're out of their depth."
+*About the ball?*
 
-"I'm not going anywhere," Riven said.
+*About becoming something I'm not.*
 
-"I believe you." Sera's expression turned serious. "But here's something you should know. There's talk. Some of the upper-year students, particularly those from the old families, they're not happy about you being here. Lucian's family in particular has been... vocal."
+She shifted closer, wrapping an arm around me without opening her eyes. *Not gonna happen, Sir. I've got you.*
 
-"Let them talk."
+*I know.*
 
-"It's more than talk. The Academy has official rules, but it also has unofficial ones. Challenges, tests, ways for students to prove dominance without direct intervention from the faculty. You've made an impression, Riven. Some people will want to knock you down."
+But as I lay there watching the dawn creep across Nocturne's eternal twilight sky, I couldn't shake the nightmare's lingering unease. Somewhere out there, Terravos was planning his next move. Somewhere in the Council, a traitor was feeding him information. And somewhere in my own bloodline's history, there was a secret important enough to kill for.
 
-Riven thought about that. "And what do you suggest?"
+The Crimson Ball had been a warning shot. A demonstration of power and intent. Next time, the attack would be more focused, more deadly. Next time, they'd come directly for me.
 
-"Keep doing what you're doing. Get stronger. Make allies where you can. And watch your back." She stepped back into the shadows. "See you around, Blackthorne."
+Which meant I needed to be ready.
 
----
+I carefully extracted myself from Raechelle's embrace, moving to the window. Nocturne spread out below our apartment, a city built on layers of secrets and shadows. Beautiful and dangerous in equal measure. My city now, for better or worse.
 
-That night, lying in his narrow bed and staring at the ceiling, Riven reflected on the week. He'd survived. More than that—he'd begun to prove himself. The instructors recognized his potential, even if they worried about his control. Some students were beginning to see him as more than just a dangerous relic.
+The college kid who'd arrived here a few months ago wouldn't have recognized what I'd become. That version of me had wanted a normal life—classes, games, maybe a relationship that didn't involve ancient blood magic and political assassination attempts.
 
-But the challenges were only beginning. He could feel it—the weight of expectations, the burden of his bloodline, the knowledge that every action he took would be judged not just as an individual but as a representative of a nearly extinct race.
+This version of me understood that normal was never going to be an option. Not for a Blood Archon in Nocturne. Not for someone bound to powers that made the other supernaturals nervous.
 
-The Academy was more than a school. It was a crucible, and Riven would either be forged into something stronger or consumed by the fire.
+But maybe Raechelle was right. Maybe the fact that I was still worried about protecting people, still questioning my choices, still fighting to stay human—maybe that was enough. Maybe that was what separated me from the Blood Archons who'd gone wrong.
 
-He thought of Master Thalia's words about responsibility, Master Blackwood's lessons on discipline, and Corvinus's warning about the dangers of unchecked power. They were trying to teach him not just to survive, but to be worthy of the magic he carried.
+Or maybe I was just fooling myself, and the darkness was already seeping in.
 
-Outside his window, the Academy's towers glowed with ambient magic, never truly dark. Somewhere in those halls, students plotted and studied and practiced, each one striving to become something more than they were.
+*Stop it.* Raechelle's mental voice was firmer now, definitely awake. *I can hear you spiraling from here.*
 
-Riven closed his eyes, feeling his blood magic pulse in rhythm with his heartbeat. He was a Blood Archon in a world that feared and hated his kind. But he was also a student at the greatest magical academy in the realm, with teachers who believed—or at least hoped—that he could be different.
+*Sorry.*
 
-The first week was complete. The real trials were just beginning.
+*No you're not. But that's okay.* I felt her sit up, felt her attention focus on me through the bond. *Come back to bed. Another hour of sleep won't kill you.*
+
+*Can't. Too much to think about.*
+
+*Then think about this—* Her presence in my mind intensified, warm and fierce and absolutely certain. *Whatever comes next, we face it together. Terravos, the Council, the secrets in your bloodline—doesn't matter. You're not alone in this. You never were.*
+
+The knot of anxiety in my chest loosened slightly. She was right. I wasn't the scared kid who'd stumbled into Nocturne anymore. I had allies. I had power. I had purpose.
+
+And I had her.
+
+*Thank you,* I thought to her.
+
+*Always, Sir. Always.*
+
+Outside, Nocturne was beginning to stir. The eternal twilight would remain, but the city's rhythms were shifting from night to day. Soon, people would be moving through the streets again, resuming their lives as if last night's attack had never happened. Because that was how you survived in this city—you adapted, you endured, you kept moving forward.
+
+I could do that too.
+
+I turned from the window, looking at Raechelle in the growing light. Her amber eyes were watching me, patient and understanding. She knew what I needed before I did—someone to ground me, to pull me back from the edge when my thoughts got too dark.
+
+"Okay," I said aloud. "One more hour of sleep. Then we figure out what my parents were hiding."
+
+"Deal." She patted the bed beside her. "Now get over here before I have to drag you."
+
+I climbed back into bed, and she immediately wrapped herself around me like she was afraid I'd disappear. The bond hummed between us, steady and strong, a reminder that whatever else was uncertain in my life, this was real.
+
+*Love you,* I thought to her.
+
+*Love you too, Sir. Even when you're being dramatic.*
+
+This time when I closed my eyes, there were no nightmares. Just darkness and warmth and the feeling of being held by someone who'd seen the worst parts of me and chosen to stay anyway.
+
+I let myself sink into exhausted sleep, holding onto the knowledge that whatever came next—we'd face it together.
+
+For now, that was enough.
 
 ---
 
@@ -6755,7 +6724,7 @@ It was time to meet it head-on.
 
 ---
 
-*End of Chapter 16.5*
+*End of Chapter 17*
 
 
 # **Chapter 18**
@@ -7118,7 +7087,7 @@ Now it was time to show him that prey could bite back.
 
 ---
 
-*End of Chapter 17*
+*End of Chapter 18*
 
 
 ---
@@ -7377,7 +7346,7 @@ And that was enough.
 
 ---
 
-*End of Chapter 18*
+*End of Chapter 19*
 
 
 ---
@@ -7718,7 +7687,7 @@ But at least we weren't standing alone.
 
 ---
 
-*End of Chapter 19*
+*End of Chapter 20*
 
 
 ---
@@ -8232,7 +8201,7 @@ And sometimes, that was enough.
 
 ---
 
-*End of Chapter 19.5*
+*End of Chapter 21*
 
 
 # **Chapter 22**
@@ -8379,9 +8348,9 @@ She kissed me, hard and desperate and full of all the emotion we couldn't voice 
 
 The ceremony was held that evening, in the Council Hall's grand chamber, before an audience of hundreds. Every faction leader attended, along with representatives from across Nocturne. Even Archon Sylvanas was present, watching with interested silver eyes.
 
-The ritual itself was ancient, predating even the Council. Lady Seraphina presided, speaking words in a language that predated modern supernatural society. Raechelle and I stood facing each other, our hands bound with crimson cord that glowed with blood magic.
+Unlike the intimate midnight ritual in my ancestral chapel, this was a grand public declaration. The formal ritual was ancient, predating even the Council. Lady Seraphina presided once more, her voice resonating through the vast chamber as she spoke words in a language that predated modern supernatural society. Raechelle and I stood facing each other on a raised dais, visible to all, our hands bound with the same crimson cord that glowed with blood magic.
 
-"You've already bonded as Archon and familiar," Seraphina intoned. "Now you bond as equals, as partners, as two souls choosing to walk the same path forever. This is no light commitment—to break such a bond would destroy you both. Do you accept these terms?"
+"Before witnesses gathered from across the supernatural world," Seraphina proclaimed, her voice amplified by the hall's acoustics, "you reaffirm your bond. Archon and familiar, equals and partners, two souls walking the same path forever. Let all present bear witness to this union."
 
 "I do," I said clearly.
 
@@ -8561,7 +8530,7 @@ Now we just had to prepare for the tempest to come.
 
 ---
 
-*End of Chapter 20*
+*End of Chapter 22*
 
 
 ---
@@ -8850,7 +8819,7 @@ Corvinus nodded approvingly. "Then let's continue. We have much work ahead of us
 
 ---
 
-*End of Chapter 21*
+*End of Chapter 23*
 
 ---
 
@@ -9078,7 +9047,7 @@ The war had truly begun. And I was done playing defense.
 
 ---
 
-*End of Chapter 22*
+*End of Chapter 24*
 
 ---
 
@@ -9170,7 +9139,7 @@ The war was about to change. No more defending. Only attacking.
 
 ---
 
-*End of Chapter 23*
+*End of Chapter 25*
 
 
 ---
@@ -9180,7 +9149,7 @@ The war was about to change. No more defending. Only attacking.
 
 ## The Price of Leadership
 
-The healing ward smelled of herbs, copper, and the peculiar tang of supernatural blood—distinct from human blood in ways I'd never noticed before my awakening. Each species had its own scent signature: vampires carried an undertone of preserved roses, werewolves smelled of earth and wild things, witches bore traces of whatever magic they practiced most. Now, walking through the long hall of recovering warriors, I could identify each without looking.
+Two days after the memorial services, the healing ward smelled of herbs, copper, and the peculiar tang of supernatural blood—distinct from human blood in ways I'd never noticed before my awakening. Each species had its own scent signature: vampires carried an undertone of preserved roses, werewolves smelled of earth and wild things, witches bore traces of whatever magic they practiced most. Now, walking through the long hall of recovering warriors, I could identify each without looking.
 
 Thirteen beds stood empty. Permanently empty.
 
@@ -9262,7 +9231,7 @@ The invocation of my mother stung, but it also worked. I nodded, accepting her p
 
 We left the healing ward together, stepping into Nocturne's eternal twilight. The city had taken on a muted quality since the attack, as though the sky itself was in mourning. Magic still flowed through the streets, but subdued, respectful. Even the ever-present music seemed softer.
 
-Our first stop was the vampire district, to visit the family of Marcus Draven. He'd been young—only two centuries old—but fierce in his dedication to Nocturne's defense. The Titan's fist had caught him mid-leap, pulverizing him against the city wall before anyone could reach him.
+Our first stop was the vampire district, to visit the family of Adrian Draven. He'd been young—only two centuries old—but fierce in his dedication to Nocturne's defense. The Titan's fist had caught him mid-leap, pulverizing him against the city wall before anyone could reach him.
 
 His widow, Elena, greeted us at the door of their modest home. She was composed, her face a mask of aristocratic control, but I could see the devastation in her eyes.
 
@@ -9278,9 +9247,9 @@ Elena's mask cracked slightly. "Did it? Forgive me, Lord Sixxx, but he's still d
 
 The room had gone silent. Every vampire was watching us now, waiting to see how this would play out.
 
-"I can't undo what happened," I continued. "I can't bring Marcus back. What I can do is promise you that his death will not be meaningless. We will stop Terravos. We will protect Nocturne. And when we do, when history remembers this war, Marcus Draven's name will be among the heroes who made our victory possible."
+"I can't undo what happened," I continued. "I can't bring Adrian back. What I can do is promise you that his death will not be meaningless. We will stop Terravos. We will protect Nocturne. And when we do, when history remembers this war, Adrian Draven's name will be among the heroes who made our victory possible."
 
-Elena stared at me for a long moment. Then, slowly, she nodded. "He would have appreciated that. Marcus always said..." She swallowed hard. "He said you were different from other leaders. That you saw warriors as people, not resources. I hope that's true, Lord Sixxx. Because if we're going to keep dying for you, we need to know you actually care."
+Elena stared at me for a long moment. Then, slowly, she nodded. "He would have appreciated that. Adrian always said..." She swallowed hard. "He said you were different from other leaders. That you saw warriors as people, not resources. I hope that's true, Lord Sixxx. Because if we're going to keep dying for you, we need to know you actually care."
 
 "I do," I said simply. "More than I can express."
 
@@ -9378,7 +9347,7 @@ The Council chamber fell silent as the implications sank in.
 
 "You're asking for volunteers to go on suicide missions," Thornwick said flatly.
 
-"I'm asking for volunteers to go on high-risk missions that could change the course of this war," I corrected. "Yes, some might not come back. But the alternative is staying here, waiting for Terravos to send another Titan, and losing more people like Marcus Draven and Iris Moonwhisper to attacks we could have prevented."
+"I'm asking for volunteers to go on high-risk missions that could change the course of this war," I corrected. "Yes, some might not come back. But the alternative is staying here, waiting for Terravos to send another Titan, and losing more people like Adrian Draven and Iris Moonwhisper to attacks we could have prevented."
 
 "I'll volunteer," Viktor said immediately. "Along with my best warriors."
 
@@ -9468,7 +9437,7 @@ Later, in bed, with Raechelle curled against my side, I finally allowed myself t
 
 *That's what makes you a leader,* she replied. *Not being ready, but doing what needs to be done despite the fear.*
 
-I thought about Marcus Draven, dying against the city wall. About Iris and Thalia Moonwhisper, holding the line with magic blazing from their hands. About the thirteen empty beds in the healing ward and the families who would never be whole again.
+I thought about Adrian Draven, dying against the city wall. About Iris and Thalia Moonwhisper, holding the line with magic blazing from their hands. About the thirteen empty beds in the healing ward and the families who would never be whole again.
 
 Terravos wanted to break us with fear. To make us believe that resistance was futile. But he'd made a critical miscalculation. Each person he killed, each family he shattered, didn't make Nocturne weaker. It made us more determined.
 
@@ -9563,7 +9532,7 @@ No other option was acceptable.
 
 ## Into Enemy Territory
 
-The portal deposited us fifty miles from Terravos's primary supply depot—close enough to strike quickly, far enough to avoid immediate detection. The landscape was hostile: barren earth studded with volcanic rock, the sky perpetually overcast with ash-gray clouds.
+Three days after forming the strike team, the portal deposited us fifty miles from Terravos's primary supply depot—close enough to strike quickly, far enough to avoid immediate detection. The landscape was hostile: barren earth studded with volcanic rock, the sky perpetually overcast with ash-gray clouds.
 
 "This is his domain," Morgana whispered, her magical senses extending outward. "Every stone, every grain of sand—it's all connected to him. We need to move fast."
 
@@ -9613,7 +9582,7 @@ It had better be worth it.
 
 ---
 
-*End of Chapter 24*
+*End of Chapter 27*
 
 
 ---
@@ -9770,7 +9739,7 @@ I intended to make sure it wasn't me.
 
 ---
 
-*End of Chapter 25*
+*End of Chapter 28*
 
 
 ---
@@ -9790,17 +9759,13 @@ I stood at the head of the table, feeling the weight of every eye in the room. T
 
 "Walk us through it again," Lady Seraphina commanded, her shadow-form coalescing into something more solid. "Everything the documents revealed."
 
-Morgana stepped forward, her witch's sight allowing her to read the layered enchantments and hidden text within the captured scrolls. "The Sundering requires three components, performed at a nexus point during specific astronomical alignment. First: the blood of a defeated Blood Archon—specifically, blood taken at the moment of death, when the Balance itself is vulnerable."
+Morgana stepped forward, her witch's sight allowing her to read the layered enchantments and hidden text within the captured scrolls. "As we discovered from Terravos's documents, the Sundering requires three components. We know he needs Riven's blood taken at the moment of death, when the Balance itself is vulnerable."
 
 "My blood," I said quietly. The room rippled with murmurs.
 
-"Second," Morgana continued, "a convergence of at least five ley lines. There are only seven locations on Earth where this occurs naturally. Terravos has chosen the Heart of Stone—his ancestral stronghold, which sits atop the largest nexus point in the Western Hemisphere."
+"Second," Morgana continued, "a convergence of at least five ley lines at the Heart of Stone—his ancestral stronghold. And third, the willing sacrifice of exactly ten thousand souls."
 
-Viktor's deep voice rumbled from where he stood with his pack. "And the third component?"
-
-"The willing sacrifice of exactly ten thousand souls," Corvinus answered. "Not murdered. Not coerced. Willing. They must give their life force freely, believing they die for a cause greater than themselves."
-
-"His corrupted army," I said, pieces clicking into place. "He's been building this for decades—maybe centuries. Converting people, binding them with earth magic, convincing them he's their salvation. They worship him. They'd die for him gladly."
+Viktor's deep voice rumbled from where he stood with his pack. "His corrupted army. The fanatics who worship him."
 
 "But that's the weakness," Raechelle interjected, her sharp mind cutting through to the core. "He needs exactly ten thousand. Not nine thousand nine hundred ninety-nine. Not ten thousand and one. The ritual is precise—any deviation and it fails."
 
@@ -10084,7 +10049,7 @@ But to transform everything.
 
 ---
 
-*End of Chapter 25.5*
+*End of Chapter 29*
 
 
 # **Chapter 30**
@@ -10267,7 +10232,7 @@ And I intended to make the most of it.
 
 ---
 
-*End of Chapter 26*
+*End of Chapter 30*
 
 
 ---
@@ -10344,7 +10309,7 @@ Her smile was brilliant. "I think that can be arranged."
 
 ---
 
-*End of Chapter 27*
+*End of Chapter 31*
 
 
 ---
@@ -10784,7 +10749,7 @@ But tonight? Tonight was ours. The calm between storms. The peace we'd earned.
 
 And it was beautiful.
 
-*End of Chapter 27.5*
+*End of Chapter 32*
 
 ---
 
@@ -10855,7 +10820,7 @@ I pulled her into my arms, kissing her with all the love I felt. "Happy doesn't 
 
 ---
 
-*End of Chapter 28*
+*End of Chapter 33*
 
 
 ---
@@ -10914,7 +10879,7 @@ Whatever challenges came—political, magical, or otherwise—we would face them
 
 ---
 
-*End of Chapter 29*
+*End of Chapter 34*
 
 
 ---
@@ -11468,7 +11433,7 @@ And I'd never been more ready.
 
 ---
 
-**End of Chapter 30.5**
+*End of Chapter 36*
 
 
 # **Chapter 37**
@@ -11839,7 +11804,7 @@ Let the shadows come. We would be ready.
 
 ---
 
-*End of Chapter 31*
+*End of Chapter 37*
 
 
 ---
@@ -12222,7 +12187,7 @@ And I intended to win.
 
 ---
 
-*End of Chapter 32*
+*End of Chapter 38*
 
 
 ---
