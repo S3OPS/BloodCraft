@@ -97,7 +97,7 @@ understanding the mechanisms of technology.
 
 This fascination ultimately led me to pursue a degree in Computer Science, a field that mirrored my interests and
 strengths. I am currently on track to complete my degree at the end of the upcoming semester, although the journey has
-taken me longer than the typical timeline. After earning my high school diploma, I chose to take a break from formal
+taken me longer than the typical timeline. After earning my high school diploma at seventeen, I chose to take a three-year break from formal
 education. This time allowed me to help my parents with the upkeep of our home and the expansive land we had, while also
 cherishing precious moments spent with them. This decision to pause my studies was not made lightly but stemmed from a
 desire to strengthen our family bonds before diving back into my educational pursuits.
@@ -1093,9 +1093,10 @@ Without wasting another moment, she urged, “Quickly, gather the journal and an
 move swiftly.”
 
 I nodded, urgency coursing through my veins, and started to gather some clothes, essentials, and the journal that held
-mysteries of its own, a silent testament to the journey I was about to embark upon. As we stepped out of the house, I
-felt the weight of the world on my shoulders, but also a flicker of hope ignited by the unknown possibilities that
-awaited us.
+mysteries of its own, a silent testament to the journey I was about to embark upon. Within minutes, we stood at the
+threshold. As we stepped out of the house and into the cool night air, I felt the weight of the world on my shoulders,
+but also a flicker of hope ignited by the unknown possibilities that awaited us. Raechelle led the way toward the
+tree line, and I followed without hesitation, leaving behind the only home I'd ever known—at least for now.
 
 ---
 
@@ -1106,43 +1107,49 @@ awaited us.
 
 ## The Familiar Bond
 
-Consciousness returned in fragments.
+The woods we'd walked through to reach Raechelle's cabin were the same woods that had always been part of my childhood landscape, but as we ventured deeper into them, the world seemed to shift around us. The familiar paths felt different now—charged with an energy I'd never noticed before. Or perhaps it was me who had changed. My awakening at the accident scene had left me raw, hypersensitive to everything around me.
 
-First, sensation: the soft cushion of fabric beneath me, warmer than expected. The smell of aged wood and dust, familiar in a way that should have been comforting but wasn't. My parents' sofa. Home.
+Every sound registered with crystalline clarity: the rustle of leaves, the distant hoot of an owl, Raechelle's near-silent footsteps beside me. The night air carried a thousand scents I'd never distinguished before—earth and moss, wildflowers and decay, and underneath it all, something that called to a part of me I was only beginning to understand.
 
-Then, pain: not the sharp agony I'd expected after being thrown through the air by an explosion of wild magic, but a deeper ache—the kind that settled into bones and whispered of fundamental changes. My body felt both heavier and lighter than it should, as if gravity itself had become uncertain about how to hold me.
+"Just a little further," Raechelle murmured, her voice barely above a whisper.
 
-Finally, awareness: I wasn't alone.
+I clutched the journal tighter against my chest, the leather warm from my grip. My mother's words still echoed in my mind, mixing with the memories of what had happened at the crash site. The explosion of power, the kaleidoscope of magical colors, Raechelle kneeling before me in submission. It all felt like a fever dream, except I could still feel the magic thrumming beneath my skin, waiting.
 
-My eyes cracked open, and even that small movement felt momentous. The world swam into focus with terrifying clarity—every detail of the water-stained ceiling above me rendered in perfect definition, every mote of dust suspended in the moonlight through the window visible like tiny galaxies. I could hear the house settling around me, the creak of old wood expanding and contracting, the whisper of wind through gaps in the siding. The sensations were overwhelming, each one amplified beyond anything I'd ever experienced.
+The walk felt longer than it should have, though Raechelle moved with purpose through the dense undergrowth. After nearly thirty minutes of silent exploration, we emerged into an expansive clearing that made me blink in surprise. How had I never known this place existed on my own property?
 
-"Easy." Her voice came from somewhere to my left, soft and melodious, carrying a weight of concern that felt almost tangible. "Don't try to sit up yet. Your body has been through significant trauma."
+"Here we are," Raechelle announced, her voice brightening with relief as her whole posture relaxed. "My humble cabin."
 
-Raechelle. The woman—no, the *vampire*—who had revealed herself in the aftermath of my parents' murder. The familiar bound to my bloodline. The person whose very existence confirmed that everything I thought I knew about reality was a comfortable lie.
+I surveyed the clearing, puzzled. "What cabin?" All I saw was an empty expanse of land, roughly half the size of a football field, surrounded by towering trees that loomed like silent sentinels.
 
-I turned my head toward her voice, and the movement sent the room spinning. She materialized from the shadows like a wraith, perching on the edge of the coffee table with preternatural stillness. Her crimson eyes glowed faintly in the darkness, twin points of ember-light that should have frightened me but somehow didn't. In the dim illumination, I could see the concern etched across her pale, freckled features.
+Raechelle's eyes sparkled with mischief and joy. "I wasn't sure if the spell would hold against an Archon," she explained, laughter dancing in her voice. "But it seems my concealment magic works even on you—at least for now." She tossed me a dazzling wink, the first genuine display of happiness I'd seen from her.
 
-"What—" My voice came out as a rasp, my throat desert-dry. "What happened?"
+Then she took my hand—the contact sending an unexpected warmth through me—and spoke with ceremonial weight: "Sir Riven, as my honored guest, never avert your gaze from my home."
 
-"Your awakening." She leaned forward slightly, and I caught her scent—something between night-blooming flowers and old parchment, with an underlying note of copper that made my stomach clench with an unfamiliar hunger. "When you drank the blood elixir, it triggered the manifestation of your Archon abilities. The power surge was... unprecedented. I've witnessed dozens of awakenings over the centuries, but nothing like yours."
+The moment her words finished, a tingling sensation raced through my fingertips, up my arm, settling in my chest. I blinked, and the world transformed. Where there had been only empty space now stood a quaint cabin, smoke drifting melodiously from its chimney into the star-studded sky.
 
-Memories surfaced through the fog: the hidden compartment in my mother's bedroom, the journal, the letter explaining the impossible. The vial of crimson liquid I'd consumed without hesitation, desperate for answers, for connection, for anything that would make sense of the nightmare my life had become.
+I stared, transfixed. The cabin nestled perfectly in its clearing, surrounded by a manicured garden bursting with herbs and flowers. A handcrafted wooden bench sat between two trees, and further back I spotted the weathered outline of a well. Above us, the ominous red moon bathed everything in ethereal light, yet somehow the scene felt peaceful. Safe.
 
-And then... pain. Ecstasy. Power erupting through every cell of my body like wildfire, uncontrolled and consuming. I remembered being lifted off my feet, magic of every color spiraling around me in a kaleidoscope of raw energy. I remembered screaming—whether in agony or exhilaration, I couldn't say. I remembered Raechelle's face, her eyes wide with shock and something that might have been awe.
+"It's beautiful," I murmured. "I've never seen anything like it."
 
-I remembered falling.
+"It's been my sanctuary for over a century," she said softly, a wistful note in her voice. "103 years this past spring, to be exact."
 
-"How long?" I asked, finally managing to push myself up on my elbows despite the protest of muscles that felt like they'd been thoroughly beaten.
+"Wait—you've lived here longer than my parents owned this land?" The implication struck me. "How is that possible?"
 
-"Three hours." Raechelle's gaze tracked my movements with predatory intensity, though I sensed no threat in it. "You collapsed after the power surge. I caught you before you hit the ground and brought you down here. You've been unconscious ever since."
+"Let's go inside," she urged gently. "You need rest, and we have much to discuss. The awakening has taken its toll on you, even if you don't fully feel it yet."
 
-Three hours. Three hours since my world had literally exploded with magic, since I'd learned that vampires and Archons and blood magic were real, since I'd accepted that I would never be normal again. Three hours since my parents had been murdered by Terravos, the Earth Archon, for the crime of birthing me.
+She was right. Now that the adrenaline was fading, exhaustion crashed over me in waves. My body ached in ways I couldn't describe—not pain exactly, but a deep weariness that went beyond the physical.
+
+Together we stepped inside the cabin, and I was immediately struck by its rustic charm. Beautiful wood interior wrapped us in warmth, the living room featuring a plush black sectional sofa facing a brick fireplace. There were no electric lights, no modern appliances—only candles that Raechelle began lighting, their flames casting dancing shadows across the walls as she started a fire in the hearth.
+
+Through an open archway, I glimpsed a beautifully crafted four-poster bed. Another door likely led to a bathroom. The simplicity of it all felt both anachronistic and strangely comforting.
+
+I sank onto the sofa, the journal still clutched against my chest. The events of the night—the accident, the awakening, the revelations in my mother's letter—all came crashing down on me at once. My parents were gone. I was something other than human now. And I had no idea what came next.
 
 The grief hit me then, a tidal wave I'd been holding back while my mind grappled with impossibilities. Mom. Dad. Gone. Dead because of what I was, because of a heritage I'd never asked for and didn't understand. Dead because they'd tried to protect me from a world I didn't even know existed.
 
 "I should have been there," I whispered, the words torn from somewhere deep in my chest. "I should have—"
 
-"You would have died." Raechelle's voice was gentle but firm, allowing no room for argument. "Terravos is an Archon who has ruled for thousands of years. Even awakened, you wouldn't have survived a direct confrontation with him. Your parents knew that. It's why they made the choices they did."
+"You would have died." Raechelle's voice was gentle but firm as she settled onto the sofa beside me, the firelight painting her features in warm tones. "Terravos—the Earth Archon who attacked your family—has ruled for thousands of years. Even awakened, you wouldn't have survived a direct confrontation with him. Your parents knew that. It's why they made the choices they did."
 
 "That doesn't make it hurt less."
 
@@ -1156,7 +1163,7 @@ When I opened my eyes again, the room had somehow gotten brighter, though the mo
 
 "You're a vampire now." Raechelle's expression was carefully neutral, watching me closely for any sign of panic or rejection. "Or at least, partly one. The blood elixir was designed to awaken your Blood Archon abilities, but it also initiated your transformation into a child of blood. Your senses will be heightened—sight, hearing, smell, taste, touch—all of them beyond human capacity."
 
-As if her words had flipped a switch, I became abruptly aware of *everything*. The sound of my own heartbeat, steady and strong in my chest. The rustle of Raechelle's clothes as she breathed. The distant hoot of an owl in the woods outside. The smell of dust and old books from my father's den, the lingering scent of my mother's perfume from the cushions beneath me, the salt-and-copper smell of dried blood—whose?—somewhere in the house.
+As if her words had flipped a switch, I became abruptly aware of *everything*. The sound of my own heartbeat, steady and strong in my chest. The rustle of Raechelle's clothes as she breathed. The distant hoot of an owl in the woods outside. The smell of old wood and smoke from the fireplace, the faint scent of herbs from the garden outside, the salt-and-copper smell that seemed to emanate from Raechelle herself.
 
 It was too much. The sensory overload crashed over me like a physical weight, and I gasped, pressing my palms against my temples as if that could somehow block out the overwhelming flood of information.
 
@@ -1167,6 +1174,8 @@ I latched onto her words like a lifeline, letting the melodious tone of her voic
 "Good," she murmured, her thumb tracing small circles on my shoulder through the fabric of my shirt. "That's good. It gets easier with practice. Soon you won't even have to think about it."
 
 "Is it always like this?" I asked, my voice steadier now. "For vampires?"
+
+My mother had warned me in her letter to set aside my preconceived notions about vampires, but knowing intellectually that they existed and experiencing the transformation myself were entirely different things.
 
 "The transition period is always challenging," she admitted. "But you're experiencing a compounded effect—you're not just becoming a vampire, you're also awakening as a Blood Archon. The two transformations are feeding into each other, amplifying everything. Your senses will stabilize in a few days, once your body adjusts to the changes."
 
@@ -1228,7 +1237,7 @@ The pierce of skin was easier than I'd expected, my new fangs sliding through he
 
 It was like nothing I'd ever experienced. The blood flowed over my tongue, warm and metallic-sweet, and every cell in my body sang with recognition and relief. Power flooded through me—not the explosive, uncontrolled surge of the awakening, but something steadier, more grounding. Strength flowing into muscles, clarity sharpening thoughts, the chaotic hunger finally, *finally* beginning to ease.
 
-I heard Raechelle gasp, felt her free hand come up to rest on the back of my head, fingers tangling gently in my hair. The gesture was intimate, grounding me in the moment, in the connection forming between us. Through the taste of her blood, I could feel... something. An echo of her emotions, perhaps? Contentment, relief, and beneath that, something warmer that I didn't have words for.
+I heard Raechelle gasp, felt her free hand come up to rest on the back of my head, fingers tangling gently in my hair. The gesture was intimate, grounding me in the moment, in the connection forming between us. Through the taste of her blood, I could feel... something. An echo of her emotions, perhaps? This must be the blood bond my mother had written about—that connection forged when Raechelle became my familiar. Now, tasting her blood, I could sense her contentment, relief, and beneath that, something warmer that I didn't have words for.
 
 *Enough.*
 
@@ -1380,119 +1389,23 @@ Those words followed me down into sleep, a promise and a comfort and a hope for 
 
 # **Chapter 5**
 
-As we stepped out of the house, a swirl of thoughts consumed me, particularly that cryptic comment she had made: "We
-won't even need to leave the property." It echoed in my mind, raising a flurry of questions. Did she actually reside
-somewhere on our land? How long had she been there, and how on earth had I missed the presence of an unfamiliar woman in
-these woods? I had spent countless hours wandering through the dense undergrowth and towering trees, yet somehow this
-creature—this vampire, this familiar—had lived here all along, watching over me from the shadows. The idea of a stranger
-living among them both puzzled and unsettled me, but also stirred something else: a strange sense of comfort, as if I
-had always known, on some subconscious level, that I was never truly alone.
+I woke to the soft crackling of the fire and the gradual lightening of the sky outside the cabin windows. Dawn was breaking, though the red moon still lingered on the horizon, casting its eerie glow through the gaps in the curtains.
 
-We ventured deeper into the woods, the light struggling to pierce the thick canopy overhead. Shadows danced around us,
-creating an almost surreal atmosphere as the night continued into neverending darkness. In the dim light, I spotted a
-hammock I had strung up between two sturdy trees, a personal retreat I cherished whenever I sought solace in nature's
-embrace. Gazing at it, I felt a sense of comfort wash over me, a reminder of peaceful moments I had enjoyed there. Yet,
-as I stood lost in my reverie, I noticed her reaction; she seemed to catch my glance and, for a fleeting moment, a smirk
-flickered across her lips.
+Raechelle was no longer beside me on the sofa. I could hear her moving about in the other room, and a moment later she emerged from the bedroom, having changed out of her blood-stained clothes into comfortable attire—a black tank top and silky black pajama shorts that highlighted her petite, curvy frame.
 
-My mind, however, was still flooded with the copious details from the letter I had read earlier. Each line was laced
-with mystery, leaving me eager yet apprehensive about what lay ahead. Clutched tightly in my hands was the journal—the
-one I couldn’t bear to part with since leaving the house. The pages brimmed with secrets waiting to be uncovered, and I
-felt a thrilling anticipation to delve into its depths. What revelations awaited me among the scribbled notes and
-forgotten memories?
+The sight of her stirred something in me, a mixture of attraction and the strange pull of our bond. Her crimson eyes met mine, and a knowing smile curved her lips.
 
-“Just a little further,” she murmured softly, her voice barely above a whisper as we navigated through the thickening
-foliage. Each step she took seemed effortless, and remarkably, she seemed to glide above the forest floor, making hardly
-a sound.
+"Good, you're awake," she said softly. "How do you feel?"
 
-In contrast, I sensed every distinct sound around us with surprising clarity—the rustle of leaves under the gentle
-breeze, the distant call of a bird, and the occasional snap of twigs underfoot. Yet, it was curious that I could only
-just manage to catch the faint echo of her footsteps as she moved forward. This made me wonder about the enhancements to
-my senses. Had my hearing sharpened in tune with my sight? What other mysteries about my perception lay in wait for me
-to discover?
+I took stock of myself. The overwhelming sensory chaos from earlier had settled into something more manageable, though everything was still sharper, clearer than it had been before my awakening. The grief was still there, a constant ache in my chest, but the immediate rawness had dulled slightly.
 
-After nearly thirty minutes of silent exploration through the dense undergrowth, we emerged into an expansive clearing
-that starkly contrasted the compact trees surrounding it. I blinked in sudden realization, feeling an unsettling
-combination of intrigue and confusion. How long had this place existed, hidden away from my eyes without my knowledge?
+"Better," I admitted. "Still... processing everything. But better."
 
-“Here we are, my humble little cabin!” Raechelle announced, her voice brightening with enthusiasm as she gestured
-broadly around the clearing. A visible wave of relaxation washed over her hidden frame, as if she had shed a weight that
-had been burdening her.
+"That's good." She moved gracefully to the fireplace, stoking the embers back to life. "Your body needed that rest. The transformation is still ongoing, and sleep helps."
 
-I surveyed the scene with a puzzled expression. “What cabin?” I exclaimed, my brow furrowing in confusion. All I saw was
-an empty expanse of land, just a wide-open plot surrounded by the towering trees that loomed like silent sentinels. The
-clearing felt as vast as half a football field, its openness striking in the dense woods.
+I sat up, running a hand through my hair. The journal lay on the floor where it had fallen when I'd dozed off. I picked it up, my mother's familiar handwriting on the cover sending another pang through my heart.
 
-Raechelle’s eyes sparkled with a mixture of mischief and joy. “I wasn’t sure if the spell worked or not since no one has
-ever been here before,” she explained, laughter dancing in her voice. “But at least now I know it can hide my home even
-from an Archon.” She tossed me a dazzling wink, a playful acknowledgment of my newly bestowed title. It was the first
-display of genuine emotion I had witnessed from her since we met, and it illuminated her features with a sparkle of
-happiness. I could sense how much this place meant to her, as if it were a piece of her very soul, and her elation was
-contagious, urging me to share in her moment of triumph.
-
-Then she took my hand, which caught me by surprise, and spoke aloud, her voice carrying a ceremonial weight that seemed
-to make the very air tremble: "Sir Riven, as my honored guest, never avert your gaze from my home." As she grasped my
-hand, a surge of warmth enveloped me, surprising me with its intensity—it felt like electricity dancing between our
-palms, connecting us in ways I couldn't explain. Her voice, gentle yet commanding, flowed through the still air. Almost
-instantly, a tingling sensation raced through my fingertips, creeping up my arm and settling in my chest, resonating
-with something that had always been there, dormant, waiting. I blinked, and the world around me transformed vividly, the
-veil of illusion lifting like morning fog before the sun.
-
-Before me stood a quaint little cabin, its wooden walls exuding a rich warmth as smoke drifted melodiously from the
-chimney, curling lazily into the black specked sky. It was a striking display of tranquility that seemed impossible
-given all that had happened: the cabin nestled snugly in a serene landscape, the surroundings both welcoming and
-enchanting. For a moment, I forgot about grief, forgot about revenge, forgot about the terrifying new world I'd been
-thrust into. There was only this—beauty, peace, sanctuary. Above, the night sky stretched endlessly, a breathtaking dome
-studded with twinkling stars more vivid than I'd ever seen them. An ominous red moon bathed the scene in an ethereal
-glow, infusing the area with an otherworldly beauty that somehow defied its unnerving color. Even under its shadowy
-light, a profound feeling of relaxation washed over me, making me feel safe and at home. I let out a long, slow sigh, my
-senses awakening to the peace that pervaded the air, easing the tightness that had built within me throughout the long,
-terrible day.
-
-To the right of the cabin, approximately ten feet away, was an artfully manicured garden bursting with vibrant herbs and
-blooming flowers, their colors vivid against the lush greenery. The fragrance of earth and petals wafted through the
-air, a delightful symphony of scents that lulled my thoughts. Nestled in a cozy nook between two towering trees was a
-stunning handcrafted wooden bench, its surface worn smooth by years of use, inviting anyone to take a moment and savor
-the view. Further back, slightly hidden by the foliage, I spotted the weathered outline of a well, its presence a silent
-witness to generations of stories and memories. From my vantage point, the entire scene felt as though it had been
-plucked from a dream, one that even the great Bob Ross himself would struggle to capture in brushstrokes.
-
-“It’s beautiful; I’ve never seen anything like it,” I murmured, captivated by the scene’s radiance that seemed to
-pulsate with life.
-
-“It always brings me peace, even after all this time,” she replied softly, a wistful note in her voice, her gaze
-drifting as if reliving distant memories.
-
-“How long have you lived here? How long has the cabin been here?” I found myself blurting out, my curiosity overwhelming
-my caution.
-
-“Well, it’s been just over a century now that I think about it… umm, yes, 103 years this past spring, if memory serves
-me right," she clarified, her eyes lifting to an unseen point in the distance, as if she were sifting through the sands
-of time to reclaim those fleeting moments, her weariness evident.
-
-“Wait, so you’ve lived here that long? That means you were here before my parents ever purchased the land! How is that
-even possible?” The seriousness in my tone took me off guard, a mix of curiosity and bewilderment threading through my
-words.
-
-“Let’s go inside, please,” she urged, her tone softening but revealing a hint of urgency. “I need to change out of these
-filthy clothes and find some comfort before we delve into everything. I promise, Sir, I will answer all your questions
-after we’ve eaten and rested.”
-
-Too weary to argue, I nodded, the lure of warmth and sustenance pulling me forward. Together we stepped inside the
-cabin, and I was struck by its inviting atmosphere. A beautiful wood interior wrapped us in a rustic embrace, exuding a
-feeling of age-old comfort, as if the very walls held countless shared moments. The living room boasted a plush black
-sectional sofa, perfectly arranged to face the fireplace at its center, its brick mantel sturdy and adorned with a few
-personal trinkets that told silent stories.
-
-I scanned the room further, noticing its unpretentious simplicity; there were no electric lights to mar the cozy
-ambiance, and no modern kitchen appliances to be seen—only a solid cast-iron kettle resting regally on the mantle, a
-hint that this cabin operated by the old ways. Raechelle began lighting a handful of candles, their flames flickering to
-life, casting a warm golden glow that danced across the walls as she started a fire in the hearth, the first crackling
-sounds of burning wood filling the room with both sound and warmth.
-
-As I absorbed the space, I noticed that there were only two other rooms. A bedroom revealed itself through an open
-archway, and I caught sight of a beautifully crafted four-poster bed draped in soft, inviting linens, exuding an air of
-serenity and restfulness. The other room, discreetly closed off by a sturdy door, must have been the bathroom.
+For a moment, I just held it, feeling the weight of all it represented. But the mundane needs of my body reasserted themselves, pulling me back to the present.
 
 As the need to relieve myself suddenly became apparent, I turned to Raechelle, pointing toward the closed door and
 inquiring politely, “May I use your facilities?” My voice barely above a whisper, I felt an undeniable urge to blend
@@ -2322,17 +2235,19 @@ And the magical world would never be the same.
 
 ## Training in Shadows
 
-The morning sun hadn't yet crested the mountains when Raechelle dragged Riven from bed. He stumbled onto the porch in yesterday's clothes, blinking sleep from his eyes, to find her already stretching in the pale pre-dawn light.
+*The next morning—Day One of the most intensive two weeks of my life.*
+
+The morning sun hadn't yet crested the mountains when Raechelle dragged me from bed. I stumbled onto the porch in yesterday's clothes, blinking sleep from my eyes, to find her already stretching in the pale pre-dawn light.
 
 "Two weeks," she said, dropping into a fighting stance. "That's all we have before we need to leave for Nocturne. Before you meet Alexander and stand before the Council. Before everything changes."
 
-Riven rubbed his face, trying to shake off the fog. "Two weeks to learn what exactly?"
+I rubbed my face, trying to shake off the fog. "Two weeks to learn what exactly?"
 
 "Everything." She straightened, and even in the dim light, her eyes gleamed with predatory focus. "How to sense blood. How to manipulate it. How to fight like a vampire instead of a human teenager. How to survive."
 
 "That's... a lot."
 
-"It's not enough." She gestured him closer. "But it's what we have. So we start now."
+"It's not enough." She gestured me closer. "But it's what we have. So we start now."
 
 ---
 
@@ -2340,19 +2255,19 @@ The first lesson was humbling.
 
 Raechelle set a small glass bowl on the porch railing, filled it with blood from a medical bag she'd retrieved from her car—human blood, she explained, donated and stored properly. The dark liquid sat there, gleaming dully in the growing light.
 
-"Feel it," she instructed, standing behind him. "Close your eyes. Blood magic isn't just in your veins—it's in your awareness. You need to sense the life force in the blood, the power it holds."
+"Feel it," she instructed, standing behind me. "Close your eyes. Blood magic isn't just in your veins—it's in your awareness. You need to sense the life force in the blood, the power it holds."
 
-Riven closed his eyes, reaching out with... what? His mind? His instincts? He wasn't sure what he was supposed to be doing.
+I closed my eyes, reaching out with... what? My mind? My instincts? I wasn't sure what I was supposed to be doing.
 
 Nothing happened.
 
-"I don't feel anything," he admitted after a long minute.
+"I don't feel anything," I admitted after a long minute.
 
 "You're trying too hard." Her voice was patient. "It's not about forcing it. The blood in that bowl—it came from a living person. It carried oxygen through their body, fought off infections, kept them alive. That energy doesn't just disappear. Feel for it."
 
-He tried again. And again. And again.
+I tried again. And again. And again.
 
-By the time the sun fully rose, his head ached from concentration, and the blood in the bowl sat stubbornly inert.
+By the time the sun fully rose, my head ached from concentration, and the blood in the bowl sat stubbornly inert.
 
 "We'll try again tonight," Raechelle said, not unkindly. "When your vampire nature is stronger. For now, let's work on something you can actually do—fighting."
 
@@ -2360,19 +2275,19 @@ By the time the sun fully rose, his head ached from concentration, and the blood
 
 If the blood magic was frustrating, the combat training was brutal.
 
-Raechelle moved like water, like wind, like nothing human had any right to move. She could be in front of him one second and behind him the next, sweeping his legs out from under him before he could blink.
+Raechelle moved like water, like wind, like nothing human had any right to move. She could be in front of me one second and behind me the next, sweeping my legs out from under me before I could blink.
 
-"You're thinking like a human," she said, offering him a hand up for the dozenth time that morning. "Human reflexes, human speed. You're faster than that now. Stronger. But you have to stop limiting yourself."
+"You're thinking like a human," she said, offering me a hand up for the dozenth time that morning. "Human reflexes, human speed. You're faster than that now. Stronger. But you have to stop limiting yourself."
 
-"I'm trying," Riven gasped, already sweating despite the cool mountain air.
+"I'm trying," I gasped, already sweating despite the cool mountain air.
 
-"Try harder." She came at him again.
+"Try harder." She came at me again.
 
-They trained in the clearing behind the cabin, far from any trails or prying eyes. Raechelle taught him how vampires fought—dirty, efficient, exploiting every advantage of their enhanced nature. She showed him how to move with his new speed, how to strike with his new strength, how to use his senses to predict attacks before they landed.
+We trained in the clearing behind the cabin, far from any trails or prying eyes. She taught me how vampires fought—dirty, efficient, exploiting every advantage of their enhanced nature. She showed me how to move with my new speed, how to strike with my new strength, how to use my senses to predict attacks before they landed.
 
-He spent more time on his back than on his feet.
+I spent more time on my back than on my feet.
 
-"Again," she said, and he groaned but got up.
+"Again," she said, and I groaned but got up.
 
 ---
 
@@ -2380,83 +2295,83 @@ He spent more time on his back than on his feet.
 
 The blood in the bowl trembled.
 
-It was past midnight, the cabin dark except for a single candle flickering between them. Riven sat cross-legged on the floor, eyes closed, reaching for that elusive sense Raechelle kept describing.
+It was past midnight, the cabin dark except for a single candle flickering between us. I sat cross-legged on the floor, eyes closed, reaching for that elusive sense Raechelle kept describing.
 
-And then—there. A whisper of something. Like a pulse he could feel without touching, a warmth that called to something deep in his chest.
+And then—there. A whisper of something. Like a pulse I could feel without touching, a warmth that called to something deep in my chest.
 
-His eyes snapped open, and the blood rippled, just slightly.
+My eyes snapped open, and the blood rippled, just slightly.
 
-"I felt it," he breathed.
+"I felt it," I breathed.
 
 Raechelle leaned forward, her expression intent. "Good. Now hold onto that feeling. Don't grab at it—guide it. The blood wants to respond to you. Let it."
 
-He focused again, finding that thread of connection. The blood shifted, moving in lazy swirls that had nothing to do with the breeze.
+I focused again, finding that thread of connection. The blood shifted, moving in lazy swirls that had nothing to do with the breeze.
 
 "Excellent," Raechelle murmured. "Now make it move."
 
-Riven concentrated, imagining the blood rising. It quivered, climbed maybe an inch up the side of the bowl, then splashed back down as his control slipped.
+I concentrated, imagining the blood rising. It quivered, climbed maybe an inch up the side of the bowl, then splashed back down as my control slipped.
 
 But it had moved.
 
 "We'll build on this," Raechelle said, satisfaction warming her voice. "Every night, we practice. Push yourself, but don't burn out. Blood magic takes energy—your energy. Drain yourself too much, and you'll be useless."
 
-That night, he dreamed of blood flowing through invisible veins, of power thrumming just beneath his skin, waiting to be claimed.
+That night, I dreamed of blood flowing through invisible veins, of power thrumming just beneath my skin, waiting to be claimed.
 
 ---
 
 **Day Five**
 
-"Your mother's journal mentioned blood sense," Raechelle said, guiding Riven through a morning meditation. "The ability to feel the life force in living creatures. It's one of the most useful skills a blood mage can have—knowing where your enemies are, how hurt they are, whether they're human or vampire."
+"Your mother's journal mentioned blood sense," Raechelle said, guiding me through a morning meditation. "The ability to feel the life force in living creatures. It's one of the most useful skills a blood mage can have—knowing where your enemies are, how hurt they are, whether they're human or vampire."
 
 They were sitting on the porch, the forest stretching out before them in shades of green and gold. Raechelle had cut her hand—just a shallow slice—and let a few drops fall onto the wooden boards.
 
 "Feel the difference," she instructed. "Between the fresh blood and the stored blood from the bowl. One still hums with life. The other is fading."
 
-Riven reached out with that new sense, the one that was slowly becoming more natural. The drops on the porch sang with a brightness the bowl blood lacked, vibrant and alive.
+I reached out with that new sense, the one that was slowly becoming more natural. The drops on the porch sang with a brightness the bowl blood lacked, vibrant and alive.
 
-"I feel it," he said. "It's... warmer? Not in temperature, but in—"
+"I feel it," I said. "It's... warmer? Not in temperature, but in—"
 
 "Energy," Raechelle finished. "Exactly. Now expand that sense. Feel for me."
 
-He reached further, and there she was—a blazing presence of life force that dwarfed the blood drops. Not just her blood, but her entire being, strong and ancient and powerful.
+I reached further, and there she was—a blazing presence of life force that dwarfed the blood drops. Not just her blood, but her entire being, strong and ancient and powerful.
 
-"Whoa," he whispered.
+"Whoa," I whispered.
 
 "Now feel beyond me. Into the forest."
 
-It took effort, concentration, but gradually he became aware of other presences. Smaller, dimmer—animals moving through the trees. Birds in the canopy. A deer picking its way through the underbrush a hundred yards away.
+It took effort, concentration, but gradually I became aware of other presences. Smaller, dimmer—animals moving through the trees. Birds in the canopy. A deer picking its way through the underbrush a hundred yards away.
 
-"This is incredible," Riven said, his eyes still closed.
+"This is incredible," I said, my eyes still closed.
 
 "This is survival," Raechelle corrected. "In Nocturne, you need to know who's approaching before they're in striking distance. You need to know if that figure in the shadows is human, vampire, or something else entirely. Blood sense will keep you alive."
 
-They practiced until his head throbbed and his nose began to bleed—a sign he'd pushed his new abilities too far.
+They practiced until my head throbbed and my nose began to bleed—a sign I'd pushed my new abilities too far.
 
-"Enough," Raechelle said, pressing a cloth to his nose. "You're doing well, Riven. Better than I expected."
+"Enough," Raechelle said, pressing a cloth to my nose. "You're doing well, Riven. Better than I expected."
 
-The praise warmed him more than it probably should have.
+The praise warmed me more than it probably should have.
 
 ---
 
 **Day Seven**
 
-One week in, and Riven was starting to feel the change. Not just in his abilities, but in his body. He was faster, stronger, his reflexes sharpening with each passing day. The morning runs that left him gasping on day one now barely winded him. The combat drills that seemed impossible were becoming muscle memory.
+One week in, and I was starting to feel the change. Not just in my abilities, but in my body. I was faster, stronger, my reflexes sharpening with each passing day. The morning runs that left me gasping on day one now barely winded me. The combat drills that seemed impossible were becoming muscle memory.
 
-He still couldn't beat Raechelle—not even close—but he was lasting longer. Making her work for it.
+I still couldn't beat Raechelle—not even close—but I was lasting longer. Making her work for it.
 
-"Better," she said after a particularly intense sparring session, barely breathing hard while he bent double, gulping air. "You're starting to move like a vampire. Using your speed instead of fighting against it."
+"Better," she said after a particularly intense sparring session, barely breathing hard while I bent double, gulping air. "You're starting to move like a vampire. Using your speed instead of fighting against it."
 
-"Does that mean I get a break?" Riven managed.
+"Does that mean I get a break?" I managed.
 
 She smiled, slow and dangerous. "No. It means we can push harder."
 
-But despite her words, she led him back to the cabin and poured him a glass of water. They sat on the porch steps, shoulders touching, watching the sun climb higher.
+But despite her words, she led me back to the cabin and poured me a glass of water. We sat on the porch steps, shoulders touching, watching the sun climb higher.
 
-"You know," Riven said, "when I found your letter in Mom's journal, when I drove out here... I didn't know what to expect. I definitely didn't expect this."
+"You know," I said, "when I found your letter in Mom's journal, when I drove out here... I didn't know what to expect. I definitely didn't expect this."
 
 "This?"
 
-He gestured vaguely. "Training montage. Rocky music should be playing."
+I gestured vaguely. "Training montage. Rocky music should be playing."
 
 Raechelle laughed, the sound surprised and genuine. "Your pop culture references are terrible."
 
@@ -2464,23 +2379,23 @@ Raechelle laughed, the sound surprised and genuine. "Your pop culture references
 
 She shook her head, but she was smiling. Then her expression grew more serious. "Riven, I need you to understand something. The training we're doing here—it's accelerated. Normally, a fledgling would have months, even years, to develop these skills. We're compressing everything into two weeks."
 
-"I know," he said quietly.
+"I know," I said quietly.
 
 "When we get to Nocturne, you're going to be the least experienced vampire there. Some of them have been alive for centuries. They'll see you as a child playing at power."
 
 "So we prove them wrong."
 
-She turned to look at him, and something flickered in her eyes—pride, maybe, or hope. "Yes. We do."
+She turned to look at me, and something flickered in her eyes—pride, maybe, or hope. "Yes. We do."
 
-On impulse, Riven leaned over and kissed her cheek. "Thank you. For all of this. For not giving up on me."
+On impulse, I leaned over and kissed her cheek. "Thank you. For all of this. For not giving up on me."
 
-Raechelle's breath caught. For a moment, she seemed frozen, then she turned her head and kissed him properly, her lips cool and soft against his. It was brief, gentle, nothing like the passionate encounter in the cabin, but somehow it felt more meaningful.
+Raechelle's breath caught. For a moment, she seemed frozen, then she turned her head and kissed me properly, her lips cool and soft against mine. It was brief, gentle, nothing like the passionate encounter in the cabin, but somehow it felt more meaningful.
 
-When they pulled apart, she rested her forehead against his. "We should get back to training."
+When we pulled apart, she rested her forehead against mine. "We should get back to training."
 
-"Probably," he agreed, not moving.
+"Probably," I agreed, not moving.
 
-They sat there for a few more minutes, just breathing, before discipline won out and Raechelle stood, offering him her hand.
+We sat there for a few more minutes, just breathing, before discipline won out and Raechelle stood, offering me her hand.
 
 "Come on, blood mage. Let's see if you can lift more than a few drops now."
 
@@ -2490,39 +2405,39 @@ They sat there for a few more minutes, just breathing, before discipline won out
 
 The breakthrough came in the middle of the night.
 
-Riven woke from a dream he couldn't quite remember, power humming under his skin. He climbed out of bed, padding quietly to the main room where Raechelle slept on the couch—she'd insisted, despite his protests.
+I woke from a dream I couldn't quite remember, power humming under my skin. I climbed out of bed, padding quietly to the main room where Raechelle slept on the couch—she'd insisted, despite my protests.
 
 She wasn't there.
 
-He found her on the porch, staring out at the moonlit forest. She didn't turn when he approached, but he knew she'd heard him.
+I found her on the porch, staring out at the moonlit forest. She didn't turn when I approached, but I knew she'd heard me.
 
-"Couldn't sleep?" he asked.
+"Couldn't sleep?" I asked.
 
 "Old habit. The night has always felt more comfortable."
 
-Riven sat beside her, and for a while, they didn't speak. Then, on impulse, he held out his hand palm-up and focused. The blood magic came easier now, almost natural. A drop of his own blood beaded on his fingertip, and he pulled it free with his will, shaping it in the air.
+I sat beside her, and for a while, we didn't speak. Then, on impulse, I held out my hand palm-up and focused. The blood magic came easier now, almost natural. A drop of my own blood beaded on my fingertip, and I pulled it free with my will, shaping it in the air.
 
-It floated between them, a perfect sphere of deep crimson, catching the moonlight.
+It floated between us, a perfect sphere of deep crimson, catching the moonlight.
 
 "Show off," Raechelle murmured, but she was smiling.
 
-Riven shaped the drop into different forms—a spiral, a star, a small flower. It was delicate work, requiring fine control he didn't have ten days ago.
+I shaped the drop into different forms—a spiral, a star, a small flower. It was delicate work, requiring fine control I didn't have ten days ago.
 
-"I've been thinking about the ritual," he said as he worked. "The familiar bond. What exactly does it entail?"
+"I've been thinking about the ritual," I said as I worked. "The familiar bond. What exactly does it entail?"
 
 Raechelle watched the blood flower spin slowly. "It's an exchange of blood and power. We drink from each other, and the magic binds us. You'll gain some of my strength, my experience. I'll gain... well, whatever you have to offer. It's intimate, Riven. More than the physical connection we've already shared. It's soul-deep."
 
-"Are you sure you want that?" he asked quietly. "To be bound to me?"
+"Are you sure you want that?" I asked quietly. "To be bound to me?"
 
-She finally looked at him, and her eyes were ancient and certain. "I've never been more sure of anything. You're not just a job anymore, Riven. You haven't been for a while."
+She finally looked at me, and her eyes were ancient and certain. "I've never been more sure of anything. You're not just a job anymore, Riven. You haven't been for a while."
 
-The blood flower trembled in the air between them.
+The blood flower trembled in the air between us.
 
-"I'm scared," he admitted. "Of Nocturne. Of meeting Alexander. Of not being good enough."
+"I'm scared," I admitted. "Of Nocturne. Of meeting Alexander. Of not being good enough."
 
 "Good." She reached out and caught the blood drop, absorbing it back into her skin. "Fear keeps you sharp. But don't let it control you. You're stronger than you think. These past ten days have proven that."
 
-Riven leaned his head on her shoulder, and she wrapped an arm around him. They sat like that until dawn, drawing strength from each other.
+I leaned my head on her shoulder, and she wrapped an arm around me. We sat like that until dawn, drawing strength from each other.
 
 ---
 
@@ -2530,33 +2445,33 @@ Riven leaned his head on her shoulder, and she wrapped an arm around him. They s
 
 "Combat test," Raechelle announced. "You and me, full speed. I want to see everything you've learned."
 
-They faced each other in the clearing, the afternoon sun casting long shadows through the trees. Riven settled into a fighting stance, feeling his blood hum with readiness.
+We faced each other in the clearing, the afternoon sun casting long shadows through the trees. I settled into a fighting stance, feeling my blood hum with readiness.
 
-Raechelle moved first, a blur of motion. But this time, Riven was ready. He used his blood sense to predict her trajectory, twisting away from her strike and countering with one of his own. She blocked easily, but had to actually block—he wasn't just a punching bag anymore.
+Raechelle moved first, a blur of motion. But this time, I was ready. I used my blood sense to predict her trajectory, twisting away from her strike and countering with one of my own. She blocked easily, but had to actually block—I wasn't just a punching bag anymore.
 
-They danced through the clearing, a lethal ballet of vampire speed and strength. Riven couldn't match her experience, but he was learning to use everything else—his blood magic to sense her movements, his new speed to stay ahead, the tricks she'd taught him to exploit openings.
+We danced through the clearing, a lethal ballet of vampire speed and strength. I couldn't match her experience, but I was learning to use everything else—my blood magic to sense her movements, my new speed to stay ahead, the tricks she'd taught me to exploit openings.
 
-He even landed a hit, his fist connecting with her shoulder, sending her back a step.
+I even landed a hit, my fist connecting with her shoulder, sending her back a step.
 
-They both froze.
+We both froze.
 
-"Did I just—" Riven started.
+"Did I just—" I started.
 
 Raechelle's grin was fierce and proud. "Yes, you did. Again."
 
-They went another round, then another. By the end, Riven was exhausted but exhilarated. He'd lost every match, but he'd made her work for it. He'd landed strikes. He'd avoided her attacks.
+We went another round, then another. By the end, I was exhausted but exhilarated. I'd lost every match, but I'd made her work for it. I'd landed strikes. I'd avoided her attacks.
 
-He'd proven he could fight.
+I'd proven I could fight.
 
 "Not bad," Raechelle said, barely winded. "Not bad at all. You'll still get your ass kicked by most of Nocturne's vampires, but at least you'll make them earn it."
 
-"High praise," Riven said dryly, but he was grinning.
+"High praise," I said dryly, but I was grinning.
 
-That night, he successfully levitated an entire cup of blood, holding it steady in the air for a full minute. When his control finally slipped and it splashed back into the container, Raechelle clapped slowly.
+That night, I successfully levitated an entire cup of blood, holding it steady in the air for a full minute. When my control finally slipped and it splashed back into the container, Raechelle clapped slowly.
 
 "Two weeks ago, you didn't even know blood magic was real. Now look at you."
 
-Riven flexed his fingers, feeling the power settle back under his skin. "It's not enough, is it? What I can do. Compared to real blood mages."
+I flexed my fingers, feeling the power settle back under my skin. "It's not enough, is it? What I can do. Compared to real blood mages."
 
 "No," she said honestly. "But it's a start. And starts are important."
 
@@ -2566,61 +2481,61 @@ Riven flexed his fingers, feeling the power settle back under his skin. "It's no
 
 The last day arrived too quickly.
 
-They spent the morning doing final drills—blood manipulation, combat, blood sense. Riven demonstrated everything he'd learned, and Raechelle corrected, advised, pushed him to be better.
+We spent the morning doing final drills—blood manipulation, combat, blood sense. I demonstrated everything I'd learned, and Raechelle corrected, advised, pushed me to be better.
 
 By afternoon, it was time to pack.
 
-Riven stood in the cabin's main room, looking around at the space that had been his haven and training ground for two weeks. His mother's journal sat on the table, full of notes he'd added in the margins. The medical bags of practice blood were nearly empty. The furniture bore evidence of his clumsiness—scuffs from when he'd crashed into things at vampire speed, a cracked chair leg from a particularly enthusiastic sparring match.
+I stood in the cabin's main room, looking around at the space that had been my haven and training ground for two weeks. My mother's journal sat on the table, full of notes I'd added in the margins. The medical bags of practice blood were nearly empty. The furniture bore evidence of my clumsiness—scuffs from when I'd crashed into things at vampire speed, a cracked chair leg from a particularly enthusiastic sparring match.
 
 "Ready?" Raechelle asked from the doorway, her own bag already packed and waiting by the car.
 
-"No," Riven admitted. "But I don't think I'll ever be ready, so we might as well go."
+"No," I admitted. "But I don't think I'll ever be ready, so we might as well go."
 
-She crossed to him, taking his face in her hands. "Listen to me. When we get to Nocturne, when you meet Alexander and the Council, they're going to test you. Push you. Try to find your weaknesses."
+She crossed to me, taking my face in her hands. "Listen to me. When we get to Nocturne, when you meet Alexander and the Council, they're going to test you. Push you. Try to find your weaknesses."
 
 "Sounds fun."
 
-"Don't be cute. I need you to be smart." Her thumbs brushed his cheekbones. "You're a Blackwood and a Thorne. You're a fledgling blood mage with potential. You're my familiar—or you will be, after the ritual. Those things give you power, but they also make you a target."
+"Don't be cute. I need you to be smart." Her thumbs brushed my cheekbones. "You're a Blackwood and a Thorne. You're a fledgling blood mage with potential. You're my familiar—or you will be, after the ritual. Those things give you power, but they also make you a target."
 
 "I know."
 
 "Do you trust me?"
 
-"Yes," he said without hesitation.
+"Yes," I said without hesitation.
 
 "Then trust that I'll keep you safe. And trust yourself—you've earned that much."
 
-Riven pulled her into a kiss, pouring two weeks of growing feelings into it. When they broke apart, he rested his forehead against hers.
+I pulled her into a kiss, pouring two weeks of growing feelings into it. When we broke apart, I rested my forehead against hers.
 
-"Let's go face the music," he murmured.
+"Let's go face the music," I murmured.
 
 ---
 
-They loaded the last of their things into Raechelle's car as the sun began its descent. Riven took one final look at the cabin—his mother's sanctuary, the place where he'd transformed from a confused human into something more.
+We loaded the last of our things into Raechelle's car as the sun began its descent. I took one final look at the cabin—my mother's sanctuary, the place where I'd transformed from a confused human into something more.
 
-"Thank you," he said softly to the empty building. To his mother's memory. To the past two weeks.
+"Thank you," I said softly to the empty building. To my mother's memory. To the past two weeks.
 
-Then he climbed into the passenger seat, and Raechelle started the engine.
+Then I climbed into the passenger seat, and Raechelle started the engine.
 
 "Austin is about four hours away," she said, pulling onto the mountain road. "We'll arrive after dark, check into a hotel. Tomorrow night, we meet Alexander. The night after that, the bonding ritual."
 
 "And then?"
 
-"And then we see what Nocturne has in store for us." She reached over and squeezed his hand. "Together."
+"And then we see what Nocturne has in store for us." She reached over and squeezed my hand. "Together."
 
-Riven squeezed back, feeling the blood magic pulse between them, the connection they'd built over two weeks of training, fighting, and growing closer. He wasn't ready for what was coming—not really.
+I squeezed back, feeling the blood magic pulse between us, the connection we'd built over two weeks of training, fighting, and growing closer. I wasn't ready for what was coming—not really.
 
-But he was ready to try.
+But I was ready to try.
 
-As they drove down the mountain, the cabin disappeared behind them, swallowed by trees and distance. Ahead lay Austin, Nocturne, Alexander, and a future Riven couldn't predict.
+As we drove down the mountain, the cabin disappeared behind us, swallowed by trees and distance. Ahead lay Austin, Nocturne, Alexander, and a future I couldn't predict.
 
-But for the first time since his mother's death, he wasn't facing it alone.
+But for the first time since my mother's death, I wasn't facing it alone.
 
-He was a blood mage now, trained and tested. A fledgling vampire with power thrumming under his skin. And soon, he would be bound to Raechelle Thorne, one of the most powerful vampires in Texas.
+I was a blood mage now, trained and tested. A fledgling vampire with power thrumming under my skin. And soon, I would be bound to Raechelle Thorne, one of the most powerful vampires in Texas.
 
-The Council could test him all they wanted.
+The Council could test me all they wanted.
 
-He'd be ready.
+I'd be ready.
 
 ---
 
@@ -5288,6 +5203,8 @@ But my story—our story—was just beginning.
 # **Chapter 13**
 
 ## Allies and Enemies
+
+*One Week Later*
 
 The week following the duel was a whirlwind of political maneuvering that made my head spin. Apparently, publicly sparing Viktor Ironclad had done more for my reputation than any amount of raw power could have achieved. Where once supernatural beings had regarded me with suspicion or opportunistic interest, now they looked at me with something approaching respect.
 
@@ -12312,7 +12229,9 @@ And I intended to win.
 
 ## Epilogue
 
-Ten years later, Elena stood in the Academy's main hall, preparing for her first formal lesson in advanced blood magic. At fifteen, she was already surpassing many adult mages, her power controlled and precise in ways that had taken me years to achieve.
+### Five Years Later
+
+Five years later, Elena stood in the Academy's main hall, preparing for her first formal lesson in advanced blood magic. At fifteen, she was already surpassing many adult mages, her power controlled and precise in ways that had taken me years to achieve.
 
 Raechelle and I watched from the observation gallery, proud and slightly terrified parents sending their daughter off to the next stage of her journey.
 
@@ -12328,7 +12247,7 @@ Last week, she'd defended a younger student from a bully—not with magic, thoug
 
 "I'm not hovering, I'm... supervising from a distance."
 
-"You're hovering." She laughed, the sound still making my heart skip even after fifteen years together. "She'll be fine. Besides, don't you have a Council meeting this afternoon?"
+"You're hovering." She laughed, the sound still making my heart skip even after all our years together. "She'll be fine. Besides, don't you have a Council meeting this afternoon?"
 
 I groaned. "Don't remind me. Another three hours of Councilor Thorne complaining about trade agreements."
 
@@ -12412,9 +12331,13 @@ But to be the anchor that held everyone together. The Balance that maintained eq
 
 And I wouldn't have it any other way.
 
-Twenty-five years later...
+---
 
-I watched from the Council chambers as Elena, now forty years old and a Blood Archon in her own right, presented her proposal for reforming supernatural education. She spoke with authority and compassion, commanding the room's attention the way I once had.
+### Thirty Years Later
+
+Thirty years later...
+
+I watched from the Council chambers as Elena, now forty-five years old and a Blood Archon in her own right, presented her proposal for reforming supernatural education. She spoke with authority and compassion, commanding the room's attention the way I once had.
 
 Beside her stood her own bond-mate, a Fire Archon named Kael who'd initially been her rival before becoming her partner. Their son—my grandson, carrying the blood of both Fire and Blood Archons—was ten years old and already showing promise that made Elena proud and terrified in equal measure.
 
@@ -12430,7 +12353,7 @@ Raechelle squeezed my hand, her touch as familiar and cherished as breathing. We
 
 Elena's proposal passed with overwhelming support. As we walked home afterward, moving a bit slower than we used to but still together, I reflected on the life we'd lived.
 
-Forty years since Terravos's defeat. Forty years of peace, interrupted by minor conflicts but nothing approaching the scale of that war. Forty years of watching the supernatural world evolve, grow, and yes, improve.
+Forty-five years since Terravos's defeat. Forty-five years of peace, interrupted by minor conflicts but nothing approaching the scale of that war. Forty-five years of watching the supernatural world evolve, grow, and yes, improve.
 
 I'd trained seventeen Blood Archons over those decades, watching them develop their powers and find their own paths. Some served on Councils. Some chose quieter lives. All of them, I hoped, had learned that power was a responsibility, not a privilege.
 
@@ -12496,8 +12419,8 @@ It was everything.
 
 **Blood Craft: Book One - Complete**
 
-*Total Word Count: ~95,000 words*
-*Chapters: 38*
+*Total Word Count: ~120,000 words*
+*Chapters: 32 + Epilogue*
 *Genre: Urban Fantasy, Supernatural Romance*
 
 ---
