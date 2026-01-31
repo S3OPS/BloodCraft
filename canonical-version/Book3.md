@@ -2860,8 +2860,8 @@ It was everything.
 
 **Blood Craft: Book One - Complete**
 
-*Total Word Count: ~120,000 words*
-*Chapters: 32 + Epilogue*
+*Total Word Count: ~157,000 words*
+*Chapters: 38 (including Epilogue)*
 *Genre: Urban Fantasy, Supernatural Romance*
 
 ---
