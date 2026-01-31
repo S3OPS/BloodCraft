@@ -9759,17 +9759,13 @@ I stood at the head of the table, feeling the weight of every eye in the room. T
 
 "Walk us through it again," Lady Seraphina commanded, her shadow-form coalescing into something more solid. "Everything the documents revealed."
 
-Morgana stepped forward, her witch's sight allowing her to read the layered enchantments and hidden text within the captured scrolls. "The Sundering requires three components, performed at a nexus point during specific astronomical alignment. First: the blood of a defeated Blood Archon—specifically, blood taken at the moment of death, when the Balance itself is vulnerable."
+Morgana stepped forward, her witch's sight allowing her to read the layered enchantments and hidden text within the captured scrolls. "As we discovered from Terravos's documents, the Sundering requires three components. We know he needs Riven's blood taken at the moment of death, when the Balance itself is vulnerable."
 
 "My blood," I said quietly. The room rippled with murmurs.
 
-"Second," Morgana continued, "a convergence of at least five ley lines. There are only seven locations on Earth where this occurs naturally. Terravos has chosen the Heart of Stone—his ancestral stronghold, which sits atop the largest nexus point in the Western Hemisphere."
+"Second," Morgana continued, "a convergence of at least five ley lines at the Heart of Stone—his ancestral stronghold. And third, the willing sacrifice of exactly ten thousand souls."
 
-Viktor's deep voice rumbled from where he stood with his pack. "And the third component?"
-
-"The willing sacrifice of exactly ten thousand souls," Corvinus answered. "Not murdered. Not coerced. Willing. They must give their life force freely, believing they die for a cause greater than themselves."
-
-"His corrupted army," I said, pieces clicking into place. "He's been building this for decades—maybe centuries. Converting people, binding them with earth magic, convincing them he's their salvation. They worship him. They'd die for him gladly."
+Viktor's deep voice rumbled from where he stood with his pack. "His corrupted army. The fanatics who worship him."
 
 "But that's the weakness," Raechelle interjected, her sharp mind cutting through to the core. "He needs exactly ten thousand. Not nine thousand nine hundred ninety-nine. Not ten thousand and one. The ritual is precise—any deviation and it fails."
 
