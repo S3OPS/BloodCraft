@@ -250,21 +250,20 @@ Detailed explanation of changes
 
 **Examples**:
 ```
-[Canonical] Add Chapter 31 - New Threats Emerge
+Add Chapter 39 - New Beginnings
 
-Introduces new antagonist faction, advances Riven's leadership arc
-- Added 4,200-word chapter
+Epilogue chapter showing Riven's life 40 years later
+- Added 3,500-word chapter
 - Updated Chapter-Summary-and-Timeline.md
 - Updated README.md with new word count
 ```
 
 ```
-[Both] Update blood magic mechanics
+Update blood magic mechanics
 
 Clarified regeneration limits and energy costs
 - Updated canonical-version/Chapter-Summary-and-Timeline.md
-- Updated paradox-version/Chapter-Summary-and-Timeline.md
-- Ensures consistency across both storylines
+- Maintains internal consistency
 ```
 
 ---
@@ -272,12 +271,12 @@ Clarified regeneration limits and energy costs
 ## 📊 Progress Tracking
 
 ### Version Status
-- **Canonical Version**: ✅ Complete (30 chapters, ~88,000 words)
-- **Paradox Version**: ✅ Complete (30 chapters, ~97,000 words)
+- **Canonical Version**: ✅ Complete (38 chapters, ~157,000 words) - **In this repository**
+- **Paradox Version**: ✅ Complete (30 chapters, ~97,000 words) - **In [separate repository](https://github.com/S3OPS/BloodCraftParadox)**
 
 ### Current Focus
-Both versions are complete first books. Future development will focus on:
-- Book 2 planning and development
+The canonical version is complete. Future development could focus on:
+- Book 2/sequel planning and development
 - Refinements to existing chapters
 - World-building expansions
 - Supporting documentation

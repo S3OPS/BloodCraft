@@ -302,15 +302,13 @@ Every chapter should have:
 ### Version Status Overview
 
 **Current Status**:
-- Canonical Version: ✅ 30 chapters complete (~88,000 words)
-- Paradox Version: ✅ 30 chapters complete (~97,000 words)
+- Canonical Version: ✅ 38 chapters complete (~157,000 words)
+- Paradox Version: ✅ 30 chapters complete (~97,000 words) - **In [separate repository](https://github.com/S3OPS/BloodCraftParadox)**
 
 ### Future Development Tracking
 
-**Book 2 Planning**:
-- [ ] Outline canonical Book 2 direction
-- [ ] Outline paradox Book 2 direction
-- [ ] Identify shared vs. divergent storylines
+**Book 2/Sequel Planning**:
+- [ ] Outline canonical Book 2/sequel direction
 - [ ] Plan character arc continuations
 - [ ] Establish new world-building elements
 
@@ -327,24 +325,24 @@ Every chapter should have:
 ### Key Documents
 1. **CONTRIBUTING.md** - General contribution guidelines
 2. **canonical-version/DEVELOPMENT.md** - Canonical-specific guidelines
-3. **paradox-version/DEVELOPMENT.md** - Paradox-specific guidelines
-4. **Chapter-Summary-and-Timeline.md** (both versions) - Current state
-5. **docs/Comparison-Guide.md** - Understanding differences
+3. **Chapter-Summary-and-Timeline.md** - Current state and chapter outlines
+4. **docs/Comparison-Guide.md** - Understanding differences between versions
+5. **QUICK_REFERENCE.md** - Quick reference for common tasks
 
 ### Reference Order
 
 **Before Starting**:
 1. Read CONTRIBUTING.md for general guidelines
-2. Review relevant version's DEVELOPMENT.md
+2. Review canonical-version/DEVELOPMENT.md
 3. Check Chapter-Summary-and-Timeline.md for context
 
 **During Development**:
-1. Refer to version-specific DEVELOPMENT.md
-2. Cross-reference with other version for consistency
-3. Check existing chapters for voice/tone
+1. Refer to canonical-version/DEVELOPMENT.md
+2. Check existing chapters for voice/tone
+3. Maintain consistency with established lore
 
 **After Completing**:
-1. Review against version guidelines
+1. Review against canonical version guidelines
 2. Verify consistency with documentation
 3. Update all relevant files
 
@@ -355,22 +353,18 @@ Every chapter should have:
 ### Do's ✅
 
 - **Do** commit frequently with clear messages
-- **Do** use version tags in commit messages [Canonical], [Paradox], [Both]
-- **Do** maintain both versions' documentation equally
+- **Do** maintain documentation with code changes
 - **Do** cross-reference for consistency regularly
-- **Do** keep versions' creative identities distinct
-- **Do** plan ahead for parallel development
-- **Do** use the DEVELOPMENT.md files as guides
+- **Do** keep the canonical version's identity distinct
+- **Do** plan ahead for development
+- **Do** use the DEVELOPMENT.md file as a guide
 
 ### Don'ts ❌
 
-- **Don't** let one version lag behind in quality
-- **Don't** introduce contradictions in shared elements
-- **Don't** blur the lines between versions' creative directions
+- **Don't** introduce contradictions in world-building
 - **Don't** forget to update documentation
 - **Don't** commit without testing changes
-- **Don't** mix version-specific changes in one commit
-- **Don't** lose sight of each version's target audience
+- **Don't** lose sight of the target audience
 
 ---
 
@@ -379,10 +373,10 @@ Every chapter should have:
 ### Working with Others
 
 **Communication**:
-- Clearly indicate which version(s) you're working on
-- Note any changes that affect both versions
+- Clearly indicate what you're working on
+- Note any changes that affect world-building
 - Document major creative decisions
-- Share drafts for consistency review
+- Share drafts for review
 
 **Coordination**:
 - Check for ongoing work before starting
@@ -392,7 +386,7 @@ Every chapter should have:
 
 **Conflict Resolution**:
 - Refer to DEVELOPMENT.md guidelines
-- Prioritize version's creative identity
+- Prioritize canonical version's creative identity
 - Consider target audience expectations
 - Discuss ambiguous cases before committing
 
@@ -402,17 +396,14 @@ Every chapter should have:
 
 ### Common Issues
 
-**Issue**: Inconsistency between versions in world-building
-**Solution**: Review Chapter-Summary-and-Timeline.md in both versions, identify discrepancy, update to match established rules
+**Issue**: Inconsistency in world-building
+**Solution**: Review Chapter-Summary-and-Timeline.md, identify discrepancy, update to match established rules
 
 **Issue**: Character feels out of voice
 **Solution**: Review previous chapters with that character, check DEVELOPMENT.md character guidelines, adjust for consistency
 
-**Issue**: Unsure if change should affect both versions
-**Solution**: Check if it's a core world-building element (both) or version-specific narrative choice (one)
-
-**Issue**: Commit includes changes to both versions
-**Solution**: If tightly coupled (world-building), commit together with [Both] tag. If separate changes, use separate commits.
+**Issue**: Unsure about creative direction
+**Solution**: Check canonical-version/DEVELOPMENT.md for guidelines on tone, themes, and character arcs
 
 ---
 
@@ -421,12 +412,12 @@ Every chapter should have:
 Refer to:
 - **General questions**: CONTRIBUTING.md
 - **Canonical-specific**: canonical-version/DEVELOPMENT.md
-- **Paradox-specific**: paradox-version/DEVELOPMENT.md
 - **Comparison info**: docs/Comparison-Guide.md
-- **Current state**: Chapter-Summary-and-Timeline.md (in each version)
+- **Current state**: canonical-version/Chapter-Summary-and-Timeline.md
+- **Quick tasks**: QUICK_REFERENCE.md
 
 ---
 
 **Last Updated**: January 2026
 
-Happy writing! May both versions flourish. 🩸✨
+Happy writing! 🩸✨

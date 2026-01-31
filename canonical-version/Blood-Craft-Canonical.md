@@ -9,7 +9,7 @@
 > 
 > This version follows Riven's transformation from grieving college student to powerful Blood Archon through training, love, and ultimately triumph over the Earth Archon who murdered his parents.
 > 
-> **For the ALTERNATE storyline** featuring "The Blood Archon's Paradox" twist (Shutter Island-style revelation), see: `../paradox-version/`
+> **For the ALTERNATE storyline** featuring "The Blood Archon's Paradox" twist (Shutter Island-style revelation), visit: [github.com/S3OPS/BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox)
 > 
 > **For a comparison of both versions**, see: `../docs/Comparison-Guide.md`
 
@@ -12376,7 +12376,7 @@ It was everything.
 
 ---
 
-> **Author's Note:** Thank you for reading Blood Craft. This canonical version follows Riven's journey from tragedy to triumph, showing how love, determination, and found family can transform anyone into a hero. For an alternate take on this story—one with darker themes and a shocking psychological twist—see the Paradox Version in `../paradox-version/`.
+> **Author's Note:** Thank you for reading Blood Craft. This canonical version follows Riven's journey from tragedy to triumph, showing how love, determination, and found family can transform anyone into a hero. For an alternate take on this story—one with darker themes and a shocking psychological twist—visit the Paradox Version at [github.com/S3OPS/BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox).
 > 
 > The Blood Craft universe continues with future stories exploring Elena's journey, the adventures of other Archons, and the ongoing evolution of the supernatural world Riven helped protect.
 
