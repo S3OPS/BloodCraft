@@ -14,7 +14,7 @@ This directory contains the **canonical/original storyline** of Blood Craft - a 
 - **Book2.md** - Chapters 17-20: The Rising Conflict (Structural outline)
 - **Book3.md** - Chapters 21-30: The Final Confrontation (Structural outline)
 - **Chapter-Summary-and-Timeline.md** - Complete outline and summary of the canonical storyline
-- **Blood-Craft-Canonical.md** - **Complete 30-chapter novel (~525KB, ~88,000 words)**
+- **Blood-Craft-Canonical.md** - **Complete 38-chapter novel (~750KB, ~120,000 words)**
 
 ---
 
@@ -49,7 +49,9 @@ With the help of Raechelle Darkpurr (his family's familiar), Riven learns to mas
 
 ## 📚 Current Status
 
-**✅ The canonical version is now fully written!** The complete 30-chapter novel is available in `Blood-Craft-Canonical.md` (~525KB, ~88,000 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the narrative.
+**✅ The canonical version is now fully written!** The complete 38-chapter novel is available in `Blood-Craft-Canonical.md` (~750KB, ~120,000 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the narrative.
+
+**Recent Enhancement (January 2026):** Added 6 new chapters strategically placed throughout the narrative to improve pacing, deepen character development, and enhance emotional resonance in key story moments.
 
 ---
 
@@ -84,15 +86,16 @@ The story is organized into three books:
    - Alliance building across supernatural factions
    - Ends with preparation for all-out war
 
-3. **Book3.md** (Chapters 21-30: The Final Confrontation)
+3. **Book3.md** (Chapters 21-38: The Final Confrontation)
    - Full-scale supernatural war
    - Final confrontation with Terravos
    - Resolution of Riven's parents' murder
    - Establishment of peace and future
+   - Epilogue: 40 years later with daughter Elena
 
 ### How to Read
 
-1. **Read the full novel**: Go directly to **Blood-Craft-Canonical.md** for the complete 30-chapter narrative
+1. **Read the full novel**: Go directly to **Blood-Craft-Canonical.md** for the complete 38-chapter narrative
 2. **Chapter outlines**: Use **Book1.md**, **Book2.md**, and **Book3.md** for structural summaries
 3. **Complete overview**: See **Chapter-Summary-and-Timeline.md** for a comprehensive outline
 4. **Compare versions**: Check `../docs/Comparison-Guide.md` to see how this differs from the Paradox version
