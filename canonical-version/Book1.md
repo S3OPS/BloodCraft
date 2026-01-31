@@ -14,7 +14,7 @@
 
 # **Chapter 1**
 
-The full moon hung low in the night sky, closer than normal, following our car down the winding road with ancient, knowing eyes. Its light should have been silver—but tonight it cast everything in a warm, reddish glow that sank into my bones like a fever. I'd always been a creature of the night, more comfortable in darkness than daylight, but tonight felt different. The moon felt different. Like it was waiting for something.
+The full moon hung low in the night sky, unnaturally close, following our car down the winding road with ancient, knowing eyes. Its light should have been silver—but tonight it cast everything in a warm, reddish glow that sank into my bones like a fever. I'd always been a creature of the night, more comfortable in darkness than daylight, but tonight felt different. The moon felt different. Like it was waiting for something.
 
 I'd spent countless nights wandering the woods that bordered our property, drawn to something I couldn't name. The darkness called to me. Dad always said it was in our blood—the way he emphasized that word should have told me something. Mom would joke we needed coffins instead of beds. I'd laughed. Little did I know how prophetic her words would prove.
 
@@ -336,7 +336,7 @@ It felt like my blood was boiling, like something was rewriting my DNA one cell 
 
 "Fight it," Raechelle's voice cut through the chaos, sharp and commanding. "Don't let it consume you. You control it—it doesn't control you!"
 
-But she was wrong. I wasn't in control of anything. I was drowning in sensation, in power that had no outlet, no direction. My body lifted off the ground without my consent, suspended by forces I couldn't comprehend. The iridescent lights that had seemed beautiful at first now felt like they were tearing me apart from the inside—reds like arterial blood, blues like drowning in the ocean's depths, greens writhing like living vines beneath my skin. The pressure was immense, crushing, as if the weight of the deep sea was collapsing my chest.
+But she was wrong. I was no longer in control of anything. I was drowning in power that had no outlet, no direction. My body lifted off the ground without my consent, suspended by forces I couldn't comprehend. The iridescent lights that had seemed beautiful at first now felt like they were tearing me apart from the inside—reds like arterial blood, blues like the crushing pressure of deep water, greens writhing like living vines beneath my skin.
 
 Every nerve ending fired at once. My fists clenched so tight my nails drew blood. The magic—if that's what this was—surged through me with a hunger of its own, demanding release, demanding more. Even my most primal instincts awakened, a rush of sensation that was both terrifying and intoxicating, like every dominant impulse I'd ever felt amplified a thousandfold.
 
