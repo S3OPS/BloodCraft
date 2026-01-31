@@ -476,7 +476,7 @@ I drew my blood sword, the crimson blade materializing in a flash of power. "Tod
 
 I raised the sword high. "Today, we fight for family!"
 
-The roar that answered shook the foundations of Nocturne itself. Five hundred voices united in a battle cry that seemed to make the very air vibrate with power.
+The roar that answered shook the foundations of Nocturne itself. Five hundred voices united in a battle cry that made the very air vibrate with power.
 
 As the echoes faded, Raechelle turned to me, her strike team assembled behind her. Viktor and his best wolves, Corvinus with his ancient power, a dozen of Morgana's witches, and Seraphina's shadow walkers.
 
@@ -1010,7 +1010,7 @@ The gnome's eyebrows rose as he turned his attention to me. "The Blood Archon hi
 
 "Raechelle said you make enchanted jewelry?" I said, feeling slightly out of my depth.
 
-"Enchanted doesn't begin to cover it, young Archon." He pulled out a small box, opening it to reveal an array of rings, pendants, and bracelets that seemed to pulse with contained power. "Each piece is attuned to its wearer, growing stronger as they do. They can store magic, amplify existing abilities, or provide protection in combat."
+"Enchanted doesn't begin to cover it, young Archon." He pulled out a small box, opening it to reveal an array of rings, pendants, and bracelets pulsing with contained power. "Each piece is attuned to its wearer, growing stronger as they do. They can store magic, amplify existing abilities, or provide protection in combat."
 
 "Show him the matching set," Raechelle urged. "The one we discussed before the war."
 
@@ -1774,7 +1774,7 @@ The Fire Archon, Pyrus, arrived in a chariot of flame that cooled to mere warmth
 
 The Water Archon, Meridian, emerged from a fountain in the courtyard, her form coalescing from liquid to solid in a display of precise control. She looked like living water given female form, her skin tinted blue-green and her hair flowing like a waterfall.
 
-The Air Archon, Zephyr, simply appeared in a gust of wind, his arrival more subtle but no less impressive. He was tall and willowy, with white hair that moved in a constant breeze that seemed to emanate from his presence.
+The Air Archon, Zephyr, simply appeared in a gust of wind, his arrival more subtle but no less impressive. He was tall and willowy, with white hair that moved in a constant breeze emanating from his presence.
 
 They studied me with varying degrees of interest and caution. I was the youngest Archon by centuries, maybe millennia. An unknown quantity who had killed an Earth Archon in single combat. I represented change, and change was inherently threatening to beings who'd lived through epochs.
 

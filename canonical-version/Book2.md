@@ -116,7 +116,7 @@ Lady Seraphina Darkthorne appeared almost immediately, resplendent in a gown of 
 
 "Understood."
 
-She swept away, and immediately others began to approach. It became a blur of introductions and careful conversations. Vampire lords offering veiled compliments. Werewolf alphas sizing me up. Witch covens expressing interest in future collaborations. Everyone wanted something, and everyone was careful not to ask for it directly.
+She swept away, and immediately others approached. It became a blur of introductions and careful conversations. Vampire lords offering veiled compliments. Werewolf alphas sizing me up. Witch covens expressing interest in future collaborations. Everyone wanted something, and everyone was careful not to ask for it directly.
 
 Lysandra rescued us after the first hour, appearing with champagne glasses and a knowing smile. "You're doing well. Only two minor faux pas so far."
 
@@ -132,7 +132,7 @@ Lysandra rescued us after the first hour, appearing with champagne glasses and a
 
 "Ambassador Kaine has been watching you since you arrived. And he looks..." She paused, searching for the word. "Calculating."
 
-I followed her gaze and spotted him across the room. The Earth Archon's representative was tall and severe, with stone-gray eyes that seemed to see through flesh to the power beneath. When our eyes met, he smiled—and it was not a friendly expression.
+I followed her gaze and spotted him across the room. The Earth Archon's representative was tall and severe, with stone-gray eyes that pierced through flesh to the power beneath. When our eyes met, he smiled—and it was not a friendly expression.
 
 "He's going to approach you," Raechelle murmured. "And soon."
 
@@ -178,7 +178,7 @@ Lysandra had been watching the exchange from a discrete distance. She approached
 
 ---
 
-The music began shortly after, a haunting melody that seemed to resonate with the crystals in the walls. Couples began moving onto the dance floor, and I knew what was expected.
+The music began shortly after, a haunting melody resonating with the crystals in the walls. Couples began moving onto the dance floor, and I knew what was expected.
 
 "Dance with me?" I offered Raechelle my hand.
 
@@ -1183,7 +1183,7 @@ I was in the training grounds beneath the Academy with Magistrate Corvinus, lear
 
 "Patience, young Archon," the ancient vampire said, his tone neither harsh nor gentle. "Blood is not a weapon to be wielded—it is a language to be spoken. You must learn its grammar before you can compose poetry."
 
-Then the alarm bells began to ring.
+Then the alarm bells rang.
 
 Corvinus's head snapped up, his ageless eyes suddenly sharp. "That's the northern border. Multiple breaches."
 
@@ -2986,7 +2986,7 @@ Now we just had to prepare for the tempest to come.
 
 ## Bloodlines
 
-The morning after the Crimson Ball attack, I stood before the obsidian doors of the Archival Sanctum, deep beneath Nocturne's Grand Promenade. The doors were carved with intricate patterns that seemed to shift and writhe in the torchlight—blood magic made manifest in stone, responding to the presence of those with the right lineage.
+The morning after the Crimson Ball attack, I stood before the obsidian doors of the Archival Sanctum, deep beneath Nocturne's Grand Promenade. The doors were carved with intricate patterns that shifted and writhed in the torchlight—blood magic made manifest in stone, responding to the presence of those with the right lineage.
 
 My body still ached from the battle. Three cracked ribs, courtesy of that earth elemental's stone fist. Bruises across my back from when I'd been thrown into a marble pillar. A healing cut along my jawline where an enemy blade had come too close. But the physical pain was nothing compared to the weight of what I'd learned in those frantic hours of combat.
 
