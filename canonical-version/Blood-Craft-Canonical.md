@@ -1149,7 +1149,7 @@ The grief hit me then, a tidal wave I'd been holding back while my mind grappled
 
 "I should have been there," I whispered, the words torn from somewhere deep in my chest. "I should have—"
 
-"You would have died." Raechelle's voice was gentle but firm as she settled onto the sofa beside me, the firelight painting her features in warm tones. "Terravos—the Earth Archon who attacked your family—is an Archon who has ruled for thousands of years. Even awakened, you wouldn't have survived a direct confrontation with him. Your parents knew that. It's why they made the choices they did."
+"You would have died." Raechelle's voice was gentle but firm as she settled onto the sofa beside me, the firelight painting her features in warm tones. "Terravos—the Earth Archon who attacked your family—has ruled for thousands of years. Even awakened, you wouldn't have survived a direct confrontation with him. Your parents knew that. It's why they made the choices they did."
 
 "That doesn't make it hurt less."
 
@@ -2283,7 +2283,7 @@ Raechelle moved like water, like wind, like nothing human had any right to move.
 
 "Try harder." She came at me again.
 
-They trained in the clearing behind the cabin, far from any trails or prying eyes. Raechelle taught me how vampires fought—dirty, efficient, exploiting every advantage of their enhanced nature. She showed me how to move with my new speed, how to strike with my new strength, how to use my senses to predict attacks before they landed.
+We trained in the clearing behind the cabin, far from any trails or prying eyes. She taught me how vampires fought—dirty, efficient, exploiting every advantage of their enhanced nature. She showed me how to move with my new speed, how to strike with my new strength, how to use my senses to predict attacks before they landed.
 
 I spent more time on my back than on my feet.
 
