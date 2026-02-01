@@ -50,9 +50,13 @@ With the help of Raechelle Darkpurr (his family's familiar), Riven learns to mas
 
 ## 📚 Current Status
 
-**✅ The canonical version is now fully written!** The complete 38-chapter novel is available in `Blood-Craft-Canonical.md` (~944KB, ~157,000 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the narrative.
+**✅ The canonical version is now fully written and enhanced!** The complete 47-chapter novel is available in `Blood-Craft-Canonical.md` (~1.14MB, ~185,600 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the narrative.
 
-**Recent Enhancement (January 2026):** Added 6 new chapters strategically placed throughout the narrative to improve pacing, deepen character development, and enhance emotional resonance in key story moments.
+**Recent Enhancement (February 2026):** Successfully integrated 10 new interstitial chapters (numbered with .5) throughout the narrative:
+- 4 Raechelle POV chapters providing a distinct woman's perspective (Chapters 2.5, 7.5, 15.5, 29.5)
+- 6 additional Riven POV chapters deepening character development and plot (Chapters 16.5, 19.5, 23.5, 25.5, 27.5, 30.5)
+- Complete consistency review conducted, all major inconsistencies resolved
+- Total chapter count: 47 chapters (37 main + 10 interstitial)
 
 ---
 
