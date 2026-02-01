@@ -2,6 +2,8 @@
 
 This directory contains additional chapters written from Raechelle Darkpurr's point of view, adding a distinct woman's perspective to the Blood Craft narrative.
 
+**Current Status**: Eight complete Raechelle POV chapters spanning the entire narrative arc, from the initial awakening through the final confrontation with Terravos.
+
 ## Purpose
 
 The canonical version of Blood Craft is primarily told from Riven's perspective. These chapters provide:
@@ -44,6 +46,21 @@ Raechelle's perspective on:
 
 ---
 
+### Chapter 11.5 - Watching the Game Begin
+**Placement**: After Chapter 11 (The Academy)
+
+Raechelle's perspective on:
+- Riven's first day at the Academy and Master Blackwood's brutal testing
+- The Thorne murder frame attempt and political implications
+- Guiding Riven through supernatural politics
+- Her centuries of experience reading intrigue and power plays
+- The shift from protector to partner in political strategy
+- Teaching him to navigate alliances and threats
+
+**Key Themes**: Political awakening, mentorship, learning to let him grow, strategic partnership
+
+---
+
 ### Chapter 15.5 - When Darkness Descends
 **Placement**: After Chapter 15 (The Crimson Ball)
 
@@ -55,6 +72,36 @@ Raechelle's perspective on:
 - The realization that love is both weakness and strength
 
 **Key Themes**: Protection, partnership in battle, the cost of love in war
+
+---
+
+### Chapter 20.5 - The Hunter and the Protected
+**Placement**: After Chapter 20 (Rising Conflict)
+
+Raechelle's perspective on:
+- First major battle outside Nocturne's borders in the Arizona desert
+- Fear of losing Riven like she lost Damien
+- Combat coordination through the familiar bond
+- Pushing Riven out of the titan's path and being injured
+- Understanding partnership means mutual protection
+- Witnessing Riven's tactical brilliance in warfare
+
+**Key Themes**: Trust in battle, overcoming past trauma, true partnership, mutual protection
+
+---
+
+### Chapter 22.5 - The Council of Archons
+**Placement**: After Chapter 22 (The Gathering Storm)
+
+Raechelle's perspective on:
+- Watching Riven negotiate with three ancient Archons as equals
+- Her understanding of supernatural political history and precedent
+- Pride in seeing him grow into true leadership
+- The unprecedented nature of genuine Archon cooperation
+- Recognizing the historic significance of the alliance
+- Fear of increased danger from excluded powers
+
+**Key Themes**: Political mastery, historical significance, leadership evolution, partnership in governance
 
 ---
 
@@ -72,6 +119,21 @@ Raechelle's perspective on:
 
 ---
 
+### Chapter 34.5 - The Anchor Holds
+**Placement**: During Chapter 34 (Final Confrontation)
+
+Raechelle's perspective on:
+- Leading the rescue team while Riven duels Terravos
+- Channeling power to Riven through their bond across distance
+- Using her experience to guide his strikes against Terravos
+- The familiar bond functioning at maximum intensity
+- Victory and the weight lifting from centuries of duty
+- Processing the end of the immediate threat
+
+**Key Themes**: The anchor role, trust at ultimate test, bond at full power, victory and relief
+
+---
+
 ## Reading Order
 
 For the complete dual-POV experience, read these chapters in the following order integrated with the main story:
@@ -80,11 +142,19 @@ For the complete dual-POV experience, read these chapters in the following order
 2. **Chapter 2.5** (Raechelle's POV - The Vigil Ends)
 3. Chapters 3-7 (Main story - Riven's POV)
 4. **Chapter 7.5** (Raechelle's POV - On the Eve of Forever)
-5. Chapters 8-15 (Main story - Riven's POV)
-6. **Chapter 15.5** (Raechelle's POV - When Darkness Descends)
-7. Chapters 16-29 (Main story - Riven's POV)
-8. **Chapter 29.5** (Raechelle's POV - The Weight of Centuries)
-9. Chapters 30-38 (Main story - Riven's POV)
+5. Chapters 8-11 (Main story - Riven's POV)
+6. **Chapter 11.5** (Raechelle's POV - Watching the Game Begin)
+7. Chapters 12-15 (Main story - Riven's POV)
+8. **Chapter 15.5** (Raechelle's POV - When Darkness Descends)
+9. Chapters 16-20 (Main story - Riven's POV)
+10. **Chapter 20.5** (Raechelle's POV - The Hunter and the Protected)
+11. Chapters 21-22 (Main story - Riven's POV)
+12. **Chapter 22.5** (Raechelle's POV - The Council of Archons)
+13. Chapters 23-29 (Main story - Riven's POV)
+14. **Chapter 29.5** (Raechelle's POV - The Weight of Centuries)
+15. Chapters 30-34 (Main story - Riven's POV)
+16. **Chapter 34.5** (Raechelle's POV - The Anchor Holds)
+17. Chapters 35-38 (Main story - Riven's POV)
 
 ## Writing Style
 
@@ -108,12 +178,14 @@ These chapters are designed to:
 
 ## Future Development
 
-Additional Raechelle POV chapters could be added for:
+With the addition of Chapters 11.5, 20.5, 22.5, and 34.5, the Raechelle POV arc now provides comprehensive coverage of key narrative moments. Additional chapters could still be considered for:
 
-- The bonding ritual (Chapter 8) - her experience of the sacred ceremony
-- Meeting the Council (Chapter 9) - her political concerns
-- Major battles and confrontations
-- The epilogue (Chapter 38) - her perspective on their life together
+- The bonding ritual itself (Chapter 8) - her intimate experience of the sacred ceremony
+- Meeting the Council (Chapter 9) - her political concerns and protective instincts
+- Major personal milestones (pregnancy, childbirth)
+- The epilogue (Chapter 38) - her perspective on their long life together
+
+However, the current eight chapters provide strong emotional balance and showcase Raechelle's journey from protector to true partner across the complete narrative arc.
 
 ---
 
