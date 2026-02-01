@@ -254,6 +254,24 @@ Update blood magic mechanics
 
 ## 🔍 Consistency Requirements
 
+### Using the Narrative Consistency Reviewer Agent
+
+Before publishing or after major edits, use the specialized AI agent:
+
+```bash
+# In GitHub Copilot Chat:
+@narrative-consistency-reviewer Analyze the canonical version for narrative inconsistencies, repeating scenes, and timeline issues
+```
+
+**What it checks**:
+- ✅ Repeating scenes and duplicate content
+- ✅ Timeline consistency and character ages
+- ✅ Physical description variations
+- ✅ Plot holes and unresolved threads
+- ✅ World-building rule violations
+
+**Full documentation**: [docs/NARRATIVE_AGENT_USAGE.md](docs/NARRATIVE_AGENT_USAGE.md)
+
 ### Core Elements to Maintain
 - Blood magic mechanics and rules
 - Nocturne geography and locations
