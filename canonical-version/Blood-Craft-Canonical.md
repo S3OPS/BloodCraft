@@ -1678,22 +1678,22 @@ my heart racing as I struggled to express the depth of my feelings, still incred
 Her eyes sparkled with excitement as she squealed, “Yes, Sir! I promise I will be like this as often as I can for you.”
 Her enthusiasm was infectious, and I couldn’t help but smile at her delight.
 
-Then, I felt the gravity of the moment press upon me. I took a deep breath, steeling myself for what I was about to say.
-“Then I have one very serious, life-altering question to ask you.” I stood before her, bowing slightly to emphasize the
-significance of the moment. Maintaining eye contact, I extended my hand as if offering her a treasure, and I asked the
-most important question of the night:
+The words tumbled from my lips before I could stop them, raw and honest. "God, you're perfect like this. Absolutely
+perfect." I reached out, my hand trembling slightly as I traced the soft fur along her ear, marveling at the reality of
+her. "I want to see you like this all the time, Kitten. When we're alone, just... be yourself. Be this magnificent
+creature you are."
 
-“Will you do me the honor of becoming Mine, Kitten?”
+The joy that flooded her expression made my chest tight. Faster than my eyes could perceive, she launched herself at me,
+wrapping her legs around my waist with an electrifying energy that sent my heart racing. Her eyes sparkled with pure
+happiness as she secured her embrace, illuminating the room with her delight. "You really mean it?" she breathed, her
+voice thick with emotion. "You're not... you're not disgusted or—"
 
-Faster than my eyes could perceive her movements, Raechelle took my hand and exclaimed, "Yes Sir, I will!" Her voice
-rang with excitement as she jumped into the air, wrapping her legs around my waist with an electrifying energy that sent
-my heart racing. The moment she secured her embrace, her eyes sparkled with pure joy, illuminating the room with her
-happiness—centuries of loneliness melting away in a single word. As her lips brushed against mine, I felt an
-overwhelming rush of passion; time seemed to stand still during the most breathtaking kiss of my life. Through the
-nascent bond between us, I felt her emotions pouring into me: relief, joy, love so profound it made my chest ache, and a
-possessive devotion that matched my own. Her tail swished playfully behind her, adding to the enchanting atmosphere
-between us. In that moment, I understood why my mother had called her my Mary Jane, my Gamora, my everything. This was
-fate, destiny, a connection that transcended time and death.
+"Disgusted?" I interrupted, incredulous. "Raechelle, I've never seen anything more beautiful in my entire life." As her
+lips found mine, I felt an overwhelming rush of passion; time seemed to stand still during what was easily the most
+breathtaking kiss of my life. Through the nascent bond between us, I felt her emotions pouring into me: relief, joy,
+gratitude so profound it made my chest ache, and a fierce affection that matched my own growing feelings. Her tail
+swished playfully behind her, wrapping partway around my waist, adding to the enchanting intimacy between us. In that
+moment, everything felt right—natural, fated, like pieces of a puzzle finally clicking into place.
 
 Once our embrace ended, we settled back down on the plush sofa, our laughter filling the cozy room. The warmth of the
 fire crackled softly, creating an intimate ambiance as we entered a state of blissful giddiness. We spent the next few
@@ -1903,7 +1903,7 @@ until I could hear heartbeats across a room and smell the distinctive copper-and
 beings.
 
 "Again!" she commanded, her voice sharp as I stumbled during a speed drill. The authority in her tone left no room for
-argument, striking something deep within me that responded in a way I hadn't anticipated. For a moment, I felt my dominant nature rebel against taking orders from my submissive, my Kitten—but the rational part of my mind knew she was right. She was the teacher here. I was the student. 
+argument, striking something deep within me that responded in a way I hadn't anticipated. For a moment, I felt my dominant nature rebel against taking orders from her—but the rational part of my mind knew she was right. She was the teacher here. I was the student. 
 
 I found myself responding instinctively, pushing harder despite exhaustion, though the obedience felt strange on my tongue, in my muscles. When I finally succeeded in
 maintaining enhanced speed for a full minute, her approving smile sent a complex rush through me—satisfaction at pleasing her warring with the unsettling realization that I craved that approval in a way that blurred the lines of our dynamic.
@@ -2371,7 +2371,7 @@ Raechelle moved like water, like wind, like nothing human had any right to move.
 
 "Try harder." The command was sharp, absolute, and she came at me again before I could fully process the shift in her demeanor. 
 
-This wasn't my Kitten. This was someone else entirely—a warrior, a teacher who expected obedience. And damn if part of me didn't respond to that tone despite every instinct screaming to reassert dominance.
+This wasn't the submissive woman I'd held last night. This was someone else entirely—a warrior, a teacher who expected obedience. And damn if part of me didn't respond to that tone despite every instinct screaming to reassert dominance.
 
 We trained in the clearing behind the cabin, far from any trails or prying eyes. She taught me how vampires fought—dirty, efficient, exploiting every advantage of their enhanced nature. She showed me how to move with my new speed, how to strike with my new strength, how to use my senses to predict attacks before they landed.
 
@@ -2463,7 +2463,7 @@ She smiled, slow and dangerous. "No. It means we can push harder."
 
 Something in me snapped at those words—not anger, but a surge of dominance I'd been suppressing for days. Before I could think better of it, I straightened and closed the distance between us, backing her against a tree with enough force that her eyes widened in surprise.
 
-"Kitten," I said, my voice low and rough, "you seem to have forgotten who you belong to."
+"Raechelle," I said, my voice low and rough, "you seem to have forgotten who you belong to."
 
 I felt her pulse spike beneath my hands where I'd pinned her wrists above her head. Her breath came faster, her pupils dilating—but instead of the submission I expected, I saw conflict flash across her features.
 
@@ -2485,7 +2485,7 @@ That caught my attention. "How?"
 
 She looked away, a flush creeping up her neck. "When I'm training you, when I'm in that instructor role... it feels powerful. Exhilarating, even. But then I see the look in your eyes, that flash of dominance you're suppressing, and I feel guilty. Like I'm overstepping. Like I should defer to you even though you need me to push you." She met my gaze again, vulnerability and heat warring in her expression. "And then there's the part of me that... enjoys it. Enjoys commanding you, seeing you obey me. Which makes me feel even worse because I'm your submissive. I shouldn't—"
 
-"Kitten." I cupped her face, forcing her to maintain eye contact. "Don't apologize for that. Ever."
+"Beautiful." I cupped her face, forcing her to maintain eye contact. "Don't apologize for that. Ever."
 
 "But it's wrong, isn't it? Our dynamic—"
 
@@ -2497,7 +2497,7 @@ I took a breath, trying to organize thoughts that had been churning for days. "T
 
 Her eyes widened, but she didn't deny it.
 
-"When you give me orders, when you push me, when you stand over me with that look of authority—part of me hates it. But part of me..." I let my voice drop, low and intimate. "Part of me is turned on by it. By having to submit to you. By having my Kitten in control."
+"When you give me orders, when you push me, when you stand over me with that look of authority—part of me hates it. But part of me..." I let my voice drop, low and intimate. "Part of me is turned on by it. By having to submit to you. By having you in control."
 
 "Riven," she breathed, her tail swishing behind her in clear agitation.
 
@@ -2517,7 +2517,7 @@ She bit her lip, then nodded. "Yes, Sir. I do. Even though I shouldn't."
 
 She shivered against me. "That sounds... dangerous."
 
-"Maybe. But also honest. And potentially incredible." I pulled back to look at her. "But only if you want it. Only if it feels right to you. This is a negotiation, Kitten. I need you to be completely honest about your comfort level."
+"Maybe. But also honest. And potentially incredible." I pulled back to look at her. "But only if you want it. Only if it feels right to you. This is a negotiation, Raechelle. I need you to be completely honest about your comfort level."
 
 She was quiet for a long moment, her ears twitching as she processed. Then: "I want it. I want to stop feeling guilty about commanding you. I want to own that authority during training, use it fully without holding back." Her eyes met mine, blazing with an intensity that sent heat straight to my groin. "And I want to see you submit to me, Sir. To see that conflict in your eyes as you obey even when every instinct tells you to dominate me. I want to push you until you're on the edge of breaking, until you're desperate to reassert control—and then I want you to hold back anyway because I told you to."
 
@@ -2525,7 +2525,7 @@ Fuck. The images her words conjured sent a bolt of pure lust through me.
 
 "But," she continued, her voice softening, "I also need to know that when training is over, the dynamic shifts back. That you'll take control again, remind me who I belong to. I need that balance, Sir."
 
-"Of course," I said immediately. "The role reversal is contextual—during training only. Outside of that, you're mine. My submissive. My Kitten." I let my dominance bleed into my voice, watched her respond with that telltale shiver of submission. "And when training ends each day, I'll make damn sure you remember that."
+"Of course," I said immediately. "The role reversal is contextual—during training only. Outside of that, you're mine. My submissive." I let my dominance bleed into my voice, watched her respond with that telltale shiver of submission. "And when training ends each day, I'll make damn sure you remember that."
 
 "Yes, Sir," she whispered, the words carrying both relief and anticipation.
 
@@ -2549,7 +2549,7 @@ She nodded. "During combat training, verbal signals might not work. What about..
 
 She was quiet for another moment, then looked up at me with a wicked gleam in her eye. "In that case, Sir, I think we should get back to training. You've been slacking, and I expect to see significant improvement in the next session."
 
-The commanding tone, now deliberately deployed with full awareness of its effect, sent heat pooling low in my belly. "Is that so, Kitten?"
+The commanding tone, now deliberately deployed with full awareness of its effect, sent heat pooling low in my belly. "Is that so, beautiful?"
 
 "It is." She stepped back, crossing her arms, fully embodying the instructor role with a confidence that was breathtaking. "You have thirty minutes to rest and hydrate. Then we're doing speed drills until you can maintain enhanced velocity for five consecutive minutes. And if you fail..." Her smile turned predatory. "Well, let's just say there will be consequences."
 
@@ -2627,7 +2627,7 @@ I found her on the porch, staring out at the moonlit forest. She didn't turn whe
 
 "Old habit. The night has always felt more comfortable."
 
-I sat beside her, and for a while, we didn't speak. The dynamic between us had shifted since our conversation three days ago—the training had become more intense, more charged, more effective. And each evening, when her instructor role ended, I'd made it my mission to thoroughly remind her whose Kitten she was. The balance was working, pushing us both in ways I hadn't anticipated.
+I sat beside her, and for a while, we didn't speak. The dynamic between us had shifted since our conversation three days ago—the training had become more intense, more charged, more effective. And each evening, when her instructor role ended, I'd made it my mission to thoroughly remind her that she was mine. The balance was working, pushing us both in ways I hadn't anticipated.
 
 On impulse, I held out my hand palm-up and focused. The blood magic came easier now, almost natural—a testament to how well the enhanced training dynamic was working. A drop of my own blood beaded on my fingertip, and I pulled it free with my will, shaping it in the air.
 
@@ -2665,7 +2665,7 @@ We faced each other in the clearing, the afternoon sun casting long shadows thro
 
 "Don't hold back," she said, circling me slowly. "I want your best, Sir. Or should I start calling you 'student' during training?" The playful challenge in her voice was deliberate provocation.
 
-"Don't push your luck, Kitten," I growled, but we both knew I'd obey her instructions regardless.
+"Don't push your luck, beautiful," I growled, but we both knew I'd obey her instructions regardless.
 
 "That's 'instructor' to you right now," she corrected with a wicked smile. "Now—move!"
 
@@ -2721,11 +2721,37 @@ I flexed my fingers, feeling the power settle back under my skin. "It's because 
 
 "It's not just the method," she said softly, tracing patterns on my chest. "It's because you're extraordinary, Riven. The dynamic we've created—it only works because you're strong enough to submit temporarily without losing yourself, and secure enough in your dominance to let me have authority in one arena without it threatening our overall relationship."
 
-"And because you're strong enough to command me when needed, but wise enough to surrender when training ends," I added, pressing a kiss to her forehead. "We make a good team, Kitten."
+"And because you're strong enough to command me when needed, but wise enough to surrender when training ends," I added, pressing a kiss to her forehead. "We make a good team, beautiful."
 
 "The best team," she agreed, her tail wrapping around my waist contentedly.
 
 I felt the truth of it settle in my bones. What we'd built together over these two weeks—the training, the power exchange, the honest communication about our needs and boundaries—had forged something stronger than just teacher and student or Dom and submissive. We were partners, each empowering the other in different ways.
+
+We lay in comfortable silence, our breathing synchronized, her purr a gentle rumble against my chest. Thirteen days. Thirteen days of watching her command me with fierce authority in training, then melt into sweet submission the moment we stepped away. Thirteen days of vulnerability, trust building, boundaries tested and respected. She'd proven herself in every way—her strength when she wielded authority over me, her devotion when she surrendered, her wisdom in knowing which moments called for which.
+
+I'd seen immortals who'd lived millennia. Most grew cold, distant, their hearts hardening with the centuries. But Raechelle... she'd waited so long for someone worthy of her submission, someone strong enough to hold her dominance during training without being threatened by it. The weight of that patience, that hope she'd carried, settled over me.
+
+My hand found her chin, tilting her face up to meet my eyes. Those feline features I'd grown to adore—the delicate ears, the expressive tail now wrapped possessively around me—had become home. Through our bond, I felt her contentment, her love, the bedrock of her devotion that ran deeper than I'd ever imagined possible.
+
+"Raechelle," I said softly, letting my dominance rise in my voice, not as a command but as a claiming. "These thirteen days... you've shown me exactly who you are. Strong enough to command me, devoted enough to surrender completely. Fierce in your authority, perfect in your submission. You've trusted me with every part of yourself."
+
+Her breath caught. Through our bond, I felt hope flare like a star.
+
+"I know what you are," I continued, stroking her cheek. "What you need. What you've waited centuries to find." I held her gaze, letting her see everything I felt. "Will you do me the honor of becoming Mine? Officially, formally... will you be my Kitten?"
+
+The sound she made was half-sob, half-purr, her ears flattening in overwhelming emotion. "Yes," she breathed, and then stronger, "Yes, God yes, Riven. I'm Yours. I've been Yours since the moment you proved you could hold me without breaking."
+
+Through our bond, I felt her joy crash over us both—centuries of longing finally fulfilled, the security she'd craved in being claimed by someone worthy. Her tail tightened around me almost painfully.
+
+"Mine," I murmured against her lips, sealing it with a kiss that tasted of salt and devotion. "My Kitten. My partner. My perfect submissive."
+
+"Yours," she whispered back, and the word resonated through our bond like a vow. "Always Yours, my Riven."
+
+I held her close, feeling the rightness of it settle into every cell. This wasn't just Dom and submissive, or teacher and student. This was a claiming that honored every facet of who we were together—the power exchange, the partnership, the love that had grown from trust and vulnerability and thirteen days of proving ourselves to each other.
+
+She was mine now. Formally, completely, irrevocably mine.
+
+And I would be worthy of that gift.
 
 "It's not enough, is it?" I said quietly, voicing the concern that had been growing. "What I can do. Compared to real blood mages."
 
