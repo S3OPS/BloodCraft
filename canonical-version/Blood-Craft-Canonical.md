@@ -1822,9 +1822,9 @@ She held out her wrist, the gesture so casual it took me a moment to understand 
 you for now, but eventually, we'll need to find alternative sources. I may be powerful, but even I have my limits."
 
 I stared at her wrist, watching the pulse flutter beneath her pale skin. The hunger was there, a dull ache, but it was
-manageable for now—nothing like the overwhelming need from before.
+manageable for now—nothing like the overwhelming need from our first feeding.
 
-"I can wait on the feeding," I said, meeting her gaze steadily. "What I need more urgently is understanding. Last night was overwhelming, and I accepted everything without really questioning it. But now..." I took a breath. "Now I need to know what I'm becoming. How to control it. How to fight."
+"I can wait on the feeding," I said, meeting her gaze steadily. "What I need more urgently is understanding. Everything that happened—the awakening, the transformation—I accepted it all without really questioning it. But now..." I took a breath. "Now I need to know what I'm becoming. How to control it. How to fight."
 
 A slow smile spread across Raechelle's face, pride glimmering in her ruby eyes. "Your mother was right about you," she
 murmured. "You're going to be extraordinary."
