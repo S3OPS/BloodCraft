@@ -1821,12 +1821,10 @@ body is still changing, still adapting. The hunger will be... intense for the fi
 She held out her wrist, the gesture so casual it took me a moment to understand what she was offering. "I can sustain
 you for now, but eventually, we'll need to find alternative sources. I may be powerful, but even I have my limits."
 
-I stared at her wrist, watching the pulse flutter beneath her pale skin. The hunger surged within me, demanding
-satisfaction, but I forced it down with an effort of will.
+I stared at her wrist, watching the pulse flutter beneath her pale skin. The hunger was there, a dull ache, but it was
+manageable for now—nothing like the overwhelming need from before.
 
-"Before I feed," I said, my voice coming out rougher than intended, "I want to understand more about what I'm becoming.
-What we are. Last night was overwhelming, and I accepted everything without really questioning it. But now..." I met her
-gaze steadily. "Now I need answers."
+"I can wait on the feeding," I said, meeting her gaze steadily. "What I need more urgently is understanding. Last night was overwhelming, and I accepted everything without really questioning it. But now..." I took a breath. "Now I need to know what I'm becoming. How to control it. How to fight."
 
 A slow smile spread across Raechelle's face, pride glimmering in her ruby eyes. "Your mother was right about you," she
 murmured. "You're going to be extraordinary."
@@ -1845,110 +1843,17 @@ what appeared to be a crystal ball no larger than a tennis ball.
 "Where do you want to begin?" she asked.
 
 I considered the question carefully. There were so many things I needed to know—about my powers, about the Archons,
-about the bond between us. But one question burned brighter than all the others.
+about the enemies we would face. But the most immediate concern was practical.
 
-"Tell me about blood bonds," I said. "My mother mentioned that we were bonded when I was a child, that it was the reason
-I felt drawn to you even before I understood what you were. But I want to know everything. How it works. What it means.
-Why it happened."
+"My training," I said firmly. "If Terravos or his agents come for me, I need to be ready. I need to understand what I can do and how to control it."
 
-Raechelle's expression softened, and she reached out to take my hand, her claws carefully retracted. The contact sent a
-pleasant warmth through my skin, resonating with something deeper inside me.
+Raechelle's eyes lit up with approval, and I caught a flicker of pride in her expression. "Spoken like a true Archon," she said softly. "Your mother would be proud."
 
-"Blood bonds are rare," she began, her voice taking on a rhythmic, almost hypnotic quality. "Rare enough that most
-magical beings go their entire existence without ever experiencing one. They cannot be forced or manufactured—they
-simply happen when two souls recognize something in each other, something that transcends the physical world."
+The mention of my mother sent a pang through my chest, but I pushed the grief aside. There would be time to mourn properly later. For now, I needed to focus on survival—and eventually, revenge.
 
-She traced her thumb across my knuckles, her touch featherlight. "When I found you that day in the forest, bleeding from
-your fall, I was simply doing what any familiar would do—protecting the heir of the bloodline I was bound to serve. But
-when your blood touched my lips..." She shuddered, her eyes growing distant with memory. "It was like lightning
-striking. I felt our souls connect, intertwining in ways I couldn't explain. In that single moment, you became my
-everything, and I became yours."
+"We'll need to establish a training regimen," Raechelle continued, her voice taking on an authoritative tone. "Knowledge is the foundation of power, and you have much to learn. But..." She hesitated, a determined glint entering her eyes. "Physical training should come first. You're a vampire now, Sir. Your body has been enhanced beyond human limitations. Speed, strength, reflexes—they're all heightened, but they need to be honed."
 
-"But I was just a child," I said softly.
-
-"The bond doesn't care about age or circumstance," Raechelle explained. "It recognizes compatibility at the deepest
-level. It knew, somehow, that we were meant to be together. That's why your parents separated us and cast the memory
-spell—they knew the bond would make us inseparable, would make it impossible to hide you from those who sought your
-bloodline's destruction."
-
-I processed this information, turning it over in my mind like a puzzle piece that was slowly finding its place. "And
-now? Now that we've... reconnected?"
-
-"The bond is fully awakened," she confirmed. "You may have already noticed some of its effects—the way my presence calms
-you, the way your emotions influence me. As time passes and our connection deepens, we'll become even more attuned to
-each other. I'll be able to sense your emotions, your needs, perhaps even your thoughts. And you..." She paused, a
-slight flush coloring her pale cheeks. "You'll be able to do the same with me."
-
-The implications were staggering. Complete emotional and mental connection with another being—it was intimate beyond
-anything I had ever experienced.
-
-"Does that frighten you?" she asked, her voice small and vulnerable in a way I hadn't heard before.
-
-I considered the question honestly, searching my feelings for any trace of fear or reluctance. There was none.
-
-"No," I said finally. "It doesn't frighten me at all."
-
-Her smile was radiant, transforming her features from beautiful to breathtaking. "Good," she whispered. "Because I don't
-think I could bear losing you again."
-
-The hunger chose that moment to surge again, stronger this time, demanding attention. Raechelle noticed immediately, her
-nostrils flaring slightly as if she could smell the need emanating from me.
-
-"You should feed now," she said, extending her wrist once more. "Fighting the hunger only makes it worse. Trust me—I
-learned that lesson centuries ago."
-
-This time, I didn't hesitate. I took her wrist gently in my hands, marveling at how delicate she felt despite the power
-I knew resided within her. I could see the vein pulsing beneath her skin, could hear the rush of blood calling to me
-with a siren's song.
-
-"How do I...?" I started, but the words died in my throat as instinct took over. My fangs extended on their own,
-responding to my need, and I pressed them against her skin with a reverence that surprised me.
-
-"Follow your instincts," Raechelle breathed, her voice hitching with anticipation. "Your body knows what to do."
-
-And it did. My fangs pierced her skin smoothly, and the first taste of her blood hit my tongue like liquid fire. It was
-different from before—richer, more intense, infused with emotions and sensations that weren't my own. I felt her
-pleasure as clearly as I felt my own hunger being satisfied, a feedback loop of ecstasy that threatened to overwhelm my
-senses.
-
-Flashes of memory invaded my mind—her memories this time. I saw centuries of loneliness, of watching from the shadows as
-the world changed around her. I felt her grief when she learned of my parents' deaths, her terror that she had lost me
-before she could ever truly have me. And beneath it all, a love so profound and ancient that it took my breath away.
-
-She loved me. Had loved me since the moment our blood first mingled all those years ago. Had waited two decades for this
-moment, for us to finally be together.
-
-I pulled back gently, my fangs retracting as I sealed the wound with a soft kiss, the way she had done when she healed
-my childhood injury. Her blood sang through my veins, filling me with strength and vitality I had never known.
-
-"Did you see?" she asked breathlessly, her cheeks flushed and her eyes heavy-lidded with pleasure.
-
-"I saw everything," I confirmed, pulling her into my arms. She fit perfectly against me, as if she had been designed
-specifically to occupy that space. "I felt everything."
-
-"Then you understand," she whispered against my chest. "Why I could never let anything happen to you. Why I would burn
-the world to ashes before I let anyone harm you."
-
-I stroked her hair, my fingers brushing against her ears and eliciting another of those delightful purring sounds. "I
-understand," I said. "And I feel the same way about you."
-
-We stayed like that for a long moment, wrapped in each other's embrace as the evening light faded into dusk. Eventually,
-however, reality reasserted itself. There were things that needed to be done, preparations that needed to be made.
-
-"The journal," I said, pulling back reluctantly. "I should start studying it. Learn about my heritage and my powers."
-
-Raechelle nodded, though she seemed equally reluctant to leave the comfort of my arms. "You're right. Knowledge is the
-foundation of power, and you have much to learn. But..." She hesitated, a mischievous glint entering her eyes. "Perhaps
-we could take a short break first? I find that physical training can be just as beneficial as academic study."
-
-I raised an eyebrow. "Physical training?"
-
-"Of course." She grinned, her fangs glinting in the firelight. "You're a vampire now, Sir. Your body has been enhanced
-beyond human limitations. Speed, strength, reflexes—they're all heightened, but they need to be honed. And lucky for
-you..." She stretched languidly, her movements deliberately provocative. "I happen to be an excellent teacher."
-
-The promise in her words sent a thrill through me. Whether she meant combat training or something else entirely, I found
-myself eager to discover the answer.
+The promise in her words sent a thrill through me. This was what I needed—not just answers, but action.
 
 "Then teach me," I said, rising from the sofa and offering her my hand. "Show me what I can become."
 
