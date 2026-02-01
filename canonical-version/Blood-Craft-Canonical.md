@@ -716,6 +716,114 @@ for the first time since the accident, I didn't feel quite so alone.
 
 *End of Chapter 2*
 
+---
+
+# **Chapter 2.5 - Raechelle's Perspective: The Vigil Ends**
+
+*[Raechelle POV - Events during and after Chapter 2]*
+
+---
+
+The moment the bond trembled—not broken, but *awakening*—I knew. After two hundred and forty-seven years of patient waiting, of watching from the shadows, of protecting a bloodline that barely knew I existed, everything changed in a single, shattering instant.
+
+I was in my apartment in Austin when it happened, curled in my favorite armchair with a century-old grimoire I'd been pretending to read for the past hour. The familiar bond—dormant for decades since Elara had passed the torch to her son without his knowledge—suddenly *flared* to life like a star being born. Not the gentle, cultivated warmth of a bond carefully nurtured, but the wild, untamed *inferno* of a Blood Archon's power erupting for the first time.
+
+The grimoire fell from my hands, forgotten, as I gasped and clutched at my chest. Through the bond—still new, still raw, still unformed—I felt everything. Terror. Confusion. Rage. *Loss*. Oh gods, the loss. It crashed over me in waves that left me breathless, and I knew with awful certainty what had happened.
+
+Elara was dead. Marcus was dead.
+
+And Riven—sweet, brilliant, *powerful* Riven who didn't even know what he was—had just awakened to his heritage in the worst possible way.
+
+I didn't think. I didn't pack. I simply *moved*, shifting into my panther form and racing out into the night. Austin blurred around me as I ran, my paws barely touching the ground as supernatural speed carried me forward. The bond pulled at me like a compass, guiding me north and east, toward the collision of destiny and tragedy I'd spent lifetimes preparing for but still wasn't ready to face.
+
+*Please,* I prayed to gods I wasn't sure listened anymore. *Please let me reach him in time.*
+
+The drive from Austin to that winding road took hours by car, but I made it in less than one, pushing my feline form to its limits. When I finally arrived at the scene, what I found nearly broke me.
+
+The car was a twisted wreck of metal and broken glass, illuminated by the cold light of the moon. Earth spikes—unmistakable signatures of Terravos's brutal, efficient magic—jutted from the ground like accusations. The smell of blood hung heavy in the air, making my sensitive nose twitch and my eyes burn with tears I couldn't yet afford to shed.
+
+But Riven wasn't there.
+
+Through the bond—now a thin, trembling thread connecting my ancient soul to his newborn power—I could feel him. Confused. Grieving. Moving. The vial had worked; Elara's final gift had given him the strength to survive, to flee, to reach safety.
+
+I found his trail easily enough—blood and grief leave marks even humans can follow, and I was far more than human. He'd gone to the cabin, the place where this trip should have ended in laughter and birthday celebrations instead of death and awakening. I shifted back to my human form, smoothing down my clothes with trembling hands as I approached my car—I'd stashed one nearby weeks ago, always prepared for any contingency.
+
+The drive to the cabin gave me time to think, to prepare, to try to calm the maelstrom of emotions churning inside me. I needed to be *calm* when I found him. I needed to be the anchor Elara had trained me to be, the guide Marcus had trusted me to become. I couldn't let him see how much this hurt me too, how much I'd loved his parents, how desperately I'd hoped this day would never come.
+
+But gods, when I stepped into that cabin and saw him—unconscious, vulnerable, reeking of awakened power and raw grief—something inside me cracked.
+
+He looked so much like Marcus. The same strong jaw, the same dark hair falling across his forehead. But his scent... oh, his scent was pure Elara. Blood magic running hot and wild beneath his skin, calling to the familiar bond like a siren song. Add to that the sharp, intoxicating musk of his awakening—every Blood Archon smelled like sin and promise when their power first bloomed—and I found myself momentarily frozen.
+
+This was the boy I'd watched grow from a distance. The child I'd protected from shadows he never saw. The young man who'd never known that half his "lucky breaks" and "close calls" were actually me, intervening from the periphery of his life.
+
+And now he was a man. A *powerful* man. A Blood Archon who would need me in ways his parents never had.
+
+I gathered him carefully, marveling at the warmth radiating from his skin. The awakening had changed him on a cellular level—I could see it, smell it, *feel* it through the bond trying desperately to form between us. He was heavier than I expected, solid muscle where there had been a leaner frame just months ago when I'd last glimpsed him from afar. The vial's magic had done its work, accelerating his transformation, preparing his body for the power now coursing through his veins.
+
+Getting him to the car was easier than it should have been—familiar strength had its advantages—but every step felt weighted with significance. This was the moment everything changed. Two hundred and forty-seven years of preparation, of study, of waiting, and it all came down to this: getting this grieving, powerful, utterly unprepared young man to safety.
+
+The drive back to his home—*his* home now, I had to remind myself; no longer "the Sixxx family home" but simply *his*—took hours. I spent every moment of it acutely, painfully aware of him in the passenger seat beside me. Of his scent filling my car. Of the way his power pulsed in waves that made my familiar bond *sing* with recognition and need.
+
+I'd had crushes before, in my long life. I'd even loved a few times, though never deeply. The familiar bond made emotional attachment difficult—we were always holding ourselves apart, knowing we'd outlive our charges, knowing we'd have to move on eventually. But this... this was different.
+
+Riven Sixxx was supposed to be my charge. My responsibility. The heir I'd sworn to protect and serve. The last of the bloodline I'd devoted centuries to preserving.
+
+But the bond—awakening now with every mile that passed—didn't feel like duty. It felt like *destiny*. Like coming home. Like every moment of my long life had been building toward this man, this connection, this impossible, intoxicating *rightness*.
+
+And that terrified me.
+
+Because I'd seen what happened when familiars fell for their charges. I'd watched the tragedy unfold with my own mentor, Serafine, who'd loved her Blood Archon too much and lost him to a rival's poison. I'd sworn I'd never let emotion cloud my judgment, never let attachment make me weak.
+
+But when Riven stirred in his sleep, when he murmured something that might have been "Mom" or might have been a prayer, when his power reached out blindly through our forming bond seeking *comfort*—I knew I was already lost.
+
+By the time I pulled into his driveway, my hands were shaking. I sat there for a long moment, just breathing, trying to center myself. The moon hung heavy and red in the sky—a blood moon, how fitting—and the house stood dark and empty before us.
+
+This was it. The moment I'd prepared for. The moment Elara had trained me for during those secret meetings over the past decade. "When it happens," she'd told me, her eyes sad but resolved, "he'll need you more than he's ever needed anyone. Be strong for him, Rae. Be the anchor I know you can be."
+
+I'd promised I would. I'd sworn it on my blood and my bond and every year of my long life.
+
+Now, looking at Riven's sleeping face in the dim light of the car, I just hoped I was strong enough to keep that promise—while also being weak enough to let myself feel what I was already feeling for him.
+
+I roused him gently, watching as consciousness returned to those beautiful gray eyes—Marcus's eyes, though the power burning behind them was all Elara. He was disoriented, confused, still processing the nightmare his birthday trip had become.
+
+"How long have I been asleep?" he asked, his voice rough with sleep and grief.
+
+Such a simple question. How could I possibly answer it honestly? *You've been asleep your whole life, and you've just now awakened to what you truly are.* But I couldn't say that. Not yet.
+
+"Let's hold off on questions until we're inside your home," I said instead, trying to keep my voice steady, professional. Trying not to let him hear the way his scent—gods, that *scent*—was affecting me. "You've been out cold for hours since the accident."
+
+Hours. Such a small word for such a monumental shift. Hours since his parents died. Hours since his power awakened. Hours since my centuries-long vigil ended and my real purpose began.
+
+As he climbed out of the car, I took a moment to steady myself. To remind myself of who I was. What I was.
+
+Raechelle Darkpurr. Familiar to the Sixxx bloodline. Two hundred and forty-seven years old. Trained by the best. Prepared for this.
+
+I could do this. I could guide him through his awakening, teach him his heritage, help him survive the enemies already circling. I could be what Elara needed me to be.
+
+I just wasn't sure I could do it without losing my heart in the process.
+
+But as I watched him walk toward the house—his house now, his burden, his inheritance—I realized it might already be too late for that. The bond pulsed between us, warm and insistent, and I knew with crystal clarity that Riven Sixxx was going to change my life just as much as I was about to change his.
+
+The vigil was over.
+
+The real work was just beginning.
+
+And despite the grief, despite the danger, despite every logical reason I had to maintain professional distance—I found myself hoping, praying, *wishing* that this time, maybe, the story could have a different ending.
+
+Maybe this time, the familiar wouldn't lose her Archon.
+
+Maybe this time, love wouldn't be a weakness.
+
+Maybe this time, we could both survive what was coming.
+
+*Maybe.*
+
+---
+
+*End of Chapter 2.5*
+
+---
+
 # **Chapter 3**
 
 As we glided down the lengthy driveway of my home, a gentle jolt of realization roused me from my slumber. The world
@@ -2318,6 +2426,163 @@ terrible, beautiful possibility.
 
 *End of Chapter 7*
 
+---
+
+# **Chapter 7.5 - Raechelle's Perspective: On the Eve of Forever**
+
+*[Raechelle POV - The night before the bonding ritual]*
+
+---
+
+The full moon would rise tomorrow night, and I was terrified.
+
+I stood at the window of Riven's childhood home, looking out over the darkened woods that bordered his property, and tried to remember the last time I'd felt this particular cocktail of emotions. Fear. Hope. Desire. *Love*. It had been... gods, it had been over a century. And even then, it hadn't felt like *this*.
+
+Behind me, I could hear Riven moving around in his room, preparing for bed after another grueling day of training. Ten days. We'd had ten days together—ten days to prepare him for what was coming, to teach him about his heritage, to build the foundation of the bond that would either save us both or destroy me completely.
+
+Ten days to fall hopelessly, irrevocably in love with him.
+
+I pressed my forehead against the cool glass, closing my eyes. This wasn't supposed to happen. I was supposed to be professional, distant, *safe*. I was supposed to guide him, train him, protect him—not ache for him with every fiber of my being.
+
+But Riven Sixxx had somehow slipped past every defense I'd built in two centuries of life.
+
+It wasn't just his scent, though gods knew that alone was enough to drive me to distraction. Blood Archons always smelled good to their familiars—it was part of the bond, part of the ancient magic that tied our kinds together. But Riven... Riven smelled like *home*. Like safety and passion and everything I'd been missing for the past two hundred and forty-seven years without even knowing it.
+
+It wasn't just his power, though feeling it grow stronger every day made my familiar instincts purr with satisfaction. He was *strong*—stronger than Elara had been at his age, stronger than Marcus ever was. The potential in him was staggering, and watching him learn to control it, watching him transform from confused college student to confident Blood Archon, had been one of the most rewarding experiences of my long life.
+
+It wasn't even just his body, though I'd be lying if I said I hadn't noticed. The awakening had changed him, sculpting muscle and power into his frame in ways that made my mouth go dry. Every training session was sweet torture, watching him move, watching sweat bead on his skin, watching that fierce concentration on his face as he mastered each new technique.
+
+No, what undid me completely was *him*. His kindness despite his grief. His determination despite his fear. The way he looked at me—not as a servant or a tool, but as a *woman*. As someone precious. As someone he was choosing, not because ancient bonds demanded it, but because he wanted to.
+
+"You call me sir," he'd said that first night, his voice full of wonder, "but I feel like I should be calling you that."
+
+Such a small moment. Such a simple observation. But it had cracked something open inside me, some wall I'd built around my heart to keep it safe from exactly this kind of pain.
+
+Because tomorrow night, under the full moon, we would complete the bonding ritual. And if I wasn't careful—if I let myself feel too much, want too much, *need* too much—I would lose myself completely in him.
+
+I'd explained the ritual to him earlier today, watching his face as he processed what it meant. The ceremony. The exchange of blood and essence. The physical union required to seal the bond. I'd tried to keep my voice steady, professional, like I was explaining any other aspect of his heritage.
+
+But inside, I was screaming.
+
+Because I wanted it. Gods help me, I wanted it so badly I could barely breathe. I wanted to be his in every way the bond allowed. I wanted to feel his power merge with mine, wanted to taste his blood on my tongue, wanted to know every inch of him in the most intimate ways possible.
+
+I wanted, and wanting terrified me.
+
+A soft knock on the doorframe made me turn. Riven stood there, barefoot and beautiful in sleep pants and a t-shirt that hugged his newly muscled frame. His dark hair was still damp from the shower, falling across his forehead in a way that made my fingers itch to brush it back.
+
+"Can't sleep?" he asked, his voice soft with concern.
+
+I smiled, trying to keep it light. "Old habits. I don't need as much sleep as humans do."
+
+He crossed the room to stand beside me at the window, close enough that I could feel the heat radiating from his skin, smell the clean scent of soap mixed with his natural musk. Close enough to touch, if I dared.
+
+"Are you nervous?" he asked. "About tomorrow?"
+
+*Terrified,* I wanted to say. *Desperate. Hopeful. So in love with you it hurts.*
+
+"A bit," I admitted instead. "It's been a very long time since I've bonded with anyone. The last Blood Archon I was bound to was... centuries ago."
+
+That was a lie, but only technically. I'd been bound to the Sixxx line for generations, but it had been a distant thing, a hereditary connection maintained through ritual and duty rather than the kind of deep, soul-binding connection we were about to create.
+
+"Tell me about them," Riven said, settling into the chair near the window. "Your previous charge."
+
+I hesitated, then took the chair opposite his. This felt dangerous—talking about the past, about the hearts I'd known and lost. But maybe he needed to hear it. Maybe I needed to say it.
+
+"His name was Damien Nightshade," I began, and even after all these years, the name still brought a bittersweet ache. "He was a Blood Archon from the European line, powerful and passionate and absolutely convinced he was invincible."
+
+"What happened to him?"
+
+"He was murdered," I said bluntly. "By a rival who poisoned him at a political gathering. I felt him die through our bond." I met Riven's eyes, needing him to understand. "That's the danger of the familiar bond, Riven. We feel everything you feel. Your pain becomes our pain. Your death..." I had to pause, had to breathe through the memory. "Your death would shatter us."
+
+He was quiet for a long moment. Then: "Is that why you're afraid? Because you think I'll die like he did?"
+
+"No." The word came out more vehemently than I intended. "No, Riven. You're not Damien. You're stronger, smarter, more careful. And I—" I stopped, unsure how much to reveal.
+
+"You what?"
+
+"I won't let you die," I said fiercely. "I've spent my entire life preparing for you, protecting your line, waiting for this moment. I won't lose you the way I lost him. I *can't*."
+
+He reached across the space between us, taking my hand in his. His touch sent shivers up my arm, made the proto-bond between us pulse with warmth.
+
+"I'm not planning on dying anytime soon," he said with a small smile. "Especially not now that I have you."
+
+*Have me.* Such simple words. Such devastating words.
+
+"Riven..." I started, then stopped, unsure what I even wanted to say.
+
+"I know tomorrow is a big deal," he continued, his thumb stroking absently over my knuckles in a way that made my breath catch. "I know it's... intimate. I want you to know that I'm not taking this lightly. I'm not seeing this as just some magical ritual we have to complete." His gray eyes met mine, and the intensity in them made my heart stutter. "I care about you, Raechelle. More than I probably should after only ten days. More than might be wise, given everything. But I do."
+
+Oh gods. Oh gods, he couldn't say things like that. Couldn't look at me like that. Couldn't make me *hope*.
+
+"You're feeling the bond pulling at you," I said, trying to inject reason into a situation that had left reason behind days ago. "The familiar connection creates... attraction. Desire. It's natural, but—"
+
+"Don't," he interrupted gently. "Don't diminish this by blaming it on magic. Yes, I feel the bond. Yes, I can sense this... this *pull* between us. But I also have eyes, Raechelle. And a heart. And a brain that works perfectly well when it's not being scrambled by your presence."
+
+He stood, tugging me up with him until we were standing chest to chest, his free hand coming up to cup my face.
+
+"I see you," he said softly. "Not just as my familiar or my teacher or my protector. I see *you*. The woman who's been patient with me when I was difficult. Who's been strong when I was falling apart. Who makes me laugh even when everything feels impossible. Who's beautiful and fierce and slightly terrifying in the best possible way."
+
+I couldn't breathe. Couldn't think. Could only stand there, trembling, as this man—this *boy*, really, compared to my centuries—said everything I'd been desperate to hear and terrified to want.
+
+"Tomorrow," he continued, "when we complete the ritual, I'm not just binding myself to you because I have to. I'm choosing you. I'm choosing *this*." His forehead touched mine, and I could feel his breath on my lips. "If you'll have me."
+
+*If I'll have him.* As if there was any question. As if I hadn't already given him my heart without even realizing it was happening.
+
+"Riven," I whispered, and his name felt like a prayer. "I've lived for two hundred and forty-seven years. I've seen empires rise and fall. I've loved and lost and learned to guard my heart carefully. But you..." I pulled back just enough to see his eyes. "You've undone me in ten days. You've made me feel things I thought I'd forgotten how to feel. You've made me *hope*, and that's the most dangerous thing of all."
+
+"Hope for what?"
+
+"For everything," I admitted. "For a future that's more than just duty and protection. For a bond that's built on more than ancient magic. For..." I hesitated, then took the leap. "For love. Real, genuine, terrifying love."
+
+His smile was like the sunrise, bright and warm and full of promise. "Then tomorrow isn't just a bonding ritual."
+
+"No," I agreed, my own smile answering his. "Tomorrow is a promise. A choice. A—"
+
+"A beginning," he finished.
+
+He kissed me then, soft and sweet and full of tenderness that made my ancient heart swell. It wasn't the passionate, desperate kiss we'd shared during training earlier in the week. This was different. This was a promise, just as he'd said. A vow that tomorrow would mean something beyond magical necessity.
+
+When we finally pulled apart, I rested my head against his chest, listening to the strong, steady beat of his heart.
+
+"I'm still terrified," I confessed.
+
+"Me too," he admitted. "But I think... I think the best things in life are probably terrifying. Otherwise, they wouldn't be worth having."
+
+Wise words from someone so young. Or perhaps not so young—perhaps old enough in the ways that mattered.
+
+We stood there for a long time, wrapped in each other's arms, neither of us wanting to break the moment. Outside, the moon was waxing toward fullness, preparing for tomorrow's ritual. Inside, my heart was preparing too—not for duty or obligation, but for something infinitely more precious and infinitely more dangerous.
+
+Love.
+
+True, bone-deep, soul-binding love.
+
+And for the first time in two centuries, I wasn't afraid of it. I was ready to embrace it, to dive into it, to let it transform me the way Riven's awakening had transformed him.
+
+Tomorrow, under the full moon, we would complete the ritual that bound familiar to Archon.
+
+But tonight—tonight we were just Raechelle and Riven, two souls choosing each other against all odds, against all logic, against every defense I'd ever built.
+
+And it was terrifying.
+
+And it was perfect.
+
+"Get some sleep," I whispered against his chest. "Tomorrow's a big day."
+
+"Will you stay?" he asked. "Not... not in my bed," he added quickly, adorably flustered. "Just... in the house. Close. I sleep better when I can feel you nearby."
+
+My heart melted completely. "Always," I promised. "I'll always be close."
+
+And I meant it. Not because the bond demanded it. Not because duty required it.
+
+But because I loved him.
+
+And tomorrow, I would show him exactly what that meant.
+
+---
+
+*End of Chapter 7.5*
+
+---
 
 # **Chapter 8**
 
@@ -5845,6 +6110,158 @@ For now, that was enough.
 
 ---
 
+# **Chapter 15.5 - Raechelle's Perspective: When Darkness Descends**
+
+*[Raechelle POV - During the attack at the Crimson Ball]*
+
+---
+
+The moment the earth elementals breached the Grand Hall, every instinct I'd honed over two centuries screamed at me to *protect*.
+
+One second, I'd been standing beside Riven, watching him navigate the treacherous waters of supernatural politics with a grace that made my heart swell with pride. The next, the floor was cracking, stone creatures were erupting from beneath the polished marble, and the screaming began.
+
+But all I could focus on was *him*.
+
+My Archon. My bond-mate. My *love*.
+
+"Raechelle!" His voice cut through the chaos, sharp with command and concern. "The Council—help evacuate—"
+
+"*No.*" The word tore from my throat, primal and absolute. Through our bond, I felt his surprise at my vehemence, but I didn't care. "I'm not leaving you."
+
+An earth elemental—seven feet of animated stone and Terravos's malice—lunged toward us. I shifted before conscious thought, my human form flowing into panther in the space of a heartbeat. My claws met stone with a screech that set teeth on edge, but I'd spent centuries learning to fight creatures far harder than myself. I went for the eyes—every creature needed to see, even magical constructs—and felt savage satisfaction when my claws found purchase and the elemental stumbled back, temporarily blinded.
+
+*Good.* Let them all see what happened when they threatened mine.
+
+"Raechelle!" Riven's hands were suddenly on me—on my panther form—pulling me back as another elemental's fist smashed the floor where I'd been standing a second before. "I need you to coordinate—"
+
+"I need you to *live*," I snarled, shifting back to human just long enough to meet his eyes. The bond between us was singing with our combined fear and fury, our powers feeding off each other in a way that made my skin prickle with supernatural energy. "You want to help evacuate? Fine. But I'm staying with you."
+
+I saw the argument forming on his lips, saw him weighing duty against desire, responsibility against our bond. Saw the exact moment he made his decision.
+
+"Together, then," he said, and gods help me, I loved him even more for understanding.
+
+The next few minutes were a blur of violence and blood. Riven's power blazed through our bond like a second sun, and I channeled it, shaped it, directed it with the precision of someone who'd been training for exactly this moment for lifetimes. He had the raw power; I had the experience. Together, we were *devastating*.
+
+An elemental charged Lady Seraphina, its stone fists raised to crush. Riven's blood magic wrapped around it like crimson chains, immobilizing it mid-stride. I shifted and leaped, using the creature's own frozen body as a springboard to reach the vampire councilor and pull her to safety.
+
+"Get to the emergency exits," I commanded her, already turning back to find Riven. "We'll hold them—"
+
+"Raechelle, left!" Riven's shout came through both our bond and the air, giving me a split-second warning before stone fingers grabbed for my ankle. I twisted, shifted, felt the claws scrape my fur instead of crushing my bone. Landed on all fours and sprang back toward Riven, toward *safety*, toward the only place that mattered.
+
+Through our bond, I felt him reaching for me even as he deflected another elemental's attack. Felt his fear—not for himself, never for himself, but for *me*. Felt the way his power surged when I was threatened, the way his control wavered when he thought I might be hurt.
+
+*Focus,* I sent through our bond, layering it with love and reassurance and absolute confidence. *I'm fine. We're fine. Just stay close.*
+
+*Always,* came his response, fierce and immediate. *I'm not losing you.*
+
+And there it was—the thing I'd been most afraid of when we'd first bonded. Not that I would lose him, though that terror was ever-present. But that he would be so concerned with protecting me that he'd leave himself vulnerable.
+
+Love was a weakness in battle. I'd learned that lesson the hard way with Damien, watching him die while trying to reach me. I'd sworn I'd never let it happen again.
+
+But with Riven, I was learning that love could also be a *strength*.
+
+Because when he fought, he wasn't fighting alone. He had me—my experience, my power, my unflinching support through our bond. And when I fought, I had him—his strength, his determination, his absolute refusal to let anything happen to the people he cared about.
+
+We weren't two separate fighters trying to protect each other at the expense of our safety. We were *one*, moving in perfect synchronization, our powers weaving together in patterns that felt as natural as breathing.
+
+*There.* I sent the direction through our bond, having spotted Ambassador Kaine in the chaos. He was standing at the edge of the destruction, not even pretending to help, and the satisfied smirk on his face made my blood boil.
+
+*I see him,* Riven responded, his rage matching mine. *But first—*
+
+A scream cut through the air. One of the younger vampires—I thought her name was Celeste—had been cornered by two elementals. She was fast, but they were faster, and I watched in horror as stone fists descended toward her unprotected form.
+
+Riven moved before I could even send a warning. Blood magic exploded from him in a wave that made the elementals stagger back, buying precious seconds. I shifted and ran, grabbing Celeste and hauling her toward the emergency exits with strength born of centuries and desperation.
+
+"Go!" I shouted at her, already turning back. "Get out, get safe—"
+
+The elemental's fist caught me across the ribs, and I felt something crack. Pain exploded through my torso, sharp and immediate, and through our bond I felt Riven's answering roar of fury.
+
+*No no no no—*
+
+"I'm *fine*," I gasped, both out loud and through our connection, even as I tasted blood. Shifted to panther because four legs were more stable than two right now, because the pain was less in this form, because I needed to keep moving or I'd fall and Riven would do something stupid trying to reach me.
+
+But he was already there, his body between me and the elemental, his power blazing so bright it hurt to look at through our bond.
+
+"*Don't. Touch. Her.*"
+
+I'd heard Riven angry before. I'd felt his rage through our bond when we'd discussed his parents' deaths, when we'd trained, when he'd faced down enemies in the past months.
+
+But this was different. This wasn't anger. This was *wrath*. Pure, incandescent, absolutely terrifying wrath.
+
+Blood magic erupted from him in a torrent that made my earlier assessment of his power seem quaint. The elemental that had struck me simply... *dissolved*. Didn't explode or shatter—*dissolved*, its stone body returning to its component elements under the sheer force of Riven's fury.
+
+*Riven.* I sent it through our bond with all the urgency I could muster. *I'm okay. I'm healing. But you need to control—*
+
+*They hurt you.*
+
+His voice through our bond was ice and fire combined, and I could feel him reaching for more power, could feel the dangerous edge he was approaching where control gave way to pure destruction.
+
+I did the only thing I could do. I shifted back to human—ribs screaming in protest—and wrapped my arms around him from behind. Pressed my body against his, let him feel through our bond that I was alive, breathing, *here*.
+
+"I'm okay," I whispered against his back. "I'm okay, my love. But I need you to breathe. I need you to center. You're going to hurt yourself if you keep channeling this much power."
+
+For a terrifying moment, I thought he wouldn't listen. Thought the rage and fear would consume him. But then I felt him *trying*, felt him pulling back from that edge, felt his breathing slow as he grounded himself in our connection.
+
+"I can't lose you," he said, his voice raw. "I can't—"
+
+"You won't." I moved around to face him, cupping his face in my hands despite the pain in my ribs. "I'm a familiar, remember? I'm harder to kill than most. And I have you watching my back. We're going to be fine."
+
+His eyes searched mine, and I knew he could feel the lie in that last statement through our bond. We might not be fine. People were dying around us. This attack was coordinated and brutal and we were still in incredible danger.
+
+But I also needed him to believe we had a chance. Needed him to stay focused instead of consumed by fear for me.
+
+"Together," he finally said, echoing our earlier promise.
+
+"Together," I agreed.
+
+The rest of the battle passed in a blur. More elementals. More screams. The sickening crunch of stone against flesh as three people—two vampires and a werewolf—fell despite our best efforts. Every death hit me like a physical blow, and through our bond, I knew Riven felt them even more keenly.
+
+But we kept fighting. Kept moving. Kept protecting everyone we could reach.
+
+By the time the elementals finally crumbled—their connection to Terravos apparently severed—we were both exhausted, bloody, and furious. I had at least two cracked ribs, multiple lacerations, and bruises that would have put a human in the hospital. Riven had overextended himself magically and was swaying on his feet despite his determination to stay upright.
+
+We stood in the center of the destroyed Grand Hall, surrounded by debris and the wounded, and I felt him trembling against me as the adrenaline began to wear off.
+
+"We saved most of them," I said softly, knowing he needed to hear it. "Without you, without your quick thinking and your power, the casualties would have been so much worse."
+
+"But not all of them." His voice was hollow. "Three people are dead, Raechelle. Three people who came here to celebrate, to dance, to—" His voice cracked. "And that bastard Kaine is still *alive*, still *smirking*, still—"
+
+"I know." I pulled him against me, ignoring the protest from my ribs. "I know, love. But you can't let the rage consume you. That's what Terravos wants. That's what this whole attack was designed to do—to make you lose control, to make you act rashly, to give them an excuse to—"
+
+"I know what it was designed to do," he interrupted, but there was no heat in it. Just exhaustion. Just grief. "I just... I hate feeling this powerless. I hate that we can't—"
+
+"We will," I promised him. "We'll make them pay for this. For your parents, for these deaths, for all of it. But we'll do it smart. We'll do it *right*. And we'll do it together."
+
+Through our bond, I felt him draw strength from my certainty. Felt him straightening, squaring his shoulders, becoming once again the Archon Nocturne needed him to be instead of the grieving young man he was allowed to be in private.
+
+"Together," he agreed one more time.
+
+And as we turned to face the aftermath, to help the wounded and comfort the grieving and begin the process of rebuilding, I sent a silent prayer to whatever gods might be listening.
+
+*Keep him safe. Keep him strong. Keep him* mine.
+
+Because I'd learned something crucial tonight, standing in that ballroom while chaos reigned around us. Something I should have known from the moment our bond completed under that full moon months ago.
+
+I couldn't protect Riven from everything. Couldn't shield him from pain or loss or the terrible weight of responsibility he carried. Couldn't keep him safe by wrapping him in cotton and hiding him from the world.
+
+But I could stand beside him. Could lend him my strength when his wavered. Could remind him of who he was when the darkness threatened to consume him.
+
+I could love him—fiercely, completely, without reservation—and trust that our bond, our partnership, our *love* would be enough to see us through whatever came next.
+
+Even if it terrified me.
+
+Especially because it terrified me.
+
+Because the best things in life, as Riven had once told me, were probably terrifying.
+
+Otherwise, they wouldn't be worth having.
+
+---
+
+*End of Chapter 15.5*
+
+---
+
 # **Chapter 16**
 
 ## Bloodlines
@@ -6075,11 +6492,9 @@ Now it was time to show everyone what I chose to be.
 
 *End of Chapter 16*
 
-
 ---
 
-
-# **Chapter 17**
+# **Chapter 16.5**
 
 ## Echoes of the Past
 
