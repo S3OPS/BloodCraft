@@ -742,27 +742,59 @@ The drive from Austin to that winding road took hours by car, but I made it in l
 
 The car was a twisted wreck of metal and broken glass, illuminated by the cold light of the moon. Earth spikes—unmistakable signatures of Terravos's brutal, efficient magic—jutted from the ground like accusations. The smell of blood hung heavy in the air, making my sensitive nose twitch and my eyes burn with tears I couldn't yet afford to shed.
 
-But Riven wasn't there.
+And there, emerging from the wreckage, was Riven.
 
-Through the bond—now a thin, trembling thread connecting my ancient soul to his newborn power—I could feel him. Confused. Grieving. Moving. The vial had worked; Elara's final gift had given him the strength to survive, to flee, to reach safety.
+Through the bond—now a thin, trembling thread connecting my ancient soul to his newborn power—I could feel everything he was experiencing. The confusion. The grief. The raw, untamed power surging through him for the first time. I could hear his mother's final heartbeat stutter and stop. Could sense Marcus's life force already extinguished somewhere in the darkness beyond the wreck.
 
-I found his trail easily enough—blood and grief leave marks even humans can follow, and I was far more than human. He'd gone to the cabin, the place where this trip should have ended in laughter and birthday celebrations instead of death and awakening. I shifted back to my human form, smoothing down my clothes with trembling hands as I approached my car—I'd stashed one nearby weeks ago, always prepared for any contingency.
+I shifted back to human form quickly, pulling my dark hoodie up to conceal my features. I wasn't ready for him to see me—not yet, not like this, not when I was barely holding myself together. The vial had worked; Elara's final gift had triggered his awakening. But now he was stumbling toward the burning car, driven by grief and denial, about to throw himself into the flames to reach a mother who was already gone.
 
-The drive to the cabin gave me time to think, to prepare, to try to calm the maelstrom of emotions churning inside me. I needed to be *calm* when I found him. I needed to be the anchor Elara had trained me to be, the guide Marcus had trusted me to become. I couldn't let him see how much this hurt me too, how much I'd loved his parents, how desperately I'd hoped this day would never come.
+I couldn't let that happen.
 
-But gods, when I stepped into that cabin and saw him—unconscious, vulnerable, reeking of awakened power and raw grief—something inside me cracked.
+I moved with supernatural speed, grabbing him and pulling him back just as the car exploded in a violent conflagration. The blast knocked us both to the ground, flames licking upward into the night sky. I heard him scream at me—rage and anguish pouring out in a torrent of raw emotion—calling me an asshole for stopping him.
 
-He looked so much like Marcus. The same strong jaw, the same dark hair falling across his forehead. But his scent... oh, his scent was pure Elara. Blood magic running hot and wild beneath his skin, calling to the familiar bond like a siren song. Add to that the sharp, intoxicating musk of his awakening—every Blood Archon smelled like sin and promise when their power first bloomed—and I found myself momentarily frozen.
+Gods, if he only knew how much it cost me to hear that pain in his voice. How desperately I wanted to hold him, comfort him, tell him everything would be alright even though I knew it wouldn't be. Not for a long time.
+
+"She was already dead," I forced myself to say, keeping my voice flat, emotionless. Professional. I couldn't afford to break down now. "I could hear her heartbeat no more."
+
+The words tasted like ash on my tongue. I'd heard Elara's heartbeat for years—monitoring it from afar, ensuring she was safe, knowing that as long as it continued, Riven had time before this burden fell on his shoulders. And now it was silent. Forever silent.
+
+"As for your father," I continued, each word carefully controlled, "he fought valiantly, but in the end, he succumbed to their relentless attack."
+
+I'd found Marcus's body moments before I reached the car—thrown clear by the impact, his skull crushed by earth magic. He'd died protecting his family, died trying to buy Elara and Riven time to escape. I'd closed his eyes and whispered a prayer before focusing on the living.
 
 This was the boy I'd watched grow from a distance. The child I'd protected from shadows he never saw. The young man who'd never known that half his "lucky breaks" and "close calls" were actually me, intervening from the periphery of his life.
 
 And now he was a man. A *powerful* man. A Blood Archon who would need me in ways his parents never had.
 
-I gathered him carefully, marveling at the warmth radiating from his skin. The awakening had changed him on a cellular level—I could see it, smell it, *feel* it through the bond trying desperately to form between us. He was heavier than I expected, solid muscle where there had been a leaner frame just months ago when I'd last glimpsed him from afar. The vial's magic had done its work, accelerating his transformation, preparing his body for the power now coursing through his veins.
+I walked him through his awakening as clinically as I could manage, explaining just enough to keep him from doing something dangerous with the wild magic coursing through him. When he drank from the vial—the transformation accelerant Elara had prepared—I watched the change take him on a cellular level. Watched his body strengthen and shift, watched the power settle into his bones and blood.
 
-Getting him to the car was easier than it should have been—familiar strength had its advantages—but every step felt weighted with significance. This was the moment everything changed. Two hundred and forty-seven years of preparation, of study, of waiting, and it all came down to this: getting this grieving, powerful, utterly unprepared young man to safety.
+He looked so much like Marcus. The same strong jaw, the same dark hair. But his scent... oh, his scent was pure Elara. Blood magic running hot and wild beneath his skin, calling to the familiar bond like a siren song. Add to that the sharp, intoxicating musk of his awakening—every Blood Archon smelled like sin and promise when their power first bloomed—and I found myself struggling to maintain my composure.
 
-The drive back to his home—*his* home now, I had to remind myself; no longer "the Sixxx family home" but simply *his*—took hours. I spent every moment of it acutely, painfully aware of him in the passenger seat beside me. Of his scent filling my car. Of the way his power pulsed in waves that made my familiar bond *sing* with recognition and need.
+When I finally let my hood fall back, when I let him see my face for the first time, the look in his eyes nearly undid me. Recognition without knowing why. Attraction mixed with grief. The beginnings of the bond pulling him toward me even as his rational mind struggled to process everything happening.
+
+I had to get him away from here. Away from the death and the danger and the enemies who would come to investigate the magical signature of his awakening.
+
+"Do you have a car?" he asked, and I heard the exhaustion in his voice. The awakening was draining him, as I'd known it would.
+
+"Yes, my car is not too far—just a short five-minute walk if we pick up the pace," I replied, grateful I'd had the foresight to park at a distance. We walked together through the darkness, and I tried not to notice the way his eyes kept finding me, the way the nascent bond hummed between us.
+
+My sedan waited where I'd left it, and getting Riven into the passenger seat felt weighted with significance. This was the moment everything changed. Two hundred and forty-seven years of preparation, of study, of waiting, and it all came down to this: getting this grieving, powerful, utterly unprepared young man to safety.
+
+We settled into the car—him in the passenger seat, me behind the wheel—and the confined space felt suddenly intimate. I could sense his exhaustion, could feel through the bond how close he was to complete collapse. His body had been through trauma, his power had awakened violently, and grief was eating him alive from the inside.
+
+"I know you have many questions," I said softly, gripping the steering wheel to stop my hands from trembling. "And I promise, once we're safely home, I'll answer every one. But right now, I need you to rest. Your body has been through significant trauma, and the awakening of your abilities is already taxing your reserves. Sleep will help."
+
+I heard the exhaustion in his voice when he admitted he didn't think he could sleep. Of course he couldn't—not with his mind racing, not with the images of his mother's death fresh and raw.
+
+"I can help with that," I offered carefully. "If you'll allow it. I can... encourage your body to accept the rest it needs. Nothing harmful, I promise. Just a gentle push toward sleep."
+
+When he whispered that he trusted me, something inside my chest cracked open. Trust. After everything—after appearing as a stranger in the darkness, after delivering the news of his parents' deaths, after throwing his entire world into chaos—he trusted me.
+
+I reached out slowly, giving him every chance to pull away, and gently touched my fingertips to his temple. The familiar magic flowed through me, warm and soothing, encouraging his exhausted body to accept what it desperately needed. "Rest now, Riven," I murmured. "You're safe. I have you."
+
+And it was true. He was safe with me. I'd protect him with everything I had, everything I was. Two hundred and forty-seven years of preparation had led to this moment, to this man, to this impossible connection forming between us.
+
+The drive to his home—*his* home now, I had to remind myself; no longer "the Sixxx family home" but simply *his*—took hours. I spent every moment of it acutely, painfully aware of him in the passenger seat beside me. Of his scent filling my car. Of the way his power pulsed in waves even in sleep, making my familiar bond *sing* with recognition and need.
 
 I'd had crushes before, in my long life. I'd even loved a few times, though never deeply. The familiar bond made emotional attachment difficult—we were always holding ourselves apart, knowing we'd outlive our charges, knowing we'd have to move on eventually. But this... this was different.
 
@@ -774,7 +806,7 @@ And that terrified me.
 
 Because I'd seen what happened when familiars fell for their charges. I'd watched the tragedy unfold with my own mentor, Serafine, who'd loved her Blood Archon too much and lost him to a rival's poison. I'd sworn I'd never let emotion cloud my judgment, never let attachment make me weak.
 
-But when Riven stirred in his sleep, when he murmured something that might have been "Mom" or might have been a prayer, when his power reached out blindly through our forming bond seeking *comfort*—I knew I was already lost.
+But watching Riven sleep, seeing the way exhaustion had finally claimed him, feeling his power reach out through our forming bond even unconsciously seeking *comfort*—I knew I was already lost.
 
 By the time I pulled into his driveway, my hands were shaking. I sat there for a long moment, just breathing, trying to center myself. The moon hung heavy and red in the sky—a blood moon, how fitting—and the house stood dark and empty before us.
 
