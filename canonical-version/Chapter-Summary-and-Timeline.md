@@ -18,13 +18,15 @@
 - Deepened emotional resonance in key dramatic moments
 - Strengthened character voices and relationship dynamics
 
-**Dual-POV Addition (February 2026):** Raechelle POV chapters have been added to create a back-and-forth narrative:
-- **Chapter 2.5** - Raechelle's perspective on finding Riven after the accident
-- **Chapter 7.5** - Raechelle's thoughts before the bonding ritual
-- **Chapter 15.5** - Raechelle's perspective during major conflict
-- **Chapter 29.5** - Raechelle reflecting on their journey before final confrontation
+**Dual-POV Integration (February 2026):** Ten interstitial chapters have been fully integrated into the main narrative to create a comprehensive dual-perspective storytelling experience:
+- All chapters have been merged into Blood-Craft-Canonical.md in chronological order
+- Four Raechelle POV chapters (2.5, 7.5, 15.5, 29.5) provide her distinct woman's perspective on key events
+- Six additional Riven POV chapters (16.5, 19.5, 23.5, 25.5, 27.5, 30.5) expand critical moments
+- Total narrative now includes 47 chapters (37 main + 10 interstitial)
+- Comprehensive consistency review completed, resolving all major narrative inconsistencies
+- Source files remain available in `new-chapters/` directory for reference
 
-These chapters are located in `new-chapters/` directory and provide a distinct woman's POV on the relationship and events.
+The enhanced structure enriches the narrative with emotional depth, balanced perspectives, and expanded character development through strategic additional content.
 
 ---
 
@@ -240,6 +242,21 @@ These chapters are located in `new-chapters/` directory and provide a distinct w
 
 ---
 
+### Chapter 16.5: Echoes of the Past
+- Riven unable to sleep after discovering his destiny in the archives
+- Returns to Central Archives with Raechelle to access memory crystals
+- Lives through Alaric Sixxx's experience during the Black Death (1247-1312)
+- Witnesses Alaric holding the Balance through the plague, feeling every death
+- Experiences Morgaine Sixxx's memory—a Balance who refused her duty (1542-1547)
+- Sees the consequences when a Blood Archon rejects the Balance
+- Processes the weight of legacy and the terrible cost of refusing destiny
+- Corvinus teaches Blood Resonance technique: reading emotional imprints in blood
+- Intimate conversations with Raechelle about bearing ancestral burdens together
+- Riven accepts his path forward on his own terms, not out of obligation
+- *Location: `new-chapters/chapter-16-5.md`*
+
+---
+
 ### Chapter 17: Echoes of the Past
 **Main Plot Points:**
 - Riven explores memory crystals from three Blood Archon ancestors
@@ -297,6 +314,27 @@ These chapters are located in `new-chapters/` directory and provide a distinct w
 - Healing through physical connection
 - Conversation about their future: children? Forever?
 - Deepening Dom/sub scenes reflecting their emotional state
+
+---
+
+### Chapter 19.5: Bonds of Alliance
+- Analysis of intelligence from successful supply depot raid
+- Documents reveal Terravos building empire spanning hundreds of miles
+- Correspondence discovered showing alliances with other Archons
+- Council meeting: Viktor, Morgana, and Seraphina commit to coalition building
+- Seraphina advises Riven to build personal relationships, not just military alliances
+- Viktor invites Riven and Raechelle for a pack run in the eternal forest
+- Ten-mile run through wilderness with Ironclad pack members
+- Brotherhood deepens between Riven and Viktor through shared physical challenge
+- Discussion of pack dynamics and what werewolves need from alliance
+- Meeting with Morgana Blackwood at her estate about coven politics
+- Lysandra's growing role in witch community and her ambitions
+- Life-bonding ceremony preparations begin—supernatural marriage equivalent
+- Sacred ritual planning to connect souls across lifetimes
+- War council reveals Terravos allied with Mordecai the Deathless
+- Coalition building expands to counter larger conspiracy
+- Understanding that defeating Terravos requires political as well as military power
+- *Location: `new-chapters/chapter-19-5.md`*
 
 ---
 
@@ -377,6 +415,27 @@ These chapters are located in `new-chapters/` directory and provide a distinct w
 
 ---
 
+### Chapter 23.5: The Price of Leadership
+- Riven visits healing ward after major battle with Terravos's Titan
+- Thirteen beds left empty as memorial to the fallen warriors
+- Checking on injured defenders: vampire, witch, werewolf casualties
+- Raechelle recovering from near-fatal injuries sustained in Titan battle
+- Letter arrives from Terravos gloating about using attack as intelligence gathering
+- Terravos reveals the assault was a calculated gambit to learn Nocturne's capabilities
+- Riven's internal struggle with responsibility for casualties
+- Visits to families of the fallen: Marcus Draven's widow Elena
+- Difficult conversations about whether deaths could have been prevented
+- Elena questions if the victory was worth thirteen lives
+- Riven's honest admission of uncertainty and leadership burden
+- Processing grief while maintaining command presence
+- Understanding the human cost of strategic decisions
+- Raechelle's support through shared pain and vulnerability
+- The weight of command settling on young Blood Archon's shoulders
+- Learning that leadership means carrying others' grief as well as victories
+- *Location: `new-chapters/chapter-23-5.md`*
+
+---
+
 ### Chapter 24: [War Chapter 2]
 *Placeholder for second war chapter - Major battles and tactical engagements*
 
@@ -384,6 +443,27 @@ These chapters are located in `new-chapters/` directory and provide a distinct w
 
 ### Chapter 25: [War Chapter 3]
 *Placeholder for third war chapter - Discovery of ultimate weapon or knowledge*
+
+---
+
+### Chapter 25.5: Revelations in the Ruins
+- Map room war council analyzing captured intelligence from strike mission
+- Documents reveal the Sundering of the Veil—ancient forbidden ritual
+- Lord Velthorne confirms myth is real: ritual that taps directly into elemental planes
+- Ritual requires three components: Blood Archon's death-blood, ley line convergence, 10,000 willing sacrifices
+- Terravos's corrupted army revealed as willing sacrifices who worship him
+- Heart of Stone identified as ritual location—largest nexus point in Western Hemisphere
+- Discovery of containment fortress with preservation materials
+- Realization: Terravos has imprisoned another Blood Archon as backup
+- Strategic dilemma: rescue mission could be trap, but leaving prisoner gives Terravos contingency
+- Riven commits to formal duel at Heart of Stone per ancient Archon law
+- Corvinus explains Earth Archon weakness: sever connection to land/nexus
+- Blood Archon magic could cut Terravos's anchor to his power source
+- Seraphina proposes dual mission: Riven duels while strike team rescues prisoner
+- Raechelle volunteers to lead rescue team despite recovery
+- Coalition planning for final confrontation with Terravos
+- Understanding the true scope of conspiracy beyond simple revenge
+- *Location: `new-chapters/chapter-25-5.md`*
 
 ---
 
@@ -412,6 +492,29 @@ These chapters are located in `new-chapters/` directory and provide a distinct w
 
 ### Chapter 27: [War Chapter 4]
 *Placeholder for fourth war chapter - Continued conflict and losses*
+
+---
+
+### Chapter 27.5: The Calm Between Storms
+- First peaceful morning after war ends—waking to natural sunlight
+- Raechelle and Riven experiencing domestic tranquility for first time
+- Lady Seraphina orders mandatory day off for exhausted Blood Archon
+- Making breakfast together: blood pancakes (family recipe with dragon's blood extract)
+- Raechelle shares stories of her family before becoming a familiar
+- Exploring their restored ancestral home with fresh perspective
+- Noticing small touches that mark it as theirs: photos, books, shared memories
+- Walking through Nocturne's garden district observing peaceful city
+- Discussing what they've built together beyond just surviving
+- Afternoon plans for exploring city in peacetime
+- Shopping at Midnight Market for symbolic bloodmoon silver promise rings
+- Artist's Quarter visit: commissioning memorial art for fallen warriors
+- Romantic dinner at quiet restaurant celebrating their bond
+- Intimate evening reconnecting after months of constant crisis
+- Serious discussions about future: children, family planning, long-term dreams
+- First real conversation about life beyond war and survival
+- Processing transition from warriors to partners building a life
+- Understanding peace requires different skills than battle
+- *Location: `new-chapters/chapter-27-5.md`*
 
 ---
 
@@ -456,6 +559,29 @@ These chapters are located in `new-chapters/` directory and provide a distinct w
 
 ### Chapter 30: [Confrontation Chapter 1]
 *Placeholder for infiltration - Final campaign against Terravos begins*
+
+---
+
+### Chapter 30.5: Legacy and Preparation
+- Three weeks after Terravos's defeat, Riven surveys damaged Grand Council Chamber
+- Restoration crews working: mixed teams of vampires, werewolves, witches
+- War's aftermath breaking down centuries-old barriers between species
+- Exhaustion from coordinating relief, managing refugees, presiding over funerals
+- Corvinus advises Riven to rest and trust his network of allies
+- Viktor organizing work teams, Morgana handling magical repairs, Seraphina managing politics
+- Riven returns home to ancestral house in afternoon—rare break
+- Walking through house seeing evidence of life, not just legacy
+- Finding Raechelle in garden, both exhausted from post-war responsibilities
+- Processing the hollowness after achieving revenge—what comes next?
+- Transition from weapon to leader in peacetime
+- Raechelle making lunch, domestic conversation about future
+- Discussion of what they each want: peace, reform, family
+- Riven expresses desire for children who grow up in peace
+- Raechelle enthusiastic about family planning and optimal family size
+- Serious conversation about readiness for parenthood
+- Bridge chapter setting up peaceful future and next generation
+- Preparing ancestral home to be true family sanctuary
+- *Location: `new-chapters/chapter-30-5.md`*
 
 ---
 
@@ -539,21 +665,36 @@ These chapters are located in `new-chapters/` directory and provide a distinct w
 
 | Chapters | Time Frame | Story Phase | Status |
 |----------|-----------|-------------|--------|
-| 1-4 | Days 1-3 | Awakening & Discovery | Complete |
+| 1-2 | Days 1-2 | Awakening & Tragedy | Complete |
+| 2.5 | Day 2 | The Vigil Ends (Raechelle POV) | **Complete** |
+| 3-4 | Day 3 | Discovery & Legacy | Complete |
 | 5-7 | Days 4-14 | Training & Preparation | Complete |
+| 7.5 | Day 14 | On the Eve of Forever (Raechelle POV) | **Complete** |
 | 8-9 | Day 14-15 | Bonding & Arrival | Complete |
 | 10-12 | Weeks 1-2 | Integration & Politics | **Complete** |
 | 13 | Week 3 | The Sanctioned Duel | **Complete** |
 | 14-15 | Months 1-3 | Establishment & Allies | **Complete** |
+| 15.5 | Month 3 | When Darkness Descends (Raechelle POV) | **Complete** |
 | 16 | Month 3 | Bloodlines Discovery | **Complete** |
+| 16.5 | Month 3 | Echoes of the Past | **Complete** |
 | 17 | Month 3 | Echoes of the Past | **Complete** |
-| 18-20 | Months 3-6 | Rising Conflict | Outlined |
+| 18-19 | Months 3-6 | Rising Conflict | Outlined |
+| 19.5 | Month 6 | Bonds of Alliance | **Complete** |
+| 20 | Months 3-6 | Rising Conflict | Outlined |
 | 21 | Month 6 | Bonds of Alliance | **Complete** |
-| 22-25 | Months 6-12 | War Begins | Outlined |
+| 22-23 | Months 6-12 | War Begins | Outlined |
+| 23.5 | Month 9 | The Price of Leadership | **Complete** |
+| 24-25 | Months 6-12 | War Continues | Outlined |
+| 25.5 | Month 12 | Revelations in the Ruins | **Complete** |
 | 26 | Month 9 | Price of Leadership | **Complete** |
-| 27-28 | Months 9-12 | War Continues | Outlined |
+| 27 | Months 9-12 | War Continues | Outlined |
+| 27.5 | Post-War | The Calm Between Storms | **Complete** |
+| 28 | Months 9-12 | War Continues | Outlined |
 | 29 | Month 12 | Revelations in Ruins | **Complete** |
-| 30-31 | Year 2 | Final Campaign | Outlined |
+| 29.5 | Month 12 | The Weight of Centuries (Raechelle POV) | **Complete** |
+| 30 | Year 2 | Final Campaign | Outlined |
+| 30.5 | Post-War | Legacy & Preparation | **Complete** |
+| 31 | Year 2 | Final Campaign | Outlined |
 | 32 | Year 2 | Calm Between Storms | **Complete** |
 | 33-35 | Year 2 | Final Confrontation | Outlined |
 | 36 | Year 2 | Legacy & Preparation | **Complete** |
