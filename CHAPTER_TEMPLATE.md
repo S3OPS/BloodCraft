@@ -6,8 +6,9 @@ Use this template when writing new chapters for either version. Copy this templa
 
 ## Chapter Information
 
-- **Chapter Number**: [e.g., 31]
+- **Chapter Number**: [e.g., 31 or 7.5 for POV chapters]
 - **Chapter Title**: [Working title]
+- **POV Character**: [Riven (default) / Raechelle / Other]
 - **Version**: [Canonical / Paradox / Both]
 - **Word Count Target**: [3,000-5,000 words typical]
 - **Arc/Phase**: [e.g., "Book 2, Act 1", "Rising Action", etc.]

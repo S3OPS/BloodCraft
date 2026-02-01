@@ -18,6 +18,14 @@
 - Deepened emotional resonance in key dramatic moments
 - Strengthened character voices and relationship dynamics
 
+**Dual-POV Addition (February 2026):** Raechelle POV chapters have been added to create a back-and-forth narrative:
+- **Chapter 2.5** - Raechelle's perspective on finding Riven after the accident
+- **Chapter 7.5** - Raechelle's thoughts before the bonding ritual
+- **Chapter 15.5** - Raechelle's perspective during major conflict
+- **Chapter 29.5** - Raechelle reflecting on their journey before final confrontation
+
+These chapters are located in `new-chapters/` directory and provide a distinct woman's POV on the relationship and events.
+
 ---
 
 ## Completed Chapters Summary
@@ -37,6 +45,16 @@
 - Riven discovers he has powers awakening within him
 - Introduction of the threat: Terravos, the Earth Archon
 - *Enhanced: Intensified suspense in opening; visceral attack sequence with elemental details; mother's death scene given deeper emotional impact; Raechelle's introduction carries ancient mystery*
+
+### Chapter 2.5: The Vigil Ends *(Raechelle POV)*
+- Raechelle feels Riven's awakening through the dormant bond
+- Her desperate race to reach him from Austin
+- Finding the aftermath of the attack and her parents' deaths
+- Reflecting on 247 years of waiting and preparation
+- First real encounter with Riven and overwhelming bond
+- Her internal conflict between duty and desire
+- Getting Riven to safety while managing her emotions
+- *Location: `new-chapters/Chapter-2.5-Raechelle-POV.md`*
 
 ### Chapter 3: Awakening
 - Riven wakes in the cabin, confused and grieving
@@ -75,6 +93,16 @@
 - The familiar bond explained in detail
 - Raechelle reveals the bonding ritual requires physical consummation
 - Riven and Raechelle declare their feelings for each other
+
+### Chapter 7.5: On the Eve of Forever *(Raechelle POV)*
+- The night before the bonding ritual under the full moon
+- Raechelle's fears about falling in love with her charge
+- Memories of previous bond with Damien Nightshade and its tragedy
+- Her internal struggle between professional distance and vulnerability
+- Late-night conversation with Riven about choosing each other
+- Raechelle realizes this love is different from anything she's felt before
+- Accepting the terror and promise of loving him completely
+- *Location: `new-chapters/Chapter-7.5-Raechelle-POV.md`*
 
 ### Chapter 8: The Bonding Ritual
 - Full moon arrives; Raechelle prepares the ritual space
@@ -179,6 +207,16 @@
 - Lady Seraphina gains grounds for formal charges against Earth Archon embassy
 - Nocturne's Council united against Terravos by the brazen attack
 - *Complete: Major escalation of conflict; war now openly declared*
+
+### Chapter 15.5: When Darkness Descends *(Raechelle POV)*
+- Raechelle's perspective during the earth elemental attack
+- Her protective instincts overriding everything else
+- Fighting alongside Riven through their bond in perfect synchronization
+- Being injured protecting others and Riven's terrifying response
+- The realization that love is both weakness and strength in battle
+- Accepting that she can't protect him from everything
+- Understanding their partnership is what makes them strong
+- *Location: `new-chapters/Chapter-15.5-Raechelle-POV.md`*
 
 ---
 
@@ -402,6 +440,17 @@
 - Specialized magical weapons and tactics prepared
 - Army unified through shared purpose and conviction
 - Final preparations before ultimate confrontation
+
+### Chapter 29.5: The Weight of Centuries *(Raechelle POV)*
+- Pre-dawn before final confrontation with Terravos
+- Raechelle reflects on six years with Riven vs. her 253 years of life
+- The difference between this bond and all previous ones
+- Discussing fears, hopes, and plans for their future
+- Talk of children (Elena) and life after war
+- Marcus's ring from Elara as gift to Riven
+- Accepting that love is both terrifying and worth fighting for
+- Promise to fight for survival and their future together
+- *Location: `new-chapters/Chapter-29.5-Raechelle-POV.md`*
 
 ---
 

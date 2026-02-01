@@ -20,9 +20,11 @@ This document contains development-specific notes and guidelines for the **Canon
 ## 📊 Current Status
 
 - **Status**: ✅ Complete
-- **Total Chapters**: 38
-- **Word Count**: ~157,000 words
-- **File**: `Blood-Craft-Canonical.md`
+- **Total Chapters**: 38 main chapters + 4 Raechelle POV chapters
+- **Word Count**: ~157,000 words (main story) + ~12,000 words (POV chapters)
+- **Main Story File**: `Blood-Craft-Canonical.md`
+- **POV Chapters**: `new-chapters/` directory
+- **Narrative Style**: Dual-POV (primarily Riven, with strategic Raechelle chapters)
 
 ---
 
@@ -97,6 +99,7 @@ This document contains development-specific notes and guidelines for the **Canon
 - Genuine emotional connection with Riven
 - Own power and agency
 - Trustworthy and loyal
+- 247+ years old with deep wisdom and experience
 
 **Arc Direction**:
 - Independent warrior → Equal partner
@@ -108,6 +111,15 @@ This document contains development-specific notes and guidelines for the **Canon
 - Built on trust and communication
 - Serves character connection, not just titillation
 - Shows vulnerability and strength in both roles
+
+**POV Chapters**:
+Raechelle has 4 dedicated POV chapters (2.5, 7.5, 15.5, 29.5) that provide:
+- Her internal perspective on key events
+- Distinct woman's voice and emotional depth
+- Centuries of experience informing her reactions
+- Balance to Riven's younger, less experienced POV
+- Insight into the familiar bond from her side
+- Her fears, hopes, and vulnerability despite her age
 
 ### Relationship Development
 
@@ -210,6 +222,76 @@ This document contains development-specific notes and guidelines for the **Canon
 - Out-of-character dialogue
 - Repetitive action sequences
 - Unclear transitions
+
+---
+
+## 📖 Dual-POV Narrative Guidelines
+
+### When to Use Raechelle POV
+
+**Strategic Placement**:
+- After major events to provide her perspective
+- Before significant milestones (e.g., bonding ritual)
+- During battles to show her protective instincts
+- At emotional turning points in their relationship
+
+**Current POV Chapters**:
+1. **Chapter 2.5** - After parents' death, first meeting
+2. **Chapter 7.5** - Before bonding ritual
+3. **Chapter 15.5** - During Crimson Ball attack
+4. **Chapter 29.5** - Before final confrontation
+
+**Numbering Convention**:
+- Use .5 numbering (e.g., 2.5, 7.5) to indicate interstitial chapters
+- Placed between main chapters at strategic points
+- Stored in `new-chapters/` directory
+
+### Raechelle POV Writing Guidelines
+
+**Voice and Tone**:
+- First-person perspective (like Riven's chapters)
+- Mature, experienced voice reflecting 247+ years
+- Emotional vulnerability despite her age
+- Distinct feminine perspective
+
+**Key Differences from Riven POV**:
+- Deeper historical context and references
+- More measured, thoughtful internal dialogue
+- Centuries of experience informing reactions
+- Protective instincts and familiar bond perspective
+- Internal conflict between duty and love
+
+**What to Include**:
+- Her emotional response to events
+- Memories of past bonds and experiences
+- Familiar bond sensations from her side
+- Her fears and hopes for their future
+- Distinct observations Riven wouldn't make
+
+**What to Avoid**:
+- Contradicting established canon from main story
+- Over-explaining things already covered in Riven's POV
+- Making her seem too perfect or invulnerable
+- Losing her distinct voice (she's not just "female Riven")
+
+### Consistency Requirements
+
+**Character Details**:
+- Check main story for physical descriptions
+- Note: Hair color has inconsistency in main text (midnight vs. crimson/amber)
+- Eyes: Consistently crimson/ruby
+- Age: Started at 247, ages normally
+- Familiar abilities: Panther form, enhanced senses, bond abilities
+
+**Timeline Accuracy**:
+- Verify events align with main story
+- Track time passage carefully
+- Note chapter summaries may describe events not yet written
+
+**Relationship Dynamics**:
+- Maintain established Dom/sub dynamic
+- Keep bond mechanics consistent
+- Respect character growth shown in main story
 
 ---
 

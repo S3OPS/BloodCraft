@@ -95,13 +95,14 @@ Read this if you want:
 
 Read this if you want:
 - ✅ Complete, fully-written 38-chapter novel (~157,000 words)
+- ✅ **NEW: Dual-POV chapters** from Raechelle's perspective (4 additional chapters)
 - ✅ Traditional hero's journey structure
 - ✅ Clear heroes and villains
 - ✅ Romantic supernatural fantasy
 - ✅ Empowering protagonist growth
 - ✅ Straightforward good vs. evil
 
-**Note**: The canonical version is now fully written in `Blood-Craft-Canonical.md`. Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries.
+**Note**: The canonical version is now fully written in `Blood-Craft-Canonical.md`. Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries. Additional Raechelle POV chapters in `new-chapters/` directory provide a distinct woman's perspective on key events.
 
 ---
 
@@ -111,7 +112,9 @@ Read this if you want:
 Contains the original/traditional storyline where Riven is simply a Blood Archon heir fighting against Terravos, the villain who killed his parents.
 
 - **Status**: Fully written 38-chapter novel (~944KB, ~157,000 words)
-- **Best for**: Readers who prefer traditional fantasy structure
+- **NEW**: 4 additional Raechelle POV chapters (~48KB) in `new-chapters/` directory
+- **Narrative Style**: Dual-POV alternating between Riven and Raechelle
+- **Best for**: Readers who prefer traditional fantasy structure with rich character perspectives
 
 ### [`docs/`](docs/)
 Supporting documentation and comparison guides.
