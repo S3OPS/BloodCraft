@@ -1736,24 +1736,7 @@ sincerity settle in. “The prospect of deepening our bond is something I antici
 excited about the journey ahead, and I look forward to exploring the future together with you.” I spoke to her in a
 manner that was both honest and open, hoping beyond hope that she could feel the sincerity in every word I uttered.
 
-“Something I must confess about myself—though perhaps you’ve already deduced it from your astute observations—is that I
-embody what is often referred to as a dominant or Dom. If this terminology is unfamiliar to you, allow me to clarify. To
-claim someone as my own means that upon mutual acceptance, you will have no other partners or interests beyond me. Do
-you understand this?” I asserted, my voice firm as I studied her response, my gaze intense and penetrating.
-
-“Yes, Sir. It is 100% understood and accepted,” she replied without hesitation, her eyes sparkling with enthusiasm and
-delight. Her immediate compliance caught me off guard for a moment, but there was an unmistakable fervor in her tone
-that quickly drew me in.
-
-“I am fully aware of the dynamics at play,” she continued, her excitement palpable. “I would proudly identify myself as
-a submissive woman, albeit with a rebellious brat side that often comes to the forefront. This duality can largely be
-attributed to my intrinsic, almost cat-like personality. Truth be told, I’ve been longing for this kind of connection,
-one that curates a specific dynamic, ever since I first stumbled upon it years ago. I was genuinely hoping you
-understood and recognized its importance, and now, finding that you do, fills me with overwhelming joy.” Her enthusiasm
-was infectious, a vibrant energy that danced between us.
-
-“Considered your prayers answered then, beautiful,” I said, a mix of relief and excitement washing over me. “However,
-there’s something else I’ve been dying to ask you, something that piques my curiosity. If you truly are a cat familiar,
+"However, there’s something else I’ve been dying to ask you, something that piques my curiosity. If you truly are a cat familiar,
 why do you lack any visible catlike features? Or am I simply ignorant of how that works?” I spoke carefully, desperate
 to convey genuine interest without overwhelming her.
 
@@ -2624,7 +2607,7 @@ And tomorrow, I would show him exactly what that meant.
 
 The morning sun hadn't yet crested the mountains when Raechelle dragged me from bed. I stumbled onto the porch in yesterday's clothes, blinking sleep from my eyes, to find her already stretching in the pale pre-dawn light.
 
-"Two weeks," she said, dropping into a fighting stance. "That's all we have before we need to leave for Nocturne. Before you meet Alexander and stand before the Council. Before everything changes."
+"Two weeks," she said, dropping into a fighting stance. "That's all we have before we need to leave for Nocturne. Before you stand before the Council. Before everything changes."
 
 I rubbed my face, trying to shake off the fog. "Two weeks to learn what exactly?"
 
@@ -2944,7 +2927,7 @@ She finally looked at me, and her eyes were ancient and certain. "I've never bee
 
 The blood flower trembled in the air between us.
 
-"I'm scared," I admitted. "Of Nocturne. Of meeting Alexander. Of not being good enough."
+"I'm scared," I admitted. "Of Nocturne. Of facing the Council. Of not being good enough."
 
 "Good." She reached out and caught the blood drop, absorbing it back into her skin. "Fear keeps you sharp. But don't let it control you. You're stronger than you think. These past ten days have proven that."
 
@@ -3070,7 +3053,7 @@ I stood in the cabin's main room, looking around at the space that had been my h
 
 "No," I admitted. "But I don't think I'll ever be ready, so we might as well go."
 
-She crossed to me, taking my face in her hands. "Listen to me. When we get to Nocturne, when you meet Alexander and the Council, they're going to test you. Push you. Try to find your weaknesses."
+She crossed to me, taking my face in her hands. "Listen to me. When we get to Nocturne, when you face the Council, they're going to test you. Push you. Try to find your weaknesses."
 
 "Sounds fun."
 
