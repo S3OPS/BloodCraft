@@ -18,15 +18,15 @@
 - Deepened emotional resonance in key dramatic moments
 - Strengthened character voices and relationship dynamics
 
-**Dual-POV Integration (February 2026):** Ten interstitial chapters have been fully integrated into the main narrative to create a comprehensive dual-perspective storytelling experience:
+**Dual-POV Integration (February 2026):** Fourteen interstitial chapters have been fully integrated into the main narrative to create a comprehensive dual-perspective storytelling experience:
 - All chapters have been merged into Blood-Craft-Canonical.md in chronological order
-- Four Raechelle POV chapters (2.5, 7.5, 15.5, 29.5) provide her distinct woman's perspective on key events
+- Eight Raechelle POV chapters (2.5, 7.5, 11.5, 15.5, 20.5, 22.5, 29.5, 34.5) provide her distinct woman's perspective on key events throughout the complete narrative arc
 - Six additional Riven POV chapters (16.5, 19.5, 23.5, 25.5, 27.5, 30.5) expand critical moments
-- Total narrative now includes 47 chapters (37 main + 10 interstitial)
+- Total narrative now includes 51 chapters (37 main + 14 interstitial)
 - Comprehensive consistency review completed, resolving all major narrative inconsistencies
 - Source files remain available in `new-chapters/` directory for reference
 
-The enhanced structure enriches the narrative with emotional depth, balanced perspectives, and expanded character development through strategic additional content.
+The enhanced structure enriches the narrative with emotional depth, balanced perspectives, and expanded character development through strategic additional content. The eight Raechelle POV chapters now provide comprehensive coverage from initial awakening through political development to final confrontation.
 
 ---
 
@@ -145,6 +145,16 @@ The enhanced structure enriches the narrative with emotional depth, balanced per
 - Introduction to Lysandra Blackwood, ambitious witch heir
 - Raechelle's old friend Selene offers information exchange through Cassius Velthorne
 - Riven learns his bloodline gives him unique combat advantages
+
+### Chapter 11.5: Watching the Game Begin *(Raechelle POV)*
+- Raechelle observes Riven processing his brutal first day at the Academy
+- Explaining supernatural politics and the frame attempt's true purpose
+- Using her 247 years of experience to decode political patterns
+- Teaching Riven about trust, alliances, and hidden motivations
+- The shift from protector to strategic partner
+- Preparing him to step into the political game confidently
+- Their partnership deepening as they plan to solve the disappearances
+- *Location: `new-chapters/Chapter-11.5-Raechelle-POV.md`*
 
 ### Chapter 12: Shadows and Schemes
 - Lord Maximilian Thorne murdered using blood magic
@@ -358,6 +368,19 @@ The enhanced structure enriches the narrative with emotional depth, balanced per
 
 ---
 
+### Chapter 20.5: The Hunter and the Protected *(Raechelle POV)*
+- First major battle outside Nocturne in the Arizona desert
+- Raechelle's fear of losing Riven like she lost Damien
+- Blood moon setting for combat against earth elementals and a titan
+- Riven's tactical brilliance with crystalline blood blade technique
+- Raechelle pushing Riven from titan's path and being injured
+- Riven's devastating response to seeing her hurt
+- Understanding that partnership means mutual protection
+- Victory proving they can face Terravos's forces together
+- *Location: `new-chapters/Chapter-20.5-Raechelle-POV.md`*
+
+---
+
 ### Chapter 21: Bonds of Alliance
 **Main Plot Points:**
 - Analysis of intelligence gathered from enemy territory raid
@@ -397,6 +420,19 @@ The enhanced structure enriches the narrative with emotional depth, balanced per
 - Public declaration of Riven and Raechelle's relationship status
 - Discussion of formal supernatural marriage equivalent
 - Their bond reaching a new level of depth and power
+
+---
+
+### Chapter 22.5: The Council of Archons *(Raechelle POV)*
+- Raechelle watches Riven negotiate with three ancient Archons as equals
+- Cassandra Stormweaver (Air), Mikhail Frostborne (Water), Solara Brightflame (Fire)
+- Using her centuries of experience to understand historic significance
+- Witnessing unprecedented genuine Archon cooperation and alliance
+- Pride in watching Riven's transformation into true leader
+- Understanding that this is different from failed past Archon alliances
+- Concern about increased danger from excluded powers
+- Raechelle's role shifting from protector to partner in governance
+- *Location: `new-chapters/Chapter-22.5-Raechelle-POV.md`*
 
 ---
 
@@ -623,6 +659,21 @@ The enhanced structure enriches the narrative with emotional depth, balanced per
 
 ---
 
+### Chapter 34.5: The Anchor Holds *(Raechelle POV)*
+- Raechelle leads rescue team to free imprisoned Blood Archon Seraphine
+- Riven duels Terravos at Heart of Stone nexus while team executes rescue
+- Channeling power to Riven through bond across distance
+- Using her centuries of experience to guide his strikes
+- Identifying Terravos's nexus connection weakness
+- Familiar bond functioning at maximum intensity during combat
+- Successful rescue with zero casualties among twenty-three warriors
+- Feeling Terravos's death through the bond
+- Reunion with Riven after victory
+- Processing end of immediate threat and beginning of new chapter
+- *Location: `new-chapters/Chapter-34.5-Raechelle-POV.md`*
+
+---
+
 ### Chapter 35: [Confrontation Chapter 5]
 *Placeholder for climax - Resolution of parents' murder; justice served*
 
@@ -671,7 +722,9 @@ The enhanced structure enriches the narrative with emotional depth, balanced per
 | 5-7 | Days 4-14 | Training & Preparation | Complete |
 | 7.5 | Day 14 | On the Eve of Forever (Raechelle POV) | **Complete** |
 | 8-9 | Day 14-15 | Bonding & Arrival | Complete |
-| 10-12 | Weeks 1-2 | Integration & Politics | **Complete** |
+| 10-11 | Weeks 1-2 | Integration & Politics | **Complete** |
+| 11.5 | Week 2 | Watching the Game Begin (Raechelle POV) | **Complete** |
+| 12 | Week 2 | Integration & Politics | **Complete** |
 | 13 | Week 3 | The Sanctioned Duel | **Complete** |
 | 14-15 | Months 1-3 | Establishment & Allies | **Complete** |
 | 15.5 | Month 3 | When Darkness Descends (Raechelle POV) | **Complete** |
@@ -681,8 +734,11 @@ The enhanced structure enriches the narrative with emotional depth, balanced per
 | 18-19 | Months 3-6 | Rising Conflict | Outlined |
 | 19.5 | Month 6 | Bonds of Alliance | **Complete** |
 | 20 | Months 3-6 | Rising Conflict | Outlined |
+| 20.5 | Month 6 | The Hunter and the Protected (Raechelle POV) | **Complete** |
 | 21 | Month 6 | Bonds of Alliance | **Complete** |
-| 22-23 | Months 6-12 | War Begins | Outlined |
+| 22 | Months 6-12 | War Begins | Outlined |
+| 22.5 | Month 8 | The Council of Archons (Raechelle POV) | **Complete** |
+| 23 | Months 6-12 | War Begins | Outlined |
 | 23.5 | Month 9 | The Price of Leadership | **Complete** |
 | 24-25 | Months 6-12 | War Continues | Outlined |
 | 25.5 | Month 12 | Revelations in the Ruins | **Complete** |
@@ -694,9 +750,10 @@ The enhanced structure enriches the narrative with emotional depth, balanced per
 | 29.5 | Month 12 | The Weight of Centuries (Raechelle POV) | **Complete** |
 | 30 | Year 2 | Final Campaign | Outlined |
 | 30.5 | Post-War | Legacy & Preparation | **Complete** |
-| 31 | Year 2 | Final Campaign | Outlined |
-| 32 | Year 2 | Calm Between Storms | **Complete** |
-| 33-35 | Year 2 | Final Confrontation | Outlined |
+| 31-33 | Year 2 | Final Campaign | Outlined |
+| 34 | Year 2 | Final Confrontation | Outlined |
+| 34.5 | Year 2 | The Anchor Holds (Raechelle POV) | **Complete** |
+| 35 | Year 2 | Final Confrontation | Outlined |
 | 36 | Year 2 | Legacy & Preparation | **Complete** |
 | 37-38 | Epilogue | New Beginning | Outlined |
 
