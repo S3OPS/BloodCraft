@@ -72,7 +72,21 @@ The enhanced structure enriches the narrative with emotional depth, balanced per
 - Understanding the Archons: Blood, Earth, and others
 - Terravos's vendetta against the Sixxx bloodline
 - Riven accepts his destiny and begins preliminary training
+- **[FLASHBACK INSERTED HERE]** Chapter 0.5 - Raechelle's 247-year origin story (see below)
+- Raechelle reveals her cat form to Riven in a deeply vulnerable moment
 - *Enhanced: Journey to cabin reflects on hidden protector; magic reveal scene carries ceremonial weight; vampire revelation given appropriate shock; Raechelle's vulnerability emphasized; cat-form reveal celebrates fantasy fulfillment; first kiss carries bond-significance*
+
+### Chapter 0.5: Before the Binding *(Raechelle POV - Origin Story)*
+**Note:** This chapter is inserted mid-Chapter 4, immediately before Raechelle reveals her cat form to Riven, providing fresh context for understanding the emotional weight of her vulnerability.
+- Raechelle's background as youngest daughter of the Darkpurr vampire-shifter clan
+- Her mother teaching her to shift and find freedom in her panther form
+- The forced bonding to Damien Nightshade at age 25
+- 43 years of partnership with Damien before his murder
+- Surviving the bond's breaking (extremely rare - should have killed her)
+- Becoming the Sixxx bloodline's shadow guardian as an alternative to traditional bonding
+- 200+ years of protecting Riven's family from a distance
+- Context for why revealing her cat form is so vulnerable (200 years since anyone touched her, insecurities from past trauma)
+- *Location: Inserted in `Blood-Craft-Canonical.md` within Chapter 4, source file at `new-chapters/Chapter-0.5-Raechelle-POV-Origins.md`*
 
 ### Chapter 5: First Lessons
 - Raechelle begins teaching Riven to control his blood magic
