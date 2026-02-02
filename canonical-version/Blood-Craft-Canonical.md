@@ -294,7 +294,7 @@ amplified my dismay. The surroundings were shrouded in an unsettling crimson hue
 nightmarish. Time seemed to stand still as I battled the disorientation, piecing together the remnants of what had
 happened and realizing the gravity of my situation.
 
-	A soft yet urgent voice broke the tense silence from the front seat, pulling me out of my thoughts. 
+A soft yet urgent voice broke the tense silence from the front seat, pulling me out of my thoughts. 
 
 “Riven, are you okay?” The concern in their tone was palpable, cutting through the stillness like a knife. I glanced at
 the clock on the dashboard; time was slipping away faster than I realized. “Listen, I need you to grab something from
