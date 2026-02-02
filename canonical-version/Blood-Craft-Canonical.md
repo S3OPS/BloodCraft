@@ -762,7 +762,7 @@ Not the gentle, cultivated warmth of a bond carefully nurtured over time, but th
 
 His terror. His confusion. His rage. His *loss*.
 
-Through the bond—still new, still raw, still forming—I felt everything he was experiencing. The moment the vial's magic activated in his bloodstream. The explosive transformation of every cell in his body as dormant power roared to life. The horror of watching his mother die, of knowing his father was already gone. The awful realization that his entire world had just been torn apart and rebuilt into something unrecognizable.
+Through the bond—still new, still raw, still forming—I felt everything he was experiencing. The explosive transformation of every cell in his body as dormant power roared to life. The horror of watching his mother die, of knowing his father was already gone. The awful realization that his entire world had just been torn apart and rebuilt into something unrecognizable.
 
 I gasped and clutched at my chest, stumbling even in my panther form as the dual assault of grief and awakening crashed over me in waves. This was what Seraphine had tried to warn me about—the danger of being present during such a powerful first awakening. The bond forming in the midst of such trauma could go wrong in a thousand ways, could forge connections that were too intense, too raw, too *consuming*.
 
@@ -782,7 +782,7 @@ And there, emerging from the wreckage, was Riven.
 
 Through the bond—now a thin, trembling thread connecting my ancient soul to his newborn power—I could feel everything he was experiencing. The confusion. The grief. The raw, untamed power surging through him for the first time. I could hear his mother's final heartbeat stutter and stop. Could sense Marcus's life force already extinguished somewhere in the darkness beyond the wreck.
 
-I shifted back to human form quickly, pulling my dark hoodie up to conceal my features. I wasn't ready for him to see me—not yet, not like this, not when I was barely holding myself together. The vial had worked; Elara's final gift had triggered his awakening. But now he was stumbling toward the burning car, driven by grief and denial, about to throw himself into the flames to reach a mother who was already gone.
+I shifted back to human form quickly, pulling my dark hoodie up to conceal my features. I wasn't ready for him to see me—not yet, not like this, not when I was barely holding myself together. He was stumbling toward the burning car, driven by grief and denial, about to throw himself into the flames to reach a mother who was already gone.
 
 I couldn't let that happen.
 
@@ -790,7 +790,7 @@ I moved with supernatural speed, grabbing him and pulling him back just as the c
 
 Gods, if he only knew how much it cost me to hear that pain in his voice. How desperately I wanted to hold him, comfort him, tell him everything would be alright even though I knew it wouldn't be. Not for a long time.
 
-"She was already dead," I forced myself to say, keeping my voice flat, emotionless. Professional. I couldn't afford to break down now. "I could hear her heartbeat no more."
+"She was already dead," I forced myself to say, keeping my voice flat, emotionless. Professional. I couldn't afford to break down now. "Her heart beats no more."
 
 The words tasted like ash on my tongue. I'd heard Elara's heartbeat for years—monitoring it from afar, ensuring she was safe, knowing that as long as it continued, Riven had time before this burden fell on his shoulders. And now it was silent. Forever silent.
 
@@ -804,7 +804,7 @@ And now he was a man. A *powerful* man. An heir who would need me in ways his pa
 
 I walked him through his awakening as clinically as I could manage, explaining just enough to keep him from doing something dangerous with the wild magic coursing through him. When he drank from the vial—the transformation accelerant Elara had prepared—I watched the change take him on a cellular level. Watched his body strengthen and shift, watched the power settle into his bones and blood.
 
-He looked so much like Marcus. The same strong jaw, the same dark hair. But his scent... oh, his scent was pure Elara. Blood magic running hot and wild beneath his skin, calling to the familiar bond like a siren song. Add to that the sharp, intoxicating musk of his awakening—the scent of power first blooming—and I found myself struggling to maintain my composure.
+He looked so much like Marcus. The same strong jaw, the same dark hair. But his scent... oh, his scent was pure… it was fucking dangerous is what it fucking was. Blood magic running hot and wild beneath his skin, calling to the familiar bond like a siren song. Add to that the sharp, intoxicating musk of his awakening—every Blood Archon smelled like sin and promise when their power first bloomed so I have been told—but this made me want to pounce and I found myself struggling to maintain my composure.
 
 When I finally let my hood fall back, when I let him see my face for the first time, the look in his eyes nearly undid me. Recognition without knowing why. Attraction mixed with grief. The beginnings of the bond pulling him toward me even as his rational mind struggled to process everything happening.
 
