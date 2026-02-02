@@ -10,11 +10,13 @@ This directory contains the **canonical/original storyline** of Blood Craft - a 
 
 ### What You'll Find Here
 
+- **Blood-Craft-Reader.html** - 🌟 Interactive book reader with chapter/page navigation (RECOMMENDED)
+- **book-structure.json** - Book metadata with all chapter IDs and page IDs
+- **Blood-Craft-Canonical.md** - Complete 48-chapter novel in markdown (~1.2MB, ~197,000 words)
 - **Book1.md** - Chapters 1-13: Awakening (Structural outline)
 - **Book2.md** - Chapters 14-26: The Rising Conflict (Structural outline)
 - **Book3.md** - Chapters 27-38: The Final Confrontation (Structural outline)
 - **Chapter-Summary-and-Timeline.md** - Complete outline and summary of the canonical storyline
-- **Blood-Craft-Canonical.md** - **Complete 38-chapter novel (~944KB, ~157,000 words)**
 - **new-chapters/** - Additional chapter files
 
 ---
@@ -100,10 +102,20 @@ The story is organized into three books:
 
 ### How to Read
 
-1. **Read the full novel**: Go directly to **Blood-Craft-Canonical.md** for the complete 38-chapter narrative
-2. **Chapter outlines**: Use **Book1.md**, **Book2.md**, and **Book3.md** for structural summaries
-3. **Complete overview**: See **Chapter-Summary-and-Timeline.md** for a comprehensive outline
-4. **Compare versions**: Check `../docs/Comparison-Guide.md` to see how this differs from the Paradox version (in separate repository)
+1. **Interactive Reader (Recommended)**: Open **Blood-Craft-Reader.html** in your web browser
+   - Navigate by chapters with unique chapter IDs (ch1, ch2, ch2_5, etc.)
+   - Read page-by-page with unique page IDs (ch1_p1, ch2_p3, etc.)
+   - 221 pages total, ~1000 words per page
+   - Features: auto-bookmark, keyboard navigation, jump-to-page
+   - See **[../BOOK_READER_GUIDE.md](../BOOK_READER_GUIDE.md)** for complete guide
+
+2. **Traditional Reading**: Read **Blood-Craft-Canonical.md** for the complete 48-chapter narrative in one file
+
+3. **Chapter Outlines**: Use **Book1.md**, **Book2.md**, and **Book3.md** for structural summaries
+
+4. **Complete Overview**: See **Chapter-Summary-and-Timeline.md** for a comprehensive outline
+
+5. **Compare Versions**: Check `../docs/Comparison-Guide.md` to see how this differs from the Paradox version (in separate repository)
 
 ---
 

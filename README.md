@@ -54,9 +54,17 @@ BloodCraft/
 
 ### 📖 Want to Read the Story?
 
-**Start here**: [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
+**🌟 Interactive Reader (Recommended)**: [`canonical-version/Blood-Craft-Reader.html`](canonical-version/Blood-Craft-Reader.html)
+- Read like a real book with chapter and page navigation
+- 48 chapters across 221 pages
+- Automatic bookmarks, keyboard shortcuts, and jump-to-page features
+- See [BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md) for details
 
-The complete 38-chapter novel follows Riven's supernatural awakening and journey to master his powers.
+**Traditional Reading**: [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
+- Read the complete narrative in one markdown file
+- Better for searching specific text
+
+The complete 48-chapter novel follows Riven's supernatural awakening and journey to master his powers.
 
 ### 🔀 Looking for the Paradox Version?
 
