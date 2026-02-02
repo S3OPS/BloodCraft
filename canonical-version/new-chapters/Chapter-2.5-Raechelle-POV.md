@@ -90,7 +90,7 @@ The real work was just beginning.
 
 And despite the grief, despite the danger, despite every logical reason I had to maintain professional distance—I found myself hoping, praying, *wishing* that this time, maybe, the story could have a different ending.
 
-Maybe this time, the familiar wouldn't lose her Archon.
+Maybe this time, the familiar wouldn't lose her Blood Archon.
 
 Maybe this time, love wouldn't be a weakness.
 
