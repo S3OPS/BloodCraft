@@ -146,10 +146,32 @@ This will:
 ## 🔍 Finding Specific Content
 
 ### Using Chapter IDs
-If you know the chapter number, use the sidebar to navigate directly.
+If you know the chapter number, use the sidebar to navigate directly. Chapter IDs follow this format:
+- Regular chapters: `ch1`, `ch2`, `ch15`, `ch37`
+- Half chapters (.5): `ch2_5`, `ch7_5`, `ch15_5`, etc.
 
 ### Using Page IDs
+Each page has a unique ID combining chapter ID and page number:
+- Format: `{chapter_id}_p{page_number}`
+- Examples: `ch1_p1`, `ch2_p3`, `ch15_5_p2`
+
 The metadata file (`book-structure.json`) can be queried programmatically to find specific page IDs.
+
+### Programmatic Access
+Use the `book_structure_examples.py` script to work with the book structure programmatically:
+
+```bash
+python3 book_structure_examples.py
+```
+
+This script demonstrates:
+- Finding chapters by ID
+- Finding pages by ID
+- Listing all Raechelle POV chapters
+- Getting chapter ranges
+- Accessing all chapter and page metadata
+
+See the script for code examples you can adapt for your own use cases.
 
 ### Using the Original Markdown
 For searching specific text, you can still use the original `Blood-Craft-Canonical.md` file with your text editor's search function.

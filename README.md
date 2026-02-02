@@ -202,6 +202,9 @@ This repository focuses on the **Canonical Version** of Blood Craft. The Paradox
 
 ### Development Infrastructure
 
+- **[BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md)** - 📖 Guide to the interactive book reader
+- **[book_reader_generator.py](book_reader_generator.py)** - 🛠️ Script to generate the book reader
+- **[book_structure_examples.py](book_structure_examples.py)** - 📝 Examples of working with chapter/page IDs
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - ⚡ Quick reference for common tasks (start here!)
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Complete contribution guidelines
 - **[canonical-version/DEVELOPMENT.md](canonical-version/DEVELOPMENT.md)** - Canonical version guidelines
