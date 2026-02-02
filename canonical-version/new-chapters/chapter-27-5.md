@@ -16,9 +16,9 @@ She opened one violet eye. "Because you needed ten more minutes of thinking I wa
 
 "Semantics." She leaned down to kiss me, slow and deep, tasting of sleep and familiarity. When she pulled back, her eyes were soft. "First peaceful morning in months. How does it feel?"
 
-"Strange," I admitted. "I keep waiting for an alarm, a summons, an emergency. Something that requires the Blood Archon to solve immediately."
+"Strange," I admitted. "I keep waiting for an alarm, a summons, an emergency. Something that requires the heir to solve immediately."
 
-"Well, the Blood Archon is currently off duty." She traced a finger down my chest, following old scars that even my enhanced healing hadn't completely erased. "Today, you're just Riven. My Riven. And we have no obligations, no meetings, no wars to fight."
+"Well, the heir is currently off duty." She traced a finger down my chest, following old scars that even my enhanced healing hadn't completely erased. "Today, you're just Riven. My Riven. And we have no obligations, no meetings, no wars to fight."
 
 "What about that Council review of the new territorial agreements?" I asked.
 
@@ -112,13 +112,13 @@ Her eyes lit up. "Are you suggesting we waste our first day of peace in months p
 
 "Which is?"
 
-"After gaming, we explore the city. The parts we never had time to see during the war. I want to take my Blood Archon on a proper date."
+"After gaming, we explore the city. The parts we never had time to see during the war. I want to take my charge on a proper date."
 
 My heart did something complicated in my chest. "We've been bonded for two years and you've never mentioned dates before."
 
 "Because we've been fighting for survival. Dates seemed frivolous compared to, you know, not dying." She laced her fingers through mine. "But now we have time. And I want to romance you properly. Court you the way I would have if we'd met under normal circumstances."
 
-"Normal circumstances where you're a shapeshifting panther who's been alive for centuries and I'm a newly awakened Blood Archon?"
+"Normal circumstances where you're a shapeshifting panther who's been alive for centuries and I'm a newly awakened heir?"
 
 "Exactly those normal circumstances."
 
@@ -192,7 +192,7 @@ I captured her finger in my mouth, making her shiver. Through the bond, I felt h
 
 "You will when you see what he makes. Trust me."
 
-Twenty minutes later—after a shower that nearly derailed our plans again—we were dressed and heading into Nocturne proper. Raechelle had chosen a deep purple dress that made her eyes luminous, while I'd gone with dark jeans and a crimson shirt that she'd deemed "acceptable for a Blood Archon in casual mode."
+Twenty minutes later—after a shower that nearly derailed our plans again—we were dressed and heading into Nocturne proper. Raechelle had chosen a deep purple dress that made her eyes luminous, while I'd gone with dark jeans and a crimson shirt that she'd deemed "acceptable for an heir in casual mode."
 
 The city was alive in a way I hadn't had time to appreciate during the war. The Grand Promenade bustled with activity—vendors calling out their wares, street performers entertaining crowds, supernatural citizens of every description going about their lives. And everywhere, signs of peace. Children playing without fear. Couples walking hand in hand. Laughter echoing off ancient buildings.
 
@@ -276,7 +276,7 @@ We turned to find a young vampire—couldn't be more than fifty, practically a b
 
 "I don't..." I started, then stopped. What could I say? Thank you felt inadequate.
 
-"She believed in what you were building," Dominic continued. "A Nocturne where art mattered again, where we could create instead of just survive. She died making sure that future existed." He pressed a small card into my hand. "The painting is yours. Consider it her gift to the Blood Archon and his mate."
+"She believed in what you were building," Dominic continued. "A Nocturne where art mattered again, where we could create instead of just survive. She died making sure that future existed." He pressed a small card into my hand. "The painting is yours. Consider it her gift to the heir and his mate."
 
 He left before we could respond. I stood there, holding the card with Eloise Nightshade's information and a delivery address, feeling the weight of every life spent in service of the peace we now enjoyed.
 

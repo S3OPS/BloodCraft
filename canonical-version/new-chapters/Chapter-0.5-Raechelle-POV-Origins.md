@@ -78,7 +78,7 @@ Seraphine, the second daughter, understood me better. She was a warrior first, a
 
 "Familiars protect," she'd said, drilling me through combat forms until my muscles screamed. "That's what we do, what we *are*. Everything else—the magic, the politics, the pretty speeches—it's all secondary to keeping your Archon alive."
 
-She'd been bound to Damien Nightshade's older brother, a Blood Archon named Cristof who ruled vast territories in the Americas. Their bond had been the stuff of legends—partnerships so perfect it made other supernaturals jealous. Watching them together, I'd understood for the first time what the bond could be. Not servitude, but *symbiosis*. Two halves of a greater whole.
+She'd been bound to Damien Nightshade's older brother, an heir named Cristof who ruled vast territories in the Americas. Their bond had been the stuff of legends—partnerships so perfect it made other supernaturals jealous. Watching them together, I'd understood for the first time what the bond could be. Not servitude, but *symbiosis*. Two halves of a greater whole.
 
 Lyssa, closest to me in age, had been my confidante and rival and best friend all rolled into one. We'd hunted together, trained together, gotten into trouble together with a frequency that gave our parents gray hairs.
 
@@ -180,7 +180,7 @@ I felt him rush into me—his power, his emotions, his very *self* pouring throu
 
 And I felt him feeling *me*. My wildness, my resentment, my terror at losing myself. My love for my family, for hunting, for the simple joy of running through forests under the moon. My determination to survive this with my soul intact. My cautious, budding hope that maybe he wasn't so bad after all.
 
-When the magic finally settled, we were changed. Still ourselves, but also... *more*. I could feel him like a second heartbeat, could sense his emotions as if they were my own. When I looked at him, I saw not just a Blood Archon, but my Archon. Mine to protect, mine to serve, mine to—
+When the magic finally settled, we were changed. Still ourselves, but also... *more*. I could feel him like a second heartbeat, could sense his emotions as if they were my own. When I looked at him, I saw not just the power within, but my Archon. Mine to protect, mine to serve, mine to—
 
 "This is incredibly strange," Damien said, and I felt his wonder through our bond.
 
@@ -220,7 +220,7 @@ I felt the poison before I understood what it meant.
 
 One moment, Damien was beside me, laughing at something Lord Varenthos had said. The next, our bond was *screaming*, and I felt him stumbling, felt his power going haywire as something foreign invaded his system.
 
-"Damien!" I caught him as he fell, my hands already glowing with the familiar magic that let me channel and stabilize his power. But this was different. This wasn't a magical attack I could counter. This was *poison*—specifically designed to kill Blood Archons, to shut down their powers from the inside out.
+"Damien!" I caught him as he fell, my hands already glowing with the familiar magic that let me channel and stabilize his power. But this was different. This wasn't a magical attack I could counter. This was *poison*—specifically designed to kill those of his lineage, to shut down their powers from the inside out.
 
 "Raechelle," he gasped, and through our bond I felt his terror. Not for himself—he'd already accepted he was dying. For *me*. For what losing him would do to me. "The bond—you need to—"
 

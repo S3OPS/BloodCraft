@@ -16,9 +16,9 @@ I pressed my forehead against the cool glass, closing my eyes. This wasn't suppo
 
 But Riven Sixxx had somehow slipped past every defense I'd built in two centuries of life.
 
-It wasn't just his scent, though gods knew that alone was enough to drive me to distraction. Blood Archons always smelled good to their familiars—it was part of the bond, part of the ancient magic that tied our kinds together. But Riven... Riven smelled like *home*. Like safety and passion and everything I'd been missing for the past two hundred and forty-seven years without even knowing it.
+It wasn't just his scent, though gods knew that alone was enough to drive me to distraction. Heirs of his line always smelled good to their familiars—it was part of the bond, part of the ancient magic that tied our kinds together. But Riven... Riven smelled like *home*. Like safety and passion and everything I'd been missing for the past two hundred and forty-seven years without even knowing it.
 
-It wasn't just his power, though feeling it grow stronger every day made my familiar instincts purr with satisfaction. He was *strong*—stronger than Elara had been at his age, stronger than Marcus ever was. The potential in him was staggering, and watching him learn to control it, watching him transform from confused college student to confident Blood Archon, had been one of the most rewarding experiences of my long life.
+It wasn't just his power, though feeling it grow stronger every day made my familiar instincts purr with satisfaction. He was *strong*—stronger than Elara had been at his age, stronger than Marcus ever was. The potential in him was staggering, and watching him learn to control it, watching him transform from confused college student to confident mage, had been one of the most rewarding experiences of my long life.
 
 It wasn't even just his body, though I'd be lying if I said I hadn't noticed. The awakening had changed him, sculpting muscle and power into his frame in ways that made my mouth go dry. Every training session was sweet torture, watching him move, watching sweat bead on his skin, watching that fierce concentration on his face as he mastered each new technique.
 
@@ -50,7 +50,7 @@ He crossed the room to stand beside me at the window, close enough that I could 
 
 *Terrified,* I wanted to say. *Desperate. Hopeful. So in love with you it hurts.*
 
-"A bit," I admitted instead. "It's been a very long time since I've bonded with anyone. The last Blood Archon I was bound to was... centuries ago."
+"A bit," I admitted instead. "It's been a very long time since I've bonded with anyone. The last mage I was bound to was... centuries ago."
 
 That was a lie, but only technically. I'd been bound to the Sixxx line for generations, but it had been a distant thing, a hereditary connection maintained through ritual and duty rather than the kind of deep, soul-binding connection we were about to create.
 

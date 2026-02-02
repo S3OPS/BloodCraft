@@ -36,7 +36,7 @@ Had to have faith.
 
 "Then let's move," I said. "Operation begins now. Riven—"
 
-*I know.* His voice through our bond was filled with love and confidence and just a hint of fear he was trying to hide. *Go save a Blood Archon, Raechelle. I'll handle the egomaniacal Earth Archon trying to end the world. See you on the other side.*
+*I know.* His voice through our bond was filled with love and confidence and just a hint of fear he was trying to hide. *Go save an heir, Raechelle. I'll handle the egomaniacal Earth Archon trying to end the world. See you on the other side.*
 
 *You better,* I sent back, layering it with all the emotion I couldn't afford to voice aloud. *Because if you die on me, I'm going to be very upset.*
 
@@ -100,7 +100,7 @@ The world exploded into sensation as I connected fully to Riven's consciousness.
 
 *There,* I sent, using my centuries of experience to analyze what his younger perspective might miss. *The connection to the nexus—it's not distributed evenly. There's a focal point. Right side, near his chest. That's where he's channeling the power.*
 
-I felt Riven's surge of understanding, felt him adjusting his strategy. And then I *pushed*, sending familiar magic flooding through our bond. Not attacking power—supporting power. The kind that made him stronger, faster, more resilient. The kind that let a Blood Archon fight beyond his normal limits because he wasn't fighting alone.
+I felt Riven's surge of understanding, felt him adjusting his strategy. And then I *pushed*, sending familiar magic flooding through our bond. Not attacking power—supporting power. The kind that made him stronger, faster, more resilient. The kind that let an heir fight beyond his normal limits because he wasn't fighting alone.
 
 Riven moved like lightning, blood magic crystallizing into that blade technique he'd perfected over months of practice. The strike was surgical, precise, aimed exactly where I'd indicated.
 
@@ -190,7 +190,7 @@ We'd done it. Against all odds, against every historical precedent, against the 
 
 And now, finally, we could start building the life we'd been fighting for.
 
-The life my Blood Archon deserved.
+The life my charge deserved.
 
 The life we'd earned together, through blood and magic and unwavering partnership.
 

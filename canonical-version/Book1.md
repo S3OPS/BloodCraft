@@ -747,7 +747,7 @@ duel and defeat them in combat.*
 
 *In the last three hundred years, the members of the Archonis has become stagnant, with only four of five Archons
 currently serving and those four have held their positions each for a century or more.  A horrific event in history
-marked the end of the last Blood Archon, whose insatiable thirst for power posed a grave threat to both the magical
+marked the end of the last mage, whose insatiable thirst for power posed a grave threat to both the magical
 and mundane worlds. Their excessive manipulation of Blood Magic led to a catastrophic decision by the other Archons,
 resulting in his demise. In the aftermath, fear reigned supreme, prompting a relentless hunt for anyone linked to the
 Blood Magic bloodlines. This deep-seated anxiety about the return of a Blood Archon has forced your lineage into
@@ -1029,7 +1029,7 @@ I latched onto her words like a lifeline, letting the melodious tone of her voic
 
 My mother had warned me in her letter to set aside my preconceived notions about vampires, but knowing intellectually that they existed and experiencing the transformation myself were entirely different things.
 
-"The transition period is always challenging," she admitted. "But you're experiencing a compounded effect—you're not just becoming a vampire, you're also awakening as a Blood Archon. The two transformations are feeding into each other, amplifying everything. Your senses will stabilize in a few days, once your body adjusts to the changes."
+"The transition period is always challenging," she admitted. "But you're experiencing a compounded effect—you're not just becoming a vampire, you're also awakening as an heir. The two transformations are feeding into each other, amplifying everything. Your senses will stabilize in a few days, once your body adjusts to the changes."
 
 A few days. I had a few days to learn to navigate a world that had suddenly become overwhelming in its detail and complexity. A few days to master abilities I didn't understand and hadn't asked for. A few days before—what? Before Terravos's agents came looking for me? Before I had to face the consequences of being what I was?
 
@@ -1163,7 +1163,7 @@ I learned that I could focus my enhanced hearing on specific sounds while lettin
 
 "Good," Raechelle murmured after I successfully managed to maintain the dampened state for a full five minutes. "That's very good, Riven. Most newly turned vampires take several days to achieve what you just did."
 
-"Is that the Blood Archon thing?" I asked, letting my senses gradually return to their enhanced state. "Am I learning faster because of the magic?"
+"Is that the heir thing?" I asked, letting my senses gradually return to their enhanced state. "Am I learning faster because of the magic?"
 
 "Possibly. Or it could simply be natural aptitude. Your mother always said you were a quick study."
 
@@ -1743,7 +1743,7 @@ was wrapped loosely around my thigh, as if anchoring herself to me even in dream
 
 For a long moment, I simply lay there, marveling at how drastically my life had changed in the span of a single night.
 Just yesterday, I had been an ordinary college student on a birthday trip with my parents. Now, I was orphaned, awakened
-as a Blood Archon, bonded to a beautiful vampire cat familiar, and thrust into a world of magic I never knew existed.
+as an heir, bonded to a beautiful vampire cat familiar, and thrust into a world of magic I never knew existed.
 
 The grief lurked at the edges of my consciousness, a dark shadow waiting to consume me if I let it. But there was
 something about Raechelle's presence—the rhythmic rise and fall of her breathing, the soft warmth emanating from her
@@ -1795,7 +1795,7 @@ they sensed your awakening. But based on the method of attack, the earth spikes 
 Archonis Council?"
 
 "Yes. His name is Terravos, and he has held his seat for nearly three centuries. He was among those who led the purge
-against the Blood Mage lineages all those years ago. If he's discovered that a new Blood Archon has awakened..." She
+against the Blood Mage lineages all those years ago. If he's discovered that a new heir has awakened..." She
 trailed off, the implications hanging heavy in the air between us.
 
 "Then he'll come for me."
@@ -2026,7 +2026,7 @@ energy pulsing in clusters. And then, finally, something bigger.
 "There," I said, excitement creeping into my voice. "Northwest, maybe... half a mile? Something large, moving slowly."
 
 Raechelle's hands tightened on my shoulders—not painful, but firmly approving. "A deer," she confirmed. "You're doing
-exceptionally well, Sir. Most Blood Archons take weeks to sense anything beyond a few dozen feet."
+exceptionally well, Sir. Most heirs of your lineage take weeks to sense anything beyond a few dozen feet."
 
 Her praise, combined with the title she'd begun using more frequently, sent a pleasant warmth through me that had nothing
 to do with magic and everything to do with the way our relationship was evolving.
@@ -2065,7 +2065,7 @@ wreckage of the car alongside his parents.
 
 In his place stood something new—something dangerous and powerful and hungry for both vengeance and understanding.
 
-The Blood Archon had awakened.
+The ancient power had awakened.
 
 And the magical world would never be the same.
 
@@ -2475,12 +2475,12 @@ with a thought, summon mountains from flat plains, open chasms beneath his enemi
 
 "Yes." Her voice was soft with sympathy. "Terravos's preferred method of execution. Quick, brutal, and designed to send
 a message." She paused, her ruby eyes meeting mine. "He fears blood magic more than anything else in this world, Riven.
-The Blood Archons of old had the power to control other beings—to command their very life force. It's why he led the
+The Those of your lineage had the power to control other beings—to command their very life force. It's why he led the
 purge three centuries ago. Why he's hunted your bloodline to near extinction."
 
 "And now I'm the only one left."
 
-"The only Blood Archon," she confirmed. "Which makes you both invaluable and incredibly dangerous. If Terravos learns
+"The last of my line," she confirmed. "Which makes you both invaluable and incredibly dangerous. If Terravos learns
 that you've awakened..." She didn't need to finish the sentence.
 
 "He'll come for me." I stood, restless energy coursing through my limbs. "Then let him come. I need to get stronger,
@@ -2536,7 +2536,7 @@ the destroyers far more vividly than the healers."
 
 She was right, of course. The journal itself documented numerous instances of blood mages who had succumbed to the
 temptation of their power, using their abilities for personal gain or petty vengeance. The purge that had nearly
-exterminated my bloodline had been sparked by one such individual—a Blood Archon named Sanguis the Crimson, who had used
+exterminated my bloodline had been sparked by one such individual—an heir named Sanguis the Crimson, who had used
 his powers to enslave entire kingdoms.
 
 "Sanguis," I said the name aloud, tasting its bitter syllables. "He's the reason they fear us."
@@ -2676,7 +2676,7 @@ disciplines?"
 "If the legends are true, yes," Raechelle confirmed. "But there's no living being who can confirm it. The Prime
 Archon—if they ever existed—vanished from history millennia ago." A pause. "Until now."
 
-The implications crashed over me like a wave. Not just a Blood Archon. Not just another powerful mage. If I could access
+The implications crashed over me like a wave. Not just the power within. Not just another powerful mage. If I could access
 all five disciplines, if I could master what the Prime Archon had wielded...
 
 I opened my eyes, meeting Raechelle's startled gaze. "I think we need to revise our timeline," I said quietly. "Two
@@ -2781,7 +2781,7 @@ a matter of time before they narrow down the search." She met my eyes, her ruby 
 Nocturne before they find us. Within the city's boundaries, even the Earth Archon's hunters won't dare touch you."
 
 I considered this information carefully. Part of me—the part that still burned with rage over my parents' deaths—wanted
-to stay and fight. Let them come. Let me show them what happens when you threaten a Blood Archon.
+to stay and fight. Let them come. Let me show them what happens when you threaten an heir.
 
 But the wiser part of me recognized that Raechelle was right. I was stronger than I had been, yes, but I was far from
 ready to face an Archon's forces directly. My control over blood magic was still developing, and I had barely begun to
@@ -3317,7 +3317,7 @@ fit your station, you'll be challenged constantly by fools seeking to establish 
 "But if I present myself correctly..."
 
 "Then the fools will think twice before crossing you, and the wise will recognize you as someone worth knowing." She
-stepped back, surveying her work with satisfaction. "There. Now you look like a Blood Archon."
+stepped back, surveying her work with satisfaction. "There. Now you look like an heir."
 
 I turned to the full-length mirror, and my breath caught.
 
@@ -3706,7 +3706,7 @@ I rose, inclining my head with the respect her station demanded. "Lady Darkthorn
 
 "Please, sit." She gracefully slid into the booth across from us, her movements so fluid they seemed choreographed. A
 server appeared instantly with a crystal goblet filled with something that definitely wasn't wine. "I must confess, when
-my sources reported a Blood Archon approaching Austin, I thought it was exaggeration or perhaps a trap. We've had
+my sources reported an heir approaching Austin, I thought it was exaggeration or perhaps a trap. We've had
 imposters before."
 
 "I assure you, I'm no imposter."
@@ -3942,7 +3942,7 @@ I looked out at Nocturne's impossible skyline, feeling the weight of destiny pre
 somewhere, Terravos's agents were watching, waiting for their opportunity. The supernatural world was taking my measure,
 deciding whether I was predator or prey.
 
-But I also felt Raechelle beside me—her warmth, her devotion, her unwavering faith that I could become the Blood Archon
+But I also felt Raechelle beside me—her warmth, her devotion, her unwavering faith that I could embrace the power within
 I was meant to be. I felt the power thrumming through my veins, growing stronger with each passing day. I felt the bond
 between us, a constant reminder that I was not alone in this journey.
 
@@ -4053,7 +4053,7 @@ This was the moment I had been dreading. How much truth was wise to reveal? How 
 
 "And your long-term intentions?"
 
-I met his gaze directly. "Justice for my parents. And ultimately, to take my place in the supernatural world as a Blood Archon should."
+I met his gaze directly. "Justice for my parents. And ultimately, to take my place in the supernatural world as an heir should."
 
 Corvinus studied me for a long moment, his expression unreadable. Then, surprisingly, he smiled—a thin, approving expression that somehow made his ancient face appear almost human.
 
@@ -4153,7 +4153,7 @@ As we continued our tour, I noticed a lithe figure watching us from the shadows 
 
 "Selene," Raechelle replied, and I sensed complicated history in her tone. "I was hoping to encounter you."
 
-"Were you?" Selene's silver eyes shifted to me, assessing. "And this must be the Blood Archon heir everyone is talking about. You've caused quite a stir, Lord Sixxx."
+"Were you?" Selene's silver eyes shifted to me, assessing. "And this must be the heir heir everyone is talking about. You've caused quite a stir, Lord Sixxx."
 
 "Not intentionally," I replied.
 
@@ -4253,7 +4253,7 @@ I smiled despite myself. "Your humility is truly inspiring."
 
 I reached up to capture one of her hands, bringing it to my lips. "I never doubted you."
 
-"Good." She leaned down to press a kiss to my temple. "Because tomorrow, the real work begins. Your first session at the Academy. Your introduction to supernatural society. The start of your journey to becoming the Blood Archon you were born to be."
+"Good." She leaned down to press a kiss to my temple. "Because tomorrow, the real work begins. Your first session at the Academy. Your introduction to supernatural society. The start of your journey to becoming the heir you were born to be."
 
 "When you say it like that, it sounds terrifying."
 
@@ -4289,7 +4289,7 @@ I understood. This was my introduction to supernatural academia, my first step t
 
 "I'll make you proud, Kitten."
 
-"You already do." She rose on her toes to press a quick kiss to my lips. "Now go. Show them what a Blood Archon can become."
+"You already do." She rose on her toes to press a quick kiss to my lips. "Now go. Show them what an heir can become."
 
 ---
 
@@ -4305,7 +4305,7 @@ I settled into the indicated seat, keeping my posture straight but not rigid. Co
 
 "Thank you for seeing me personally, Chancellor."
 
-"A Blood Archon enrolling in my Academy? I would hardly delegate such an occasion." He steepled his fingers, studying me over them. "Tell me, Lord Sixxx—what do you hope to accomplish through your studies here?"
+"An heir enrolling in my Academy? I would hardly delegate such an occasion." He steepled his fingers, studying me over them. "Tell me, Lord Sixxx—what do you hope to accomplish through your studies here?"
 
 "Mastery," I replied without hesitation. "I've inherited power I barely understand. I need to learn to control it, develop it, and ultimately use it to protect those I care about."
 
@@ -4367,7 +4367,7 @@ The classroom was a semicircular amphitheater carved from living stone, with tie
 
 I ignored them, finding a seat near the middle that offered good sightlines to both the instructor and the door. Raechelle had drilled into me the importance of always knowing my exits.
 
-"Ah, Lord Sixxx!" Master Thalia called out from the lectern. "How wonderful to have a Blood Archon grace our humble classroom. Please, don't let me interrupt your search for an adequately defensive position."
+"Ah, Lord Sixxx!" Master Thalia called out from the lectern. "How wonderful to have an heir grace our humble classroom. Please, don't let me interrupt your search for an adequately defensive position."
 
 Scattered laughter from the other students. I felt heat rise in my face but kept my expression neutral.
 
@@ -4387,7 +4387,7 @@ I found myself leaning forward, captivated despite my initial wariness. This was
 
 "What happened?" The question came from a student near the front—a young witch with silver hair and intense green eyes.
 
-"Lord Sanguinus was forced to choose a side when Volaris's forces attacked a Blood Archon sanctuary, killing hundreds of his people." Master Thalia's expression grew somber. "His entry into the war shifted the balance of power decisively. The Blood Archon's abilities—to manipulate the very essence of life itself—proved devastating against the Fire Archon's forces."
+"Lord Sanguinus was forced to choose a side when Volaris's forces attacked an heir sanctuary, killing hundreds of his people." Master Thalia's expression grew somber. "His entry into the war shifted the balance of power decisively. The Blood Archon's abilities—to manipulate the very essence of life itself—proved devastating against the Fire Archon's forces."
 
 "So he won?" another student asked.
 
@@ -4399,7 +4399,7 @@ Master Thalia's smile was knowing. "Officially, yes. The Concordat has been the 
 
 The implication was clear: Terravos's attack on my family was precisely this kind of deniable aggression. He hadn't violated the letter of the Concordat, only its spirit.
 
-"For your assignment this week," Master Thalia continued, "I want each of you to research a specific incident from the Archon Wars and analyze how it influenced the modern political landscape. Lord Sixxx—" she fixed me with a pointed look "—I would be particularly interested in your perspective on the Blood Archon's role in the conflict. Five thousand words, due next session."
+"For your assignment this week," Master Thalia continued, "I want each of you to research a specific incident from the Archon Wars and analyze how it influenced the modern political landscape. Lord Sixxx—" she fixed me with a pointed look "—I would be particularly interested in your perspective on the heir's role in the conflict. Five thousand words, due next session."
 
 As class ended and students began filing out, I noticed several of them giving me evaluating looks. Some seemed curious, others hostile, and a few wore expressions of calculation that suggested they were already considering how my presence might benefit or threaten them.
 
@@ -4419,7 +4419,7 @@ Raechelle's expression flickered with recognition. "Lysandra Blackwood. Heir to 
 
 I thought back to that calculated smile, the way she'd studied me. "She seemed... interested."
 
-"Oh, she's interested." Raechelle's tone carried a note of warning. "The question is whether that interest is genuine attraction to your power and potential, political calculation about advantages of connection to a Blood Archon heir, authentic personal interest that transcends strategic considerations, or most likely—all three operating simultaneously."
+"Oh, she's interested." Raechelle's tone carried a note of warning. "The question is whether that interest is genuine attraction to your power and potential, political calculation about advantages of connection to an heir heir, authentic personal interest that transcends strategic considerations, or most likely—all three operating simultaneously."
 
 "Another person I need to be careful around."
 
@@ -4567,7 +4567,7 @@ I recognized a few faces from my studies. The werewolf representative, a massive
 
 "And you understand why you have been called here?"
 
-"I can surmise." I met her gaze directly, refusing to show the fear that coiled in my gut. "A supernatural noble was killed by blood magic. I am the only Blood Archon in Nocturne. The conclusion is obvious, if incorrect."
+"I can surmise." I met her gaze directly, refusing to show the fear that coiled in my gut. "A supernatural noble was killed by blood magic. I am the last of my line in Nocturne. The conclusion is obvious, if incorrect."
 
 Murmurs rippled through the Council. The werewolf representative leaned forward, his yellow eyes narrowing.
 
@@ -4625,7 +4625,7 @@ The presence withdrew from my mind as suddenly as it had arrived. Councilor Meri
 
 The Council chamber erupted in murmurs. I allowed myself a small breath of relief—though I kept my expression neutral. The first crisis was past, but I suspected larger ones were coming.
 
-"Then we have a problem," Lady Seraphina said, her voice cutting through the noise. "Someone in Nocturne used blood magic to commit murder, and it was not our only Blood Archon." Her violet eyes swept across the chamber. "Which means either a blood mage we were unaware of is operating in our city, or someone has found a way to replicate Blood Archon abilities."
+"Then we have a problem," Lady Seraphina said, her voice cutting through the noise. "Someone in Nocturne used blood magic to commit murder, and it was not our last of my line." Her violet eyes swept across the chamber. "Which means either a blood mage we were unaware of is operating in our city, or someone has found a way to replicate Blood Archon abilities."
 
 "Or the murder was committed specifically to implicate Lord Sixxx," Raechelle spoke for the first time, her voice carrying clearly. "Which would benefit those who wish to see him removed from Nocturne's protection."
 
@@ -4655,7 +4655,7 @@ The walk home was tense. Every shadow seemed to contain potential threats; every
 
 I stopped, turning to look at her. "Explain."
 
-"Think about it, Sir. A Blood Archon-style murder occurs. You're the obvious suspect. The Council investigates, finds you innocent, and publicly clears your name." Her amber eyes glittered with dark understanding. "Now you're not just a newcomer—you're a newcomer who was accused of murder. Your reputation is tainted regardless of the verdict. Some will always suspect you got away with it through political maneuvering."
+"Think about it, Sir. An heir-style murder occurs. You're the obvious suspect. The Council investigates, finds you innocent, and publicly clears your name." Her amber eyes glittered with dark understanding. "Now you're not just a newcomer—you're a newcomer who was accused of murder. Your reputation is tainted regardless of the verdict. Some will always suspect you got away with it through political maneuvering."
 
 The insight was chilling in its implications. "Terravos isn't just trying to kill me. He's trying to isolate me. Make potential allies hesitant to associate with someone so controversial."
 
@@ -4723,7 +4723,7 @@ We settled into the study to plan, maps of the city spread before us, our combin
 
 Somewhere in the city, a killer walked free. Somewhere, enemies schemed to destroy me. Somewhere, secrets waited to be discovered.
 
-But I was no longer the confused, grieving young man who had arrived in Nocturne seeking only survival. I was a Blood Archon coming into his power, surrounded by allies and bonded to someone who would face any darkness at my side.
+But I was no longer the confused, grieving young man who had arrived in Nocturne seeking only survival. I was an heir coming into his power, surrounded by allies and bonded to someone who would face any darkness at my side.
 
 The shadows might be deepening.
 
@@ -4890,7 +4890,7 @@ Viktor moved with shocking speed, closing the distance between us in a heartbeat
 
 My knuckles met solid muscle. It was like hitting a stone wall.
 
-Viktor's laugh was savage. "That's it? That's the vaunted power of the Blood Archon?"
+Viktor's laugh was savage. "That's it? That's the vaunted power of the heir?"
 
 He pressed his attack, a flurry of punches and kicks that forced me backward. Each strike was powerful enough to shatter bone if it landed cleanly. I blocked what I could, dodged the rest, but I could already feel the difference in our physical capabilities. Viktor was right—in a purely physical contest, he was superior.
 
@@ -4916,7 +4916,7 @@ The crowd was roaring now, sensing the shift in momentum. Viktor's initial confi
 
 "This is how Blood Archons fight." I caught his arm mid-swing and twisted, using his own momentum against him. "We don't need to be the strongest when we can be the smartest."
 
-I threw him—actually threw him—sending his massive form tumbling across the obsidian floor. The arena erupted in shocked exclamations. A Blood Archon, newly awakened and barely trained, had just manhandled a werewolf champion.
+I threw him—actually threw him—sending his massive form tumbling across the obsidian floor. The arena erupted in shocked exclamations. An heir, newly awakened and barely trained, had just manhandled a werewolf champion.
 
 Viktor rose slowly, blood trickling from a split lip. His eyes had gone wolf-gold, the beast inside straining against his control. "You want to see real power?" His voice was deeper now, rougher. "I'll show you power."
 
@@ -4936,7 +4936,7 @@ Time seemed to slow. I could see every detail—the saliva dripping from his fan
 
 Unless I stopped him.
 
-My power rose like a crimson tide. Not subtle anymore, not carefully controlled. This was the full force of my Blood Archon heritage, awakened by genuine danger and shaped by weeks of training. I reached out with everything I had and seized Viktor's blood—all of it, simultaneously.
+My power rose like a crimson tide. Not subtle anymore, not carefully controlled. This was the full force of my charge heritage, awakened by genuine danger and shaped by weeks of training. I reached out with everything I had and seized Viktor's blood—all of it, simultaneously.
 
 His attack faltered mid-leap. His body went rigid, caught in mid-air by my power. I could feel his heart straining against my influence, his blood screaming to flow naturally. It would be so easy to stop it. To squeeze until his heart burst. To prove my superiority absolutely.
 
@@ -4946,7 +4946,7 @@ Blackwood's warning echoed in my mind. I was standing at a precipice. One choice
 
 I chose.
 
-Instead of crushing Viktor's heart, I did something far more challenging. I employed the full extent of my Blood Archon power with surgical precision and remarkable restraint. I immobilized Viktor through complete control of his cardiovascular system, stopping the transformation mid-change and holding him frozen in an agonizing liminal state between forms. The display of power was absolute yet controlled, demonstrating that I could kill Viktor effortlessly but chose mercy instead. I slowed his heart gently, precisely, using my power to calm the supernatural metabolism that fueled his rage. I whispered to his blood, not commanding but requesting. I reminded his body what it felt like to be human.
+Instead of crushing Viktor's heart, I did something far more challenging. I employed the full extent of my charge power with surgical precision and remarkable restraint. I immobilized Viktor through complete control of his cardiovascular system, stopping the transformation mid-change and holding him frozen in an agonizing liminal state between forms. The display of power was absolute yet controlled, demonstrating that I could kill Viktor effortlessly but chose mercy instead. I slowed his heart gently, precisely, using my power to calm the supernatural metabolism that fueled his rage. I whispered to his blood, not commanding but requesting. I reminded his body what it felt like to be human.
 
 Viktor crashed to the floor, the transformation reversing as quickly as it had begun. In seconds he was human again, gasping and shaking, sweat pouring from his skin.
 
@@ -5026,7 +5026,7 @@ I carried her toward the bedroom, feeling lighter than I had in weeks. Yes, chal
 
 But I had also proven something important today. I was strong enough to win. Wise enough to show mercy. Confident enough to build alliances instead of burning bridges.
 
-I was becoming the Blood Archon my parents had always believed I could be.
+I was becoming the heir my parents had always believed I could be.
 
 And with Raechelle at my side, there was nothing I couldn't face.
 
@@ -5115,7 +5115,7 @@ My blood ran cold. "Evidence?"
 
 My mind raced. "And once he's strong enough?"
 
-"He'll make his move on Nocturne. It's the only neutral supernatural city of its kind—a symbol of coexistence between factions. If he takes it, the balance of power shifts dramatically." Her green eyes were hard now, calculating. "Your parents understood this. That's why they were targeted. Terravos knew a Blood Archon in Nocturne would be the one force that could oppose him effectively."
+"He'll make his move on Nocturne. It's the only neutral supernatural city of its kind—a symbol of coexistence between factions. If he takes it, the balance of power shifts dramatically." Her green eyes were hard now, calculating. "Your parents understood this. That's why they were targeted. Terravos knew an heir in Nocturne would be the one force that could oppose him effectively."
 
 "Then why let me live? Why not kill me with them?"
 
@@ -5137,7 +5137,7 @@ Lysandra smiled, a real smile this time. "You're learning. Good." She took a bre
 
 "Suspicions only. But we know there's at least one, possibly two Councilors who've been meeting with Ambassador Kaine in secret. Meetings not recorded in official Council minutes." Lysandra's expression darkened. "My mother wants to expose them, but she needs leverage. Evidence. Support from someone the Council can't easily dismiss or silence."
 
-"A Blood Archon," I said slowly.
+"An heir," I said slowly.
 
 "Exactly."
 
@@ -5323,7 +5323,7 @@ The reports were troubling. Over the past month, seventeen supernaturals had van
 
 "Blood magic could do that. If you can manipulate the blood of the ward creator..."
 
-"You could make the wards recognize you as friend instead of foe." Raechelle's expression was grim. "Riven, if someone is using blood magic for this, and if the Council finds out a Blood Archon is in the city during these disappearances..."
+"You could make the wards recognize you as friend instead of foe." Raechelle's expression was grim. "Riven, if someone is using blood magic for this, and if the Council finds out an heir is in the city during these disappearances..."
 
 "They'll think it's me. Or at the very least, connected to me." I ran a hand through my hair. "Wonderful. So either I solve this and prove my value, or I become the prime suspect in a series of supernatural kidnappings."
 

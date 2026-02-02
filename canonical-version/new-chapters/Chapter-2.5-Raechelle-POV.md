@@ -6,7 +6,7 @@
 
 The moment the bond trembled—not broken, but *awakening*—I knew. After two hundred and forty-seven years of patient waiting, of watching from the shadows, of protecting a bloodline that barely knew I existed, everything changed in a single, shattering instant.
 
-I was in my apartment in Austin when it happened, curled in my favorite armchair with a century-old grimoire I'd been pretending to read for the past hour. The familiar bond—dormant for decades since Elara had passed the torch to her son without his knowledge—suddenly *flared* to life like a star being born. Not the gentle, cultivated warmth of a bond carefully nurtured, but the wild, untamed *inferno* of a Blood Archon's power erupting for the first time.
+I was in my apartment in Austin when it happened, curled in my favorite armchair with a century-old grimoire I'd been pretending to read for the past hour. The familiar bond—dormant for decades since Elara had passed the torch to her son without his knowledge—suddenly *flared* to life like a star being born. Not the gentle, cultivated warmth of a bond carefully nurtured, but the wild, untamed *inferno* of the ancient power erupting for the first time.
 
 The grimoire fell from my hands, forgotten, as I gasped and clutched at my chest. Through the bond—still new, still raw, still unformed—I felt everything. Terror. Confusion. Rage. *Loss*. Oh gods, the loss. It crashed over me in waves that left me breathless, and I knew with awful certainty what had happened.
 
@@ -32,11 +32,11 @@ The drive to the cabin gave me time to think, to prepare, to try to calm the mae
 
 But gods, when I stepped into that cabin and saw him—unconscious, vulnerable, reeking of awakened power and raw grief—something inside me cracked.
 
-He looked so much like Marcus. The same strong jaw, the same dark hair falling across his forehead. But his scent... oh, his scent was pure Elara. Blood magic running hot and wild beneath his skin, calling to the familiar bond like a siren song. Add to that the sharp, intoxicating musk of his awakening—every Blood Archon smelled like sin and promise when their power first bloomed—and I found myself momentarily frozen.
+He looked so much like Marcus. The same strong jaw, the same dark hair falling across his forehead. But his scent... oh, his scent was pure Elara. Blood magic running hot and wild beneath his skin, calling to the familiar bond like a siren song. Add to that the sharp, intoxicating musk of his awakening—every heir smelled like sin and promise when their power first bloomed—and I found myself momentarily frozen.
 
 This was the boy I'd watched grow from a distance. The child I'd protected from shadows he never saw. The young man who'd never known that half his "lucky breaks" and "close calls" were actually me, intervening from the periphery of his life.
 
-And now he was a man. A *powerful* man. A Blood Archon who would need me in ways his parents never had.
+And now he was a man. A *powerful* man. An heir who would need me in ways his parents never had.
 
 I gathered him carefully, marveling at the warmth radiating from his skin. The awakening had changed him on a cellular level—I could see it, smell it, *feel* it through the bond trying desperately to form between us. He was heavier than I expected, solid muscle where there had been a leaner frame just months ago when I'd last glimpsed him from afar. The vial's magic had done its work, accelerating his transformation, preparing his body for the power now coursing through his veins.
 
@@ -52,7 +52,7 @@ But the bond—awakening now with every mile that passed—didn't feel like duty
 
 And that terrified me.
 
-Because I'd seen what happened when familiars fell for their charges. I'd watched the tragedy unfold with my own mentor, Serafine, who'd loved her Blood Archon too much and lost him to a rival's poison. I'd sworn I'd never let emotion cloud my judgment, never let attachment make me weak.
+Because I'd seen what happened when familiars fell for their charges. I'd watched the tragedy unfold with my own mentor, Serafine, who'd loved her charge too much and lost him to a rival's poison. I'd sworn I'd never let emotion cloud my judgment, never let attachment make me weak.
 
 But when Riven stirred in his sleep, when he murmured something that might have been "Mom" or might have been a prayer, when his power reached out blindly through our forming bond seeking *comfort*—I knew I was already lost.
 

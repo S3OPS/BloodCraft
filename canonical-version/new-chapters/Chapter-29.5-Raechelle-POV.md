@@ -124,7 +124,7 @@ Riven stared at the ring, and I felt the wave of emotion crash over him through 
 
 "She knew," he said hoarsely. "Somehow, she knew all of this would happen. That I'd need you. That I'd need..." He gestured helplessly at the ring, at me, at everything.
 
-"She was a Blood Archon," I said gently. "They sometimes have prophetic dreams. She might have Seen pieces of this future. Or she might have just been a mother who understood that her son would need guidance and protection she couldn't provide." I stepped closer. "Either way, she chose well. She chose to trust me with you."
+"She was an heir," I said gently. "They sometimes have prophetic dreams. She might have Seen pieces of this future. Or she might have just been a mother who understood that her son would need guidance and protection she couldn't provide." I stepped closer. "Either way, she chose well. She chose to trust me with you."
 
 He slipped the ring onto his finger—it fit perfectly, of course—and pulled me back into his arms.
 

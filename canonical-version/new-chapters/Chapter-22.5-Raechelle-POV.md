@@ -18,7 +18,7 @@ And they were treating Riven as an *equal*.
 
 "Which is exactly why we must stop Terravos before he attempts it," Riven replied, his voice steady despite the weight of three Archons' attention focused on him like suns. "He has the corrupted army. He has the ritual site. The only component he lacks is—"
 
-"A Blood Archon's death-blood," Mikhail interrupted, his words accompanied by the soft sound of ice crackling. "Which means he needs you dead, specifically. This alliance you propose—are you certain it's not simply a more elaborate trap?"
+"An heir's death-blood," Mikhail interrupted, his words accompanied by the soft sound of ice crackling. "Which means he needs you dead, specifically. This alliance you propose—are you certain it's not simply a more elaborate trap?"
 
 Through our bond, I felt Riven's pulse spike with frustration, but his face remained calm. Six months ago, he would have bristled at the implied insult. Now, he simply nodded acknowledgment.
 
@@ -122,7 +122,7 @@ Tears shone in his gray eyes, but he blinked them back. "I miss her. I miss both
 
 We stood there in the empty council chamber, two people bound together by magic and love, and I marveled at how far we'd come. How much he'd grown. How the frightened young man I'd pulled from that cabin had become someone who could stand before Archons and be seen as their equal.
 
-"Come on," I said finally, tugging him toward the door. "You need food, rest, and probably about twelve hours of sleep. Tomorrow, we start implementing all those strategies you just agreed to. Tonight, you're allowed to be human. Or as close to human as a Blood Archon gets."
+"Come on," I said finally, tugging him toward the door. "You need food, rest, and probably about twelve hours of sleep. Tomorrow, we start implementing all those strategies you just agreed to. Tonight, you're allowed to be human. Or as close to human as an heir gets."
 
 "What would I do without you?" he asked, following me out into the corridor.
 

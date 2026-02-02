@@ -28,7 +28,7 @@ Raechelle was handling it better than I was, somehow. She'd transformed into a l
 
 "Yes, you can. You have allies. Use them." He gestured toward the restoration crew. "Viktor has organized work teams from his pack. Morgana's coven is handling the magical repairs. Lady Seraphina is managing the political negotiations with the other Archons. You've built a network of capable people. Trust them to do their jobs."
 
-I wanted to argue. Wanted to insist that I needed to oversee everything personally, that I was the Blood Archon and this was my responsibility. But the truth was, I was barely holding it together.
+I wanted to argue. Wanted to insist that I needed to oversee everything personally, that I was the heir and this was my responsibility. But the truth was, I was barely holding it together.
 
 "All right," I said finally. "I'll... I'll take the afternoon off. Check on the house. Spend some time with Raechelle."
 
@@ -64,7 +64,7 @@ I found Raechelle in the garden, which had somehow survived the war mostly intac
 
 "And you don't?"
 
-"I feel tired. And scared. Because now I have to figure out what comes next." I looked at our joined hands, at the subtle glow of our bond visible even in daylight. "What does the Blood Archon do when there's no war to fight? How do I go from being a weapon to being a leader?"
+"I feel tired. And scared. Because now I have to figure out what comes next." I looked at our joined hands, at the subtle glow of our bond visible even in daylight. "What does the heir do when there's no war to fight? How do I go from being a weapon to being a leader?"
 
 Raechelle was quiet for a moment, thinking. When she spoke, her voice was gentle but firm. "You were never just a weapon. Even in the middle of the war, you were building something. Creating alliances, inspiring loyalty, showing people that power could be used to protect rather than dominate. You've already been a leader. Now you just get to focus on that without the constant threat of death."
 
@@ -78,7 +78,7 @@ Raechelle's version of "making lunch" involved raiding our kitchen, which was st
 
 She assembled sandwiches while I sat at the kitchen table, letting the familiar domesticity wash over me. This was something I'd missed during the war—simple, normal moments that didn't involve tactics or politics or life-and-death decisions.
 
-"So," she said, sliding a plate in front of me, "what does Riven Sixxx want? Not the Blood Archon, not the leader of Nocturne's forces, not the avenger of the Sixxx bloodline. You. What do you want?"
+"So," she said, sliding a plate in front of me, "what does Riven Sixxx want? Not the heir, not the leader of Nocturne's forces, not the avenger of the Sixxx bloodline. You. What do you want?"
 
 I took a bite, buying time to think. "I want... this. Peace. Normal days where the biggest decision is what to have for lunch. Time to actually read all those books I inherited instead of just using them for tactical research. A life that isn't defined by crisis and combat."
 
@@ -220,7 +220,7 @@ It should have felt overwhelming. Instead, it felt right. Like the final piece o
 
 "Raechelle."
 
-"—and we'll need to consider education, both conventional and magical. Plus security, because we'll have enemies who would target a Blood Archon's child—"
+"—and we'll need to consider education, both conventional and magical. Plus security, because we'll have enemies who would target an heir's child—"
 
 "Raechelle."
 
@@ -312,7 +312,7 @@ It was overwhelming and perfect. This was what family looked like—not just blo
 
 "Getting emotional and trying to hide it by being stoic."
 
-I glanced at her, not even bothering to deny it. "Can you blame me? A year ago, I was a college student whose biggest concern was passing my computer science exams. Now I'm the Blood Archon, I've got a family of supernatural allies, and I'm about to be a father. It's a lot."
+I glanced at her, not even bothering to deny it. "Can you blame me? A year ago, I was a college student whose biggest concern was passing my computer science exams. Now I'm the heir, I've got a family of supernatural allies, and I'm about to be a father. It's a lot."
 
 "Yes, it is." She squeezed my hand under the table. "But you'll be amazing at all of it. Just like you've been amazing at everything else you've faced."
 
@@ -438,7 +438,7 @@ It stopped being the Sixxx ancestral estate—a monument to power and legacy—a
 
 "Elena," I tested the name, feeling how it fit. "Elena Sixxx. I like it. It's strong but beautiful. What about if it's a boy?"
 
-"I thought... maybe Alexander? It means 'defender of people.' That seems fitting for a Blood Archon's child."
+"I thought... maybe Alexander? It means 'defender of people.' That seems fitting for an heir's child."
 
 "Alexander or Elena Sixxx." I smiled. "Both good names. Strong names. Names for someone who'll grow up knowing they're loved and wanted and powerful, but also responsible."
 
@@ -452,7 +452,7 @@ I was building something real. Something lasting. Something worth protecting wit
 
 Through the window, I could see Nocturne's lights—the city recovered and recovering, alive with possibility. In this room, I held my future—Raechelle and our unborn child, the family I'd never thought I'd have again after my parents died.
 
-This was victory. Not the moment of Terravos's death, but this—peace, hope, and love. The chance to build instead of destroy. To nurture instead of fight. To be more than just the Blood Archon.
+This was victory. Not the moment of Terravos's death, but this—peace, hope, and love. The chance to build instead of destroy. To nurture instead of fight. To be more than just the heir.
 
 To be Riven Sixxx. Husband, father, leader, and builder of futures.
 
