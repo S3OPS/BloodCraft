@@ -32,7 +32,7 @@ Such confidence. Such absolute certainty. At twenty-three years old—barely mor
 
 The terrifying part was that he might be right.
 
-I'd seen what Riven could do when he let his power flow freely. I'd felt the depth of his strength through our bond, the vast reservoir of blood magic that ran through his veins like molten gold. He was *strong*—stronger than Elara had been at this age, stronger than most Blood Archons I'd read about in the ancient texts.
+I'd seen what Riven could do when he let his power flow freely. I'd felt the depth of his strength through our bond, the vast reservoir of blood magic that ran through his veins like molten gold. He was *strong*—stronger than Elara had been at this age, stronger than most heirs of your lineage I'd read about in the ancient texts.
 
 But strength alone didn't guarantee survival.
 

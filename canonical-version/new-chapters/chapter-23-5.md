@@ -232,7 +232,7 @@ He turned to face me, his ancient eyes holding a sorrow that went beyond words. 
 
 He placed a hand on my shoulder, and the weight of his experience pressed down like a physical thing.
 
-"You're doing it right," he continued. "Visiting the families, feeling the grief, questioning your decisions. That means you're still human, despite the Blood Archon power. The moment you stop feeling the weight of command is the moment you become a tyrant."
+"You're doing it right," he continued. "Visiting the families, feeling the grief, questioning your decisions. That means you're still human, despite the heir power. The moment you stop feeling the weight of command is the moment you become a tyrant."
 
 "What if I make the wrong call?" I asked. "What if I send people into situations I can't get them out of?"
 

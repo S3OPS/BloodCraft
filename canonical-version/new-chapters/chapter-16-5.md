@@ -26,13 +26,13 @@ Raechelle was out of bed in an instant, already reaching for her clothes. "Then 
 
 The Central Archives were even quieter at night—or what passed for night in Nocturne's timeless twilight. Lucien, the ancient archivist, appeared from the shadows as if he'd been expecting us.
 
-"Young Archon," he said, his voice that same dry whisper. "I wondered when you would return. One visit to the Blood Archon section is never enough. The weight of legacy calls you back."
+"Young Archon," he said, his voice that same dry whisper. "I wondered when you would return. One visit to the heir section is never enough. The weight of legacy calls you back."
 
 "I need to understand them," I said. "My ancestors. Not just the facts, but who they were. What they faced."
 
 A knowing look crossed his pale features. "The memory crystals, then. More intimate than written records, more truthful than history books. Follow me."
 
-He led us back to the Blood Archon section, but this time guided us to a different chamber—smaller, circular, with walls lined with crystalline orbs that pulsed with inner light. Each crystal was labeled with a name and dates spanning centuries, some millennia.
+He led us back to the heir section, but this time guided us to a different chamber—smaller, circular, with walls lined with crystalline orbs that pulsed with inner light. Each crystal was labeled with a name and dates spanning centuries, some millennia.
 
 "These contain preserved consciousness fragments," Lucien explained. "Not complete minds—that would be necromancy—but echoes. Impressions. Moments of clarity that your ancestors chose to preserve for future generations."
 
@@ -42,7 +42,7 @@ I approached the wall slowly, reading names: Elara Sixxx, Marcus Sixxx, Morgaine
 
 My hand hovered over a crystal labeled "Alaric Sixxx - 1247 to 1312."
 
-"The Plague Years," Lucien murmured. "He was the Balance during the Black Death. A difficult time to be a Blood Archon."
+"The Plague Years," Lucien murmured. "He was the Balance during the Black Death. A difficult time to be an heir."
 
 I lifted the crystal. It was warm in my palm, pulsing in time with my heartbeat.
 
@@ -58,7 +58,7 @@ The world dissolved.
 
 *I am Alaric, and I am drowning in death.*
 
-*The plague has swept across Europe like God's own wrath, and everywhere I turn, I see corpses. The streets of Paris reek with decay. Bodies pile in wagons, carted to mass graves that can't be dug fast enough. And through it all, I feel every death—a Blood Archon's curse during times of mass mortality.*
+*The plague has swept across Europe like God's own wrath, and everywhere I turn, I see corpses. The streets of Paris reek with decay. Bodies pile in wagons, carted to mass graves that can't be dug fast enough. And through it all, I feel every death—an heir's curse during times of mass mortality.*
 
 *"You must maintain the Balance," the Council tells me. "The veil between life and death grows thin. Without you to hold it steady, the dead will rise, and chaos will consume the world."*
 
@@ -88,7 +88,7 @@ I straightened, my hands still shaking. "Show me another. Show me one who chose 
 
 The archivist's expression grew solemn. "You want to see a failure."
 
-"I want to see what happens when a Blood Archon refuses the burden."
+"I want to see what happens when an heir refuses the burden."
 
 Lucien moved to a different section of the wall, selecting a crystal that pulsed with darker light. "Morgaine Sixxx. 1542 to 1547. Five years. The shortest tenure of any Balance in recorded history."
 
@@ -200,7 +200,7 @@ Raechelle came to stand beside me, her hand finding mine.
 
 She turned me to face her, her amber eyes fierce with conviction.
 
-"And you have a choice," she continued. "Your parents tried to give you freedom by refusing the Balance. But true freedom isn't running from destiny—it's choosing how you meet it. You can be a Blood Archon on your own terms. You can protect Nocturne without becoming a prisoner. You can honor your heritage while creating your own path."
+"And you have a choice," she continued. "Your parents tried to give you freedom by refusing the Balance. But true freedom isn't running from destiny—it's choosing how you meet it. You can be an heir on your own terms. You can protect Nocturne without becoming a prisoner. You can honor your heritage while creating your own path."
 
 "How?" The question came out raw. "How do I do that?"
 

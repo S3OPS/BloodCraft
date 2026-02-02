@@ -68,7 +68,7 @@ The familiar bond made such trust easier, certainly. But it didn't make it any l
 
 "You don't trust her."
 
-"I don't trust her *motivations*," I clarified. "She warned you about the frame attempt, which suggests she wants you as an ally. But why? What does she get out of it? What does her coven want from a newly awakened Blood Archon?"
+"I don't trust her *motivations*," I clarified. "She warned you about the frame attempt, which suggests she wants you as an ally. But why? What does she get out of it? What does her coven want from a newly awakened heir?"
 
 Riven nodded slowly, understanding. "So I should accept the warning but not commit to anything."
 
@@ -90,7 +90,7 @@ He pulled me close then, wrapping his arms around me in an embrace that felt lik
 
 "I hate this," he murmured against my hair. "I just want to focus on training, on getting strong enough to face Terravos. But instead, I have to play politics and watch my back and second-guess everyone."
 
-"I know." I held him tighter, wishing I could shield him from all of it. "But this is part of being a Blood Archon. The politics matter just as much as the power—sometimes more. Terravos isn't just strong; he's *connected*. He has allies, resources, influence. To defeat him, you'll need all of that too."
+"I know." I held him tighter, wishing I could shield him from all of it. "But this is part of being an heir. The politics matter just as much as the power—sometimes more. Terravos isn't just strong; he's *connected*. He has allies, resources, influence. To defeat him, you'll need all of that too."
 
 "Will you help me?"
 
@@ -100,7 +100,7 @@ Because helping Riven navigate supernatural politics meant stepping out of the s
 
 It meant exactly what I'd sworn to do when we completed our bond.
 
-"Always," I promised. "But Riven, you need to understand something. I can advise you. I can teach you. I can use my experience and connections to help you build alliances. But at the end of the day, these decisions are *yours*. You're the Blood Archon. You're the one they'll follow—or fear. I can guide you, but I can't do it for you."
+"Always," I promised. "But Riven, you need to understand something. I can advise you. I can teach you. I can use my experience and connections to help you build alliances. But at the end of the day, these decisions are *yours*. You're the heir. You're the one they'll follow—or fear. I can guide you, but I can't do it for you."
 
 He pulled back far enough to meet my eyes. "I don't want you to do it for me. I want you beside me. As my partner."
 
@@ -134,7 +134,7 @@ And now, finally, it was time to put all that preparation to work.
 
 I met his eyes, letting him see the absolute confidence I felt through our bond. "Then we fail together and learn from it. But I don't think you're going to fail, my love. You're too smart, too determined, and too well-supported for that."
 
-He considered this, and I could see him working through the implications, the risks, the potential rewards. This was good. This was exactly the kind of strategic thinking he'd need to survive—not just the immediate threat of Terravos, but the long-term challenges of being a Blood Archon in a world that didn't trust easily.
+He considered this, and I could see him working through the implications, the risks, the potential rewards. This was good. This was exactly the kind of strategic thinking he'd need to survive—not just the immediate threat of Terravos, but the long-term challenges of being an heir in a world that didn't trust easily.
 
 "When do we start?" he asked finally.
 

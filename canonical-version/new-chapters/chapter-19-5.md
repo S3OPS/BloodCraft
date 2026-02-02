@@ -60,7 +60,7 @@ Seraphina studied the maps on the walls, her expression calculating. "I'll reach
 
 I wanted to argue, to insist that we should focus on military preparation instead of socializing. But looking around the room at the assembled leaders, I realized she was right. These people had committed to defending Nocturne, but most of them barely knew me. Our alliance was based on circumstantial necessity, not true trust.
 
-If I wanted them to follow me into a war that might consume us all, I needed to be more than just the Blood Archon. I needed to be someone they chose to stand beside.
+If I wanted them to follow me into a war that might consume us all, I needed to be more than just the heir. I needed to be someone they chose to stand beside.
 
 "All right," I said. "Then let's start with the most important relationship. Viktor, you got a few hours to spare?"
 
@@ -82,7 +82,7 @@ For a moment, Viktor just stared. Then he laughed—a deep, genuine sound that s
 
 "When and where?" I asked Viktor.
 
-"North district, at the edge of the eternal forest. One hour. Bring your familiar and leave the Blood Archon power at home—this is about wolves and cats, not Archons and servants." His grin was challenging. "Think you can keep up?"
+"North district, at the edge of the eternal forest. One hour. Bring your familiar and leave the heir power at home—this is about wolves and cats, not Archons and servants." His grin was challenging. "Think you can keep up?"
 
 "Only one way to find out."
 
@@ -146,7 +146,7 @@ Viktor, now back in human form and dressed, approached me. "You did good. Better
 
 "You're saying our alliance needs more than just military coordination," I said, understanding.
 
-"I'm saying that if you want the Ironclad pack to bleed for Nocturne, we need to know you'll bleed for us too. Not as the Blood Archon honoring treaty obligations. But as Riven, someone who gives a damn about the individuals who fight beside him." Viktor's gaze was intense. "That depot raid? You called out to make sure everyone made it through the portal before you. You took rear guard even though you were the most exhausted. That mattered to my pack. That's why Kael and Mira and the others will follow you into the next fight."
+"I'm saying that if you want the Ironclad pack to bleed for Nocturne, we need to know you'll bleed for us too. Not as the heir honoring treaty obligations. But as Riven, someone who gives a damn about the individuals who fight beside him." Viktor's gaze was intense. "That depot raid? You called out to make sure everyone made it through the portal before you. You took rear guard even though you were the most exhausted. That mattered to my pack. That's why Kael and Mira and the others will follow you into the next fight."
 
 "Because I didn't abandon them," I said quietly.
 
@@ -184,7 +184,7 @@ For a moment, she just stared. Then, surprisingly, she laughed—a genuine sound
 
 "I want to revolutionize witch magic," she said, her voice carrying passionate intensity. "For centuries, the covens have clung to tradition, treating innovation as heresy. We practice the same spells our grandmothers practiced, following the same rituals, adhering to the same limitations. And we call it 'preserving knowledge' when really, we're stagnating."
 
-She began to pace, her hands gesturing as she spoke. "But you—a Blood Archon learning magic that was supposedly lost for centuries—you prove that the old ways aren't the only ways. You combine blood magic with modern strategic thinking. You adapt and innovate because you weren't raised in our tradition, so you're not bound by our limitations."
+She began to pace, her hands gesturing as she spoke. "But you—an heir learning magic that was supposedly lost for centuries—you prove that the old ways aren't the only ways. You combine blood magic with modern strategic thinking. You adapt and innovate because you weren't raised in our tradition, so you're not bound by our limitations."
 
 "And you want to do the same for witchcraft," I said, understanding dawning.
 
@@ -260,7 +260,7 @@ Morgana was quiet for a moment, considering. "I think she's both. The future and
 
 "So you want to make sure we don't repeat those mistakes," I said.
 
-"I want to make sure that when change comes—and it will come—it builds on what we've learned rather than discarding it." She reached across the table and placed her weathered hand over mine. "Work with us, Riven. Not just as a Blood Archon commanding witch covens, but as someone who understands that power must be balanced with wisdom. That's what the Balance truly means, isn't it? Not suppression, but equilibrium."
+"I want to make sure that when change comes—and it will come—it builds on what we've learned rather than discarding it." She reached across the table and placed her weathered hand over mine. "Work with us, Riven. Not just as an heir commanding witch covens, but as someone who understands that power must be balanced with wisdom. That's what the Balance truly means, isn't it? Not suppression, but equilibrium."
 
 Her words hit deeper than she probably realized. The Balance—my supposed destiny—wasn't about controlling the supernatural world through force. It was about finding the place where tradition and innovation, old power and new, could coexist without destroying each other.
 
@@ -306,7 +306,7 @@ The seriousness in her tone made me focus completely. "What is it?"
 
 "Political implications?" I repeated.
 
-"You're the Blood Archon. A young, unmated Archon with no permanent romantic attachments. That makes you a target for political maneuvering—other factions trying to marry daughters or sons into your bloodline, creating alliances through romance rather than treaty."
+"You're the heir. A young, unmated Archon with no permanent romantic attachments. That makes you a target for political maneuvering—other factions trying to marry daughters or sons into your bloodline, creating alliances through romance rather than treaty."
 
 Understanding dawned. "But if we're recognized as life partners..."
 
@@ -424,7 +424,7 @@ The room fell absolutely silent. Another Blood Archon—one allied with Terravos
 
 "How do we fight two Archons?" someone asked, voicing the question everyone was thinking.
 
-"You don't," Sylvanas said bluntly. "Not directly. But you can complicate Terravos's alliance. Mordecai is interested in you, Riven Sixxx, because you represent something new—a Blood Archon learning forgotten techniques, combining old magic with new approaches. He sees you as a puzzle to solve, a specimen to study. If you can convince him that you're more valuable alive and independent than captured and dissected, you might be able to neutralize his support for Terravos."
+"You don't," Sylvanas said bluntly. "Not directly. But you can complicate Terravos's alliance. Mordecai is interested in you, Riven Sixxx, because you represent something new—an heir learning forgotten techniques, combining old magic with new approaches. He sees you as a puzzle to solve, a specimen to study. If you can convince him that you're more valuable alive and independent than captured and dissected, you might be able to neutralize his support for Terravos."
 
 "You're suggesting I negotiate with a three-thousand-year-old mad scientist who wants to experiment on me," I said flatly.
 

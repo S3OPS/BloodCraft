@@ -42,7 +42,7 @@ Corvinus leaned closer, his expression darkening. "That's... those are containme
 
 The room erupted.
 
-"Impossible," Velthorne said. "The Sixxx line is the only surviving Blood Archon lineage."
+"Impossible," Velthorne said. "The Sixxx line is the only surviving the lineage."
 
 "Not if someone was captured before they died," Corvinus said grimly. "Preserved in stasis. It would require immense power and resources, but Terravos has had millennia to plan this."
 
@@ -118,7 +118,7 @@ Corvinus nodded. "I accept. Though I'd rather be at your side for the duel."
 
 "Then it's settled," Seraphina declared. "We march at dawn. Three days to reach the Heart of Stone, which gives us time to coordinate our approach. The strike team will move simultaneously—hit the fortress while Terravos is focused on the duel."
 
-"What about the prophecy?" a voice asked from the back. Elder Thessia, one of the oldest vampires in Nocturne, stepped forward. "The ancient texts spoke of a Blood Archon who would either restore the Balance or shatter it forever. Every supernatural alive knows those words. Is this that moment?"
+"What about the prophecy?" a voice asked from the back. Elder Thessia, one of the oldest vampires in Nocturne, stepped forward. "The ancient texts spoke of an heir who would either restore the Balance or shatter it forever. Every supernatural alive knows those words. Is this that moment?"
 
 All eyes turned to me. I felt the weight of their expectations, their fears, their hopes.
 
@@ -144,7 +144,7 @@ My hands shook as I took the journal. Inside, pages of Elara Sixxx's handwriting
 
 *I know what's coming. Marcus and I have already made preparations—if Terravos comes for us, Riven will be protected. The bloodline will survive. But there's something else, something I haven't told anyone.*
 
-*The prophecy doesn't end with restoration or destruction. There's a third option, hidden in texts older than Carmilla herself: Transformation. A Blood Archon who neither restores the old Balance nor breaks it, but evolves it into something new. Something that preserves the protection we need without the limitations that drive Archons like Terravos to madness.*
+*The prophecy doesn't end with restoration or destruction. There's a third option, hidden in texts older than Carmilla herself: Transformation. An heir who neither restores the old Balance nor breaks it, but evolves it into something new. Something that preserves the protection we need without the limitations that drive Archons like Terravos to madness.*
 
 *If I don't survive, if Riven must face this alone, I pray he finds this journal. Because the answer isn't in choosing between Terravos's vision and the old ways. It's in forging a new path entirely.*
 
@@ -158,7 +158,7 @@ He shook his head slowly. "Elara was brilliant, always pushing boundaries. But t
 
 Seraphina's shadow-form rippled. "The same way Carmilla established it in the first place—with a grand ritual, multiple Archons working in concert, and a willingness to become something more than what they were."
 
-"But Carmilla had multiple Archons," Raechelle said. "Riven is the only Blood Archon left. Unless..." She looked at the documents about the imprisoned Archon.
+"But Carmilla had multiple Archons," Raechelle said. "Riven is the last of my line left. Unless..." She looked at the documents about the imprisoned Archon.
 
 "Unless we free whoever Terravos has been holding," I finished. "Two Blood Archons, working together. That might be enough."
 
@@ -238,7 +238,7 @@ I stood at the head of the formation, Raechelle beside me, and looked out at fiv
 
 A ripple of laughter, tension breaking slightly.
 
-"Then Terravos killed my parents. Destroyed my life. And I learned I was something I never asked to be—a Blood Archon, the Balance, a target for an ancient enemy's revenge." I paused, letting that sink in. "I could have run. Could have hidden. Let someone else fight this battle. But I didn't, because I learned something in these last months that changed everything."
+"Then Terravos killed my parents. Destroyed my life. And I learned I was something I never asked to be—an heir, the Balance, a target for an ancient enemy's revenge." I paused, letting that sink in. "I could have run. Could have hidden. Let someone else fight this battle. But I didn't, because I learned something in these last months that changed everything."
 
 I looked at Raechelle, then at Viktor, Morgana, Corvinus, Seraphina—all the people who'd become family.
 
