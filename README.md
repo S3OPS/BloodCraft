@@ -199,6 +199,13 @@ This repository focuses on the **Canonical Version** of Blood Craft. The Paradox
 - **[canonical-version/DEVELOPMENT.md](canonical-version/DEVELOPMENT.md)** - Canonical version guidelines
 - **[CHAPTER_TEMPLATE.md](CHAPTER_TEMPLATE.md)** - Template for new chapters
 
+### Quality Assurance Tools
+
+- **[Narrative Consistency Reviewer Agent](.github/agents/narrative-consistency-reviewer.agent.md)** - 🤖 AI agent for detecting inconsistencies
+- **[Agent Usage Guide](docs/NARRATIVE_AGENT_USAGE.md)** - How to use the consistency review agent
+- **[NARRATIVE_CONSISTENCY_REVIEW.md](NARRATIVE_CONSISTENCY_REVIEW.md)** - Example comprehensive analysis report
+- **[FIXES_COMPLETED_SUMMARY.md](FIXES_COMPLETED_SUMMARY.md)** - History of resolved inconsistencies
+
 ### Quick Start for Contributors
 1. Check **QUICK_REFERENCE.md** for common tasks and quick tips
 2. Read **CONTRIBUTING.md** for general guidelines

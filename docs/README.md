@@ -27,6 +27,20 @@ Original Word document containing an earlier version of the story. Archived here
 
 ---
 
+### NARRATIVE_AGENT_USAGE.md
+**Guide for using the Narrative Consistency Reviewer agent**
+
+Comprehensive documentation for using the specialized GitHub Copilot agent that analyzes narratives for:
+- Repeating scenes and duplicate content
+- Timeline inconsistencies and time jumps
+- Character description variations
+- Plot holes and unresolved threads
+- World-building rule violations
+
+**Use this agent before publishing** to ensure narrative quality and consistency.
+
+---
+
 ## 🔍 Quick Navigation
 
 ### Want to Read the Story?
