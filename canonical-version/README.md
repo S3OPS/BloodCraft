@@ -10,11 +10,13 @@ This directory contains the **canonical/original storyline** of Blood Craft - a 
 
 ### What You'll Find Here
 
+- **Blood-Craft-Reader.html** - 🌟 Interactive book reader with chapter/page navigation (RECOMMENDED)
+- **book-structure.json** - Book metadata with all chapter IDs and page IDs
+- **Blood-Craft-Canonical.md** - Complete 48-chapter novel in markdown (~1.2MB, ~197,000 words)
 - **Book1.md** - Chapters 1-13: Awakening (Structural outline)
 - **Book2.md** - Chapters 14-26: The Rising Conflict (Structural outline)
 - **Book3.md** - Chapters 27-38: The Final Confrontation (Structural outline)
 - **Chapter-Summary-and-Timeline.md** - Complete outline and summary of the canonical storyline
-- **Blood-Craft-Canonical.md** - **Complete 38-chapter novel (~944KB, ~157,000 words)**
 - **new-chapters/** - Additional chapter files
 
 ---
@@ -50,13 +52,13 @@ With the help of Raechelle Darkpurr (his family's familiar), Riven learns to mas
 
 ## 📚 Current Status
 
-**✅ The canonical version is now fully written and enhanced!** The complete 47-chapter novel is available in `Blood-Craft-Canonical.md` (~1.14MB, ~185,600 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the narrative.
+**✅ The canonical version is now fully written and enhanced!** The complete novel with 48 total chapters (37 main + 11 interstitial) is available in `Blood-Craft-Canonical.md` (~1.2MB, ~197,000 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the main narrative arc.
 
-**Recent Enhancement (February 2026):** Successfully integrated 10 new interstitial chapters (numbered with .5) throughout the narrative:
-- 4 Raechelle POV chapters providing a distinct woman's perspective (Chapters 2.5, 7.5, 15.5, 29.5)
-- 6 additional Riven POV chapters deepening character development and plot (Chapters 16.5, 19.5, 23.5, 25.5, 27.5, 30.5)
+**Recent Enhancement (February 2026):** Successfully integrated 11 new interstitial chapters (numbered with .5) throughout the narrative:
+- 4 Raechelle POV chapters providing a distinct woman's perspective (Chapters 0.5, 2.5, 7.5, 15.5, 29.5)
+- 7 additional chapters deepening character development and plot (Chapters 16.5, 19.5, 23.5, 25.5, 27.5, 30.5, 34.5)
 - Complete consistency review conducted, all major inconsistencies resolved
-- Total chapter count: 47 chapters (37 main + 10 interstitial)
+- Total chapter count: 48 chapters (37 main numbered 1-37 + 11 interstitial .5 chapters)
 
 ---
 
@@ -91,19 +93,29 @@ The story is organized into three books:
    - Alliance building across supernatural factions
    - Ends with preparation for all-out war
 
-3. **Book3.md** (Chapters 27-38: The Final Confrontation)
+3. **Book3.md** (Chapters 27-37 + interstitial chapters: The Final Confrontation)
    - Full-scale supernatural war
    - Final confrontation with Terravos
    - Resolution of Riven's parents' murder
    - Establishment of peace and future
-   - Epilogue: 40 years later with daughter Elena
+   - Note: Main story arc concludes at Chapter 37; Book3.md outline covers the main numbered chapters
 
 ### How to Read
 
-1. **Read the full novel**: Go directly to **Blood-Craft-Canonical.md** for the complete 38-chapter narrative
-2. **Chapter outlines**: Use **Book1.md**, **Book2.md**, and **Book3.md** for structural summaries
-3. **Complete overview**: See **Chapter-Summary-and-Timeline.md** for a comprehensive outline
-4. **Compare versions**: Check `../docs/Comparison-Guide.md` to see how this differs from the Paradox version (in separate repository)
+1. **Interactive Reader (Recommended)**: Open **Blood-Craft-Reader.html** in your web browser
+   - Navigate by chapters with unique chapter IDs (ch1, ch2, ch2_5, etc.)
+   - Read page-by-page with unique page IDs (ch1_p1, ch2_p3, etc.)
+   - 221 pages total, ~1000 words per page
+   - Features: auto-bookmark, keyboard navigation, jump-to-page
+   - See **[../BOOK_READER_GUIDE.md](../BOOK_READER_GUIDE.md)** for complete guide
+
+2. **Traditional Reading**: Read **Blood-Craft-Canonical.md** for the complete 48-chapter narrative in one file
+
+3. **Chapter Outlines**: Use **Book1.md**, **Book2.md**, and **Book3.md** for structural summaries
+
+4. **Complete Overview**: See **Chapter-Summary-and-Timeline.md** for a comprehensive outline
+
+5. **Compare Versions**: Check `../docs/Comparison-Guide.md` to see how this differs from the Paradox version (in separate repository)
 
 ---
 

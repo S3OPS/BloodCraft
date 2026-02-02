@@ -54,9 +54,17 @@ BloodCraft/
 
 ### 📖 Want to Read the Story?
 
-**Start here**: [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
+**🌟 Interactive Reader (Recommended)**: [`canonical-version/Blood-Craft-Reader.html`](canonical-version/Blood-Craft-Reader.html)
+- Read like a real book with chapter and page navigation
+- 48 chapters across 221 pages
+- Automatic bookmarks, keyboard shortcuts, and jump-to-page features
+- See [BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md) for details
 
-The complete 38-chapter novel follows Riven's supernatural awakening and journey to master his powers.
+**Traditional Reading**: [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
+- Read the complete narrative in one markdown file
+- Better for searching specific text
+
+The complete 48-chapter novel follows Riven's supernatural awakening and journey to master his powers.
 
 ### 🔀 Looking for the Paradox Version?
 
@@ -68,10 +76,10 @@ The Paradox Version (psychological thriller with major twist) has moved to its o
 **Go here**: 
 - [`canonical-version/Book1.md`](canonical-version/Book1.md) - Structural outline for Chapters 1-13
 - [`canonical-version/Book2.md`](canonical-version/Book2.md) - Structural outline for Chapters 14-26
-- [`canonical-version/Book3.md`](canonical-version/Book3.md) - Structural outline for Chapters 27-38
+- [`canonical-version/Book3.md`](canonical-version/Book3.md) - Structural outline for Chapters 27-37
 - [`canonical-version/Chapter-Summary-and-Timeline.md`](canonical-version/Chapter-Summary-and-Timeline.md) - Complete overview
 
-The chapter outlines provide detailed structural summaries of the canonical version.
+The chapter outlines provide detailed structural summaries of the main numbered chapters in the canonical version. The full novel includes these plus 11 additional interstitial (.5) chapters.
 
 ---
 
@@ -94,15 +102,15 @@ Read this if you want:
 **Location**: [`canonical-version/`](canonical-version/)
 
 Read this if you want:
-- ✅ Complete, fully-written 38-chapter novel (~157,000 words)
-- ✅ **NEW: Dual-POV chapters** from Raechelle's perspective (4 additional chapters)
+- ✅ Complete novel with 48 total chapters (37 main chapters + 11 interstitial .5 chapters, ~197,000 words)
+- ✅ **NEW: Dual-POV chapters** from Raechelle's perspective
 - ✅ Traditional hero's journey structure
 - ✅ Clear heroes and villains
 - ✅ Romantic supernatural fantasy
 - ✅ Empowering protagonist growth
 - ✅ Straightforward good vs. evil
 
-**Note**: The canonical version is now fully written in `Blood-Craft-Canonical.md`. Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries. Additional Raechelle POV chapters in `new-chapters/` directory provide a distinct woman's perspective on key events.
+**Note**: The canonical version is now fully written in `Blood-Craft-Canonical.md`. Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the main numbered chapters. Additional Raechelle POV chapters in `new-chapters/` directory provide a distinct woman's perspective on key events.
 
 ---
 
@@ -194,6 +202,9 @@ This repository focuses on the **Canonical Version** of Blood Craft. The Paradox
 
 ### Development Infrastructure
 
+- **[BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md)** - 📖 Guide to the interactive book reader
+- **[book_reader_generator.py](book_reader_generator.py)** - 🛠️ Script to generate the book reader
+- **[book_structure_examples.py](book_structure_examples.py)** - 📝 Examples of working with chapter/page IDs
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - ⚡ Quick reference for common tasks (start here!)
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Complete contribution guidelines
 - **[canonical-version/DEVELOPMENT.md](canonical-version/DEVELOPMENT.md)** - Canonical version guidelines
