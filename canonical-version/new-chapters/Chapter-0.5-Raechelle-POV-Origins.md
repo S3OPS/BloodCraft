@@ -1,6 +1,6 @@
 # **Chapter 0.5 - Raechelle's Perspective: Before the Binding**
 
-*[Raechelle POV - Origin Story: 247 years before meeting Riven]*
+*[Raechelle POV - Origin Story: The First Two Centuries]*
 
 ---
 
@@ -236,9 +236,9 @@ I couldn't speak. Could only hold him as the poison worked faster, could only fe
 
 "Promise me," he insisted, using the last of his strength to grip my hand. "Live, Raechelle. Find another Archon if you can. Or find a way to break the familiar magic if you can't. But *live*. Don't let my death be the end of your story."
 
-"I promise," I choked out, lying through my teeth because what else could I do?
+"I promise," I choked out, not knowing if I could keep it but needing to give him peace.
 
-He smiled, and I felt his love through our dying bond—fierce and absolute and heartbreaking. "Liar," he whispered. "But I love you for trying."
+He smiled, and I felt his love through our dying bond—fierce and absolute and heartbreaking. "That's my girl," he whispered. "Fight for me. Even when I'm gone, keep fighting."
 
 Then he was gone.
 
@@ -382,7 +382,7 @@ Everything else was just prologue.
 
 *End of Chapter 0.5*
 
-**Word Count**: ~5,800 words
+**Word Count**: ~5,136 words
 
 **Note**: This origin story establishes Raechelle's background as:
 - Born vampire-shifter hybrid from the Darkpurr clan (a rare bloodline that combines both gifts naturally)
