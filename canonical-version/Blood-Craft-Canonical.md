@@ -734,11 +734,11 @@ I'd been shadowing them for hours, tracking their progress as they drove toward 
 
 Elara had called me three days ago, her voice tight with a tension I'd rarely heard from her. "Rae," she'd said, "we're taking Riven to the cabin this weekend. I need you there. Early. I have... a feeling."
 
-I'd arrived at the property two days before they were scheduled to come, shifting between my panther form to patrol the perimeter and my human form to thoroughly scope out the cabin and surrounding woods. The place was remote—miles from the nearest neighbor, accessible only by a winding road that cut through dense forest. Perfect for privacy. Also perfect for an ambush.
+I'd arrived at the remote cabin property two days before they were scheduled to come, shifting between my panther form to patrol the perimeter and my human form to thoroughly scope out the area and surrounding woods. The place was isolated—miles from the nearest neighbor, accessible only by a winding road that cut through dense forest. Perfect for a peaceful weekend retreat. Also perfect for an ambush.
 
-I'd set up in the smaller guest cabin about a quarter mile away—close enough to maintain overwatch, far enough that my presence wouldn't be detected unless someone was specifically looking for me. From the cabin's window, I had a clear sightline to the main house and the road leading to it. I'd stocked supplies, prepared defensive wards, and settled in to wait.
+I'd set up my surveillance position in a dense copse of trees about a quarter mile from the cabin, with a clear sightline to the structure and the single road leading to it. I'd prepared defensive wards around the perimeter, stocked emergency supplies, and settled in to wait and watch.
 
-When their car finally appeared on the road that evening, I watched through binoculars, tracking their progress. Everything seemed normal at first—just a family trip to the cabin, Marcus driving, Elara in the passenger seat, Riven likely in the back. But then I saw it: the shimmer in the air behind them, the telltale distortion of earth magic gathering power.
+When their car finally appeared on the winding road that evening, I tracked their progress through binoculars from my hidden vantage point. Everything seemed normal at first—just a family trip to the cabin, Marcus driving carefully along the treacherous curves, Elara in the passenger seat, Riven likely in the back. But then I saw it: the shimmer in the air behind them, the telltale distortion of earth magic gathering power.
 
 My blood ran cold.
 
