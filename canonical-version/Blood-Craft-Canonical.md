@@ -1385,7 +1385,7 @@ The walk felt longer than it should have, though Raechelle moved with purpose th
 
 I surveyed the clearing, puzzled. "What cabin?" All I saw was an empty expanse of land, roughly half the size of a football field, surrounded by towering trees that loomed like silent sentinels.
 
-Raechelle's eyes sparkled with mischief and joy. "I wasn't sure if the spell would hold against an Archon," she explained, laughter dancing in her voice. "But it seems my concealment magic works even on you—at least for now." She tossed me a dazzling wink, the first genuine display of happiness I'd seen from her.
+Raechelle's eyes sparkled with mischief and joy. "I wasn't sure if the spell would hold against an Archon," she explained, laughter dancing in her voice. "But it seems my concealment magic works even on you—at least for now." She tossed me a dazzling wink, the first genuine display of happiness I'd seen from her. The playful gesture was so unexpected, so deliberately flirtatious, that it caught me off guard. She was testing the waters, I realized, gauging my reaction.
 
 Then she took my hand—the contact sending an unexpected warmth through me—and spoke with ceremonial weight: "Sir Riven, as my honored guest, never avert your gaze from my home."
 
@@ -2574,8 +2574,7 @@ coming home.
 Her crimson eyes fluttered open, catching the dim light filtering through the curtains. "You're awake," she murmured,
 her voice thick with sleep yet still carrying that sultry undertone that sent electricity through my veins.
 
-"I've been watching you sleep," I admitted, reaching up to gently stroke one of her velvety ears. She made a sound
-somewhere between a purr and a contented sigh, leaning into my touch.
+"I've been watching you sleep," I admitted, reaching up to gently stroke one of her velvety ears. She made a sound somewhere between a purr and a contented sigh, leaning into my touch. The simple gesture clearly affected her—her pupils dilated, her breathing deepened, and through the bond I could sense a flutter of pleasure mixed with want.
 
 "That's either very romantic or slightly creepy, Sir," she teased, a playful smile dancing on her lips. "I'm choosing to
 believe it's the former."
@@ -2589,7 +2588,7 @@ quality of light outside, I'd estimate it's late afternoon. We slept through mos
 The reality of our situation came crashing back. My parents' bodies were still out there somewhere, in the wreckage of
 the car. The thought made my stomach clench painfully.
 
-"We need to—" I started, but Raechelle placed a gentle finger against my lips.
+"We need to—" I started, but Raechelle placed a gentle finger against my lips. The touch was electric, intimate, and I saw her eyes darken as she registered my sharp intake of breath. She knew exactly what effect she had on me—the slight smirk playing at the corner of her mouth told me so. She was enjoying this, testing how much she could affect me with the smallest gestures.
 
 "I know what you're thinking," she said softly, her eyes filled with understanding. "And yes, we will need to address
 your parents' remains. But there are things you need to understand first about how the magical world handles such...
@@ -3126,8 +3125,7 @@ I nodded, but my mind was already racing ahead, planning our next steps. Trainin
 the bonding ritual that would cement our connection and multiply our power.
 
 As we settled onto the sofa together, Raechelle curling against me with the natural ease of a cat seeking warmth, I
-allowed myself a moment of something that might have been hope. The path ahead was dangerous and uncertain, but I wasn't
-walking it alone.
+allowed myself a moment of something that might have been hope. Her body molded to mine, all soft curves and dangerous grace, and I couldn't help but notice how perfectly she fit against me. The way her head tucked under my chin, how her tail wrapped possessively around my leg—every touch felt deliberate, claiming. And through the bond, I felt her contentment, her pleasure at this simple intimacy. The path ahead was dangerous and uncertain, but I wasn't walking it alone.
 
 "Raechelle?" I murmured, already feeling sleep tugging at my consciousness.
 
