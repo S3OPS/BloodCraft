@@ -3401,7 +3401,7 @@ I watched her walk away, my pulse pounding, and realized that training was about
 
 But despite her words, she led me back to the cabin and poured me a glass of water instead of letting me rest alone. We sat on the porch steps, shoulders touching, watching the sun climb higher. The comfortable silence felt different now—charged with new understanding, weighted with anticipation.
 
-"You know," I said, "when I found your letter in Mom's journal, when I drove out here... I didn't know what to expect. I definitely didn't expect this."
+"You know," I said, "when you pulled me from that wreckage, when we walked through those woods to your cabin... I didn't know what to expect. I definitely didn't expect this."
 
 "This?"
 
