@@ -169,11 +169,22 @@ Raechelle has 4 dedicated POV chapters (2.5, 7.5, 15.5, 29.5) that provide:
 - Energy/life force manipulation
 - Clear rules and costs
 
+**Emotion-Based Affinity System**:
+Riven possesses a unique multi-affinity potential, with each magical discipline manifesting based on his emotional state:
+- **Blood Magic** (determination, protection, life force awareness)
+- **Fire Magic** (rage, passion, fury)
+- **Water Magic** (grief, sadness, compassion)
+- **Earth Magic** (grounding, stability, patience)
+- **Air Magic** (joy, freedom, hope)
+
+See **[MAGIC_AFFINITY_SYSTEM.md](MAGIC_AFFINITY_SYSTEM.md)** for complete documentation.
+
 **Consistency Requirements**:
 - Magic must have consistent rules
 - Powers have limits and costs
 - Growth is earned, not arbitrary
 - Avoid deus ex machina
+- Emotional state influences magical manifestation (colors, intensity, type)
 
 ---
 
