@@ -83,7 +83,7 @@ Pull requests will show the HTML changes, making it easy to verify the generatio
 
 ### Permissions
 
-The workflow uses `GITHUB_TOKEN` which has write permissions to commit back to the repository. No additional secrets or configuration needed.
+The workflow uses `GITHUB_TOKEN` with explicit `contents: write` permission to commit back to the repository. This permission is configured in the workflow file and no additional secrets or configuration are needed.
 
 ### Skip CI Tag
 

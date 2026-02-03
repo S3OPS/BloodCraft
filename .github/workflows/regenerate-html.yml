@@ -9,6 +9,9 @@ on:
       - 'canonical-version/Blood-Craft-Canonical.md'
   workflow_dispatch:  # Allow manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   regenerate-html:
     runs-on: ubuntu-latest
