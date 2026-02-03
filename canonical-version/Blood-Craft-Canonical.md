@@ -3197,7 +3197,7 @@ Raechelle moved like water, like wind, like nothing human had any right to move.
 
 "Try harder." The command was sharp, absolute, and she came at me again before I could fully process the shift in her demeanor. 
 
-This wasn't the woman who'd melted in my arms last night, who'd deferred to my every word. This was someone else entirely—a warrior, a teacher who expected obedience. And damn if part of me didn't respond to that tone despite every instinct urging me to take control back.
+This wasn't the woman who'd curled against me on the couch last night, soft and deferring to my every word. This was someone else entirely—a warrior, a teacher who expected obedience. And damn if part of me didn't respond to that tone despite every instinct urging me to take control back.
 
 We trained in the clearing behind the cabin, far from any trails or prying eyes. She taught me how vampires fought—dirty, efficient, exploiting every advantage of their enhanced nature. She showed me how to move with my new speed, how to strike with my new strength, how to use my senses to predict attacks before they landed.
 
@@ -3423,19 +3423,25 @@ She turned to look at me, and something flickered in her eyes—pride, maybe, or
 
 On impulse, I leaned over and kissed her cheek. "Thank you. For all of this. For not giving up on me. For being honest about what we're both feeling."
 
-Raechelle's breath caught. For a moment, she seemed frozen, then she turned her head and kissed me properly, her lips cool and soft against mine. It was brief, but charged with new meaning—a promise of what would happen when training ended for the day. 
+Raechelle's breath caught. For a moment, she seemed frozen, then she turned her head and kissed me properly, her lips cool and soft against mine. Heat flared between us instantly, desire threatening to consume all reason.
 
-When we pulled apart, she rested her forehead against mine. "We should get back to training."
+When we pulled apart, we were both breathing hard. She rested her forehead against mine, her tail curling around my wrist. "We should get back to training."
 
-"Should we?" I murmured, my hand sliding to the nape of her neck. "Or should I show you how much I want you before I let you command me for the next few hours?"
+"Should we?" I murmured, my hand sliding to the nape of her neck. "Or should I show you how much I want you right now?"
 
-Her pupils dilated, her tail swishing in clear arousal. "Sir—"
+Her pupils dilated, her tail swishing in clear arousal, and for a heartbeat I thought she'd say yes. But then she pulled back gently, her clawed hand resting against my chest. "Sir... I want this. I want you. More than you know."
 
-"That's what I thought." I claimed her mouth again, deeper this time, pouring my desire into the kiss even as I knew I'd be surrendering control soon enough. When I finally released her, we were both breathing hard. "Now we can get back to training."
+"Then why—"
 
-"Yes, Sir," she whispered, her voice soft with desire, a perfect counterpoint to the authority I knew she'd wield shortly.
+"Because the ritual," she whispered, her voice thick with longing. "When we bond, it should be... I want our first time together to be during the ritual. To make it mean everything it should mean. Can you wait for me?"
 
-"Come on, blood mage," she said, standing and offering me her hand, already shifting back into instructor mode with a confidence that was impossibly arousing. "Let's see if you can lift more than a few drops now. And Riven?" Her voice dropped, taking on that commanding edge. "I expect perfection."
+The vulnerability in her eyes undid me. I cupped her face gently, pressing one more soft kiss to her lips. "For you? I'd wait centuries."
+
+Relief and gratitude flooded her features. "Thank you," she breathed. "You have no idea what that means to me. The ritual... it will be worth the wait, I promise."
+
+"I know it will." I squeezed her hand, then stood, pulling her up with me. "Now, shall we get back to training? Before I lose my resolve?"
+
+She laughed softly, a sound full of affection and barely restrained desire. "Yes. Training." She shifted into instructor mode, though her eyes still held that heat. "Come on, blood mage. Let's see if you can lift more than a few drops now. And Riven?" Her voice dropped, taking on that commanding edge even as her tail betrayed her with a nervous swish. "I expect perfection."
 
 ---
 
@@ -3453,7 +3459,7 @@ I found her on the porch, staring out at the moonlit forest. She didn't turn whe
 
 "Old habit. The night has always felt more comfortable."
 
-I sat beside her, and for a while, we didn't speak. The dynamic between us had shifted since our conversation three days ago—the training had become more intense, more charged, more effective. And each evening, when her instructor role ended, I'd made it my mission to thoroughly remind her that she was mine. The balance was working, pushing us both in ways I hadn't anticipated.
+I sat beside her, and for a while, we didn't speak. The dynamic between us had shifted since our conversation three days ago—the training had become more intense, more charged, more effective. And each evening, when her instructor role ended, the tension between us grew unbearable, the air crackling with unspoken desire and the promise of what would come on the ritual night. The anticipation was working, pushing us both in ways I hadn't anticipated.
 
 On impulse, I held out my hand palm-up and focused. The blood magic came easier now, almost natural—a testament to how well the enhanced training dynamic was working. A drop of my own blood beaded on my fingertip, and I pulled it free with my will, shaping it in the air.
 
@@ -3461,11 +3467,11 @@ It floated between us, a perfect sphere of deep crimson, catching the moonlight.
 
 "Show off," Raechelle murmured, but she was smiling.
 
-I shaped the drop into different forms—a spiral, a star, a small flower. It was delicate work, requiring fine control I didn't have ten days ago. Control she'd pushed me to develop with increasingly demanding exercises and corrections that left us both wound tight with tension until I could finally take back what was mine each night.
+I shaped the drop into different forms—a spiral, a star, a small flower. It was delicate work, requiring fine control I didn't have ten days ago. Control she'd pushed me to develop with increasingly demanding exercises and corrections that left us both wound tight with tension that had nowhere to go yet—but would, soon.
 
 "I've been thinking about the ritual," I said as I worked. "The familiar bond. What exactly does it entail?"
 
-Raechelle watched the blood flower spin slowly. "It's an exchange of blood and power. We drink from each other, and the magic binds us. You'll gain some of my strength, my experience. I'll gain... well, whatever you have to offer. It's intimate, Riven. More than the physical connection we've already shared. It's soul-deep."
+Raechelle watched the blood flower spin slowly. "It's an exchange of blood and power. We drink from each other, and the magic binds us. You'll gain some of my strength, my experience. I'll gain... well, whatever you have to offer. It's intimate, Riven. Soul-deep. More than any physical connection—it binds us for eternity."
 
 "Are you sure you want that?" I asked quietly. "To be bound to me?"
 
@@ -3527,57 +3533,73 @@ The satisfaction in her eyes was worth the temporary surrender. She released me 
 
 "High praise," I said dryly, but I was grinning.
 
-Then, before she could step away, I moved—vampire speed fueled by pent-up desire—and had her against a tree, my hand wrapped firmly around her throat in a hold that was more possessive than threatening.
+Then, before she could step away, I moved—vampire speed fueled by pent-up desire—and had her against a tree, my hand cupping the side of her throat in a hold that was possessive, commanding.
 
-"Training's over for the day, right?" My voice was rough, commanding, every inch the Sir she called me outside these sessions.
+"Training's over for the day, right?" My voice was rough, every inch the Sir she called me outside these sessions.
 
 "Y-yes, Sir," she breathed, her earlier authority dissolving into desire.
 
-"Good." I leaned in close, my lips brushing her ear. "Because I've been very patient, watching you command me all day. Now I want to show you what you do to me."
+"Good." I leaned in close, my lips hovering a breath from hers. "Because I've been very patient, watching you command me all day. And I want you. God, I want you."
 
-Her shiver of anticipation was all the answer I needed.
+Her shiver of anticipation made my control snap taut. I claimed her mouth in a kiss that was all hunger and promise, pressing against her until there was no space between us. She made a sound—half-moan, half-purr—and I felt my restraint beginning to fracture.
+
+But then she pulled back, just slightly, her clawed hands resting against my chest. "Wait," she whispered, though her eyes were dark with desire. "Sir, please. The ritual is in two days. Just two more days."
+
+"Two days too long," I growled, but I didn't press forward. I rested my forehead against hers instead, breathing hard, fighting for control.
+
+"I know. I know." Her voice shook. "But it will be worth it. Our first time together, with the bonding magic..." She looked up at me with those ruby eyes. "It will be perfect. Everything we've been building toward."
+
+I took a deep breath, then another, forcing myself to step back. "You're right. You're right." I brushed my thumb across her lips. "Two more days, Kitten. And then nothing holds us back."
+
+"Nothing," she agreed, her tail wrapping around my wrist like a promise.
 
 ---
 
-That night, after we'd lost ourselves in each other in ways that left us both satisfied and exhausted, I successfully levitated an entire cup of blood, holding it steady in the air for a full minute. When my control finally slipped and it splashed back into the container, Raechelle—curled contentedly against me—clapped slowly.
+That night, the tension between us was almost unbearable. We practiced magic together in charged silence—me working on blood manipulation while she guided me with soft corrections and praise. When I successfully levitated an entire cup of blood, holding it steady in the air for a full minute, she actually clapped.
 
 "Two weeks ago, you didn't even know blood magic was real. Now look at you."
 
-I flexed my fingers, feeling the power settle back under my skin. "It's because of you. The way we've been training—it works. The intensity, the motivation, using every tool we have including the sexual tension. I've never pushed myself this hard or progressed this fast at anything."
+I flexed my fingers, feeling the power settle back under my skin. "It's because of you. The way we've been training—it works. The intensity, the motivation, all of it. I've never pushed myself this hard or progressed this fast at anything."
 
-"It's not just the method," she said softly, tracing patterns on my chest. "It's because you're extraordinary, Riven. The dynamic we've created—it only works because you're strong enough to submit temporarily without losing yourself, and secure enough in yourself to let me have authority in one arena without it threatening what we're building together."
+"It's not just the method," she said softly, moving to sit beside me on the couch. "It's because you're extraordinary, Riven. The dynamic we've created—it only works because you're strong enough to submit temporarily without losing yourself, and secure enough to let me have authority in one arena without it threatening what we're building together."
 
-"And because you're strong enough to command me when needed, but wise enough to surrender when training ends," I added, pressing a kiss to her forehead. "We make a good team, beautiful."
+"And because you're strong enough to command me when needed, but wise enough to surrender when training ends," I added, though I didn't touch her—afraid that if I did, I wouldn't be able to stop. "We make a good team, beautiful."
 
-"The best team," she agreed, her tail wrapping around my waist contentedly.
+"The best team," she agreed, her tail swishing restlessly.
 
-I felt the truth of it settle in my bones. What we'd built together over these two weeks—the training, the power exchange, the honest communication about our needs and boundaries—had forged something stronger than just teacher and student, stronger than just control and yielding. We were partners, each empowering the other in different ways.
+The silence stretched between us, heavy with everything unsaid, everything we wanted but were choosing to wait for. I could feel her desire through our growing connection, could see it in the way her pupils dilated when she looked at me.
 
-We lay in comfortable silence, our breathing synchronized, her purr a gentle rumble against my chest. Thirteen days. Thirteen days of watching her command me with fierce authority in training, then soften into desire the moment we stepped away. Thirteen days of vulnerability, trust building, boundaries tested and respected. She'd proven herself in every way—her strength when she wielded authority over me, her openness when we explored what we were becoming together, her wisdom in knowing which moments called for which.
+"Tell me about the claiming," I said finally, my voice rough. "What you told me about... about needing someone strong enough to hold you. What does that mean?"
 
-I'd seen immortals who'd lived millennia. Most grew cold, distant, their hearts hardening with the centuries. But Raechelle... she'd waited so long for the right person, someone strong enough to match her strength during training without being threatened by it. The weight of that patience, that hope she'd carried, settled over me.
+She looked at me for a long moment, vulnerable in a way I'd rarely seen. "I told you I've waited centuries," she said softly. "Waited for someone who could handle all of me—my strength, my age, my needs. Someone who wouldn't break under the weight of what I am."
 
-My hand found her chin, tilting her face up to meet my eyes. Those feline features I'd grown to adore—the delicate ears, the expressive tail now wrapped possessively around me—had become home. Through our bond, I felt her contentment, her love, the bedrock of her devotion that ran deeper than I'd ever imagined possible.
+"I won't break," I said with certainty.
 
-"Raechelle," I said softly, letting desire and certainty rise in my voice. "These thirteen days... you've shown me exactly who you are. Strong enough to command me, open enough to trust me completely. Fierce in your authority, passionate in how you respond to me. You've trusted me with every part of yourself."
+"I know." Her voice was barely a whisper. "I've seen it in you these past two weeks. The way you yield to me in training without losing yourself. The way you take control after without being threatened by my strength. You're exactly what I've waited for, Riven. Someone strong enough to claim me. Someone worthy of being called Sir."
+
+The weight of those words settled over me—centuries of longing, of hope, of searching. And she'd found it in me.
+
+"Raechelle," I said softly, letting command and certainty rise in my voice. "These two weeks... you've shown me exactly who you are. Strong enough to command me, open enough to trust me completely. Fierce in your authority, passionate in how you respond to me."
 
 Her breath caught. Through our bond, I felt hope flare like a star.
 
-"I know what you are," I continued, stroking her cheek. "What you need. What you've waited centuries to find." I held her gaze, letting her see everything I felt. "Will you do me the honor of becoming Mine? Officially, formally... will you be my Kitten?"
+"I know what you are," I continued, reaching out to stroke her cheek, allowing myself that one touch. "What you need. What you've waited centuries to find." I held her gaze, letting her see everything I felt. "You're already mine in every way that matters. But when we complete the ritual... will you do me the honor of becoming Mine officially? Will you be my Kitten?"
 
 The sound she made was half-sob, half-purr, her ears flattening in overwhelming emotion. "Yes," she breathed, and then stronger, "Yes, God yes, Riven. I'm Yours. I've been Yours since the moment you proved you could hold me without breaking."
 
-Through our bond, I felt her joy crash over us both—centuries of longing finally fulfilled, the security she'd craved in being claimed by someone worthy. Her tail tightened around me almost painfully.
+Through our bond, I felt her joy crash over us both—centuries of longing finally finding its answer, the security she'd craved in being claimed by someone worthy. Her tail wrapped around my wrist almost painfully tight.
 
-"Mine," I murmured against her lips, sealing it with a kiss that tasted of salt and devotion. "My Kitten. My partner. Perfect in every way you surrender to me."
+I cupped her face in both hands, pulling her close for a kiss that was tender despite the hunger beneath it. "Mine," I murmured against her lips. "My Kitten. My partner. And in two days, when the ritual is complete, I'll show you exactly what that means."
 
 "Yours," she whispered back, and the word resonated through our bond like a vow. "Always Yours, my Riven."
 
-I held her close, feeling the rightness of it settle into every cell. This wasn't just dominance and surrender, or teacher and student. This was a claiming that honored every facet of who we were together—the power exchange, the partnership, the love that had grown from trust and vulnerability and thirteen days of proving ourselves to each other.
+I held her close—just holding her, nothing more, though it took every ounce of willpower I possessed. This wasn't just about dominance and surrender, or teacher and student. This was a claiming that honored every facet of who we were together—the power exchange, the partnership, the love that had grown from trust and vulnerability and two weeks of proving ourselves to each other.
 
-She was mine now. Formally, completely, irrevocably mine.
+She was mine now. Formally, emotionally, irrevocably mine.
 
-And I would be worthy of that gift.
+And in two days, when the full moon rose and the ritual began, we would seal that claim in every possible way.
+
+I stroked her hair, feeling her purr against my chest, and silently counted the hours until I could make her mine completely.
 
 "It's not enough, is it?" I said quietly, voicing the concern that had been growing. "What I can do. Compared to real blood mages."
 
@@ -3698,7 +3720,7 @@ His smile was like the sunrise, bright and warm and full of promise. "Then tomor
 
 "A beginning," he finished.
 
-He kissed me then, soft and sweet and full of tenderness that made my ancient heart swell. It wasn't the passionate, desperate kiss we'd shared during training earlier in the week. This was different. This was a promise, just as he'd said. A vow that tomorrow would mean something beyond magical necessity.
+He kissed me then, soft and sweet and full of tenderness that made my ancient heart swell. It wasn't the passionate, heated kisses we'd shared during training this week—the ones that had left us both breathless and aching with unfulfilled desire. This was different. This was a promise, just as he'd said. A vow that tomorrow would mean something beyond magical necessity, beyond physical want. Tomorrow, we would truly become one.
 
 When we finally pulled apart, I rested my head against his chest, listening to the strong, steady beat of his heart.
 
@@ -4142,15 +4164,11 @@ heart despite the brevity of our acquaintance.
 The blood exchange continued, our essences mingling in ways that transcended the physical. The circle's magic
 intensified, crimson light pulsing in rhythm with our synchronized heartbeats.
 
-And then we came together.
+And then we came together for the first time.
 
-What followed was beyond mere physical intimacy—it was a communion of souls. Every touch carried the weight of centuries
-of longing; every kiss wrote promises into the fabric of reality itself. We moved together in perfect harmony, two
-halves of a whole finally reunited, and the magic responded to our union with exponential intensity.
+What followed was beyond mere physical intimacy—it was a communion of souls. Two weeks of restraint, of building tension, of denied desire—all of it culminated in this perfect moment beneath the full moon. Every touch carried the weight of centuries of longing; every kiss wrote promises into the fabric of reality itself. We moved together in perfect harmony, two halves of a whole finally reunited, and the magic responded to our union with exponential intensity.
 
-The world fell away until nothing existed but us—two beings joined in body, mind, and spirit. I could feel everything
-she felt, her pleasure amplifying my own in an endless feedback loop that built and built until I thought I might
-shatter from the intensity of it.
+The world fell away until nothing existed but us—two beings joined in body, mind, and spirit for the first time, the anticipation making every sensation more intense, more profound. I could feel everything she felt, her pleasure amplifying my own in an endless feedback loop that built and built until I thought I might shatter from the intensity of it.
 
 When we finally reached the crescendo, the bonding magic completed itself in a burst of crimson light that painted the
 clearing in shades of blood and moonfire. I felt something click into place deep within my soul—a connection so profound
