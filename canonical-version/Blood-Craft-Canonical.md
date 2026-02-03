@@ -388,30 +388,17 @@ instinctual fear coursed through me. My heart raced as I gathered my thoughts, r
 suddenly inserted themselves into my already tumultuous reality.
 
 Tears streamed down my face as I screamed at the figure emerging from the shadows. "You fucking asshole! My mom was
-still in the car," I shouted, my voice cracking with a mixture of rage and despair. The words hung in the air, heavy and
-suffocating, like a weight pressing down on my chest.
+still in the car!" My voice cracked with rage and despair.
 
-The figure's response was unsettlingly calm, almost devoid of emotion, yet beneath that composure I sensed something
-ancient, something that had seen centuries of death and learned to compartmentalize it. She stepped closer to me, her
-features hidden even by the moonlight, moving with a fluid grace that was somehow both predatory and protective. Her
-eyes were the only visible element, slightly glowing with an unnatural red hue that should have terrified me—yet
-instead, they stirred something deep in my memory, a recognition I couldn't place. Her expression blank but for a hint
-of sorrow flickering in them. "She was already dead," she stated flatly, her voice echoing in the silence that enveloped
-us, carrying the weight of someone who had delivered such news too many times before. "I could hear her heartbeat no
-more." A sense of hopelessness washed over me at her words, but also something else—a strange, inexplicable comfort in
-her presence.
+The figure's response was unsettlingly calm, almost emotionless, yet beneath it I sensed something ancient—something that had seen centuries of death and learned to compartmentalize it. She stepped closer, her features hidden even in the moonlight, moving with fluid grace that was both predatory and protective. Her eyes were the only visible part, glowing faintly with an unnatural red that should have terrified me. Instead, they stirred something in my memory, a recognition I couldn't place. "She was already dead," she said flatly. "I could hear her heartbeat no more."
 
-She continued, her voice low and grave, "As for your father, he fought valiantly, but in the end, he succumbed to their
-relentless attack." The image of my father's fierce determination flashed through my mind, now forever silenced. "We are
-alone," she said, her tone heavy with grief. "And if I hadn't pulled you away from the car, you would have died for
-nothing."
+Hopelessness washed over me, but also something else—a strange, inexplicable comfort in her presence.
 
-Her words hit me like a punch to the gut. Despite my anger towards her, I couldn't deny the truth in what she was
-saying. We were all that was left now. The weight of our survival rested on our shoulders alone.
+"Your father fought, but he succumbed to their attack." Her voice was low, grave. "We're alone now. If I hadn't pulled you away, you would have died for nothing."
 
-"Believe this or not," she continued, her gaze meeting mine with intensity. "But I am not your enemy here." And in that
-moment, as I looked into her eyes and saw the pain and loss mirrored there, I knew she was telling the truth. We were on
-the same side, fighting against a common enemy that had taken everything from us.
+The words hit like a punch to the gut. Despite my anger, I couldn't deny the truth. We were all that was left.
+
+"I'm not your enemy," she said, meeting my gaze. In her eyes I saw pain and loss that mirrored my own. We were on the same side, fighting a common enemy that had taken everything from us.
 
 Panic surged through me as I felt the small case I was still clutching tightly in my hand. "Who are you?" I demanded, a
 cautious edge creeping into my voice as the reality of the situation began to sink in. “Do you know what this vial is
@@ -661,22 +648,22 @@ to your magical abilities,” she explained, her voice carrying a tone that blen
 assumptions about you are accurate, then the energy you draw upon—whether consciously or unconsciously—will
 significantly impact your needs for… sustenance. Considering everything you’ve endured this evening, I’m honestly
 astonished that you’re still on your feet.” Her gaze was intense, filled with a mixture of empathy and allure, leaving
-him uncertain about how to interpret the warmth in her voice, especially coming from someone he had only just met. Each
+me uncertain how to interpret the warmth in her voice from someone I'd only just met. Each
 word seemed to hang in the air, laden with meaning, as the intensity of the moment enveloped them.
 
 “Do you have a car?” he asked, his voice a low murmur that barely broke the stillness around them. A wave of urgency
 passed over him as he continued, "I need to get home as soon as possible to find my mother’s journal. Perhaps it holds
 the key to making sense of everything that’s happening. Right now, I feel utterly drained, as though every ounce of
-energy has been siphoned from me, and this gnawing hunger is becoming unbearable.” He could feel an undeniable pull
-toward her, the intoxicating scent of her presence flooding his senses, awakening a restless fire within him reminding
-him of the continuous bulge still in his pants.
+energy has been siphoned from me, and this gnawing hunger is becoming unbearable.” I could feel an undeniable pull
+toward her, the intoxicating scent of her flooding my senses, awakening a restless fire within me—reminding
+me of the continuous bulge still in my pants.
 
 “Yes, my car is not too far—just a short five-minute walk if we pick up the pace. And we should definitely hurry,” she
-replied, a sense of urgency threading through her voice as he noticed her gaze flicked down to his throbbing member.
-She turned away quickly and began to stride ahead, her silhouette a fluid shadow against the dim evening light. He
-trailed behind, a languid pace contrasting with the seriousness of their situation, captivated by the way her hair
-caught the faint glow of the moonlight and how the grace of her movements seemed to beckon him into the night. As he
-followed, he couldn't help but feel the weight of the air between them, charged with unspoken tension and desire.
+replied, a sense of urgency threading through her voice as I noticed her gaze flick down to my throbbing member.
+She turned away quickly and began striding ahead, her silhouette a fluid shadow against the dim light. I
+trailed behind, captivated by the way her hair
+caught the moonlight, how the grace of her movements seemed to beckon me into the night. I
+couldn't help but feel the weight of the air between them, charged with unspoken tension and desire.
 
 
 As I glanced at the road ahead, my movements grew increasingly sluggish when I spotted her sleek, all-black sedan parked
