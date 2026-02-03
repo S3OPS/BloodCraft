@@ -5644,7 +5644,7 @@ Time seemed to slow. I could see every detail—the saliva dripping from his fan
 
 Unless I stopped him.
 
-My power rose like a crimson tide. Not subtle anymore, not carefully controlled. This was the full force of my charge heritage, awakened by genuine danger and shaped by weeks of training. I reached out with everything I had and seized Viktor's blood—all of it, simultaneously.
+My power rose like a crimson tide. Not subtle anymore, not carefully controlled. This was the full force of my heritage, awakened by genuine danger and shaped by weeks of training. The crimson blood magic blazed from my core, but at its edges—barely visible, quickly suppressed—*orange-gold flames* flickered. My fear and protective rage were calling to fire, threatening to erupt alongside the blood magic. I pushed it down, forced it back, let only the blood magic flow as I reached out with everything I had and seized Viktor's blood—all of it, simultaneously.
 
 His attack faltered mid-leap. His body went rigid, caught in mid-air by my power. I could feel his heart straining against my influence, his blood screaming to flow naturally. It would be so easy to stop it. To squeeze until his heart burst. To prove my superiority absolutely.
 
@@ -12225,7 +12225,13 @@ The blood flowed toward that deep anchor point, that core of his power buried in
 
 Then I struck.
 
-The blood spear pierced through stone like it was water, driving deep into the earth, reaching that hidden core. And when it touched Terravos's heart, I poured everything I had into the attack—all my power, all my rage, all my determination to end this, all my love for Raechelle and the future we'd build.
+The blood spear pierced through stone like it was water, driving deep into the earth, reaching that hidden core. And when it touched Terravos's heart, I poured *everything* I had into the attack—and for the first time, I held nothing back.
+
+Crimson blood magic blazed at the spear's core—my determination and life force made manifest. Golden flames wrapped around it—all my rage at what he'd done to my parents. Deep blue water magic flowed through the construct—grief given form and purpose. Earthen brown-green power anchored it—grounded, unshakeable, solid as my resolve. And silver-white air currents spiraled around the whole attack—my hope for the future, light against his darkness.
+
+All five. All at once. A symphony of magical disciplines unified by purpose and emotion, channeled through the weapon that would end this. The ring on my finger burned hot, trying to suppress what I was doing, but in this moment nothing could contain the truth of what I was.
+
+The spear struck home with the force of all five prime disciplines combined.
 
 Terravos screamed.
 
@@ -12249,11 +12255,63 @@ The battle was over.
 
 I stood alone in the arena, breathing hard, feeling the weight of what I'd done. Around me, I heard the roar of my army—cheers and shouts of triumph echoing off the stone walls.
 
-But all I could focus on was Raechelle's presence through our bond, her relief and joy and pride washing over me.
+But all I could focus on was Raechelle's presence through our bond, her relief and joy and pride washing over me—and beneath it, something else. A question. Confusion. *Realization*.
+
+She'd seen it. She'd felt it through the bond. All five disciplines blazing together in that final strike.
+
+---
+
+Later, in the privacy of our war tent, Raechelle stood with her arms crossed, her expression carefully neutral. But through the bond, I felt the storm of emotions she was holding back.
+
+"Take off the ring," she said quietly.
+
+I hesitated, my hand moving instinctively to the black band on my finger. "Rae, what—"
+
+"Take. Off. The ring." Her voice was gentle but firm. "Please, Riven. I need to confirm something."
+
+Slowly, I slid the ring off my middle finger.
+
+The moment it left my skin, power blazed outward—not just crimson blood magic, but a corona of all five disciplines swirling around me. Crimson at the core, threaded with gold, blue, green-brown, and silver-white. The familiar symphony I'd felt during my awakening, no longer suppressed.
+
+Raechelle gasped, taking a step back. Through the bond, I felt her shock, her awe, her fear—and beneath it all, understanding finally clicking into place.
+
+"Gods," she whispered. "The bond. The intensity. The way the awakening looked. Your mother's letter mentioning the Prime Archon. I thought..." She looked up at me, tears gathering in her eyes. "Riven, you're not just a Blood Archon."
+
+"I don't understand," I said, though part of me did. Part of me had always known something was different.
+
+"The legends," she breathed. "The Prime Archon. Master of all five disciplines. Capable of reshaping the magical world. The most powerful being in existence. Riven, that's not mythology. That's *you*."
+
+The words hung between us, heavy with implication.
+
+"How long have you known?" I asked quietly.
+
+"I suspected after the awakening. The bond was too intense—it made sense if you were something more than just a Blood Archon. But I wasn't certain until tonight. Until I felt you channel all five disciplines at once." She moved closer, taking my hands. "The ring has been hiding it from everyone. Your father's greatest masterwork—suppressing the truth of what you are."
+
+"Why?" My voice cracked. "Why hide it?"
+
+"Because if anyone knew—if Terravos had known, if the Council knows—they'd either try to control you or kill you. Prime Archons don't just have power. They *are* power. They change everything." She squeezed my hands. "Your parents hid you to give you a chance to grow, to learn, to become strong enough to protect yourself."
+
+I looked down at the ring in my palm, understanding flooding through me. "So what now?"
+
+"Now?" Raechelle smiled, though fear still flickered in her eyes. "Now we put the ring back on, and we keep this secret between us. You wear it always. You let the world think you're just a powerful Blood Archon. And we tell *no one*—not Viktor, not Morgana, not the Council. No one."
+
+"But—"
+
+"This is the most dangerous secret in the supernatural world," she said fiercely. "If word gets out, every faction will come for you. Some to worship you, some to use you, some to destroy you before you become too powerful. Your parents died to protect this secret. I won't let their sacrifice be for nothing."
+
+I slipped the ring back on, feeling the suppression settle over my power like a blanket. The corona of colors faded, leaving only the faint sense of blood magic that others would perceive.
+
+Through the bond, I felt Raechelle's relief—and her determination.
+
+"We'll keep the secret," I agreed. "Just the two of us."
+
+She pulled me into an embrace. "Just the two of us," she echoed. "Against the world if necessary."
+
+And somehow, knowing the truth, having someone to share this burden with, made it bearable.
 
 I'd won. I'd survived. We had a future ahead of us.
 
-And I intended to make the most of it.
+And I intended to make the most of it—even if I had to hide my true nature to do it.
 
 ---
 
