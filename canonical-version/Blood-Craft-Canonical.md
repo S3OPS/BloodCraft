@@ -97,8 +97,8 @@ understanding the mechanisms of technology.
 
 This fascination ultimately led me to pursue a degree in Computer Science, a field that mirrored my interests and
 strengths. I am currently on track to complete my degree at the end of the upcoming semester, although the journey has
-taken me longer than the typical timeline. After earning my high school diploma at seventeen, I chose to take a three-year break from formal
-education. This time allowed me to help my parents with the upkeep of our home and the expansive land we had, while also
+taken me longer than the typical timeline. After earning my high school diploma at seventeen, I chose to take a three-year 
+break from formal education. This time allowed me to help my parents with the upkeep of our home and the expansive land we had, while also
 cherishing precious moments spent with them. This decision to pause my studies was not made lightly but stemmed from a
 desire to strengthen our family bonds before diving back into my educational pursuits.
 
