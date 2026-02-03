@@ -3543,7 +3543,7 @@ Then, before she could step away, I moved—vampire speed fueled by pent-up desi
 
 Her shiver of anticipation made my control snap taut. I claimed her mouth in a kiss that was all hunger and promise, pressing against her until there was no space between us. She made a sound—half-moan, half-purr—and I felt my restraint beginning to fracture.
 
-But then she pulled back, just slightly, her clawed hands resting against my chest. "Wait," she whispered, though her eyes were dark with desire. "Sir, please. The ritual is in two days. Just two more days."
+But then she pulled back, just slightly, her clawed hands resting against my chest. "Yellow," she said softly, the safe word bringing me up short. "Sir, please. The ritual is in two days. Just two more days."
 
 "Two days too long," I growled, but I didn't press forward. I rested my forehead against hers instead, breathing hard, fighting for control.
 
