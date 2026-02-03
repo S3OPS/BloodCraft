@@ -3353,13 +3353,23 @@ She turned to look at me, and something flickered in her eyes—pride, maybe, or
 
 On impulse, I leaned over and kissed her cheek. "Thank you. For all of this. For not giving up on me. For being honest about what we're both feeling."
 
-Raechelle's breath caught. For a moment, she seemed frozen, then she turned her head and kissed me properly, her lips cool and soft against mine. Heat flared between us instantly, desire threatening to consume all reason.
+Raechelle's breath caught. For a moment, she seemed frozen, then she turned her head and kissed me properly, her lips cool and soft against mine. Heat flared between us instantly—literally. I felt warmth spreading through my chest, my skin growing hot where we touched. Through the bond, I felt Raechelle's surprise as the temperature between us rose.
 
-When we pulled apart, we were both breathing hard. She rested her forehead against mine, her tail curling around my wrist. "We should get back to training."
+When we pulled apart, we were both breathing hard. She rested her forehead against mine, her tail curling around my wrist—then tensing slightly. Her eyes widened as she stared at me.
 
-"Should we?" I murmured, my hand sliding to the nape of her neck. "Or should I show you how much I want you right now?"
+"Riven," she whispered, her voice holding a note of awe. "Your eyes..."
 
-Her pupils dilated, her tail swishing in clear arousal, and for a heartbeat I thought she'd say yes. But then she pulled back gently, her clawed hand resting against my chest. "Sir... I want this. I want you. More than you know."
+"What about them?"
+
+"There are... golden flecks. Like embers." Her cool fingers touched my cheek, and I felt her jolt slightly at the heat of my skin. "You're warm. Not vampire-cool anymore. Warm like—"
+
+"Like fire," I finished, understanding flooding through me. The arousal, the desire burning through my veins—it was manifesting as fire magic leaking through the ring's suppression. I tried to pull it back, to cool down, but the want was too intense.
+
+She seemed frozen between fascination and concern, her tail twitching nervously. "The ring is supposed to suppress—"
+
+"Apparently not when I'm..." I gestured helplessly between us. "When I want you this badly."
+
+Her pupils dilated even further, her tail swishing in clear arousal despite her concern. For a heartbeat I thought she'd say yes, would give in to the heat building between us. But then she pulled back gently, her clawed hand resting against my chest—lingering there as if feeling the warmth radiating from me. "Sir... I want this. I want you. More than you know."
 
 "Then why—"
 
@@ -4096,7 +4106,13 @@ intensified, crimson light pulsing in rhythm with our synchronized heartbeats.
 
 And then we came together for the first time.
 
-What followed was beyond mere physical intimacy—it was a communion of souls. Two weeks of restraint, of building tension, of denied desire—all of it culminated in this perfect moment beneath the full moon. Every touch carried the weight of centuries of longing; every kiss wrote promises into the fabric of reality itself. We moved together in perfect harmony, two halves of a whole finally reunited, and the magic responded to our union with exponential intensity.
+What followed was beyond mere physical intimacy—it was a communion of souls. Two weeks of restraint, of building tension, of denied desire—all of it culminated in this perfect moment beneath the full moon. Every touch carried the weight of centuries of longing; every kiss wrote promises into the fabric of reality itself.
+
+And with every heartbeat, every moment of connection, I felt fire magic blazing beneath my skin. The ring couldn't suppress it—wouldn't suppress it—not in this moment of absolute union. Golden flames danced along my arms, wreathed around where we touched, warm but never burning. Through the bond, I felt Raechelle's gasp of wonder as she saw the fire, felt the heat radiating from me.
+
+"Riven," she breathed, "you're... gods, you're glowing."
+
+The fire responded to my desire, to the passion consuming us both, flickering in rhythm with our movements. Not crimson blood magic—this was pure fire affinity, manifesting because I couldn't hide what I felt for her, couldn't suppress the burning want. We moved together in perfect harmony, two halves of a whole finally reunited, and the magic responded to our union with exponential intensity—crimson blood magic from the ritual mixing with golden fire from my arousal, creating something unprecedented.
 
 The world fell away until nothing existed but us—two beings joined in body, mind, and spirit for the first time, the anticipation making every sensation more intense, more profound. I could feel everything she felt, her pleasure amplifying my own in an endless feedback loop that built and built until I thought I might shatter from the intensity of it.
 

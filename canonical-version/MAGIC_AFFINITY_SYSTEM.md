@@ -40,6 +40,7 @@ This document defines how each magical affinity manifests based on Riven's emoti
 **Emotional Triggers**:
 - **Rage** - burning anger at injustice or threat
 - **Passion** - intense desire or drive
+- **Arousal** - sexual desire and lust (primary trigger)
 - **Fury** - uncontrolled anger (dangerous)
 - **Righteous wrath** - moral outrage
 - **Fierce joy** - triumphant excitement
@@ -50,13 +51,22 @@ This document defines how each magical affinity manifests based on Riven's emoti
 - Golden-orange aura crackling with energy
 - Explosive, dynamic movements
 - Warmth radiating outward
+- **During arousal**: Subtle heat emanating from skin, eyes taking on golden flecks, warmth to the touch
 
 **When It Dominates**:
+- **When sexually aroused** - most consistent non-combat trigger
+- During intimate moments with Raechelle
 - When remembering his parents' murder
 - During intense combat
 - When facing Terravos or his agents
-- Moments of passionate intimacy
 - When pushed beyond his limits
+
+**Special Note on Arousal**: 
+Fire is Riven's "tell" for sexual desire. Unlike other emotions that might be suppressed or controlled, arousal consistently triggers fire affinity leakage even through the ring's suppression. This creates:
+- Warmth that Raechelle can feel through touch and the bond
+- Golden flecks appearing in his eyes
+- Subtle heat shimmer around him during intimate moments
+- A vulnerability he can't fully hide from his familiar
 
 ---
 
