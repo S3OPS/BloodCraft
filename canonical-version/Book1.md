@@ -2209,7 +2209,7 @@ She smiled, slow and dangerous. "No. It means we can push harder."
 
 But despite her words, she led me back to the cabin and poured me a glass of water. We sat on the porch steps, shoulders touching, watching the sun climb higher.
 
-"You know," I said, "when I found your letter in Mom's journal, when I drove out here... I didn't know what to expect. I definitely didn't expect this."
+"You know," I said, "when you pulled me from that wreckage, when we walked through those woods to your cabin... I didn't know what to expect. I definitely didn't expect this."
 
 "This?"
 
