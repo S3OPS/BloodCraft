@@ -3805,53 +3805,31 @@ Whatever came after the bonding—Nocturne, the Council, Terravos—I'd be ready
 
 # **Chapter 9**
 
-Ten days had passed since my awakening, and I was no longer the same man who had stumbled out of that burning wreckage.
+The next evening, as we prepared for our departure, Raechelle insisted on one final training session.
 
-The nights had blurred together into an endless cycle of training, study, and practice. Raechelle proved to be a
-demanding instructor, pushing me to my limits and beyond, never accepting less than my absolute best. Under her
-guidance, I had developed a level of physical prowess that would have seemed impossible just weeks ago.
+"There's a technique I've been saving for last," she said, leading me to the clearing behind the cabin. "It's advanced—dangerous, even—but you need to know it before we reach Nocturne."
 
-I could now move faster than the human eye could track, my reflexes honed to such a degree that I could catch a thrown
-knife by the blade without drawing blood—unless I wanted to. My strength had increased exponentially; I had accidentally
-shattered a stone during one of our sparring sessions, the granite crumbling to dust beneath my grip.
+The two weeks of intensive training had transformed me in ways I was still processing. I could move with supernatural speed, manipulate blood with increasing precision, and sense magical presences in my surroundings. But there was always more to learn.
 
-But it was the magical training that had truly transformed me.
+"What kind of technique?" I asked, following her into the moonlit space.
 
-"Again," Raechelle commanded, standing at the edge of the clearing with her arms crossed. The moonlight cast her in
-silver and shadow, her ears twitching with anticipation.
+"Blood walking." She turned to face me, her expression serious. "It's a form of teleportation unique to blood mages. You essentially dissolve your physical form into blood mist and reconstitute yourself at a different location."
 
-I focused on the target she had set up—a series of wooden posts arranged in a semicircle before me. Drawing a deep
-breath, I centered myself the way she had taught me, reaching down into that wellspring of power that lived in my blood.
+My interest sharpened immediately. "Show me."
 
-Red mist began to seep from my pores, coiling around my arms like living serpents. This was blood manifestation—the
-ability to externalize my power into a physical form. It had taken me three nights to master even the basics, but now I
-could shape the mist almost instinctively.
+"I can't demonstrate it myself—I'm not a blood mage. But I've seen it performed many times, and I know how to guide you through it." She gestured to the center of the clearing. "Stand here. Close your eyes."
 
-With a thought, the crimson tendrils shot forward, each one striking a different target simultaneously. The wooden posts
-exploded into splinters, the force of my attack reducing them to kindling.
+I obeyed, anticipation thrumming through my veins.
 
-"Better," Raechelle acknowledged, though I could hear the pride she was trying to suppress. "Your control has improved
-significantly. But you're still telegraphing your movements. An experienced opponent would see the attack coming."
+"Now, remember the meditation technique I taught you—find that space inside yourself where your blood power resides."
 
-"Then teach me to be less predictable."
+I sank into the familiar trance state, feeling the wellspring of crimson energy pulsing within me, ready to respond to my will.
 
-She smiled, her fangs glinting in the moonlight. "That's precisely what I intend to do, Sir. But first—" She gestured to
-a stone bench at the edge of the clearing. "Sit. There's something we need to discuss."
+After nearly an hour of practice and instruction, we took a break. Raechelle led me to a stone bench at the edge of the clearing, her tail curling around my waist as we sat.
 
-I joined her on the bench, our thighs pressing together in comfortable intimacy. Over the past ten days, our
-relationship had deepened in ways I hadn't anticipated. The Dom/sub dynamic remained—she still called me Sir, still
-responded to my commands with eager obedience—but there was a tenderness beneath it now, a genuine affection that
-transcended the formal bonds between mage and familiar.
+"We need to talk about what comes next," she said, her voice taking on a more serious tone. "The full moon is in three days. After the bonding ritual, we should leave immediately for Nocturne."
 
-I covered her hand with mine, tracing the delicate line of her knuckles. She leaned into my shoulder, a quiet purr
-vibrating in her chest. "You're getting stronger," she murmured, "but power doesn't matter if I lose you."
-
-"Then we don't let that happen," I said, squeezing once. "We face Nocturne together."
-
-"We need to talk about Nocturne," she said, her tail curling around my waist. "The full moon is in four days. After the
-bonding ritual, I think we should leave immediately for the city."
-
-"Why the urgency?"
+I nodded, having expected this. "Why the urgency?"
 
 Her expression grew serious, her ears flattening slightly. "I've been sensing... disturbances. Magical fluctuations in
 the surrounding area. Someone is searching for us, casting detection spells that probe the boundaries of my concealment
@@ -3926,81 +3904,15 @@ Terravos suspects you're in Nocturne, he'll likely send agents to the embassy. W
 "Understood."
 
 We sat in companionable silence for a moment, the sounds of the forest filling the space between words. An owl called in
-the distance; small creatures rustled through the underbrush. Even these sounds had become clearer to me over the past
-days, my enhanced senses picking up details I would have missed before.
+the distance; small creatures rustled through the underbrush.
 
-"There's something else," Raechelle said eventually. "Something I've been putting off telling you."
+"We should continue with the blood walking practice," Raechelle said, rising from the bench. "You need to master it before we leave."
 
-I turned to face her fully, noting the tension in her shoulders and the nervous flick of her tail. "What is it?"
+I nodded and stood. "Let's try a longer distance this time."
 
-"The bonding ritual. I've been doing more research—reading through your mother's journal entries, consulting my own
-memories of blood mage traditions." She took a deep breath. "The ritual is more... intimate than I originally
-described."
+She smiled approvingly. "Good. Confidence is key. Stand in the center of the clearing and focus."
 
-"Intimate how?"
-
-Even in the moonlight, I could see the flush spreading across her pale cheeks. "The exchange of blood is only part of
-it. To truly complete the bond, to unlock its full potential, the ritual requires..." She trailed off, suddenly unable
-to meet my eyes.
-
-"Raechelle." I reached out and tilted her chin up, forcing her to look at me. "Tell me."
-
-"The ritual requires consummation," she whispered. "Physical union. The blood exchange happens at the peak of... of
-intimacy, binding not just our magic but our very souls." Her voice grew smaller still. "I should have told you sooner.
-If this changes your feelings about—"
-
-I silenced her with a kiss.
-
-It wasn't our first kiss—we had shared several over the past days, moments of tenderness stolen between training
-sessions—but this one was different. Deeper. More deliberate. I poured into it everything I had been feeling: the
-gratitude, the affection, the growing love that had taken root in my heart despite the brevity of our acquaintance.
-
-When we finally parted, both of us breathing heavily, I kept my hand on her cheek. "I've wanted you since the moment I
-saw your true form," I admitted. "The ritual doesn't change that—it just means our first time together will be even more
-meaningful."
-
-Tears glistened in her ruby eyes—tears of relief, of joy, of something profound that words couldn't capture. "You truly
-mean that?"
-
-"I've never meant anything more, Kitten." The pet name slipped out naturally, and I saw her shiver at the endearment.
-"In four days, under the full moon, I'm going to claim you in every way possible. And after that, nothing in this world
-or any other will ever separate us."
-
-Her response was to throw herself into my arms, her small body fitting against mine with perfect precision. Her purr
-resonated through my chest, and I felt her tears—cool against my neck where she buried her face.
-
-"Sir..." Her voice was muffled but thick with emotion. "I've waited so long. Dreamed of this moment for so many years.
-To hear you say these things, to know you want me as much as I want you..."
-
-"I know," I murmured, stroking her hair. "I know."
-
-We stayed like that for a long time, wrapped in each other's arms under the watchful stars. Eventually, however,
-practical concerns reasserted themselves.
-
-"We should continue training," I said reluctantly. "If we're leaving in four days, I need to learn as much as possible
-before then."
-
-Raechelle pulled back, wiping her eyes with the back of her hand. "You're right, of course." She straightened her
-shoulders, visibly collecting herself. "There's a technique I've been wanting to teach you. It's advanced—dangerous,
-even—but I think you're ready."
-
-"What kind of technique?"
-
-"Blood walking." She rose from the bench, her earlier vulnerability replaced by focused intensity. "It's a form of
-teleportation unique to blood mages. You essentially dissolve your physical form into blood mist and reconstitute
-yourself at a different location. The range depends on your power level and the amount of blood you're willing to
-expend."
-
-My interest sharpened. Teleportation would be an invaluable ability—in combat, in escape, in countless other scenarios I
-could imagine.
-
-"Show me."
-
-Raechelle smiled. "I can't demonstrate it myself—I'm not a blood mage. But I've seen it performed many times." She moved
-to the center of the clearing. "Stand here. Close your eyes. Now, remember the meditation technique I taught you—find
-that space inside yourself where your blood power resides."
-
-I obeyed, sinking into the familiar trance state. The wellspring of power was there, as always, pulsing with crimson
+I moved to the center and closed my eyes, sinking into the familiar trance state. The wellspring of power was there, as always, pulsing with crimson
 energy that responded to my mental touch.
 
 "Good. Now, instead of drawing the power outward like you do for manifestation, I want you to turn it inward. Let it
@@ -4087,7 +3999,7 @@ embrace my destiny, whatever form it might take.
 
 "Yes, Sir?"
 
-"These past ten days... they've been the most intense of my life. But also, somehow, the best."
+"These past two weeks... they've been the most intense of my life. But also, somehow, the best."
 
 She curled against me, her purr starting up like a small engine. "I feel the same way. For the first time in centuries,
 I feel like I'm exactly where I'm supposed to be."
@@ -4095,9 +4007,9 @@ I feel like I'm exactly where I'm supposed to be."
 I wrapped my arms around her, feeling the warmth of her body and the steady beat of her heart. Outside, birds were
 beginning to sing, greeting a dawn that held no terror for us—only mild discomfort.
 
-"Four more nights," I murmured.
+"Three more nights," I murmured.
 
-"Four more nights," she agreed. "And then everything changes."
+"Three more nights," she agreed. "And then everything changes."
 
 I smiled into her hair, breathing in her scent—jasmine and something uniquely her, something that made every cell in my
 body sing with recognition.
@@ -4109,7 +4021,7 @@ Her answering purr was all the response I needed.
 As sleep claimed me once more, I dreamed not of blood and fire this time, but of moonlight and passion, of bonds forged
 in intimacy, and of a love that had waited lifetimes to be fulfilled.
 
-Four more nights until destiny called.
+Three more nights until destiny called.
 
 I would be ready.
 

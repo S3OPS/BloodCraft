@@ -1,0 +1,61 @@
+name: Verify HTML Sync on PR
+
+on:
+  pull_request:
+    paths:
+      - 'canonical-version/Blood-Craft-Canonical.md'
+      - 'canonical-version/Blood-Craft-Reader.html'
+      - 'canonical-version/book-structure.json'
+
+jobs:
+  verify-html-sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Generate HTML from markdown
+        run: |
+          python3 book_reader_generator.py
+          echo "✅ HTML generation completed"
+      
+      - name: Check if HTML is in sync
+        run: |
+          if git diff --quiet canonical-version/Blood-Craft-Reader.html canonical-version/book-structure.json; then
+            echo "✅ HTML and JSON are in sync with the markdown file"
+          else
+            echo "❌ ERROR: HTML reader is out of sync with Blood-Craft-Canonical.md"
+            echo ""
+            echo "The HTML reader needs to be regenerated. You have two options:"
+            echo ""
+            echo "Option 1 (Automatic - Recommended):"
+            echo "  1. Merge this PR to the main branch"
+            echo "  2. The HTML will be automatically regenerated and committed"
+            echo ""
+            echo "Option 2 (Manual):"
+            echo "  1. Run: python3 book_reader_generator.py"
+            echo "  2. Commit the updated HTML and JSON files"
+            echo "  3. Push the changes"
+            echo ""
+            echo "Diff details:"
+            git diff --stat canonical-version/Blood-Craft-Reader.html canonical-version/book-structure.json
+            exit 1
+          fi
+      
+      - name: PR Comment
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '⚠️ **HTML Reader Out of Sync**\n\nThe HTML reader needs to be regenerated from the updated markdown file.\n\n**What happens next:**\nWhen this PR is merged to main, the HTML will be automatically regenerated and committed. No action needed! 🎉\n\n**Or, to fix now:**\n```bash\npython3 book_reader_generator.py\ngit add canonical-version/Blood-Craft-Reader.html canonical-version/book-structure.json\ngit commit -m "Regenerate HTML reader"\ngit push\n```'
+            })
