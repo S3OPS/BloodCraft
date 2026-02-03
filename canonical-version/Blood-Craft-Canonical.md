@@ -610,12 +610,12 @@ assumptions about you are accurate, then the energy you draw upon—whether cons
 significantly impact your needs for… sustenance. Considering everything you’ve endured this evening, I’m honestly
 astonished that you’re still on your feet.” Her gaze was intense, filled with a mixture of empathy and allure, leaving
 me uncertain how to interpret the warmth in her voice from someone I'd only just met. Each
-word seemed to hang in the air, laden with meaning, as the intensity of the moment enveloped them.
+word hung in the air, laden with meaning.
 
-“Do you have a car?” he asked, his voice a low murmur that barely broke the stillness around them. A wave of urgency
-passed over him as he continued, "I need to get home as soon as possible to find my mother’s journal. Perhaps it holds
-the key to making sense of everything that’s happening. Right now, I feel utterly drained, as though every ounce of
-energy has been siphoned from me, and this gnawing hunger is becoming unbearable.” I could feel an undeniable pull
+
+"Do you have a car?" I asked, voice a low murmur. Urgency washed over me. "I need to get home as soon as possible to find my mother's journal. Maybe it holds
+the key to understanding this. Right now, I feel utterly drained, like every ounce of
+energy has been siphoned from me, and this gnawing hunger is becoming unbearable." I could feel an undeniable pull
 toward her, the intoxicating scent of her flooding my senses, awakening a restless fire within me—reminding
 me of the continuous bulge still in my pants.
 
