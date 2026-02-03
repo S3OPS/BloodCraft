@@ -126,7 +126,7 @@ express themselves freely, without the threat of judgment or ridicule that often
 passions.
 
 As I delved deeper into this vibrant subculture, I realized that I had developed a profound fascination with the dynamic
-of submissive women, particularly those who take on the playful and alluring traits associated with feline
+of women who willingly yielded control, particularly those who take on the playful and alluring traits associated with feline
 creatures—commonly known as Cat Girls. This particular aesthetic captured my imagination, combining elements of whimsy,
 grace, and an enchanting sense of vulnerability that I found irresistible.
 
@@ -496,7 +496,7 @@ lights intensified, speeding up in their chaotic dance, and with it, a powerful 
 gasped, a sharp intake of air that burned my lungs as every muscle in my body tightened with increasing power.  My fists
 clenched so tightly that my nails dug into my palms, drawing blood. Even my cock pulsed and throbbed against the
 confines of my pants, desperate for release. It was an electric rush, all-consuming and addictive, like the euphoria I
-felt after dominating a particularly masochistic submissive to the brink of their limits.  Every fiber of my being was
+felt after pushing a particularly eager partner to the brink of their limits, watching them surrender completely.  Every fiber of my being was
 awakened, as though I were on the precipice of a profound revelation, standing at the threshold of a surreal,
 otherworldly experience.
 
@@ -559,7 +559,7 @@ marked a new chapter brimming with immense possibilities and untapped power, set
 potential within your storied heritage.”
 
 “Stand, why are you kneeling?” My voice was firm and commanding as I spoke, I motioned with a gesture for her to rise
-from her submissive position. Immediately, she obeyed without hesitation or control over her own body, emitting a small
+from where she knelt before me. Immediately, she obeyed without hesitation or control over her own body, emitting a small
 whimper and gasp that betrayed her true desires. The faint sound of pleasure mingled with submission echoed in my mind
 as I watched her move. My previous encounters with obedient women flooded back, stirring something deep within me. I
 paused in my movements, the sadistic side of me reveling in the involuntary response I provoked from her, and asked with
@@ -1692,8 +1692,8 @@ into this warm, welcoming sanctuary.
 “Of course, please make yourself at home, Sir,” Raechelle replied, her voice laced with a playful tone that sent a
 ripple of unexpected emotions through me. The way she addressed me stirred a mix of feelings I wasn’t quite prepared to
 confront. Was she using “Sir” out of respect, or was there something more intimate behind her choice of words? I found
-myself grappling with the implications of it, as that particular name had always been my preference in sessions with
-submissives. Each time the title danced on her lips, it sent a little thrill coursing through me—one that I desperately
+myself grappling with the implications of it, as that particular name had always been my preference in intimate sessions with
+those who yielded to me. Each time the title danced on her lips, it sent a little thrill coursing through me—one that I desperately
 hoped she hadn’t noticed.
 
 Stepping into the bathroom, I braced myself for whatever rustic surprises awaited me in this secluded cabin. The first
@@ -3191,17 +3191,17 @@ If the blood magic was frustrating, the combat training was brutal.
 
 Raechelle moved like water, like wind, like nothing human had any right to move. She could be in front of me one second and behind me the next, sweeping my legs out from under me before I could blink.
 
-"You're thinking like a human," she said, offering me a hand up for the dozenth time that morning. But instead of the gentle assistance I expected from my submissive, her grip was firm, almost rough, pulling me to my feet with an authority that made something in me want to push back. "Human reflexes, human speed. You're faster than that now. Stronger. But you have to stop limiting yourself."
+"You're thinking like a human," she said, offering me a hand up for the dozenth time that morning. But instead of the gentle assistance I expected from her, her grip was firm, almost rough, pulling me to my feet with an authority that made something in me want to push back. "Human reflexes, human speed. You're faster than that now. Stronger. But you have to stop limiting yourself."
 
 "I'm trying," I gasped, already sweating despite the cool mountain air. The frustration in my voice carried an edge—not just at my failure, but at the role I found myself in.
 
 "Try harder." The command was sharp, absolute, and she came at me again before I could fully process the shift in her demeanor. 
 
-This wasn't the submissive woman I'd held last night. This was someone else entirely—a warrior, a teacher who expected obedience. And damn if part of me didn't respond to that tone despite every instinct screaming to reassert dominance.
+This wasn't the woman who'd melted in my arms last night, who'd deferred to my every word. This was someone else entirely—a warrior, a teacher who expected obedience. And damn if part of me didn't respond to that tone despite every instinct screaming to reassert dominance.
 
 We trained in the clearing behind the cabin, far from any trails or prying eyes. She taught me how vampires fought—dirty, efficient, exploiting every advantage of their enhanced nature. She showed me how to move with my new speed, how to strike with my new strength, how to use my senses to predict attacks before they landed.
 
-I spent more time on my back than on my feet, and each time she stood over me, victorious, I felt the tension coiling tighter. Her eyes would meet mine, and for a heartbeat, I'd see the conflict there—the satisfaction of a teacher whose student was learning, warring with the uncertainty of a submissive who'd just dominated her Dom.
+I spent more time on my back than on my feet, and each time she stood over me, victorious, I felt the tension coiling tighter. Her eyes would meet mine, and for a heartbeat, I'd see the conflict there—the satisfaction of a teacher whose student was learning, warring with the uncertainty of someone who'd just taken control over the one she usually surrendered to.
 
 "Again," she said, and I groaned but got up, my muscles protesting and my pride stinging more than my bruised body.
 
@@ -3305,11 +3305,11 @@ I ran a hand through my hair, frustrated. "I know. It's been driving me crazy. E
 
 "Yes." The admission came out rougher than intended. "But I know you need to teach me. I understand that. It's just—"
 
-"It affects you," she said, moving closer. "Having your submissive command you. And it affects me too, Sir. More than I expected."
+"It affects you," she said, moving closer. "Having me command you. And it affects me too, Sir. More than I expected."
 
 That caught my attention. "How?"
 
-She looked away, a flush creeping up her neck. "When I'm training you, when I'm in that instructor role... it feels powerful. Exhilarating, even. But then I see the look in your eyes, that flash of dominance you're suppressing, and I feel guilty. Like I'm overstepping. Like I should defer to you even though you need me to push you." She met my gaze again, vulnerability and heat warring in her expression. "And then there's the part of me that... enjoys it. Enjoys commanding you, seeing you obey me. Which makes me feel even worse because I'm your submissive. I shouldn't—"
+She looked away, a flush creeping up her neck. "When I'm training you, when I'm in that instructor role... it feels powerful. Exhilarating, even. But then I see the look in your eyes, that flash of dominance you're suppressing, and I feel guilty. Like I'm overstepping. Like I should defer to you even though you need me to push you." She met my gaze again, vulnerability and heat warring in her expression. "And then there's the part of me that... enjoys it. Enjoys commanding you, seeing you obey me. Which makes me feel even worse because I belong to you. I shouldn't—"
 
 "Beautiful." I cupped her face, forcing her to maintain eye contact. "Don't apologize for that. Ever."
 
@@ -3351,7 +3351,7 @@ Fuck. The images her words conjured sent a bolt of pure lust through me.
 
 "But," she continued, her voice softening, "I also need to know that when training is over, the dynamic shifts back. That you'll take control again, remind me who I belong to. I need that balance, Sir."
 
-"Of course," I said immediately. "The role reversal is contextual—during training only. Outside of that, you're mine. My submissive." I let my dominance bleed into my voice, watched her respond with that telltale shiver of submission. "And when training ends each day, I'll make damn sure you remember that."
+"Of course," I said immediately. "The role reversal is contextual—during training only. Outside of that, you're mine." I let my dominance bleed into my voice, watched her respond with that telltale shiver, her eyes lowering instinctively. "And when training ends each day, I'll make damn sure you remember that."
 
 "Yes, Sir," she whispered, the words carrying both relief and anticipation.
 
@@ -3551,7 +3551,7 @@ I flexed my fingers, feeling the power settle back under my skin. "It's because 
 
 "The best team," she agreed, her tail wrapping around my waist contentedly.
 
-I felt the truth of it settle in my bones. What we'd built together over these two weeks—the training, the power exchange, the honest communication about our needs and boundaries—had forged something stronger than just teacher and student or Dom and submissive. We were partners, each empowering the other in different ways.
+I felt the truth of it settle in my bones. What we'd built together over these two weeks—the training, the power exchange, the honest communication about our needs and boundaries—had forged something stronger than just teacher and student, stronger than just dominance and surrender. We were partners, each empowering the other in different ways.
 
 We lay in comfortable silence, our breathing synchronized, her purr a gentle rumble against my chest. Thirteen days. Thirteen days of watching her command me with fierce authority in training, then melt into sweet submission the moment we stepped away. Thirteen days of vulnerability, trust building, boundaries tested and respected. She'd proven herself in every way—her strength when she wielded authority over me, her devotion when she surrendered, her wisdom in knowing which moments called for which.
 
@@ -3569,11 +3569,11 @@ The sound she made was half-sob, half-purr, her ears flattening in overwhelming 
 
 Through our bond, I felt her joy crash over us both—centuries of longing finally fulfilled, the security she'd craved in being claimed by someone worthy. Her tail tightened around me almost painfully.
 
-"Mine," I murmured against her lips, sealing it with a kiss that tasted of salt and devotion. "My Kitten. My partner. My perfect submissive."
+"Mine," I murmured against her lips, sealing it with a kiss that tasted of salt and devotion. "My Kitten. My partner. Perfect in every way you surrender to me."
 
 "Yours," she whispered back, and the word resonated through our bond like a vow. "Always Yours, my Riven."
 
-I held her close, feeling the rightness of it settle into every cell. This wasn't just Dom and submissive, or teacher and student. This was a claiming that honored every facet of who we were together—the power exchange, the partnership, the love that had grown from trust and vulnerability and thirteen days of proving ourselves to each other.
+I held her close, feeling the rightness of it settle into every cell. This wasn't just dominance and surrender, or teacher and student. This was a claiming that honored every facet of who we were together—the power exchange, the partnership, the love that had grown from trust and vulnerability and thirteen days of proving ourselves to each other.
 
 She was mine now. Formally, completely, irrevocably mine.
 
