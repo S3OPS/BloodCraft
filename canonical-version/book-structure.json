@@ -1,7 +1,7 @@
 {
   "title": "Blood Craft: Canonical Version",
   "total_chapters": 48,
-  "total_pages": 221,
+  "total_pages": 222,
   "chapters": [
     {
       "id": "ch1",
@@ -139,7 +139,7 @@
       "id": "ch8",
       "title": "Chapter 8",
       "line_number": 3148,
-      "page_count": 6,
+      "page_count": 7,
       "page_start_index": 51,
       "page_ids": [
         "ch8_p1",
@@ -147,15 +147,16 @@
         "ch8_p3",
         "ch8_p4",
         "ch8_p5",
-        "ch8_p6"
+        "ch8_p6",
+        "ch8_p7"
       ]
     },
     {
       "id": "ch7_5",
       "title": "Chapter 7.5 - Raechelle's Perspective: On the Eve of Forever",
-      "line_number": 3589,
+      "line_number": 3611,
       "page_count": 3,
-      "page_start_index": 57,
+      "page_start_index": 58,
       "page_ids": [
         "ch7_5_p1",
         "ch7_5_p2",
@@ -165,9 +166,9 @@
     {
       "id": "ch9",
       "title": "Chapter 9",
-      "line_number": 3806,
+      "line_number": 3828,
       "page_count": 3,
-      "page_start_index": 60,
+      "page_start_index": 61,
       "page_ids": [
         "ch9_p1",
         "ch9_p2",
@@ -177,9 +178,9 @@
     {
       "id": "ch10",
       "title": "Chapter 10",
-      "line_number": 4032,
+      "line_number": 4054,
       "page_count": 2,
-      "page_start_index": 63,
+      "page_start_index": 64,
       "page_ids": [
         "ch10_p1",
         "ch10_p2"
@@ -188,9 +189,9 @@
     {
       "id": "ch11",
       "title": "Chapter 11",
-      "line_number": 4188,
+      "line_number": 4206,
       "page_count": 3,
-      "page_start_index": 65,
+      "page_start_index": 66,
       "page_ids": [
         "ch11_p1",
         "ch11_p2",
@@ -200,9 +201,9 @@
     {
       "id": "ch12",
       "title": "Chapter 12",
-      "line_number": 4443,
+      "line_number": 4461,
       "page_count": 18,
-      "page_start_index": 68,
+      "page_start_index": 69,
       "page_ids": [
         "ch12_p1",
         "ch12_p2",
@@ -227,9 +228,9 @@
     {
       "id": "ch13",
       "title": "Chapter 13",
-      "line_number": 5804,
+      "line_number": 5822,
       "page_count": 5,
-      "page_start_index": 86,
+      "page_start_index": 87,
       "page_ids": [
         "ch13_p1",
         "ch13_p2",
@@ -241,9 +242,9 @@
     {
       "id": "ch14",
       "title": "Chapter 14",
-      "line_number": 6175,
+      "line_number": 6193,
       "page_count": 4,
-      "page_start_index": 91,
+      "page_start_index": 92,
       "page_ids": [
         "ch14_p1",
         "ch14_p2",
@@ -254,9 +255,9 @@
     {
       "id": "ch15",
       "title": "Chapter 15",
-      "line_number": 6543,
+      "line_number": 6561,
       "page_count": 3,
-      "page_start_index": 95,
+      "page_start_index": 96,
       "page_ids": [
         "ch15_p1",
         "ch15_p2",
@@ -266,9 +267,9 @@
     {
       "id": "ch15_5",
       "title": "Chapter 15.5 - Raechelle's Perspective: When Darkness Descends",
-      "line_number": 6745,
+      "line_number": 6763,
       "page_count": 3,
-      "page_start_index": 98,
+      "page_start_index": 99,
       "page_ids": [
         "ch15_5_p1",
         "ch15_5_p2",
@@ -278,9 +279,9 @@
     {
       "id": "ch16",
       "title": "Chapter 16",
-      "line_number": 6897,
+      "line_number": 6915,
       "page_count": 3,
-      "page_start_index": 101,
+      "page_start_index": 102,
       "page_ids": [
         "ch16_p1",
         "ch16_p2",
@@ -290,9 +291,9 @@
     {
       "id": "ch16_5",
       "title": "Chapter 16.5",
-      "line_number": 7129,
+      "line_number": 7147,
       "page_count": 5,
-      "page_start_index": 104,
+      "page_start_index": 105,
       "page_ids": [
         "ch16_5_p1",
         "ch16_5_p2",
@@ -304,9 +305,9 @@
     {
       "id": "ch17",
       "title": "Chapter 17",
-      "line_number": 7492,
+      "line_number": 7510,
       "page_count": 5,
-      "page_start_index": 109,
+      "page_start_index": 110,
       "page_ids": [
         "ch17_p1",
         "ch17_p2",
@@ -318,9 +319,9 @@
     {
       "id": "ch18",
       "title": "Chapter 18",
-      "line_number": 7857,
+      "line_number": 7875,
       "page_count": 3,
-      "page_start_index": 114,
+      "page_start_index": 115,
       "page_ids": [
         "ch18_p1",
         "ch18_p2",
@@ -330,9 +331,9 @@
     {
       "id": "ch19",
       "title": "Chapter 19",
-      "line_number": 8116,
+      "line_number": 8134,
       "page_count": 4,
-      "page_start_index": 117,
+      "page_start_index": 118,
       "page_ids": [
         "ch19_p1",
         "ch19_p2",
@@ -343,9 +344,9 @@
     {
       "id": "ch19_5",
       "title": "Chapter 19.5",
-      "line_number": 8456,
+      "line_number": 8474,
       "page_count": 9,
-      "page_start_index": 121,
+      "page_start_index": 122,
       "page_ids": [
         "ch19_5_p1",
         "ch19_5_p2",
@@ -361,9 +362,9 @@
     {
       "id": "ch20",
       "title": "Chapter 20",
-      "line_number": 8971,
+      "line_number": 8989,
       "page_count": 3,
-      "page_start_index": 130,
+      "page_start_index": 131,
       "page_ids": [
         "ch20_p1",
         "ch20_p2",
@@ -373,9 +374,9 @@
     {
       "id": "ch21",
       "title": "Chapter 21",
-      "line_number": 9138,
+      "line_number": 9156,
       "page_count": 4,
-      "page_start_index": 133,
+      "page_start_index": 134,
       "page_ids": [
         "ch21_p1",
         "ch21_p2",
@@ -386,9 +387,9 @@
     {
       "id": "ch22",
       "title": "Chapter 22",
-      "line_number": 9472,
+      "line_number": 9490,
       "page_count": 5,
-      "page_start_index": 137,
+      "page_start_index": 138,
       "page_ids": [
         "ch22_p1",
         "ch22_p2",
@@ -400,9 +401,9 @@
     {
       "id": "ch23",
       "title": "Chapter 23",
-      "line_number": 9757,
+      "line_number": 9775,
       "page_count": 3,
-      "page_start_index": 142,
+      "page_start_index": 143,
       "page_ids": [
         "ch23_p1",
         "ch23_p2",
@@ -412,9 +413,9 @@
     {
       "id": "ch23_5",
       "title": "Chapter 23.5",
-      "line_number": 9985,
+      "line_number": 10003,
       "page_count": 6,
-      "page_start_index": 145,
+      "page_start_index": 146,
       "page_ids": [
         "ch23_5_p1",
         "ch23_5_p2",
@@ -427,9 +428,9 @@
     {
       "id": "ch24",
       "title": "Chapter 24",
-      "line_number": 10370,
+      "line_number": 10388,
       "page_count": 2,
-      "page_start_index": 151,
+      "page_start_index": 152,
       "page_ids": [
         "ch24_p1",
         "ch24_p2"
@@ -438,9 +439,9 @@
     {
       "id": "ch25",
       "title": "Chapter 25",
-      "line_number": 10464,
+      "line_number": 10482,
       "page_count": 6,
-      "page_start_index": 153,
+      "page_start_index": 154,
       "page_ids": [
         "ch25_p1",
         "ch25_p2",
@@ -453,9 +454,9 @@
     {
       "id": "ch25_5",
       "title": "Chapter 25.5",
-      "line_number": 10852,
+      "line_number": 10870,
       "page_count": 4,
-      "page_start_index": 159,
+      "page_start_index": 160,
       "page_ids": [
         "ch25_5_p1",
         "ch25_5_p2",
@@ -466,9 +467,9 @@
     {
       "id": "ch26",
       "title": "Chapter 26",
-      "line_number": 11165,
+      "line_number": 11183,
       "page_count": 1,
-      "page_start_index": 163,
+      "page_start_index": 164,
       "page_ids": [
         "ch26_p1"
       ]
@@ -476,9 +477,9 @@
     {
       "id": "ch27",
       "title": "Chapter 27",
-      "line_number": 11224,
+      "line_number": 11242,
       "page_count": 3,
-      "page_start_index": 164,
+      "page_start_index": 165,
       "page_ids": [
         "ch27_p1",
         "ch27_p2",
@@ -488,9 +489,9 @@
     {
       "id": "ch27_5",
       "title": "Chapter 27.5",
-      "line_number": 11380,
+      "line_number": 11398,
       "page_count": 6,
-      "page_start_index": 167,
+      "page_start_index": 168,
       "page_ids": [
         "ch27_5_p1",
         "ch27_5_p2",
@@ -503,9 +504,9 @@
     {
       "id": "ch28",
       "title": "Chapter 28",
-      "line_number": 11825,
+      "line_number": 11843,
       "page_count": 4,
-      "page_start_index": 173,
+      "page_start_index": 174,
       "page_ids": [
         "ch28_p1",
         "ch28_p2",
@@ -516,9 +517,9 @@
     {
       "id": "ch29",
       "title": "Chapter 29",
-      "line_number": 12132,
+      "line_number": 12150,
       "page_count": 3,
-      "page_start_index": 177,
+      "page_start_index": 178,
       "page_ids": [
         "ch29_p1",
         "ch29_p2",
@@ -528,9 +529,9 @@
     {
       "id": "ch29_5",
       "title": "Chapter 29.5 - Raechelle's Perspective: The Weight of Centuries",
-      "line_number": 12316,
+      "line_number": 12334,
       "page_count": 3,
-      "page_start_index": 180,
+      "page_start_index": 181,
       "page_ids": [
         "ch29_5_p1",
         "ch29_5_p2",
@@ -540,9 +541,9 @@
     {
       "id": "ch30",
       "title": "Chapter 30",
-      "line_number": 12506,
+      "line_number": 12524,
       "page_count": 1,
-      "page_start_index": 183,
+      "page_start_index": 184,
       "page_ids": [
         "ch30_p1"
       ]
@@ -550,9 +551,9 @@
     {
       "id": "ch30_5",
       "title": "Chapter 30.5",
-      "line_number": 12582,
+      "line_number": 12600,
       "page_count": 7,
-      "page_start_index": 184,
+      "page_start_index": 185,
       "page_ids": [
         "ch30_5_p1",
         "ch30_5_p2",
@@ -566,9 +567,9 @@
     {
       "id": "ch31",
       "title": "Chapter 31",
-      "line_number": 13061,
+      "line_number": 13079,
       "page_count": 6,
-      "page_start_index": 191,
+      "page_start_index": 192,
       "page_ids": [
         "ch31_p1",
         "ch31_p2",
@@ -581,9 +582,9 @@
     {
       "id": "ch32",
       "title": "Chapter 32",
-      "line_number": 13502,
+      "line_number": 13520,
       "page_count": 2,
-      "page_start_index": 197,
+      "page_start_index": 198,
       "page_ids": [
         "ch32_p1",
         "ch32_p2"
@@ -592,9 +593,9 @@
     {
       "id": "ch33",
       "title": "Chapter 33",
-      "line_number": 13571,
+      "line_number": 13589,
       "page_count": 1,
-      "page_start_index": 199,
+      "page_start_index": 200,
       "page_ids": [
         "ch33_p1"
       ]
@@ -602,9 +603,9 @@
     {
       "id": "ch34",
       "title": "Chapter 34",
-      "line_number": 13630,
+      "line_number": 13648,
       "page_count": 1,
-      "page_start_index": 200,
+      "page_start_index": 201,
       "page_ids": [
         "ch34_p1"
       ]
@@ -612,9 +613,9 @@
     {
       "id": "ch35",
       "title": "Chapter 35",
-      "line_number": 13707,
+      "line_number": 13725,
       "page_count": 7,
-      "page_start_index": 201,
+      "page_start_index": 202,
       "page_ids": [
         "ch35_p1",
         "ch35_p2",
@@ -628,9 +629,9 @@
     {
       "id": "ch36",
       "title": "Chapter 36",
-      "line_number": 14182,
+      "line_number": 14200,
       "page_count": 5,
-      "page_start_index": 208,
+      "page_start_index": 209,
       "page_ids": [
         "ch36_p1",
         "ch36_p2",
@@ -642,9 +643,9 @@
     {
       "id": "ch37",
       "title": "Chapter 37",
-      "line_number": 14555,
+      "line_number": 14573,
       "page_count": 8,
-      "page_start_index": 213,
+      "page_start_index": 214,
       "page_ids": [
         "ch37_p1",
         "ch37_p2",
