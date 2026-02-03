@@ -3634,9 +3634,9 @@ It wasn't even just his body, though I'd be lying if I said I hadn't noticed. Th
 
 No, what undid me completely was *him*. His kindness despite his grief. His determination despite his fear. The way he looked at me—not as a servant or a tool, but as a *woman*. As someone precious. As someone he was choosing, not because ancient bonds demanded it, but because he wanted to.
 
-"Why do you insist on calling me Sir?" he'd asked that first night, confusion and curiosity mixing in his voice. As if he couldn't understand why someone with centuries of life would defer to him. As if my strength and experience somehow made him less worthy of the title.
+The first time I'd called him "Sir," I'd watched his body react—the subtle shift in his posture, the way his breath caught, the heat that flooded his scent. Such a visceral response to a simple word. My more devious side had gotten a strange sense of gratification from it, and I couldn't tell if it was my feline instincts or my vampire nature that made me want to do it again and again, just to see that delicious tension coil tighter in him each time.
 
-Such a small moment. Such a revealing question. But it had cracked something open inside me, some wall I'd built around my heart to keep it safe from exactly this kind of pain.
+But somewhere along the way, the teasing had become something more. What started as playful provocation had transformed into genuine reverence—not for what he might become, but for who he already was.
 
 Because tomorrow night, under the full moon, we would complete the bonding ritual. And if I wasn't careful—if I let myself feel too much, want too much, *need* too much—I would lose myself completely in him.
 
