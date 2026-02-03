@@ -58,6 +58,7 @@ BloodCraft/
 - Read like a real book with chapter and page navigation
 - 48 chapters across 221 pages
 - Automatic bookmarks, keyboard shortcuts, and jump-to-page features
+- **Auto-updated:** HTML reader automatically regenerates when the source markdown changes
 - See [BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md) for details
 
 **Traditional Reading**: [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
@@ -203,6 +204,7 @@ This repository focuses on the **Canonical Version** of Blood Craft. The Paradox
 ### Development Infrastructure
 
 - **[BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md)** - 📖 Guide to the interactive book reader
+- **[AUTO_HTML_GENERATION.md](AUTO_HTML_GENERATION.md)** - 🔄 Automatic HTML reader generation (always in sync!)
 - **[book_reader_generator.py](book_reader_generator.py)** - 🛠️ Script to generate the book reader
 - **[book_structure_examples.py](book_structure_examples.py)** - 📝 Examples of working with chapter/page IDs
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - ⚡ Quick reference for common tasks (start here!)
