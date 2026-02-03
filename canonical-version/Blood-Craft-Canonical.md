@@ -109,7 +109,7 @@ me wonder why I had hesitated for so long to embark on this journey. Before this
 almost non-existent, leaving me with a hollow sense of longing that I now felt was finally being filled.  I soon
 realized that my sexual desires leaned far from the typical “vanilla” flavors most people gravitate toward. Instead,
 they gravitated toward the deeper, more complex shades of kink. This awakening happened in the intimate glow of the
-bedroom, where I discovered not only my own preferences but also the thrill of my dominant personality. Each interaction
+bedroom, where I discovered not only my own preferences but also the thrill of taking charge. Each interaction
 unveiled layers of my desires I hadn’t fully explored before, drawing me into a world of passion and power play that
 felt exhilaratingly right.  After exploring the intricacies of relationships through a series of casual late-night
 encounters with intriguing yet questionable individuals and in a variety of unconventional places, I found myself
@@ -1871,7 +1871,7 @@ relying on her in this way.
 “That doesn’t bother you?” I asked, my concern evident in my voice. “I mean, you’d be willing to do that? I truly don’t
 want to engage in anything that might cause you pain or put you in a situation that you’re uncomfortable with. Consent
 in all things in my life is incredibly important. It’s a principle I’ve come to fully understand and value deeply over
-the past few years.” I could feel my dominant side emerging more strongly the longer I was in her presence, a mix of
+the past few years.” I could feel my desire to take charge emerging more strongly the longer I was in her presence, a mix of
 excitement and apprehension surging through me.
 
 “No, Sir, it wouldn’t bother me at all,” she replied, her tone surprisingly reassuring. “You have to remember that I
@@ -2728,7 +2728,7 @@ until I could hear heartbeats across a room and smell the distinctive copper-and
 beings.
 
 "Again!" she commanded, her voice sharp as I stumbled during a speed drill. The authority in her tone left no room for
-argument, striking something deep within me that responded in a way I hadn't anticipated. For a moment, I felt my dominant nature rebel against taking orders from her—but the rational part of my mind knew she was right. She was the teacher here. I was the student. 
+argument, striking something deep within me that responded in a way I hadn't anticipated. For a moment, I felt my instinct to take charge rebel against taking orders from her—but the rational part of my mind knew she was right. She was the teacher here. I was the student. 
 
 I found myself responding instinctively, pushing harder despite exhaustion, though the obedience felt strange on my tongue, in my muscles. When I finally succeeded in
 maintaining enhanced speed for a full minute, her approving smile sent a complex rush through me—satisfaction at pleasing her warring with the unsettling realization that I craved that approval in a way that blurred the lines of our dynamic.
@@ -2740,14 +2740,14 @@ strictly necessary, charged with an undercurrent that had nothing to do with ins
 When she pressed against my back to adjust my stance, her breath warm on my neck as she murmured corrections, I felt my body respond in ways that had nothing to do with training. The scent of her—smoke and night-blooming flowers with
 an underlying copper sweetness—combined with the firm command in her voice created a heady mixture that left me hyperaware of her proximity, the grace of her movements that combined predatory danger with fluid beauty.
 
-There were moments when our eyes would meet during a correction, and I'd see the conflict in her gaze—the instructor's authority wavering as she remembered she was touching her Dom, commanding her Sir. Her hands would hesitate, and I'd feel the urge to assert control, to remind her of her place. But I held back, recognizing that in this arena, she needed to lead. It didn't make the tension any easier to bear.
+There were moments when our eyes would meet during a correction, and I'd see the conflict in her gaze—the instructor's authority wavering as she remembered she was touching the man she was falling for, commanding someone she usually looked to for guidance. Her hands would hesitate, and I'd feel the urge to close the distance between us, to pull her in. But I held back, recognizing that in this arena, she needed to lead. It didn't make the tension any easier to bear.
 
 Evening sessions became my favorite, though they challenged me in different ways. Blood sensing—the ability to detect
 other living creatures through their distinctive life force signatures—required a meditative state combined with active
 reaching outward, like extending invisible tendrils of awareness into the surrounding world.
 
 "Every living thing has a blood signature," Raechelle explained one evening, standing behind me with her hands resting
-lightly on my shoulders. Her touch was professional, instructional—and yet I could feel the slight tremor in her fingers, the way her breath caught when she had to give me a direct command. The contradiction between her authoritative words and her physical tell of submission created a fascinating tension. "Unique as a fingerprint, but readable from a distance once you learn how. Focus on the forest.
+lightly on my shoulders. Her touch was professional, instructional—and yet I could feel the slight tremor in her fingers, the way her breath caught when she had to give me a direct command. The contradiction between her authoritative words and her responsiveness to me created a fascinating tension. "Unique as a fingerprint, but readable from a distance once you learn how. Focus on the forest.
 Tell me what you sense."
 
 At first, I felt nothing beyond my own pulse and hers—our bond making her presence overwhelmingly clear. But gradually, as
@@ -3197,7 +3197,7 @@ Raechelle moved like water, like wind, like nothing human had any right to move.
 
 "Try harder." The command was sharp, absolute, and she came at me again before I could fully process the shift in her demeanor. 
 
-This wasn't the woman who'd melted in my arms last night, who'd deferred to my every word. This was someone else entirely—a warrior, a teacher who expected obedience. And damn if part of me didn't respond to that tone despite every instinct screaming to reassert dominance.
+This wasn't the woman who'd melted in my arms last night, who'd deferred to my every word. This was someone else entirely—a warrior, a teacher who expected obedience. And damn if part of me didn't respond to that tone despite every instinct urging me to take control back.
 
 We trained in the clearing behind the cabin, far from any trails or prying eyes. She taught me how vampires fought—dirty, efficient, exploiting every advantage of their enhanced nature. She showed me how to move with my new speed, how to strike with my new strength, how to use my senses to predict attacks before they landed.
 
@@ -3233,7 +3233,7 @@ But it had moved.
 
 "We'll build on this," Raechelle said, satisfaction warming her voice. Her hand came to rest on my shoulder—proud teacher praising an apt student—and the casual authority in the gesture made my jaw clench even as warmth spread through me at her approval. "Every night, we practice. Push yourself, but don't burn out. Blood magic takes energy—your energy. Drain yourself too much, and you'll be useless."
 
-The commands kept coming, gentle but insistent, and I obeyed because she was right. But the itch beneath my skin—the need to reassert my dominance, to remind her who she belonged to—was growing harder to ignore with each passing day.
+The commands kept coming, gentle but insistent, and I obeyed because she was right. But the itch beneath my skin—the desire to take control, to claim what we were building together—was growing harder to ignore with each passing day. I knew I needed to restrain those impulses. We were still figuring this out, still negotiating what we were to each other.
 
 That night, I dreamed of blood flowing through invisible veins, of power thrumming just beneath my skin, waiting to be claimed. And of crimson eyes looking at me with authority that I both resented and craved.
 
@@ -3287,11 +3287,11 @@ I still couldn't beat Raechelle—not even close—but I was lasting longer. Mak
 
 She smiled, slow and dangerous. "No. It means we can push harder."
 
-Something in me snapped at those words—not anger, but a surge of dominance I'd been suppressing for days. Before I could think better of it, I straightened and closed the distance between us, backing her against a tree with enough force that her eyes widened in surprise.
+Something in me stirred at those words—desire I'd been suppressing for days. Before I could think better of it, I straightened and closed the distance between us, backing her against a tree with enough force that her eyes widened in surprise.
 
-"Raechelle," I said, my voice low and rough, "you seem to have forgotten who you belong to."
+"Raechelle," I said, my voice low and rough, "I want you. So damn much."
 
-I felt her pulse spike beneath my hands where I'd pinned her wrists above her head. Her breath came faster, her pupils dilating—but instead of the submission I expected, I saw conflict flash across her features.
+I felt her pulse spike beneath my hands where I'd pinned her wrists above her head. Her breath came faster, her pupils dilating—but instead of melting into desire, I saw conflict flash across her features.
 
 "Riven," she said, and there was a tremor in her voice that had nothing to do with fear. "We need to talk about this."
 
@@ -3301,7 +3301,7 @@ I released her immediately, stepping back, the sudden absence of contact leaving
 
 I ran a hand through my hair, frustrated. "I know. It's been driving me crazy. Every time you give me an order, every time you correct me or stand over me after putting me on my ass, I want to..." I trailed off, not sure how to articulate the complexity of what I felt.
 
-"Assert your dominance," she finished softly. "Take back control. Remind me that I'm yours."
+"Take control," she finished softly. "Show me how much you want me."
 
 "Yes." The admission came out rougher than intended. "But I know you need to teach me. I understand that. It's just—"
 
@@ -3323,7 +3323,7 @@ I took a breath, trying to organize thoughts that had been churning for days. "T
 
 Her eyes widened, but she didn't deny it.
 
-"When you give me orders, when you push me, when you stand over me with that look of authority—part of me hates it. But part of me..." I let my voice drop, low and intimate. "Part of me is turned on by it. By having to submit to you. By having you in control."
+"When you give me orders, when you push me, when you stand over me with that look of authority—part of me hates it. But part of me..." I let my voice drop, low and intimate. "Part of me is turned on by it. By yielding to you. By having you in control."
 
 "Riven," she breathed, her tail swishing behind her in clear agitation.
 
@@ -3335,7 +3335,7 @@ She bit her lip, then nodded. "Yes, Sir. I do. Even though I shouldn't."
 
 "What are you suggesting?"
 
-"I'm suggesting we acknowledge what's happening and use it. Intentionally." I could see the idea taking shape in her mind, curiosity replacing uncertainty. "During training, you're the instructor. You're in control. You command me, push me, demand my obedience—and I submit to your authority because that's what's needed for me to learn. We both know it's temporary, that it's contextual. But we also acknowledge that it's..." I searched for the right word. "Charged. Sexual. That the power exchange goes both ways."
+"I'm suggesting we acknowledge what's happening and use it. Intentionally." I could see the idea taking shape in her mind, curiosity replacing uncertainty. "During training, you're the instructor. You're in control. You command me, push me, demand my obedience—and I yield to your authority because that's what's needed for me to learn. We both know it's temporary, that it's contextual. But we also acknowledge that it's..." I searched for the right word. "Charged. Sexual. That the power exchange goes both ways."
 
 "You want to incorporate the role reversal into our... dynamic?" Her voice was hesitant but intrigued.
 
@@ -3345,13 +3345,13 @@ She shivered against me. "That sounds... dangerous."
 
 "Maybe. But also honest. And potentially incredible." I pulled back to look at her. "But only if you want it. Only if it feels right to you. This is a negotiation, Raechelle. I need you to be completely honest about your comfort level."
 
-She was quiet for a long moment, her ears twitching as she processed. Then: "I want it. I want to stop feeling guilty about commanding you. I want to own that authority during training, use it fully without holding back." Her eyes met mine, blazing with an intensity that sent heat straight to my groin. "And I want to see you submit to me, Sir. To see that conflict in your eyes as you obey even when every instinct tells you to dominate me. I want to push you until you're on the edge of breaking, until you're desperate to reassert control—and then I want you to hold back anyway because I told you to."
+She was quiet for a long moment, her ears twitching as she processed. Then: "I want it. I want to stop feeling guilty about commanding you. I want to own that authority during training, use it fully without holding back." Her eyes met mine, blazing with an intensity that sent heat straight to my groin. "And I want to see you submit to me, Sir. To see that conflict in your eyes as you obey even when every instinct screams at you to take control. I want to push you until you're on the edge of breaking, until you're wrestling with those impulses—and then I want you to hold back anyway because I told you to."
 
 Fuck. The images her words conjured sent a bolt of pure lust through me.
 
-"But," she continued, her voice softening, "I also need to know that when training is over, the dynamic shifts back. That you'll take control again, remind me who I belong to. I need that balance, Sir."
+"But," she continued, her voice softening, "I also need to know that when training is over, the dynamic can shift. That we can... explore what this is between us. I need that balance, Sir. To know we're figuring this out together."
 
-"Of course," I said immediately. "The role reversal is contextual—during training only. Outside of that, you're mine." I let my dominance bleed into my voice, watched her respond with that telltale shiver, her eyes lowering instinctively. "And when training ends each day, I'll make damn sure you remember that."
+"Of course," I said immediately. "The role reversal is contextual—during training only. Outside of that, we can explore... what we are to each other." I let desire bleed into my voice, watched her respond with that telltale shiver, her eyes lowering instinctively. "And when training ends each day, we'll figure out what comes next. Together."
 
 "Yes, Sir," she whispered, the words carrying both relief and anticipation.
 
@@ -3427,13 +3427,13 @@ Raechelle's breath caught. For a moment, she seemed frozen, then she turned her 
 
 When we pulled apart, she rested her forehead against mine. "We should get back to training."
 
-"Should we?" I murmured, my hand sliding to the nape of her neck. "Or should I remind you exactly who you belong to before I let you command me for the next few hours?"
+"Should we?" I murmured, my hand sliding to the nape of her neck. "Or should I show you how much I want you before I let you command me for the next few hours?"
 
 Her pupils dilated, her tail swishing in clear arousal. "Sir—"
 
-"That's what I thought." I claimed her mouth again, deeper this time, asserting my dominance even as I knew I'd be surrendering it soon enough. When I finally released her, we were both breathing hard. "Now we can get back to training."
+"That's what I thought." I claimed her mouth again, deeper this time, pouring my desire into the kiss even as I knew I'd be surrendering control soon enough. When I finally released her, we were both breathing hard. "Now we can get back to training."
 
-"Yes, Sir," she whispered, the submission in her voice a perfect counterpoint to the authority I knew she'd wield shortly.
+"Yes, Sir," she whispered, her voice soft with desire, a perfect counterpoint to the authority I knew she'd wield shortly.
 
 "Come on, blood mage," she said, standing and offering me her hand, already shifting back into instructor mode with a confidence that was impossibly arousing. "Let's see if you can lift more than a few drops now. And Riven?" Her voice dropped, taking on that commanding edge. "I expect perfection."
 
@@ -3485,7 +3485,7 @@ I leaned my head on her shoulder, and she wrapped an arm around me. We sat like 
 
 "Combat test," Raechelle announced, her voice carrying that authoritative edge that now sent heat straight to my groin. "You and me, full speed. I want to see everything you've learned."
 
-The past six days since our conversation had transformed our training. The sexual tension we'd acknowledged and incorporated deliberately had become fuel, driving both of us to new heights. When she commanded me now, there was no hesitation, no guilt—only pure authority that I submitted to willingly, the temporary surrender making the eventual reclamation of dominance each evening that much more intense.
+The past six days since our conversation had transformed our training. The sexual tension we'd acknowledged and incorporated deliberately had become fuel, driving both of us to new heights. When she commanded me now, there was no hesitation, no guilt—only pure authority that I responded to willingly, the temporary power exchange creating an intensity that made our time together afterward that much more charged.
 
 We faced each other in the clearing, the afternoon sun casting long shadows through the trees. I settled into a fighting stance, feeling my blood hum with readiness and anticipation.
 
@@ -3517,7 +3517,7 @@ The next round was more intense. I could feel her pushing harder, testing me, an
 
 "Do you yield?" she asked, her voice soft but commanding.
 
-Every dominant instinct I had screamed to reverse our positions, to show her exactly who was in control. But that wasn't what this was about. This was about trust. About growth. About the complex dance we'd chosen to embrace.
+Every instinct to take control screamed at me to reverse our positions, to show her exactly who was in control. But that wasn't what this was about. This was about trust. About growth. About the complex dance we'd chosen to embrace.
 
 "I yield," I said, holding her gaze. "Instructor."
 
@@ -3527,39 +3527,39 @@ The satisfaction in her eyes was worth the temporary surrender. She released me 
 
 "High praise," I said dryly, but I was grinning.
 
-Then, before she could step away, I moved—vampire speed fueled by pent-up dominance—and had her against a tree, my hand wrapped firmly around her throat in a hold that was more possessive than threatening.
+Then, before she could step away, I moved—vampire speed fueled by pent-up desire—and had her against a tree, my hand wrapped firmly around her throat in a hold that was more possessive than threatening.
 
-"Training's over for the day, right?" My voice was rough, dominant, every inch the Sir she called me outside these sessions.
+"Training's over for the day, right?" My voice was rough, commanding, every inch the Sir she called me outside these sessions.
 
-"Y-yes, Sir," she breathed, her earlier authority dissolving into the submission that was her true nature with me.
+"Y-yes, Sir," she breathed, her earlier authority dissolving into desire.
 
-"Good." I leaned in close, my lips brushing her ear. "Because I've been very patient, watching you command me all day. Now it's my turn to remind you who you belong to."
+"Good." I leaned in close, my lips brushing her ear. "Because I've been very patient, watching you command me all day. Now I want to show you what you do to me."
 
 Her shiver of anticipation was all the answer I needed.
 
 ---
 
-That night, after I'd thoroughly reasserted our dynamic in ways that left us both satisfied and exhausted, I successfully levitated an entire cup of blood, holding it steady in the air for a full minute. When my control finally slipped and it splashed back into the container, Raechelle—curled contentedly against me—clapped slowly.
+That night, after we'd lost ourselves in each other in ways that left us both satisfied and exhausted, I successfully levitated an entire cup of blood, holding it steady in the air for a full minute. When my control finally slipped and it splashed back into the container, Raechelle—curled contentedly against me—clapped slowly.
 
 "Two weeks ago, you didn't even know blood magic was real. Now look at you."
 
 I flexed my fingers, feeling the power settle back under my skin. "It's because of you. The way we've been training—it works. The intensity, the motivation, using every tool we have including the sexual tension. I've never pushed myself this hard or progressed this fast at anything."
 
-"It's not just the method," she said softly, tracing patterns on my chest. "It's because you're extraordinary, Riven. The dynamic we've created—it only works because you're strong enough to submit temporarily without losing yourself, and secure enough in your dominance to let me have authority in one arena without it threatening our overall relationship."
+"It's not just the method," she said softly, tracing patterns on my chest. "It's because you're extraordinary, Riven. The dynamic we've created—it only works because you're strong enough to submit temporarily without losing yourself, and secure enough in yourself to let me have authority in one arena without it threatening what we're building together."
 
 "And because you're strong enough to command me when needed, but wise enough to surrender when training ends," I added, pressing a kiss to her forehead. "We make a good team, beautiful."
 
 "The best team," she agreed, her tail wrapping around my waist contentedly.
 
-I felt the truth of it settle in my bones. What we'd built together over these two weeks—the training, the power exchange, the honest communication about our needs and boundaries—had forged something stronger than just teacher and student, stronger than just dominance and surrender. We were partners, each empowering the other in different ways.
+I felt the truth of it settle in my bones. What we'd built together over these two weeks—the training, the power exchange, the honest communication about our needs and boundaries—had forged something stronger than just teacher and student, stronger than just control and yielding. We were partners, each empowering the other in different ways.
 
-We lay in comfortable silence, our breathing synchronized, her purr a gentle rumble against my chest. Thirteen days. Thirteen days of watching her command me with fierce authority in training, then melt into sweet submission the moment we stepped away. Thirteen days of vulnerability, trust building, boundaries tested and respected. She'd proven herself in every way—her strength when she wielded authority over me, her devotion when she surrendered, her wisdom in knowing which moments called for which.
+We lay in comfortable silence, our breathing synchronized, her purr a gentle rumble against my chest. Thirteen days. Thirteen days of watching her command me with fierce authority in training, then soften into desire the moment we stepped away. Thirteen days of vulnerability, trust building, boundaries tested and respected. She'd proven herself in every way—her strength when she wielded authority over me, her openness when we explored what we were becoming together, her wisdom in knowing which moments called for which.
 
-I'd seen immortals who'd lived millennia. Most grew cold, distant, their hearts hardening with the centuries. But Raechelle... she'd waited so long for someone worthy of her submission, someone strong enough to hold her dominance during training without being threatened by it. The weight of that patience, that hope she'd carried, settled over me.
+I'd seen immortals who'd lived millennia. Most grew cold, distant, their hearts hardening with the centuries. But Raechelle... she'd waited so long for the right person, someone strong enough to match her strength during training without being threatened by it. The weight of that patience, that hope she'd carried, settled over me.
 
 My hand found her chin, tilting her face up to meet my eyes. Those feline features I'd grown to adore—the delicate ears, the expressive tail now wrapped possessively around me—had become home. Through our bond, I felt her contentment, her love, the bedrock of her devotion that ran deeper than I'd ever imagined possible.
 
-"Raechelle," I said softly, letting my dominance rise in my voice, not as a command but as a claiming. "These thirteen days... you've shown me exactly who you are. Strong enough to command me, devoted enough to surrender completely. Fierce in your authority, perfect in your submission. You've trusted me with every part of yourself."
+"Raechelle," I said softly, letting desire and certainty rise in my voice. "These thirteen days... you've shown me exactly who you are. Strong enough to command me, open enough to trust me completely. Fierce in your authority, passionate in how you respond to me. You've trusted me with every part of yourself."
 
 Her breath caught. Through our bond, I felt hope flare like a star.
 
@@ -6190,7 +6190,7 @@ Raechelle read it over my shoulder, her breath warm against my neck. "Required a
 
 "An opportunity for what?"
 
-"To show them you're not intimidated. That you belong in their world." She moved to stand in front of me, her hands smoothing down the front of my shirt. "And to show the entire supernatural community that you're mine."
+"To show them you're not intimidated. That you belong in their world." She moved to stand in front of me, her hands smoothing down the front of my shirt. "And to show the entire supernatural community that we're together."
 
 The possessiveness in her tone sent heat through my veins. "Is that right?"
 
