@@ -18,7 +18,7 @@
                      │ Automatically runs:
                      ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  1. python3 book_reader_generator.py                            │
+│  1. python3 scripts/book_reader_generator.py                            │
 │  2. Generates new HTML and JSON                                 │
 │  3. Commits the changes back                                    │
 │  4. Pushes to repository                                        │
@@ -105,7 +105,7 @@ If you want to regenerate locally before committing:
 
 ```bash
 # Run the generator
-python3 book_reader_generator.py
+python3 scripts/book_reader_generator.py
 
 # Commit the changes
 git add canonical-version/Blood-Craft-Reader.html
@@ -120,7 +120,7 @@ This is **optional** - the workflow will do it automatically anyway!
 
 - **Detailed docs**: [AUTO_HTML_GENERATION.md](AUTO_HTML_GENERATION.md)
 - **Reader guide**: [BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md)
-- **Generator script**: [book_reader_generator.py](book_reader_generator.py)
+- **Generator script**: [book_reader_generator.py](scripts/book_reader_generator.py)
 - **Workflow files**: `.github/workflows/regenerate-html.yml` and `verify-html-sync.yml`
 
 ## ❓ Troubleshooting

@@ -22,7 +22,7 @@ jobs:
       
       - name: Generate HTML from markdown
         run: |
-          python3 book_reader_generator.py
+          python3 scripts/book_reader_generator.py
           echo "✅ HTML generation completed"
       
       - name: Check if HTML is in sync
@@ -39,7 +39,7 @@ jobs:
             echo "  2. The HTML will be automatically regenerated and committed"
             echo ""
             echo "Option 2 (Manual):"
-            echo "  1. Run: python3 book_reader_generator.py"
+            echo "  1. Run: python3 scripts/book_reader_generator.py"
             echo "  2. Commit the updated HTML and JSON files"
             echo "  3. Push the changes"
             echo ""
@@ -57,5 +57,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '⚠️ **HTML Reader Out of Sync**\n\nThe HTML reader needs to be regenerated from the updated markdown file.\n\n**What happens next:**\nWhen this PR is merged to main, the HTML will be automatically regenerated and committed. No action needed! 🎉\n\n**Or, to fix now:**\n```bash\npython3 book_reader_generator.py\ngit add canonical-version/Blood-Craft-Reader.html canonical-version/book-structure.json\ngit commit -m "Regenerate HTML reader"\ngit push\n```'
+              body: '⚠️ **HTML Reader Out of Sync**\n\nThe HTML reader needs to be regenerated from the updated markdown file.\n\n**What happens next:**\nWhen this PR is merged to main, the HTML will be automatically regenerated and committed. No action needed! 🎉\n\n**Or, to fix now:**\n```bash\npython3 scripts/book_reader_generator.py\ngit add canonical-version/Blood-Craft-Reader.html canonical-version/book-structure.json\ngit commit -m "Regenerate HTML reader"\ngit push\n```'
             })

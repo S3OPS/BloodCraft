@@ -104,7 +104,7 @@ If you make changes to the source narrative (`Blood-Craft-Canonical.md`), regene
 
 ```bash
 cd /home/runner/work/BloodCraft/BloodCraft
-python3 book_reader_generator.py
+python3 scripts/book_reader_generator.py
 ```
 
 This will:
@@ -187,7 +187,7 @@ canonical-version/
 ```
 
 ### Generator Script
-`book_reader_generator.py` - Python script that:
+`scripts/book_reader_generator.py` - Python script that:
 - Parses the markdown narrative
 - Identifies chapters using regex patterns
 - Splits chapters into pages (~1000 words each)
@@ -214,7 +214,7 @@ The reader works in all modern browsers:
 When adding or modifying chapters in `Blood-Craft-Canonical.md`:
 
 1. Ensure chapter headers follow the format: `# **Chapter [number]**`
-2. Run `python3 book_reader_generator.py` to regenerate the reader
+2. Run `python3 scripts/book_reader_generator.py` to regenerate the reader
 3. Test the reader in a browser to ensure proper navigation
 4. Commit both the source markdown and generated files
 
