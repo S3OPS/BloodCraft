@@ -28,7 +28,7 @@ The automation is powered by a GitHub Actions workflow (`.github/workflows/regen
 You can also manually regenerate the HTML reader at any time:
 
 ```bash
-python3 book_reader_generator.py
+python3 scripts/book_reader_generator.py
 ```
 
 This will:
@@ -107,7 +107,7 @@ Commits made by the workflow include `[skip ci]` to prevent infinite loops:
 
 3. **Manual trigger:**
    - You can always manually run the workflow from the Actions tab
-   - Or run `python3 book_reader_generator.py` locally
+   - Or run `python3 scripts/book_reader_generator.py` locally
 
 ### Workflow Failing?
 
@@ -123,7 +123,7 @@ Check the workflow logs for:
 If you need to change how the HTML is generated:
 
 1. Edit `book_reader_generator.py`
-2. Test locally: `python3 book_reader_generator.py`
+2. Test locally: `python3 scripts/book_reader_generator.py`
 3. Verify the HTML looks correct
 4. Commit changes to the script
 5. The workflow will use the updated script on next trigger

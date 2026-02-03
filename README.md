@@ -201,36 +201,53 @@ Supporting documentation and comparison guides.
 ### Repository Organization
 This repository focuses on the **Canonical Version** of Blood Craft. The Paradox Version is maintained separately at [github.com/S3OPS/BloodCraftParadox](https://github.com/S3OPS/BloodCraftParadox).
 
+### Directory Structure
+
+```
+BloodCraft/
+├── canonical-version/       # Complete canonical novel
+├── docs/                    # Supporting documentation
+├── scripts/                 # Utility scripts (book reader generation, etc.)
+├── workflows/               # Development workflow documentation
+└── archive/                 # Historical documentation (completed tasks)
+```
+
 ### Development Infrastructure
 
 - **[BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md)** - 📖 Guide to the interactive book reader
 - **[AUTO_HTML_GENERATION.md](AUTO_HTML_GENERATION.md)** - 🔄 Automatic HTML reader generation (always in sync!)
-- **[book_reader_generator.py](book_reader_generator.py)** - 🛠️ Script to generate the book reader
-- **[book_structure_examples.py](book_structure_examples.py)** - 📝 Examples of working with chapter/page IDs
+- **[scripts/](scripts/)** - 🛠️ Utility scripts directory
+  - [book_reader_generator.py](scripts/book_reader_generator.py) - Generate the book reader
+  - [validate_book_reader.py](scripts/validate_book_reader.py) - Validate the reader
+  - [book_structure_examples.py](scripts/book_structure_examples.py) - Examples of working with chapter/page IDs
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - ⚡ Quick reference for common tasks (start here!)
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Complete contribution guidelines
 - **[canonical-version/DEVELOPMENT.md](canonical-version/DEVELOPMENT.md)** - Canonical version guidelines
 - **[CHAPTER_TEMPLATE.md](CHAPTER_TEMPLATE.md)** - Template for new chapters
+- **[workflows/](workflows/)** - 📋 Workflow documentation
+  - [WORKFLOW.md](workflows/WORKFLOW.md) - Complete workflow guide
+  - [QUICK_FIX_GUIDE.md](workflows/QUICK_FIX_GUIDE.md) - Quick fixes
 
 ### Quality Assurance Tools
 
 - **[Narrative Consistency Reviewer Agent](.github/agents/narrative-consistency-reviewer.agent.md)** - 🤖 AI agent for detecting inconsistencies
 - **[Agent Usage Guide](docs/NARRATIVE_AGENT_USAGE.md)** - How to use the consistency review agent
-- **[NARRATIVE_CONSISTENCY_REVIEW.md](NARRATIVE_CONSISTENCY_REVIEW.md)** - Example comprehensive analysis report
-- **[FIXES_COMPLETED_SUMMARY.md](FIXES_COMPLETED_SUMMARY.md)** - History of resolved inconsistencies
 
 ### Quick Start for Contributors
 1. Check **QUICK_REFERENCE.md** for common tasks and quick tips
 2. Read **CONTRIBUTING.md** for general guidelines
 3. Review **canonical-version/DEVELOPMENT.md** for creative direction
-4. Check **.gitignore** to see what files are excluded
+4. Check **[workflows/](workflows/)** for development workflow
+5. See **[scripts/](scripts/)** for available utility tools
 
 ### Structure Benefits
+- ✅ Clean, organized root directory
+- ✅ Logical separation of concerns (scripts, workflows, archives)
 - ✅ Clear focus on canonical storyline
 - ✅ Self-contained directory with its own documentation
-- ✅ Easy navigation for readers
+- ✅ Easy navigation for readers and developers
 - ✅ Scalable for future additions
-- ✅ Comprehensive development guidelines
+- ✅ Historical context preserved in archives
 
 ---
 

@@ -21,6 +21,11 @@ build/
 dist/
 out/
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
 # Logs
 *.log
 logs/
