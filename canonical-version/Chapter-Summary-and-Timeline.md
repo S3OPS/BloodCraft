@@ -26,7 +26,20 @@
 - Comprehensive consistency review completed, resolving all major narrative inconsistencies
 - Source files remain available in `new-chapters/` directory for reference
 
-The enhanced structure enriches the narrative with emotional depth, balanced perspectives, and expanded character development through strategic additional content. The eight Raechelle POV chapters now provide comprehensive coverage from initial awakening through political development to final confrontation.
+**Magic System Enhancement (February 2026):** The emotion-based affinity system has been integrated throughout the narrative:
+- **Emotion-Affinity Manifestation**: Riven's emotional state directly influences which magical discipline manifests
+  - Blood (crimson): Determination, protection, life force awareness
+  - Fire (golden-orange): Rage, passion, **arousal** (primary non-combat trigger)
+  - Water (deep blue): Grief, sadness, compassion
+  - Earth (brown-green): Grounding, stability, patience
+  - Air (silver-white): Joy, freedom, hope
+- **Prime Archon Secret**: Riven is revealed to be the legendary Prime Archon (master of all five disciplines), not just a Blood Archon
+- **Marcus's Ring**: Artifact that suppresses Riven's true power signature from all observers except Raechelle (through familiar bond)
+- **Gradual Discovery**: Story arc includes Raechelle's growing suspicion, final battle revelation, and decision to keep the secret
+- **Fire Manifestation**: Arousal consistently triggers fire affinity, creating heat, golden eye flecks, and warmth during intimate moments
+- See `MAGIC_AFFINITY_SYSTEM.md` and `PRIME_ARCHON_NARRATIVE.md` for complete documentation
+
+The enhanced structure enriches the narrative with emotional depth, balanced perspectives, expanded character development, and a sophisticated magic system that ties directly to Riven's emotional journey and hidden true nature.
 
 ---
 
@@ -45,8 +58,9 @@ The enhanced structure enriches the narrative with emotional depth, balanced per
 - Riven's parents are killed in the wreckage
 - Supernatural elements begin to manifest
 - Riven discovers he has powers awakening within him
+- **All five magical affinities manifest during awakening** (crimson blood, golden fire, deep blue water, brown-green earth, silver-white air)
 - Introduction of the threat: Terravos, the Earth Archon
-- *Enhanced: Intensified suspense in opening; visceral attack sequence with elemental details; mother's death scene given deeper emotional impact; Raechelle's introduction carries ancient mystery*
+- *Enhanced: Intensified suspense in opening; visceral attack sequence with elemental details; mother's death scene given deeper emotional impact; Raechelle's introduction carries ancient mystery; awakening shows unprecedented multi-affinity display*
 
 ### Chapter 2.5: The Vigil Ends *(Raechelle POV)*
 - Raechelle feels Riven's awakening through the dormant bond
