@@ -3361,7 +3361,7 @@ She nodded. "During combat training, verbal signals might not work. What about..
 
 "Good. And for non-physical training?"
 
-"'Yellow' for pause, 'red' for stop?"
+"'Crimson' for pause, 'shadow' for stop?" she suggested, the words fitting naturally with our world of blood and darkness.
 
 "Perfect." I pulled her close again, our foreheads touching. "Raechelle, I want to be absolutely clear: this only works if we're both enjoying it. The moment it stops feeling good for either of us, we reassess. Agreed?"
 
@@ -3543,7 +3543,7 @@ Then, before she could step away, I moved—vampire speed fueled by pent-up desi
 
 Her shiver of anticipation made my control snap taut. I claimed her mouth in a kiss that was all hunger and promise, pressing against her until there was no space between us. She made a sound—half-moan, half-purr—and I felt my restraint beginning to fracture.
 
-But then she pulled back, just slightly, her clawed hands resting against my chest. "Yellow," she said softly, the safe word bringing me up short. "Sir, please. The ritual is in two days. Just two more days."
+But then she pulled back, just slightly, her clawed hands resting against my chest. "Crimson," she said softly, the safe word bringing me up short. "Sir, please. The ritual is in two days. Just two more days."
 
 "Two days too long," I growled, but I didn't press forward. I rested my forehead against hers instead, breathing hard, fighting for control.
 
@@ -3634,9 +3634,9 @@ It wasn't even just his body, though I'd be lying if I said I hadn't noticed. Th
 
 No, what undid me completely was *him*. His kindness despite his grief. His determination despite his fear. The way he looked at me—not as a servant or a tool, but as a *woman*. As someone precious. As someone he was choosing, not because ancient bonds demanded it, but because he wanted to.
 
-"You call me sir," he'd said that first night, his voice full of wonder, "but I feel like I should be calling you that."
+"Why do you insist on calling me Sir?" he'd asked that first night, confusion and curiosity mixing in his voice. As if he couldn't understand why someone with centuries of life would defer to him. As if my strength and experience somehow made him less worthy of the title.
 
-Such a small moment. Such a simple observation. But it had cracked something open inside me, some wall I'd built around my heart to keep it safe from exactly this kind of pain.
+Such a small moment. Such a revealing question. But it had cracked something open inside me, some wall I'd built around my heart to keep it safe from exactly this kind of pain.
 
 Because tomorrow night, under the full moon, we would complete the bonding ritual. And if I wasn't careful—if I let myself feel too much, want too much, *need* too much—I would lose myself completely in him.
 
