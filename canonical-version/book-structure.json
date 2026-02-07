@@ -1,7 +1,7 @@
 {
   "title": "Blood Craft: Canonical Version",
-  "total_chapters": 46,
-  "total_pages": 209,
+  "total_chapters": 43,
+  "total_pages": 192,
   "chapters": [
     {
       "id": "ch1",
@@ -472,7 +472,7 @@
     {
       "id": "ch27",
       "title": "Chapter 27",
-      "line_number": 10987,
+      "line_number": 10988,
       "page_count": 4,
       "page_start_index": 160,
       "page_ids": [
@@ -483,147 +483,103 @@
       ]
     },
     {
-      "id": "ch28",
-      "title": "Chapter 28",
-      "line_number": 11294,
-      "page_count": 4,
+      "id": "ch27_5",
+      "title": "Chapter 27.5 - Raechelle's Perspective: The Weight of Centuries",
+      "line_number": 11230,
+      "page_count": 3,
       "page_start_index": 164,
       "page_ids": [
-        "ch28_p1",
-        "ch28_p2",
-        "ch28_p3",
-        "ch28_p4"
+        "ch27_5_p1",
+        "ch27_5_p2",
+        "ch27_5_p3"
+      ]
+    },
+    {
+      "id": "ch28",
+      "title": "Chapter 28",
+      "line_number": 11420,
+      "page_count": 1,
+      "page_start_index": 167,
+      "page_ids": [
+        "ch28_p1"
       ]
     },
     {
       "id": "ch28_5",
-      "title": "Chapter 28.5 - Raechelle's Perspective: The Weight of Centuries",
-      "line_number": 11536,
-      "page_count": 3,
+      "title": "Chapter 28.5",
+      "line_number": 11496,
+      "page_count": 7,
       "page_start_index": 168,
       "page_ids": [
         "ch28_5_p1",
         "ch28_5_p2",
-        "ch28_5_p3"
+        "ch28_5_p3",
+        "ch28_5_p4",
+        "ch28_5_p5",
+        "ch28_5_p6",
+        "ch28_5_p7"
       ]
     },
     {
       "id": "ch29",
       "title": "Chapter 29",
-      "line_number": 11726,
-      "page_count": 1,
-      "page_start_index": 171,
+      "line_number": 11978,
+      "page_count": 2,
+      "page_start_index": 175,
       "page_ids": [
-        "ch29_p1"
-      ]
-    },
-    {
-      "id": "ch29_5",
-      "title": "Chapter 29.5",
-      "line_number": 11802,
-      "page_count": 7,
-      "page_start_index": 172,
-      "page_ids": [
-        "ch29_5_p1",
-        "ch29_5_p2",
-        "ch29_5_p3",
-        "ch29_5_p4",
-        "ch29_5_p5",
-        "ch29_5_p6",
-        "ch29_5_p7"
+        "ch29_p1",
+        "ch29_p2"
       ]
     },
     {
       "id": "ch30",
       "title": "Chapter 30",
-      "line_number": 12281,
-      "page_count": 6,
-      "page_start_index": 179,
+      "line_number": 12047,
+      "page_count": 1,
+      "page_start_index": 177,
       "page_ids": [
-        "ch30_p1",
-        "ch30_p2",
-        "ch30_p3",
-        "ch30_p4",
-        "ch30_p5",
-        "ch30_p6"
+        "ch30_p1"
       ]
     },
     {
       "id": "ch31",
       "title": "Chapter 31",
-      "line_number": 12722,
-      "page_count": 2,
-      "page_start_index": 185,
+      "line_number": 12106,
+      "page_count": 1,
+      "page_start_index": 178,
       "page_ids": [
-        "ch31_p1",
-        "ch31_p2"
+        "ch31_p1"
       ]
     },
     {
       "id": "ch32",
       "title": "Chapter 32",
-      "line_number": 12791,
-      "page_count": 1,
-      "page_start_index": 187,
+      "line_number": 12183,
+      "page_count": 5,
+      "page_start_index": 179,
       "page_ids": [
-        "ch32_p1"
+        "ch32_p1",
+        "ch32_p2",
+        "ch32_p3",
+        "ch32_p4",
+        "ch32_p5"
       ]
     },
     {
       "id": "ch33",
       "title": "Chapter 33",
-      "line_number": 12850,
-      "page_count": 1,
-      "page_start_index": 188,
-      "page_ids": [
-        "ch33_p1"
-      ]
-    },
-    {
-      "id": "ch34",
-      "title": "Chapter 34",
-      "line_number": 12927,
-      "page_count": 7,
-      "page_start_index": 189,
-      "page_ids": [
-        "ch34_p1",
-        "ch34_p2",
-        "ch34_p3",
-        "ch34_p4",
-        "ch34_p5",
-        "ch34_p6",
-        "ch34_p7"
-      ]
-    },
-    {
-      "id": "ch35",
-      "title": "Chapter 35",
-      "line_number": 13402,
-      "page_count": 5,
-      "page_start_index": 196,
-      "page_ids": [
-        "ch35_p1",
-        "ch35_p2",
-        "ch35_p3",
-        "ch35_p4",
-        "ch35_p5"
-      ]
-    },
-    {
-      "id": "ch36",
-      "title": "Chapter 36",
-      "line_number": 13775,
+      "line_number": 12556,
       "page_count": 8,
-      "page_start_index": 201,
+      "page_start_index": 184,
       "page_ids": [
-        "ch36_p1",
-        "ch36_p2",
-        "ch36_p3",
-        "ch36_p4",
-        "ch36_p5",
-        "ch36_p6",
-        "ch36_p7",
-        "ch36_p8"
+        "ch33_p1",
+        "ch33_p2",
+        "ch33_p3",
+        "ch33_p4",
+        "ch33_p5",
+        "ch33_p6",
+        "ch33_p7",
+        "ch33_p8"
       ]
     }
   ]
