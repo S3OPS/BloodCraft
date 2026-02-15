@@ -79,14 +79,19 @@ Setting up the sequel's core conflict and establishing the new status quo.
 - Elena senses the Devourer watching through reality
 
 #### Chapter 41: Shadows Rising
-**Status**: 📝 Planning  
+**Status**: ✅ Complete  
+**Word Count**: ~6,500 words  
 **Key Events**:
-- Return from Sanctum with new information
-- Consultation with Viktor and Morgana about the threat
-- Research into ancient supernatural history
-- First manifestation of the new threat in the wider world
-- Difficult decision about revealing Prime Archon secret to Council
-- Elena's training intensifies as danger approaches
+- Riven assembles war council with Viktor, Corvinus, and Morgana
+- Reveals Prime Archon secret to trusted allies
+- Explains the Devourer threat in detail
+- First major Devourer manifestation attacks the estate
+- Multiple reality tears open, releasing destructive tendrils
+- Zephyra arrives to help seal the breaches
+- Estate suffers significant reality damage
+- Decision made to reveal truth to Council in two days
+- Training with Zephyra to begin immediately
+- Early warning system established across territories
 
 #### Chapter 42: The Council's Choice
 **Status**: 📝 Planning  
