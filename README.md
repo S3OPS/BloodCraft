@@ -22,7 +22,8 @@ Blood Craft is a supernatural fantasy novel that follows Riven Sixxx, a 23-year-
 
 This repository contains the **Canonical Version** - a traditional hero's journey following Riven's supernatural awakening and his journey to master his powers while navigating romance, politics, and ancient threats.
 
-**Status**: ✅ Complete (38 chapters, ~157,000 words)
+**Books 1-3 Status**: ✅ Complete (38 chapters, ~157,000 words)  
+**Book 4 Status**: 📝 Planning Phase - Organizational structure established for sequel
 
 ---
 
@@ -37,10 +38,13 @@ BloodCraft/
 │   ├── Book1.md                 # Structural outline: Chapters 1-13
 │   ├── Book2.md                 # Structural outline: Chapters 14-26
 │   ├── Book3.md                 # Structural outline: Chapters 27-38
+│   ├── Book4.md                 # SEQUEL outline: Chapters 39-50 (Planning)
 │   ├── Blood-Craft-Canonical.md # COMPLETE 38-chapter novel (~944KB)
 │   ├── Chapter-Summary-and-Timeline.md
 │   ├── DEVELOPMENT.md
+│   ├── BOOK4_DEVELOPMENT.md     # Development guide for Book 4
 │   └── new-chapters/            # Additional chapter files
+│       └── book4/               # Book 4 chapters (in development)
 │
 └── docs/                        # Supporting documentation
     ├── README.md                # Documentation overview
@@ -77,7 +81,8 @@ The Paradox Version (psychological thriller with major twist) has moved to its o
 **Go here**: 
 - [`canonical-version/Book1.md`](canonical-version/Book1.md) - Structural outline for Chapters 1-13
 - [`canonical-version/Book2.md`](canonical-version/Book2.md) - Structural outline for Chapters 14-26
-- [`canonical-version/Book3.md`](canonical-version/Book3.md) - Structural outline for Chapters 27-37
+- [`canonical-version/Book3.md`](canonical-version/Book3.md) - Structural outline for Chapters 27-38
+- [`canonical-version/Book4.md`](canonical-version/Book4.md) - **SEQUEL** outline for Chapters 39-50 (Planning Phase)
 - [`canonical-version/Chapter-Summary-and-Timeline.md`](canonical-version/Chapter-Summary-and-Timeline.md) - Complete overview
 
 The chapter outlines provide detailed structural summaries of the main numbered chapters in the canonical version. The full novel includes these plus 11 additional interstitial (.5) chapters.
