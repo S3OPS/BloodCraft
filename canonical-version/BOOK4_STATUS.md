@@ -26,7 +26,20 @@ Implementation of Book 4: Legacy of Blood has begun with comprehensive planning 
 - Prime Archon secret revealed to Elena
 - Meeting set up for Chapter 40
 
-#### Chapter 40: "The Sanctum" (~6,500 words)
+#### Chapter 41: "Shadows Rising" (~6,500 words)
+**Status**: ✅ Complete
+
+**Summary**: Two days after meeting Zephyra, Riven assembles a war council with Viktor, Corvinus, and Morgana. He reveals his Prime Archon secret and explains the Devourer threat in detail. During the meeting, the first major Devourer manifestation attacks the estate with multiple reality tears releasing destructive tendrils. Zephyra arrives to help seal the breaches, but the estate suffers significant reality damage. The council decides to reveal the truth to the broader Council in two days, and Riven prepares to train with Zephyra.
+
+**Key Story Elements**:
+- Prime Archon secret revealed to trusted allies
+- First major Devourer manifestation with multiple reality tears
+- Estate suffers reality-unmaking damage
+- Elena demonstrates impressive defensive shield capabilities
+- War council established with early warning networks
+- Two-day timeline until Council revelation
+- Training with Zephyra to begin immediately
+- Stakes escalate from abstract to concrete threat
 **Status**: ✅ Complete
 
 **Summary**: The family travels to the ancient Sanctum where the mysterious figure reveals herself as Zephyra Stormweaver, another Prime Archon from 3,000 years ago. Through ancient murals, she explains Prime Archon history and the devastating truth: when two Prime Archons exist simultaneously, an ancient entity called the Devourer begins to awaken. Riven must choose between death, eternal stasis, or fighting alongside Zephyra.
@@ -119,7 +132,7 @@ Riven must choose between:
 
 ## Next Steps
 
-1. **Continue Chapter Writing**: Chapters 41-42 to complete Act One
+1. **Continue Chapter Writing**: Chapter 42 to complete Act One
 2. **Maintain Momentum**: Establish writing rhythm for remaining chapters
 3. **Character Depth**: Develop Elena and Zephyra further
 4. **Plot Complexity**: Add political intrigue and faction dynamics
@@ -128,11 +141,11 @@ Riven must choose between:
 
 ## Estimated Completion
 
-- **Act One (Ch 39-42)**: 50% complete (2/4 chapters)
+- **Act One (Ch 39-42)**: 75% complete (3/4 chapters)
 - **Act Two (Ch 43-46)**: 0% complete (planning done)
 - **Act Three (Ch 47-50)**: 0% complete (planning done)
-- **Total Progress**: ~17% of main chapters (2/12)
-- **Word Count**: 12,700 / ~75,000 estimated total
+- **Total Progress**: ~25% of main chapters (3/12)
+- **Word Count**: ~19,200 / ~75,000 estimated total
 
 ## Notes for Continued Development
 

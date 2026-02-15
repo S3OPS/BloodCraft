@@ -20,7 +20,7 @@ By the time I showered and dressed, Elena was already in the training room, her 
 
 "I'm preparing," I corrected, accepting the coffee. "There's a difference."
 
-"Mmm. Your preparation feels exactly like brooding." She leaned against the doorframe, elegant even in casual morning clothes. "Viktor's here. He brought Corvinus with him—apparently the old vampire insisted on coming."
+"Mmm. Your preparation feels exactly like brooding." She leaned against the doorframe, elegant even in casual morning clothes, her midnight hair still tousled from sleep. "Viktor's here. He brought Corvinus with him—apparently the old vampire insisted on coming."
 
 That made sense. Corvinus had been around for over eight hundred years; if anyone would have insights into ancient supernatural threats, it would be him. The fact that Viktor brought him without being asked suggested they'd already been discussing the situation.
 
@@ -170,7 +170,7 @@ Elena screamed—not in fear but in fury—and her power exploded outward in a w
 
 But Elena's shield held, and I realized with a start that she was stronger than I'd understood. Not Prime Archon level, but powerful enough to matter. Powerful enough to hold back the darkness, at least temporarily.
 
-I redoubled my efforts, drawing on reserves of power I usually kept carefully locked away. The ring on my finger was hot, struggling to contain energies it was never meant to suppress to this degree. Part of me knew I should be more careful, more measured. But another part—the part that had watched my home being literally erased from reality—didn't care about caution anymore.
+I redoubled my efforts, drawing on reserves of power I usually kept carefully locked away. The ring on my finger was hot, its suppression faltering as I channeled multiple affinities openly—the disguise barely holding against the torrent of Prime Archon power. Part of me knew I should be more careful, more measured. But another part—the part that had watched my home being literally erased from reality—didn't care about caution anymore.
 
 Multiple affinities spiraled around me in a storm of light and power. I reached for the tears themselves, trying to seal them rather than just fight the tendrils. It was like trying to stitch a wound with my bare hands while the patient was still bleeding, but I had to try.
 
