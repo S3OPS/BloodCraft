@@ -16,8 +16,11 @@ This directory contains the **canonical/original storyline** of Blood Craft - a 
 - **Book1.md** - Chapters 1-13: Awakening (Structural outline)
 - **Book2.md** - Chapters 14-26: The Rising Conflict (Structural outline)
 - **Book3.md** - Chapters 27-38: The Final Confrontation (Structural outline)
+- **Book4.md** - Chapters 39-50: Legacy of Blood (SEQUEL - Planning Phase)
 - **Chapter-Summary-and-Timeline.md** - Complete outline and summary of the canonical storyline
+- **BOOK4_DEVELOPMENT.md** - Development guide for Book 4 sequel
 - **new-chapters/** - Additional chapter files
+  - **book4/** - Book 4 chapters (in development)
 
 ---
 
@@ -52,7 +55,9 @@ With the help of Raechelle Darkpurr (his family's familiar), Riven learns to mas
 
 ## 📚 Current Status
 
-**✅ The canonical version is now fully written and enhanced!** The complete novel with 48 total chapters (37 main + 11 interstitial) is available in `Blood-Craft-Canonical.md` (~1.2MB, ~197,000 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the main narrative arc.
+**✅ Books 1-3: The canonical version is now fully written and enhanced!** The complete novel with 48 total chapters (37 main + 11 interstitial) is available in `Blood-Craft-Canonical.md` (~1.2MB, ~197,000 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the main narrative arc.
+
+**📝 Book 4: Planning Phase** - Organizational structure has been established for the sequel "Legacy of Blood" (Chapters 39-50). Development materials ready in `Book4.md` and `BOOK4_DEVELOPMENT.md`.
 
 **Recent Enhancement (February 2026):** Successfully integrated 11 new interstitial chapters (numbered with .5) throughout the narrative:
 - 4 Raechelle POV chapters providing a distinct woman's perspective (Chapters 0.5, 2.5, 7.5, 15.5, 29.5)
@@ -78,7 +83,7 @@ For a detailed comparison of both versions:
 
 ### Book Structure
 
-The story is organized into three books:
+The story is organized into four books:
 
 1. **Book1.md** (Chapters 1-13: Awakening)
    - Riven's introduction and awakening to his Blood Archon heritage
@@ -99,6 +104,13 @@ The story is organized into three books:
    - Resolution of Riven's parents' murder
    - Establishment of peace and future
    - Note: Main story arc concludes at Chapter 37; Book3.md outline covers the main numbered chapters
+
+4. **Book4.md** (Chapters 39-50: Legacy of Blood) **📝 SEQUEL - Planning Phase**
+   - Continuation of Riven's story after Books 1-3
+   - New challenges and threats
+   - Character development beyond initial arcs
+   - Building on established world and relationships
+   - See `BOOK4_DEVELOPMENT.md` for development guide
 
 ### How to Read
 
