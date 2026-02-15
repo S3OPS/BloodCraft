@@ -63,15 +63,20 @@ Setting up the sequel's core conflict and establishing the new status quo.
 - Meeting set for three days at the old Sanctum in northern territories
 - Family decides to attend meeting together
 
-#### Chapter 40: The Sanctum Meeting
-**Status**: 📝 Planning  
+#### Chapter 40: The Sanctum
+**Status**: ✅ Complete  
+**Word Count**: ~6,500 words  
 **Key Events**:
-- Riven, Raechelle, and Elena travel to the northern Sanctum
-- Discovery of the mysterious figure's identity
-- Revelation about ancient threat awakening
-- Connection to Riven's Prime Archon nature
-- Introduction of new antagonist or conflict
-- First encounter with the larger threat
+- Family travels to ancient Sanctum in northern territories
+- Mystery figure revealed as Zephyra Stormweaver, another Prime Archon
+- Prime Archon history revealed through ancient murals
+- Marcus confirmed as third Prime Archon (Riven's ancestor)
+- Revelation: Two Prime Archons existing together awakens the Devourer
+- The Devourer is ancient reality-consuming entity sealed 3,000 years ago
+- Three options: death, stasis for millennia, or fight together
+- Timeline: Weeks to one month before Devourer manifests physically
+- Zephyra gives Riven communication crystal
+- Elena senses the Devourer watching through reality
 
 #### Chapter 41: Shadows Rising
 **Status**: 📝 Planning  
