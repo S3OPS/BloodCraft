@@ -61,7 +61,7 @@ My blood magic flared instinctively, crimson energy crackling around my fingerti
 
 ---
 
-The estate's security room was one of my additions after Book Three—a concession to Raechelle's insistence that "hoping for peace" and "preparing for threats" weren't mutually exclusive. The room was filled with magical monitoring equipment, combining traditional ward-crafting with modern technology in ways that would have baffled supernatural beings from even a century ago.
+The estate's security room was one of my additions after defeating Terravos—a concession to Raechelle's insistence that "hoping for peace" and "preparing for threats" weren't mutually exclusive. The room was filled with magical monitoring equipment, combining traditional ward-crafting with modern technology in ways that would have baffled supernatural beings from even a century ago.
 
 Viktor's work, mostly. The werewolf alpha had a knack for blending old magic with new innovation.
 
@@ -1526,7 +1526,7 @@ We were fighting something that shouldn't exist against odds that no rational pe
 
 ---
 
-Morgana's sanctum was exactly what you'd expect from a powerful witch—a converted warehouse in the industrial district filled with books, artifacts, and magical instruments that hummed with latent power. The walls were covered in protective wards so dense they made my eyes water to look at directly, and the air itself tasted of old magic and older secrets.
+Morgana's sanctum fit every stereotype of a powerful witch—a converted warehouse in the industrial district filled with books, artifacts, and magical instruments that hummed with latent power. The walls were covered in protective wards so dense they made my eyes water to look at directly, and the air itself tasted of old magic and older secrets.
 
 She'd spread out her findings across a massive central table—ancient texts, modern research notes, and arcane diagrams that seemed to shift when I wasn't looking directly at them.
 
