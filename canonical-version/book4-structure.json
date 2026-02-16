@@ -1,0 +1,177 @@
+{
+  "title": "Blood Craft: Book Four - Legacy of Blood",
+  "total_chapters": 12,
+  "total_pages": 62,
+  "chapters": [
+    {
+      "id": "ch39",
+      "title": "Chapter 39",
+      "line_number": 14,
+      "page_count": 4,
+      "page_start_index": 0,
+      "page_ids": [
+        "ch39_p1",
+        "ch39_p2",
+        "ch39_p3",
+        "ch39_p4"
+      ]
+    },
+    {
+      "id": "ch40",
+      "title": "Chapter 40",
+      "line_number": 328,
+      "page_count": 4,
+      "page_start_index": 4,
+      "page_ids": [
+        "ch40_p1",
+        "ch40_p2",
+        "ch40_p3",
+        "ch40_p4"
+      ]
+    },
+    {
+      "id": "ch41",
+      "title": "Chapter 41",
+      "line_number": 571,
+      "page_count": 5,
+      "page_start_index": 8,
+      "page_ids": [
+        "ch41_p1",
+        "ch41_p2",
+        "ch41_p3",
+        "ch41_p4",
+        "ch41_p5"
+      ]
+    },
+    {
+      "id": "ch42",
+      "title": "Chapter 42",
+      "line_number": 890,
+      "page_count": 6,
+      "page_start_index": 13,
+      "page_ids": [
+        "ch42_p1",
+        "ch42_p2",
+        "ch42_p3",
+        "ch42_p4",
+        "ch42_p5",
+        "ch42_p6"
+      ]
+    },
+    {
+      "id": "ch43",
+      "title": "Chapter 43",
+      "line_number": 1299,
+      "page_count": 6,
+      "page_start_index": 19,
+      "page_ids": [
+        "ch43_p1",
+        "ch43_p2",
+        "ch43_p3",
+        "ch43_p4",
+        "ch43_p5",
+        "ch43_p6"
+      ]
+    },
+    {
+      "id": "ch44",
+      "title": "Chapter 44",
+      "line_number": 1708,
+      "page_count": 5,
+      "page_start_index": 25,
+      "page_ids": [
+        "ch44_p1",
+        "ch44_p2",
+        "ch44_p3",
+        "ch44_p4",
+        "ch44_p5"
+      ]
+    },
+    {
+      "id": "ch45",
+      "title": "Chapter 45",
+      "line_number": 2123,
+      "page_count": 6,
+      "page_start_index": 30,
+      "page_ids": [
+        "ch45_p1",
+        "ch45_p2",
+        "ch45_p3",
+        "ch45_p4",
+        "ch45_p5",
+        "ch45_p6"
+      ]
+    },
+    {
+      "id": "ch46",
+      "title": "Chapter 46",
+      "line_number": 2527,
+      "page_count": 6,
+      "page_start_index": 36,
+      "page_ids": [
+        "ch46_p1",
+        "ch46_p2",
+        "ch46_p3",
+        "ch46_p4",
+        "ch46_p5",
+        "ch46_p6"
+      ]
+    },
+    {
+      "id": "ch47",
+      "title": "Chapter 47",
+      "line_number": 2967,
+      "page_count": 5,
+      "page_start_index": 42,
+      "page_ids": [
+        "ch47_p1",
+        "ch47_p2",
+        "ch47_p3",
+        "ch47_p4",
+        "ch47_p5"
+      ]
+    },
+    {
+      "id": "ch48",
+      "title": "Chapter 48",
+      "line_number": 3389,
+      "page_count": 5,
+      "page_start_index": 47,
+      "page_ids": [
+        "ch48_p1",
+        "ch48_p2",
+        "ch48_p3",
+        "ch48_p4",
+        "ch48_p5"
+      ]
+    },
+    {
+      "id": "ch49",
+      "title": "Chapter 49",
+      "line_number": 3800,
+      "page_count": 5,
+      "page_start_index": 52,
+      "page_ids": [
+        "ch49_p1",
+        "ch49_p2",
+        "ch49_p3",
+        "ch49_p4",
+        "ch49_p5"
+      ]
+    },
+    {
+      "id": "ch50",
+      "title": "Chapter 50",
+      "line_number": 4156,
+      "page_count": 5,
+      "page_start_index": 57,
+      "page_ids": [
+        "ch50_p1",
+        "ch50_p2",
+        "ch50_p3",
+        "ch50_p4",
+        "ch50_p5"
+      ]
+    }
+  ]
+}
