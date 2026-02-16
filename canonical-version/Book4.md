@@ -130,14 +130,18 @@ Escalation of conflict and development of new challenges.
 - Chapter ends with Devourer beginning massive simultaneous assault
 
 #### Chapter 44: Fractured Alliances
-**Status**: 📝 Planning  
+**Status**: ✅ Complete  
+**Word Count**: ~7,500 words  
 **Key Events**:
-- Some Council factions turn against Riven out of fear
-- Political intrigue threatens to undermine defense efforts
-- Viktor and werewolf packs stand firm with Riven
-- Morgana provides crucial magical research
-- Major supernatural location falls to the threat
-- Riven faces difficult choice between protecting family and duty
+- Simultaneous Devourer attacks across 17+ confluence points
+- Strategic decision to abandon some territories to save others (eastern enclaves, western points)
+- Thousands of casualties/erasures—entire vampire settlements erased
+- Elena and young Archons defend the Spire while Riven seals Academy breach
+- Riven uses Marcus's dangerous technique, suffers partial reality-unmaking injury
+- Strategic shift from defense to offense
+- Riven and Zephyra attack Devourer's core essence directly
+- Successfully wound the entity, forcing temporary retreat
+- Political fracturing begins as factions question command decisions
 
 #### Chapter 45: The Price of Power
 **Status**: 📝 Planning  
