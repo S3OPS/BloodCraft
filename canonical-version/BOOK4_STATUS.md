@@ -40,7 +40,23 @@ Implementation of Book 4: Legacy of Blood has begun with comprehensive planning 
 - Two-day timeline until Council revelation
 - Training with Zephyra to begin immediately
 - Stakes escalate from abstract to concrete threat
+
+#### Chapter 42: "The Council's Choice" (~7,200 words)
 **Status**: ✅ Complete
+
+**Summary**: Two days after the estate attack, Riven calls an emergency Council session to reveal his Prime Archon nature publicly. The supernatural leadership reacts with mixed fear, anger, and some support, creating political divisions. Elena faces discrimination at the Academy after the secret spreads. A large reality tear opens in Council Square, which Riven and Zephyra seal while learning the Devourer has intelligence and is actively hunting them. The revelation that it's trying to consume Prime Archon power to evolve permanently forces the war council to prepare for a final confrontation at the Archon Spire within one week.
+
+**Key Story Elements**:
+- Public revelation of Prime Archon secret to full Council
+- Political fallout with faction divisions forming
+- Slim majority votes to coordinate defense efforts
+- Elena faces prejudice and discrimination at Academy
+- Major reality tear in Council Square during day
+- Discovery that Devourer has intelligence and strategic purpose
+- Revelation it wants to consume Prime Archon power permanently
+- Final battle location identified: Archon Spire
+- One-week timeline until expected major assault
+- Act One conclusion with stakes dramatically escalated
 
 **Summary**: The family travels to the ancient Sanctum where the mysterious figure reveals herself as Zephyra Stormweaver, another Prime Archon from 3,000 years ago. Through ancient murals, she explains Prime Archon history and the devastating truth: when two Prime Archons exist simultaneously, an ancient entity called the Devourer begins to awaken. Riven must choose between death, eternal stasis, or fighting alongside Zephyra.
 
@@ -141,11 +157,11 @@ Riven must choose between:
 
 ## Estimated Completion
 
-- **Act One (Ch 39-42)**: 75% complete (3/4 chapters)
+- **Act One (Ch 39-42)**: 100% complete (4/4 chapters)
 - **Act Two (Ch 43-46)**: 0% complete (planning done)
 - **Act Three (Ch 47-50)**: 0% complete (planning done)
-- **Total Progress**: ~25% of main chapters (3/12)
-- **Word Count**: ~19,200 / ~75,000 estimated total
+- **Total Progress**: ~33% of main chapters (4/12)
+- **Word Count**: ~26,956 / ~75,000 estimated total (~36% complete)
 
 ## Notes for Continued Development
 
