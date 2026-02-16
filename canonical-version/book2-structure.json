@@ -1,0 +1,180 @@
+{
+  "title": "Blood Craft: Book Two - The Rising Conflict",
+  "total_chapters": 13,
+  "total_pages": 56,
+  "chapters": [
+    {
+      "id": "ch14",
+      "title": "Chapter 14",
+      "line_number": 13,
+      "page_count": 4,
+      "page_start_index": 0,
+      "page_ids": [
+        "ch14_p1",
+        "ch14_p2",
+        "ch14_p3",
+        "ch14_p4"
+      ]
+    },
+    {
+      "id": "ch15",
+      "title": "Chapter 15",
+      "line_number": 379,
+      "page_count": 3,
+      "page_start_index": 4,
+      "page_ids": [
+        "ch15_p1",
+        "ch15_p2",
+        "ch15_p3"
+      ]
+    },
+    {
+      "id": "ch16",
+      "title": "Chapter 16",
+      "line_number": 581,
+      "page_count": 3,
+      "page_start_index": 7,
+      "page_ids": [
+        "ch16_p1",
+        "ch16_p2",
+        "ch16_p3"
+      ]
+    },
+    {
+      "id": "ch17",
+      "title": "Chapter 17",
+      "line_number": 814,
+      "page_count": 5,
+      "page_start_index": 10,
+      "page_ids": [
+        "ch17_p1",
+        "ch17_p2",
+        "ch17_p3",
+        "ch17_p4",
+        "ch17_p5"
+      ]
+    },
+    {
+      "id": "ch18",
+      "title": "Chapter 18",
+      "line_number": 1176,
+      "page_count": 5,
+      "page_start_index": 15,
+      "page_ids": [
+        "ch18_p1",
+        "ch18_p2",
+        "ch18_p3",
+        "ch18_p4",
+        "ch18_p5"
+      ]
+    },
+    {
+      "id": "ch19",
+      "title": "Chapter 19",
+      "line_number": 1541,
+      "page_count": 3,
+      "page_start_index": 20,
+      "page_ids": [
+        "ch19_p1",
+        "ch19_p2",
+        "ch19_p3"
+      ]
+    },
+    {
+      "id": "ch20",
+      "title": "Chapter 20",
+      "line_number": 1800,
+      "page_count": 4,
+      "page_start_index": 23,
+      "page_ids": [
+        "ch20_p1",
+        "ch20_p2",
+        "ch20_p3",
+        "ch20_p4"
+      ]
+    },
+    {
+      "id": "ch21",
+      "title": "Chapter 21",
+      "line_number": 2141,
+      "page_count": 9,
+      "page_start_index": 27,
+      "page_ids": [
+        "ch21_p1",
+        "ch21_p2",
+        "ch21_p3",
+        "ch21_p4",
+        "ch21_p5",
+        "ch21_p6",
+        "ch21_p7",
+        "ch21_p8",
+        "ch21_p9"
+      ]
+    },
+    {
+      "id": "ch22",
+      "title": "Chapter 22",
+      "line_number": 2651,
+      "page_count": 4,
+      "page_start_index": 36,
+      "page_ids": [
+        "ch22_p1",
+        "ch22_p2",
+        "ch22_p3",
+        "ch22_p4"
+      ]
+    },
+    {
+      "id": "ch23",
+      "title": "Chapter 23",
+      "line_number": 2985,
+      "page_count": 5,
+      "page_start_index": 40,
+      "page_ids": [
+        "ch23_p1",
+        "ch23_p2",
+        "ch23_p3",
+        "ch23_p4",
+        "ch23_p5"
+      ]
+    },
+    {
+      "id": "ch24",
+      "title": "Chapter 24",
+      "line_number": 3270,
+      "page_count": 3,
+      "page_start_index": 45,
+      "page_ids": [
+        "ch24_p1",
+        "ch24_p2",
+        "ch24_p3"
+      ]
+    },
+    {
+      "id": "ch25",
+      "title": "Chapter 25",
+      "line_number": 3498,
+      "page_count": 2,
+      "page_start_index": 48,
+      "page_ids": [
+        "ch25_p1",
+        "ch25_p2"
+      ]
+    },
+    {
+      "id": "ch26",
+      "title": "Chapter 26",
+      "line_number": 3591,
+      "page_count": 6,
+      "page_start_index": 50,
+      "page_ids": [
+        "ch26_p1",
+        "ch26_p2",
+        "ch26_p3",
+        "ch26_p4",
+        "ch26_p5",
+        "ch26_p6"
+      ]
+    }
+  ]
+}
