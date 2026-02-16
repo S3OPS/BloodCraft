@@ -116,14 +116,18 @@ Setting up the sequel's core conflict and establishing the new status quo.
 Escalation of conflict and development of new challenges.
 
 #### Chapter 43: Ancient Powers
-**Status**: 📝 Planning  
+**Status**: ✅ Complete  
+**Word Count**: ~7,000 words  
 **Key Events**:
-- Full scope of the ancient threat revealed
-- Multiple attacks across supernatural territories
-- Riven must coordinate defense across all factions
-- Strain on Riven and Raechelle's relationship due to danger
-- Elena proves herself in combat situation
-- Discovery of connection between threat and Prime Archon legends
+- Major reality tear in northern territories—largest breach yet
+- Coordinated sealing effort requires multiple factions working together
+- Elena proves herself in combat, defending against tendrils while maintaining power channel
+- Seven casualties total—five confirmed dead, two erased from existence
+- Morgana's research reveals Devourer's true objective: consume Prime Archon legacy at Spire
+- Discovery that Archon Spire repository contains Marcus's preserved artifacts and blood
+- Strategic decision to set trap at the Spire rather than wait for Devourer's attack
+- Three days of intensive preparation for final battle
+- Chapter ends with Devourer beginning massive simultaneous assault
 
 #### Chapter 44: Fractured Alliances
 **Status**: 📝 Planning  
