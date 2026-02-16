@@ -11,6 +11,37 @@ import re
 from pathlib import Path
 
 
+def is_narrative_line(line: str, next_line: str = "") -> bool:
+    """
+    Check if a line appears to be narrative text (not metadata).
+    
+    Args:
+        line: The current line to check
+        next_line: The next line (for context)
+    
+    Returns:
+        True if the line appears to be narrative text
+    """
+    stripped = line.strip()
+    
+    # Empty lines are not narrative
+    if not stripped:
+        return False
+    
+    # Lines starting with markdown syntax are not narrative
+    if stripped.startswith('#') or stripped.startswith('**') or stripped.startswith('---') or stripped.startswith('>') or stripped.startswith('*'):
+        return False
+    
+    # Check if this looks like substantial narrative text
+    # Either the current line is long enough, or the next line is
+    if len(stripped) > 50:
+        return True
+    if next_line and len(next_line.strip()) > 50:
+        return True
+    
+    return False
+
+
 def consolidate_book4():
     """Consolidate all Book 4 chapter files into a single markdown file."""
     
@@ -69,12 +100,10 @@ def consolidate_book4():
                 # Skip header lines until we find the actual narrative
                 start_idx = 0
                 for i, line in enumerate(lines):
-                    # Skip empty lines, headers, metadata
-                    if line.strip() and not line.startswith('#') and not line.startswith('**') and not line.startswith('---') and not line.startswith('>') and not line.startswith('*'):
-                        # Check if this looks like narrative text (not just a label)
-                        if len(line.strip()) > 50 or (i < len(lines) - 1 and len(lines[i+1].strip()) > 50):
-                            start_idx = i
-                            break
+                    next_line = lines[i+1] if i < len(lines) - 1 else ""
+                    if is_narrative_line(line, next_line):
+                        start_idx = i
+                        break
                 
                 # Write chapter header
                 out_f.write(f"# **Chapter {chapter_num}**\n\n")

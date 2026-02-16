@@ -44,18 +44,18 @@ The Book 4 Interactive Reader provides an immersive reading experience for "Bloo
 - **Reading Time**: ~3.5-4 hours at average reading speed
 
 ### Chapter List
-- Chapter 39 (4 pages) - Echoes of the Past
-- Chapter 40 (4 pages) - The Sanctum
-- Chapter 41 (5 pages) - Shadows Rising
-- Chapter 42 (6 pages) - The Council's Choice
-- Chapter 43 (6 pages) - Ancient Powers
-- Chapter 44 (5 pages) - Fractured Alliances
-- Chapter 45 (6 pages) - The Price of Power
-- Chapter 46 (6 pages) - Into the Abyss
-- Chapter 47 (5 pages) - The Devourer's Hunger
-- Chapter 48 (5 pages) - Desperate Measures
-- Chapter 49 (5 pages) - The Final Stand
-- Chapter 50 (5 pages) - Legacy
+- Chapter 39 (4 pages)
+- Chapter 40 (4 pages)
+- Chapter 41 (5 pages)
+- Chapter 42 (6 pages)
+- Chapter 43 (6 pages)
+- Chapter 44 (5 pages)
+- Chapter 45 (6 pages)
+- Chapter 46 (6 pages)
+- Chapter 47 (5 pages)
+- Chapter 48 (5 pages)
+- Chapter 49 (5 pages)
+- Chapter 50 (5 pages)
 
 ### Story Overview
 Set five years after Book Three, the sequel follows Riven and Raechelle as they face a new threat: an ancient entity called the Devourer that awakens when two Prime Archons exist simultaneously. With their daughter Elena now 15 and training as a Blood Archon, the family must confront this existential threat while navigating the political complexities of the supernatural world.

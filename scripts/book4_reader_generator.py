@@ -108,6 +108,9 @@ def parse_book4(file_path: str) -> BookStructure:
             
             # Create clean chapter ID
             clean_num = re.sub(r'[^0-9.]', '', chapter_num.split('-')[0].strip())
+            if not clean_num or clean_num == '.':
+                # Fallback: use line number as ID if chapter number parsing fails
+                clean_num = str(i)
             current_chapter_id = f"ch{clean_num.replace('.', '_')}"
             current_chapter_content = []
             current_chapter_line = i + 1
