@@ -126,6 +126,14 @@ def parse_book2(file_path: str) -> BookStructure:
 def generate_html_reader(book: BookStructure, output_path: str):
     """Generate an interactive HTML book reader."""
     
+    # Derive chapter range from book data
+    chapter_range = ""
+    if len(book.chapters) > 0:
+        # Extract chapter numbers from titles
+        first_chapter = book.chapters[0]['title'].replace('Chapter ', '')
+        last_chapter = book.chapters[-1]['title'].replace('Chapter ', '')
+        chapter_range = f"Chapters {first_chapter}-{last_chapter}"
+    
     # Convert book structure to JSON for JavaScript
     book_data = {
         'title': book.title,
@@ -431,7 +439,7 @@ def generate_html_reader(book: BookStructure, output_path: str):
         <main class="main-content">
             <div class="book-header">
                 <h1 class="book-title">{{ TITLE }}</h1>
-                <div class="book-subtitle">Chapters 14-26</div>
+                <div class="book-subtitle">{{ CHAPTER_RANGE }}</div>
                 <div class="book-stats">
                     <span id="totalChapters"></span> chapters • 
                     <span id="totalPages"></span> pages • 
@@ -635,6 +643,7 @@ def generate_html_reader(book: BookStructure, output_path: str):
     
     # Replace template variables
     html_content = html_template.replace('{{ TITLE }}', book.title)
+    html_content = html_content.replace('{{ CHAPTER_RANGE }}', chapter_range)
     html_content = html_content.replace('{{ BOOK_DATA }}', json.dumps(book_data, ensure_ascii=False))
     
     # Write HTML file
@@ -690,7 +699,10 @@ def main():
     print(f"   Title: {book.title}")
     print(f"   Chapters: {len(book.chapters)}")
     print(f"   Total Pages: {book.total_pages}")
-    print(f"   Average Pages per Chapter: {book.total_pages / len(book.chapters):.1f}")
+    if len(book.chapters) > 0:
+        print(f"   Average Pages per Chapter: {book.total_pages / len(book.chapters):.1f}")
+    else:
+        print(f"   Average Pages per Chapter: N/A")
     
     print(f"\n🎨 Generating HTML reader...")
     generate_html_reader(book, html_output)
