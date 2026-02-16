@@ -360,7 +360,7 @@ Instead, I collapsed face-first into void-touched dirt and embraced unconsciousn
 - Eastern vampire enclaves completely erased (thousands lost)
 - Elena and young Archons step up to defend the Spire
 - Riven seals Academy breach using Marcus's dangerous technique
-- Partial reality-unmakinginjury to Riven's shoulder
+- Partial reality-unmaking injury to Riven's shoulder
 - Strategic shift from defense to offense
 - Riven and Zephyra attack Devourer's core essence directly
 - Successfully wound the entity, forcing retreat
