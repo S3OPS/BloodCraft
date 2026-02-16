@@ -94,14 +94,21 @@ Setting up the sequel's core conflict and establishing the new status quo.
 - Early warning system established across territories
 
 #### Chapter 42: The Council's Choice
-**Status**: 📝 Planning  
+**Status**: ✅ Complete  
+**Word Count**: ~7,200 words  
 **Key Events**:
-- Riven decides to reveal Prime Archon secret to select Council members
-- Mixed reactions from supernatural leadership
-- Political maneuvering and faction alignments
-- Elena faces challenges at the Academy due to her father's revelation
-- First direct attack from the new threat
-- Act One climax: major event that escalates the conflict
+- Emergency Council session—Riven reveals Prime Archon secret publicly
+- Mixed reactions: fear, anger, some support—political factions form
+- Debate over whether to kill Riven vs. coordinate defense
+- Slim majority votes to work together; several factions remain opposed
+- Elena faces discrimination at Academy due to father's revelation
+- Large reality tear opens in Council Square during day
+- Zephyra and Riven seal it using new techniques from training
+- Revelation: Devourer has intelligence and is hunting them specifically
+- Discovery: It's trying to consume Prime Archon power to evolve permanently
+- War council identifies Archon Spire as likely final battle location
+- Timeline: One week until expected major Devourer assault
+- Act One climax: Stakes escalated from cosmic threat to intelligent predator
 
 ---
 
