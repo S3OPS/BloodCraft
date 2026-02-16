@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Blood Craft Book 2 Reader Generator
+Blood Craft Book 4 Reader Generator
 
-This script parses the Book2.md file and generates an interactive
-HTML book reader for Book 2 (Chapters 14-26).
+This script parses the Book4-Full.md file and generates an interactive
+HTML book reader for Book 4 (Chapters 39-50).
 """
 
 import re
@@ -16,7 +16,7 @@ from typing import List, Dict, Tuple
 class BookStructure:
     """Represents the structure of the book with chapters and pages."""
     
-    def __init__(self, title: str = "Blood Craft: Book Two - The Rising Conflict"):
+    def __init__(self, title: str = "Blood Craft: Book Four - Legacy of Blood"):
         self.title = title
         self.chapters: List[Dict] = []
         self.total_pages = 0
@@ -76,8 +76,8 @@ class BookStructure:
         return pages if pages else [content]
 
 
-def parse_book2(file_path: str) -> BookStructure:
-    """Parse the Book2.md file."""
+def parse_book4(file_path: str) -> BookStructure:
+    """Parse the Book4-Full.md file."""
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -493,7 +493,7 @@ def generate_html_reader(book: BookStructure, output_path: str):
             buildPageSelector();
             
             // Load saved position or start from beginning
-            const savedPage = localStorage.getItem('bloodcraft_book2_current_page');
+            const savedPage = localStorage.getItem('bloodcraft_book4_current_page');
             if (savedPage) {
                 currentPageIndex = parseInt(savedPage) - 1;
             }
@@ -589,7 +589,7 @@ def generate_html_reader(book: BookStructure, output_path: str):
             });
             
             // Save current position
-            localStorage.setItem('bloodcraft_book2_current_page', page.global_page_number);
+            localStorage.setItem('bloodcraft_book4_current_page', page.global_page_number);
             
             // Scroll to top
             window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -683,17 +683,17 @@ def generate_metadata(book: BookStructure, output_path: str):
 def main():
     """Main function to generate the book reader."""
     # Paths
-    narrative_path = 'canonical-version/Book2.md'
+    narrative_path = 'canonical-version/Book4-Full.md'
     output_dir = 'canonical-version'
-    html_output = os.path.join(output_dir, 'Book2-Reader.html')
-    metadata_output = os.path.join(output_dir, 'book2-structure.json')
+    html_output = os.path.join(output_dir, 'Book4-Reader.html')
+    metadata_output = os.path.join(output_dir, 'book4-structure.json')
     
     if not os.path.exists(narrative_path):
         print(f"❌ Error: {narrative_path} not found!")
         sys.exit(1)
     
-    print("🔍 Parsing Book 2 narrative...")
-    book = parse_book2(narrative_path)
+    print("🔍 Parsing Book 4 narrative...")
+    book = parse_book4(narrative_path)
     
     print(f"\n📊 Book Structure:")
     print(f"   Title: {book.title}")
@@ -710,7 +710,7 @@ def main():
     print(f"\n📋 Generating metadata...")
     generate_metadata(book, metadata_output)
     
-    print(f"\n✨ Done! Open '{html_output}' in your browser to read Book 2.")
+    print(f"\n✨ Done! Open '{html_output}' in your browser to read Book 4.")
     print(f"   The reader supports:")
     print(f"   • Chapter navigation via sidebar")
     print(f"   • Page-by-page reading")
