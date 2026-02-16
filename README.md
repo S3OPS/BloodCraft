@@ -23,7 +23,9 @@ Blood Craft is a supernatural fantasy novel that follows Riven Sixxx, a 23-year-
 This repository contains the **Canonical Version** - a traditional hero's journey following Riven's supernatural awakening and his journey to master his powers while navigating romance, politics, and ancient threats.
 
 **Books 1-3 Status**: ✅ Complete (38 chapters, ~157,000 words)  
-**Book 4 Status**: 📝 Planning Phase - Organizational structure established for sequel
+**Book 4 Status**: ✅ Complete (12 chapters, ~81,300 words)  
+**Book 5 Status**: 📝 Planning Complete - Elena's story awaiting development  
+**Book 6 Status**: 📝 Planning Complete - Series finale awaiting Book 5
 
 ---
 
@@ -38,13 +40,19 @@ BloodCraft/
 │   ├── Book1.md                 # Structural outline: Chapters 1-13
 │   ├── Book2.md                 # Structural outline: Chapters 14-26
 │   ├── Book3.md                 # Structural outline: Chapters 27-38
-│   ├── Book4.md                 # SEQUEL outline: Chapters 39-50 (Planning)
+│   ├── Book4.md                 # SEQUEL outline: Chapters 39-50 (Complete)
+│   ├── Book5.md                 # Elena's Story: Chapters 51-62 (Planned)
+│   ├── Book6.md                 # Series Finale: Chapters 63-74 (Planned)
 │   ├── Blood-Craft-Canonical.md # COMPLETE 38-chapter novel (~944KB)
 │   ├── Chapter-Summary-and-Timeline.md
 │   ├── DEVELOPMENT.md
 │   ├── BOOK4_DEVELOPMENT.md     # Development guide for Book 4
+│   ├── BOOK5_STATUS.md          # Book 5 planning status
+│   ├── BOOK6_STATUS.md          # Book 6 planning status
 │   └── new-chapters/            # Additional chapter files
-│       └── book4/               # Book 4 chapters (in development)
+│       ├── book4/               # Book 4 chapters (Complete - 12 chapters)
+│       ├── book5/               # Book 5 chapters (Awaiting writing)
+│       └── book6/               # Book 6 chapters (Awaiting Book 5)
 │
 └── docs/                        # Supporting documentation
     ├── README.md                # Documentation overview
@@ -82,7 +90,9 @@ The Paradox Version (psychological thriller with major twist) has moved to its o
 - [`canonical-version/Book1.md`](canonical-version/Book1.md) - Structural outline for Chapters 1-13
 - [`canonical-version/Book2.md`](canonical-version/Book2.md) - Structural outline for Chapters 14-26
 - [`canonical-version/Book3.md`](canonical-version/Book3.md) - Structural outline for Chapters 27-38
-- [`canonical-version/Book4.md`](canonical-version/Book4.md) - **SEQUEL** outline for Chapters 39-50 (Planning Phase)
+- [`canonical-version/Book4.md`](canonical-version/Book4.md) - **SEQUEL** outline for Chapters 39-50 (Complete - ~81,300 words)
+- [`canonical-version/Book5.md`](canonical-version/Book5.md) - **ELENA'S STORY** outline for Chapters 51-62 (Planned)
+- [`canonical-version/Book6.md`](canonical-version/Book6.md) - **SERIES FINALE** outline for Chapters 63-74 (Planned)
 - [`canonical-version/Chapter-Summary-and-Timeline.md`](canonical-version/Chapter-Summary-and-Timeline.md) - Complete overview
 
 The chapter outlines provide detailed structural summaries of the main numbered chapters in the canonical version. The full novel includes these plus 11 additional interstitial (.5) chapters.
@@ -108,15 +118,21 @@ Read this if you want:
 **Location**: [`canonical-version/`](canonical-version/)
 
 Read this if you want:
-- ✅ Complete novel with 48 total chapters (37 main chapters + 11 interstitial .5 chapters, ~197,000 words)
+- ✅ Books 1-3: Complete novel with 48 total chapters (~197,000 words)
+- ✅ **Book 4: Complete sequel** with 12 chapters (~81,300 words)
+- ✅ **Books 5-6: Planned** - Elena's story and series finale
 - ✅ **NEW: Dual-POV chapters** from Raechelle's perspective
 - ✅ Traditional hero's journey structure
 - ✅ Clear heroes and villains
 - ✅ Romantic supernatural fantasy
 - ✅ Empowering protagonist growth
-- ✅ Straightforward good vs. evil
+- ✅ Multi-generational saga spanning 25 years
 
-**Note**: The canonical version is now fully written in `Blood-Craft-Canonical.md`. Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the main numbered chapters. Additional Raechelle POV chapters in `new-chapters/` directory provide a distinct woman's perspective on key events.
+**Series Overview**:
+- **Books 1-3** (Complete): Riven's awakening, growth, and triumph over Terravos
+- **Book 4** (Complete): Prime Archon revealed, Devourer sealed, Elena's coming of age
+- **Book 5** (Planned): Elena's leadership, generational reform, magical evolution
+- **Book 6** (Planned): Series finale, ultimate sacrifice, legacy completed
 
 ---
 
@@ -256,6 +272,79 @@ BloodCraft/
 
 ---
 
+## 📚 Series Roadmap
+
+### Completed Works
+
+**Books 1-3: The Original Trilogy** ✅
+- Chapters 1-38 (~157,000 words)
+- Riven's awakening, growth, and triumph over Terravos
+- Complete hero's journey from traumatized student to powerful leader
+- Available in `Blood-Craft-Canonical.md`
+
+**Book 4: Legacy of Blood** ✅
+- Chapters 39-50 (~81,300 words)
+- Five years after Book 3
+- Prime Archon secret revealed, Devourer sealed
+- Elena's coming of age from 15 to 16
+- Three-act structure with cosmic-level stakes
+- Available in `new-chapters/book4/`
+
+### Planned Works
+
+**Book 5: Rising Stars** 📝
+- Chapters 51-62 (~75,000 words planned)
+- Three years after Book 4
+- Elena as protagonist (age 18-21)
+- Generational conflict and magical evolution
+- Reform vs. revolution themes
+- Elena establishes her own leadership identity
+- Romance with Marcus Ironheart
+- Full planning in `Book5.md`
+
+**Book 6: Convergence** 📝
+- Chapters 63-74 (~80,000 words planned)
+- Five years after Book 5
+- **SERIES FINALE**
+- Devourer's return and final battle
+- Three Prime Archons (Riven, Elena, Zephyra) must sacrifice power to win
+- Three-way consciousness merge
+- Kael (age 3) as future Prime Archon
+- 25-year series complete (Riven age 23→48)
+- Full planning in `Book6.md`
+
+### Series Timeline
+
+**Complete Series Span**: 25 years  
+**Total Planned Length**: ~393,000 words across 74 chapters
+
+- **Year 0**: Riven age 23 - Awakening (Book 1)
+- **Year 2**: Riven age 25 - Rising power (Book 2)
+- **Year 5**: Riven age 28 - Terravos defeated (Book 3)
+- **Year 20**: Riven age 38, Elena age 15 - Devourer sealed (Book 4)
+- **Year 23**: Riven age 41, Elena age 18-21 - Generational reform (Book 5)
+- **Year 28**: Riven age 46, Elena age 26 - Final battle (Book 6)
+- **Epilogue**: Riven age 48, Elena age 31, Kael age 8 - Peace achieved
+
+---
+
+## 🎯 Development Status
+
+### Current Phase
+- ✅ Books 1-3: Fully written and integrated
+- ✅ Book 4: Fully written (12 chapters complete)
+- ✅ Book 5: Planning complete, awaiting writing phase
+- ✅ Book 6: Planning complete, awaiting Book 5 completion
+
+### Next Steps
+1. **Optional**: Integrate Book 4 chapters into main narrative file
+2. **Book 5**: Begin writing chapters 51-62 (Elena's story)
+3. **Book 6**: Write chapters 63-74 after Book 5 completes (series finale)
+4. **Series Integration**: Compile all 74 chapters into complete narrative
+5. **Reader Updates**: Regenerate interactive book reader with full series
+
+---
+
 ## 📜 License & Rights
 
 *(Add license information if applicable)*
@@ -268,4 +357,4 @@ BloodCraft/
 
 ---
 
-**Last Updated**: January 2026 - Canonical version fully written with 38 chapters
+**Last Updated**: February 2026 - Book 4 complete, Books 5-6 planned, series roadmap established
