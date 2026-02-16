@@ -80,7 +80,7 @@ Morgana arrived with a contingent of witches from her coven, immediately beginni
 
 And surprisingly, Elena insisted on coming.
 
-"Absolutely not," I told her firmly as she materialized beside me through a blood-gate she'd clearly mastered despite my explicit instructions to stay at the estate. "This is too dangerous."
+"Absolutely not," I told her firmly as she materialized beside me through a blood-gate she'd clearly mastered despite my explicit instructions to stay at the estate. Three days of crisis preparation had apparently included some advanced training I hadn't supervised. "This is too dangerous."
 
 "Everything is too dangerous now," she shot back, her fifteen-year-old defiance tempered by genuine determination. "You said yourself—we need every capable magic user. I'm a Blood Archon. I'm capable."
 
@@ -182,9 +182,9 @@ Viktor approached, his massive werewolf form somehow looking smaller after the b
 
 "Final count?" I asked, dreading the answer.
 
-"Five dead," he reported grimly. "Two of mine, three civilians who were too close when the tear opened. Nineteen seriously wounded. And that's not counting the two scouts who were erased entirely at the beginning."
+"Five confirmed dead," he reported grimly. "Two of mine, three civilians who were too close when the tear opened. Nineteen seriously wounded. That includes the two scouts who were erased entirely at the beginning—seven total casualties."
 
-Seven casualties. For what we'd been fighting, it could have been so much worse. But each death was still a weight on my conscience—people who died because the universe itself was trying to correct the paradox of my existence.
+Seven dead. For what we'd been fighting, it could have been so much worse. But each death was still a weight on my conscience—people who died because the universe itself was trying to correct the paradox of my existence.
 
 "We'll honor them," I said quietly. "Make sure their families are taken care of. Their sacrifice won't be forgotten."
 
