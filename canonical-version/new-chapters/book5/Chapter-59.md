@@ -1,6 +1,6 @@
 # Chapter 59: Reconstruction and Reform
 
-**Word Count**: ~13,281 words  
+**Word Count**: 13,281 words  
 **POV**: Elena Sixxx-Darkpurr  
 **Timeline**: Six months after Chapter 58
 

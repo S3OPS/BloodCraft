@@ -1,6 +1,6 @@
 # Chapter 60: Elena's Balance
 
-**Word Count**: ~12,400 words  
+**Word Count**: 12,424 words  
 **POV**: Elena Sixxx-Darkpurr  
 **Timeline**: Three months after Chapter 59 (Elena turning 19)
 

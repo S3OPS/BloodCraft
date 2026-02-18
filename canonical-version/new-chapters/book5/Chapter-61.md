@@ -1,6 +1,6 @@
 # Chapter 61: Legacy Redefined
 
-**Word Count**: ~12,000+ words  
+**Word Count**: 12,405 words  
 **POV**: Elena Sixxx-Darkpurr  
 **Timeline**: One year after Chapter 51 (Elena age 20)
 

@@ -1,6 +1,6 @@
 # Chapter 62: Passing the Torch - Epilogue
 
-**Word Count**: ~14,563 words  
+**Word Count**: 14,563 words  
 **POV**: Elena Sixxx-Darkpurr  
 **Timeline**: Two years after Chapter 61 (Elena age 21)
 
