@@ -1,5 +1,5 @@
 # Blood Craft: Book Five - Rising Stars
-**Chapters 51-62 (Planned)**
+**Chapters 51-62 (Complete)**
 
 ---
 
@@ -12,12 +12,14 @@
 
 ---
 
-## 🚧 Development Status
+## ✅ Development Status
 
-**Status**: 📝 Planning Phase - Awaiting Development  
-**Target**: 12 chapters (Chapters 51-62)  
-**Estimated Length**: ~70,000-80,000 words  
+**Status**: ✅ Complete  
+**Chapters**: 12 (Chapters 51-62)  
+**Length**: ~130,000 words  
 **Timeline**: Three years after Book Four's conclusion
+
+**Read it**: [Book5-Reader.html](Book5-Reader.html) | [Book5-Full.md](Book5-Full.md)
 
 ---
 

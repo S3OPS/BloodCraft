@@ -10,17 +10,32 @@ This directory contains the **canonical/original storyline** of Blood Craft - a 
 
 ### What You'll Find Here
 
-- **Blood-Craft-Reader.html** - 🌟 Interactive book reader with chapter/page navigation (RECOMMENDED)
-- **book-structure.json** - Book metadata with all chapter IDs and page IDs
-- **Blood-Craft-Canonical.md** - Complete 48-chapter novel in markdown (~1.2MB, ~197,000 words)
-- **Book1.md** - Chapters 1-13: Awakening (Structural outline)
-- **Book2.md** - Chapters 14-26: The Rising Conflict (Structural outline)
-- **Book3.md** - Chapters 27-38: The Final Confrontation (Structural outline)
-- **Book4.md** - Chapters 39-50: Legacy of Blood (SEQUEL - Planning Phase)
-- **Chapter-Summary-and-Timeline.md** - Complete outline and summary of the canonical storyline
-- **BOOK4_DEVELOPMENT.md** - Development guide for Book 4 sequel
-- **new-chapters/** - Additional chapter files
-  - **book4/** - Book 4 chapters (in development)
+#### 🌟 Interactive Book Readers (Recommended)
+| Book | File | Chapters | Pages |
+|------|------|----------|-------|
+| Books 1–3: Awakening, Rising Conflict, Final Confrontation | **Blood-Craft-Reader.html** | 1–38 | ~221 |
+| Book 4: Legacy of Blood | **Book4-Reader.html** | 39–50 | ~85 |
+| Book 5: Rising Stars | **Book5-Reader.html** | 51–62 | ~171 |
+| Book 6: Convergence (Coming Soon) | **Book6-Reader.html** | 63–74 | Planned |
+
+#### 📄 Full Narrative Files
+- **Blood-Craft-Canonical.md** - Complete Books 1-3 novel (~1.2MB, ~197,000 words, 48 chapters)
+- **Book4-Full.md** - Complete Book 4 narrative (~356KB, ~81,300 words, 12 chapters)
+- **Book5-Full.md** - Complete Book 5 narrative (~1.1MB, ~130,000 words, 12 chapters)
+
+#### 📋 Structural Outlines
+- **Book1.md** - Chapters 1-13: Awakening (outline)
+- **Book2.md** - Chapters 14-26: The Rising Conflict (outline)
+- **Book3.md** - Chapters 27-38: The Final Confrontation (outline)
+- **Book4.md** - Chapters 39-50: Legacy of Blood (outline)
+- **Book5.md** - Chapters 51-62: Rising Stars (outline)
+- **Book6.md** - Chapters 63-74: Convergence (planning outline)
+- **Chapter-Summary-and-Timeline.md** - Complete outline and summary
+
+#### 📁 Individual Chapter Files
+- **new-chapters/book4/** - Book 4 individual chapter files (12 chapters)
+- **new-chapters/book5/** - Book 5 individual chapter files (12 chapters)
+- **new-chapters/book6/** - Book 6 directory (awaiting writing)
 
 ---
 
@@ -37,6 +52,7 @@ The canonical version follows Riven Sixxx's transformation from grieving college
 - ✅ Focus on growth, love, and destiny
 - ✅ Romantic supernatural fantasy
 - ✅ Empowering protagonist growth
+- ✅ Multi-generational saga spanning 25 years
 
 ### Core Storyline
 
@@ -55,15 +71,13 @@ With the help of Raechelle Darkpurr (his family's familiar), Riven learns to mas
 
 ## 📚 Current Status
 
-**✅ Books 1-3: The canonical version is now fully written and enhanced!** The complete novel with 48 total chapters (37 main + 11 interstitial) is available in `Blood-Craft-Canonical.md` (~1.2MB, ~197,000 words). Chapter outlines in Book1.md, Book2.md, and Book3.md provide structural summaries of the main narrative arc.
+**✅ Books 1-3: Complete!** The 48-chapter novel is available in `Blood-Craft-Canonical.md` (~1.2MB, ~197,000 words). Includes 37 main chapters plus 11 interstitial (.5) chapters.
 
-**📝 Book 4: Planning Phase** - Organizational structure has been established for the sequel "Legacy of Blood" (Chapters 39-50). Development materials ready in `Book4.md` and `BOOK4_DEVELOPMENT.md`.
+**✅ Book 4: Complete!** "Legacy of Blood" (12 chapters, ~81,300 words) available in `Book4-Full.md` and individual files in `new-chapters/book4/`.
 
-**Recent Enhancement (February 2026):** Successfully integrated 11 new interstitial chapters (numbered with .5) throughout the narrative:
-- 4 Raechelle POV chapters providing a distinct woman's perspective (Chapters 0.5, 2.5, 7.5, 15.5, 29.5)
-- 7 additional chapters deepening character development and plot (Chapters 16.5, 19.5, 23.5, 25.5, 27.5, 30.5, 34.5)
-- Complete consistency review conducted, all major inconsistencies resolved
-- Total chapter count: 48 chapters (37 main numbered 1-37 + 11 interstitial .5 chapters)
+**✅ Book 5: Complete!** "Rising Stars" (12 chapters, ~130,000 words) available in `Book5-Full.md` and individual files in `new-chapters/book5/`. Elena's story as protagonist.
+
+**📝 Book 6: Planning Phase** - "Convergence" (Chapters 63-74) planned as the series finale. Individual chapter directory at `new-chapters/book6/` awaiting writing.
 
 ---
 
@@ -83,51 +97,53 @@ For a detailed comparison of both versions:
 
 ### Book Structure
 
-The story is organized into four books:
+The story is organized into six books:
 
-1. **Book1.md** (Chapters 1-13: Awakening)
+1. **Book1.md** (Chapters 1-13: Awakening) ✅
    - Riven's introduction and awakening to his Blood Archon heritage
    - Bonding with Raechelle
    - Integration into Nocturne
-   - Establishment of alliances
-   - Ends with major revelations about his bloodline
 
-2. **Book2.md** (Chapters 14-26: The Rising Conflict)
+2. **Book2.md** (Chapters 14-26: The Rising Conflict) ✅
    - First major confrontations with Terravos's forces
    - Development of offensive strategies
    - Alliance building across supernatural factions
-   - Ends with preparation for all-out war
 
-3. **Book3.md** (Chapters 27-37 + interstitial chapters: The Final Confrontation)
+3. **Book3.md** (Chapters 27-38: The Final Confrontation) ✅
    - Full-scale supernatural war
    - Final confrontation with Terravos
    - Resolution of Riven's parents' murder
-   - Establishment of peace and future
-   - Note: Main story arc concludes at Chapter 37; Book3.md outline covers the main numbered chapters
 
-4. **Book4.md** (Chapters 39-50: Legacy of Blood) **📝 SEQUEL - Planning Phase**
-   - Continuation of Riven's story after Books 1-3
-   - New challenges and threats
-   - Character development beyond initial arcs
-   - Building on established world and relationships
-   - See `BOOK4_DEVELOPMENT.md` for development guide
+4. **Book4.md** (Chapters 39-50: Legacy of Blood) ✅ **COMPLETE**
+   - Five years after Books 1-3
+   - Prime Archon secret revealed, Devourer sealed
+   - Elena's coming of age
+
+5. **Book5.md** (Chapters 51-62: Rising Stars) ✅ **COMPLETE**
+   - Three years after Book 4
+   - Elena as protagonist (age 18-21)
+   - Generational conflict and magical evolution
+
+6. **Book6.md** (Chapters 63-74: Convergence) 📝 **PLANNED**
+   - Series Finale: Ultimate sacrifice, final battle
+   - All Prime Archons (Riven, Elena, Zephyra)
+   - See `BOOK6_STATUS.md` for details
 
 ### How to Read
 
-1. **Interactive Reader (Recommended)**: Open **Blood-Craft-Reader.html** in your web browser
-   - Navigate by chapters with unique chapter IDs (ch1, ch2, ch2_5, etc.)
-   - Read page-by-page with unique page IDs (ch1_p1, ch2_p3, etc.)
-   - 221 pages total, ~1000 words per page
-   - Features: auto-bookmark, keyboard navigation, jump-to-page
-   - See **[../BOOK_READER_GUIDE.md](../BOOK_READER_GUIDE.md)** for complete guide
+1. **Interactive Readers (Recommended)**: Open the HTML reader for the book you want in your web browser
+   - `Blood-Craft-Reader.html` for Books 1-3
+   - `Book4-Reader.html` for Book 4
+   - `Book5-Reader.html` for Book 5
+   - Features: chapter navigation, page-by-page reading, auto-bookmark, keyboard navigation
 
-2. **Traditional Reading**: Read **Blood-Craft-Canonical.md** for the complete 48-chapter narrative in one file
+2. **Traditional Reading**: Read the Full.md files for the complete narrative in one file
 
-3. **Chapter Outlines**: Use **Book1.md**, **Book2.md**, and **Book3.md** for structural summaries
+3. **Chapter Outlines**: Use Book1.md through Book5.md for structural summaries
 
 4. **Complete Overview**: See **Chapter-Summary-and-Timeline.md** for a comprehensive outline
 
-5. **Compare Versions**: Check `../docs/Comparison-Guide.md` to see how this differs from the Paradox version (in separate repository)
+5. **Compare Versions**: Check `../docs/Comparison-Guide.md` to see how this differs from the Paradox version
 
 ---
 
@@ -137,7 +153,8 @@ The story is organized into four books:
 - Satisfying power fantasy elements
 - Romantic supernatural themes
 - Straightforward storytelling
+- Multi-generational family saga
 
 ---
 
-**Last Updated**: January 2026 - Canonical version now fully written
+**Last Updated**: February 2026 - Books 1-5 complete, Book 6 in planning
