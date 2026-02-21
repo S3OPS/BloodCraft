@@ -24,8 +24,8 @@ This repository contains the **Canonical Version** - a traditional hero's journe
 
 **Books 1-3 Status**: ✅ Complete (38 chapters, ~157,000 words)  
 **Book 4 Status**: ✅ Complete (12 chapters, ~81,300 words)  
-**Book 5 Status**: 📝 Planning Complete - Elena's story awaiting development  
-**Book 6 Status**: 📝 Planning Complete - Series finale awaiting Book 5
+**Book 5 Status**: ✅ Complete (12 chapters, ~130,000 words) - Elena's story  
+**Book 6 Status**: 📝 Planning Complete - Series finale awaiting writing
 
 ---
 
@@ -34,6 +34,9 @@ This repository contains the **Canonical Version** - a traditional hero's journe
 ```
 BloodCraft/
 ├── README.md (you are here)
+├── CONTRIBUTING.md              # Contribution guidelines
+├── BOOK_READER_GUIDE.md         # Guide to the interactive book readers
+├── QUICK_REFERENCE.md           # Quick reference for common tasks
 │
 ├── canonical-version/           # Canonical storyline
 │   ├── README.md                # Overview of canonical version
@@ -41,23 +44,39 @@ BloodCraft/
 │   ├── Book2.md                 # Structural outline: Chapters 14-26
 │   ├── Book3.md                 # Structural outline: Chapters 27-38
 │   ├── Book4.md                 # SEQUEL outline: Chapters 39-50 (Complete)
-│   ├── Book5.md                 # Elena's Story: Chapters 51-62 (Planned)
+│   ├── Book5.md                 # Elena's Story: Chapters 51-62 (Complete)
 │   ├── Book6.md                 # Series Finale: Chapters 63-74 (Planned)
 │   ├── Blood-Craft-Canonical.md # COMPLETE 38-chapter novel (~944KB)
+│   ├── Blood-Craft-Reader.html  # 🌟 Interactive reader: Books 1-3
+│   ├── Book4-Full.md            # COMPLETE Book 4 narrative (~356KB)
+│   ├── Book4-Reader.html        # 🌟 Interactive reader: Book 4
+│   ├── Book5-Full.md            # COMPLETE Book 5 narrative (~1.1MB)
+│   ├── Book5-Reader.html        # 🌟 Interactive reader: Book 5
+│   ├── Book6-Reader.html        # 📝 Book 6 placeholder (awaiting writing)
 │   ├── Chapter-Summary-and-Timeline.md
 │   ├── DEVELOPMENT.md
 │   ├── BOOK4_DEVELOPMENT.md     # Development guide for Book 4
-│   ├── BOOK5_STATUS.md          # Book 5 planning status
+│   ├── BOOK5_STATUS.md          # Book 5 status
 │   ├── BOOK6_STATUS.md          # Book 6 planning status
-│   └── new-chapters/            # Additional chapter files
+│   └── new-chapters/            # Individual chapter files
 │       ├── book4/               # Book 4 chapters (Complete - 12 chapters)
-│       ├── book5/               # Book 5 chapters (Awaiting writing)
-│       └── book6/               # Book 6 chapters (Awaiting Book 5)
+│       ├── book5/               # Book 5 chapters (Complete - 12 chapters)
+│       └── book6/               # Book 6 chapters (Awaiting writing)
 │
-└── docs/                        # Supporting documentation
-    ├── README.md                # Documentation overview
-    ├── Comparison-Guide.md      # Comparison with Paradox version
-    └── Blood-Craft.docx         # Archived Word document
+├── docs/                        # Supporting documentation
+│   ├── README.md                # Documentation overview
+│   ├── Comparison-Guide.md      # Comparison with Paradox version
+│   └── Blood-Craft.docx         # Archived Word document
+│
+├── scripts/                     # Utility scripts
+│   ├── book_reader_generator.py    # Generate Books 1-3 reader
+│   ├── book4_reader_generator.py   # Generate Book 4 reader
+│   ├── book5_reader_generator.py   # Generate Book 5 reader
+│   └── validate_book_reader.py     # Validate the reader
+│
+├── workflows/                   # Development workflow documentation
+│
+└── archive/                     # Historical documentation (completed tasks)
 ```
 
 ---
@@ -66,18 +85,21 @@ BloodCraft/
 
 ### 📖 Want to Read the Story?
 
-**🌟 Interactive Reader (Recommended)**: [`canonical-version/Blood-Craft-Reader.html`](canonical-version/Blood-Craft-Reader.html)
-- Read like a real book with chapter and page navigation
-- 48 chapters across 221 pages
-- Automatic bookmarks, keyboard shortcuts, and jump-to-page features
-- **Auto-updated:** HTML reader automatically regenerates when the source markdown changes
-- See [BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md) for details
+**🌟 Interactive Readers (Recommended)**:
+
+| Book | Reader | Chapters | Pages |
+|------|--------|----------|-------|
+| Books 1-3 | [`Blood-Craft-Reader.html`](canonical-version/Blood-Craft-Reader.html) | 1-38 | ~221 |
+| Book 4 | [`Book4-Reader.html`](canonical-version/Book4-Reader.html) | 39-50 | ~85 |
+| Book 5 | [`Book5-Reader.html`](canonical-version/Book5-Reader.html) | 51-62 | ~171 |
+| Book 6 | [`Book6-Reader.html`](canonical-version/Book6-Reader.html) | 63-74 | Planned |
+
+Each reader features: chapter navigation, page-by-page reading, automatic bookmarks, and keyboard shortcuts.
+See [BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md) for details.
 
 **Traditional Reading**: [`canonical-version/Blood-Craft-Canonical.md`](canonical-version/Blood-Craft-Canonical.md)
-- Read the complete narrative in one markdown file
+- Read the complete Books 1-3 narrative in one markdown file
 - Better for searching specific text
-
-The complete 48-chapter novel follows Riven's supernatural awakening and journey to master his powers.
 
 ### 🔀 Looking for the Paradox Version?
 
@@ -91,7 +113,7 @@ The Paradox Version (psychological thriller with major twist) has moved to its o
 - [`canonical-version/Book2.md`](canonical-version/Book2.md) - Structural outline for Chapters 14-26
 - [`canonical-version/Book3.md`](canonical-version/Book3.md) - Structural outline for Chapters 27-38
 - [`canonical-version/Book4.md`](canonical-version/Book4.md) - **SEQUEL** outline for Chapters 39-50 (Complete - ~81,300 words)
-- [`canonical-version/Book5.md`](canonical-version/Book5.md) - **ELENA'S STORY** outline for Chapters 51-62 (Planned)
+- [`canonical-version/Book5.md`](canonical-version/Book5.md) - **ELENA'S STORY** outline for Chapters 51-62 (Complete - ~130,000 words)
 - [`canonical-version/Book6.md`](canonical-version/Book6.md) - **SERIES FINALE** outline for Chapters 63-74 (Planned)
 - [`canonical-version/Chapter-Summary-and-Timeline.md`](canonical-version/Chapter-Summary-and-Timeline.md) - Complete overview
 
@@ -120,7 +142,8 @@ Read this if you want:
 Read this if you want:
 - ✅ Books 1-3: Complete novel with 48 total chapters (~197,000 words)
 - ✅ **Book 4: Complete sequel** with 12 chapters (~81,300 words)
-- ✅ **Books 5-6: Planned** - Elena's story and series finale
+- ✅ **Book 5: Complete** - Elena's story with 12 chapters (~130,000 words)
+- 📝 **Book 6: Planned** - Series finale (awaiting writing)
 - ✅ **NEW: Dual-POV chapters** from Raechelle's perspective
 - ✅ Traditional hero's journey structure
 - ✅ Clear heroes and villains
@@ -131,7 +154,7 @@ Read this if you want:
 **Series Overview**:
 - **Books 1-3** (Complete): Riven's awakening, growth, and triumph over Terravos
 - **Book 4** (Complete): Prime Archon revealed, Devourer sealed, Elena's coming of age
-- **Book 5** (Planned): Elena's leadership, generational reform, magical evolution
+- **Book 5** (Complete): Elena's leadership, generational reform, magical evolution
 - **Book 6** (Planned): Series finale, ultimate sacrifice, legacy completed
 
 ---
@@ -226,7 +249,7 @@ This repository focuses on the **Canonical Version** of Blood Craft. The Paradox
 
 ```
 BloodCraft/
-├── canonical-version/       # Complete canonical novel
+├── canonical-version/       # Complete canonical novel (Books 1-5 written, Book 6 planned)
 ├── docs/                    # Supporting documentation
 ├── scripts/                 # Utility scripts (book reader generation, etc.)
 ├── workflows/               # Development workflow documentation
@@ -235,16 +258,15 @@ BloodCraft/
 
 ### Development Infrastructure
 
-- **[BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md)** - 📖 Guide to the interactive book reader
-- **[AUTO_HTML_GENERATION.md](AUTO_HTML_GENERATION.md)** - 🔄 Automatic HTML reader generation (always in sync!)
+- **[BOOK_READER_GUIDE.md](BOOK_READER_GUIDE.md)** - 📖 Guide to the interactive book readers
 - **[scripts/](scripts/)** - 🛠️ Utility scripts directory
-  - [book_reader_generator.py](scripts/book_reader_generator.py) - Generate the book reader
+  - [book_reader_generator.py](scripts/book_reader_generator.py) - Generate Books 1-3 reader
+  - [book4_reader_generator.py](scripts/book4_reader_generator.py) - Generate Book 4 reader
+  - [book5_reader_generator.py](scripts/book5_reader_generator.py) - Generate Book 5 reader
   - [validate_book_reader.py](scripts/validate_book_reader.py) - Validate the reader
-  - [book_structure_examples.py](scripts/book_structure_examples.py) - Examples of working with chapter/page IDs
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - ⚡ Quick reference for common tasks (start here!)
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Complete contribution guidelines
 - **[canonical-version/DEVELOPMENT.md](canonical-version/DEVELOPMENT.md)** - Canonical version guidelines
-- **[CHAPTER_TEMPLATE.md](CHAPTER_TEMPLATE.md)** - Template for new chapters
 - **[workflows/](workflows/)** - 📋 Workflow documentation
   - [WORKFLOW.md](workflows/WORKFLOW.md) - Complete workflow guide
   - [QUICK_FIX_GUIDE.md](workflows/QUICK_FIX_GUIDE.md) - Quick fixes
@@ -280,7 +302,7 @@ BloodCraft/
 - Chapters 1-38 (~157,000 words)
 - Riven's awakening, growth, and triumph over Terravos
 - Complete hero's journey from traumatized student to powerful leader
-- Available in `Blood-Craft-Canonical.md`
+- Available in `Blood-Craft-Canonical.md` | Reader: [`Blood-Craft-Reader.html`](canonical-version/Blood-Craft-Reader.html)
 
 **Book 4: Legacy of Blood** ✅
 - Chapters 39-50 (~81,300 words)
@@ -288,19 +310,19 @@ BloodCraft/
 - Prime Archon secret revealed, Devourer sealed
 - Elena's coming of age from 15 to 16
 - Three-act structure with cosmic-level stakes
-- Available in `new-chapters/book4/`
+- Available in `Book4-Full.md` | Reader: [`Book4-Reader.html`](canonical-version/Book4-Reader.html)
 
-### Planned Works
-
-**Book 5: Rising Stars** 📝
-- Chapters 51-62 (~75,000 words planned)
+**Book 5: Rising Stars** ✅
+- Chapters 51-62 (~130,000 words)
 - Three years after Book 4
 - Elena as protagonist (age 18-21)
 - Generational conflict and magical evolution
 - Reform vs. revolution themes
 - Elena establishes her own leadership identity
 - Romance with Marcus Ironheart
-- Full planning in `Book5.md`
+- Available in `Book5-Full.md` | Reader: [`Book5-Reader.html`](canonical-version/Book5-Reader.html)
+
+### Planned Works
 
 **Book 6: Convergence** 📝
 - Chapters 63-74 (~80,000 words planned)
@@ -311,7 +333,7 @@ BloodCraft/
 - Three-way consciousness merge
 - Kael (age 3) as future Prime Archon
 - 25-year series complete (Riven age 23→48)
-- Full planning in `Book6.md`
+- Full planning in `Book6.md` | Placeholder: [`Book6-Reader.html`](canonical-version/Book6-Reader.html)
 
 ### Series Timeline
 
@@ -333,15 +355,14 @@ BloodCraft/
 ### Current Phase
 - ✅ Books 1-3: Fully written and integrated
 - ✅ Book 4: Fully written (12 chapters complete)
-- ✅ Book 5: Planning complete, awaiting writing phase
-- ✅ Book 6: Planning complete, awaiting Book 5 completion
+- ✅ Book 5: Fully written (12 chapters complete)
+- 📝 Book 6: Planning complete, awaiting writing phase
 
 ### Next Steps
-1. **Optional**: Integrate Book 4 chapters into main narrative file
-2. **Book 5**: Begin writing chapters 51-62 (Elena's story)
-3. **Book 6**: Write chapters 63-74 after Book 5 completes (series finale)
-4. **Series Integration**: Compile all 74 chapters into complete narrative
-5. **Reader Updates**: Regenerate interactive book reader with full series
+1. **Optional**: Integrate Books 4 and 5 chapters into main narrative file
+2. **Book 6**: Begin writing chapters 63-74 (series finale)
+3. **Series Integration**: Compile all 74 chapters into complete narrative
+4. **Reader Updates**: Regenerate interactive book readers with full series
 
 ---
 
@@ -357,4 +378,4 @@ BloodCraft/
 
 ---
 
-**Last Updated**: February 2026 - Book 4 complete, Books 5-6 planned, series roadmap established
+**Last Updated**: February 2026 - Books 1-5 complete, Book 6 planned, HTML readers for Books 1-6
