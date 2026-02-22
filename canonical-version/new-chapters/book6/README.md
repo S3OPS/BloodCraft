@@ -4,7 +4,7 @@
 This directory will contain the individual chapter files for Book 6 of the Blood Craft series - THE SERIES FINALE.
 
 ## Status
-**Planning Complete** - Awaiting Book 5 Completion
+**✅ Writing Complete** — All 12 chapters written (~100,000 words)
 
 ## Planned Contents
 
