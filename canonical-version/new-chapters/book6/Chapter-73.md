@@ -386,7 +386,7 @@ She nods. She has known, probably, since before I knew. She has a habit of knowi
 
 "When?" she says.
 
-"Not immediately. Not while I'm still in the infirmary." I think about it. "When I'm recovered enough to present it correctly. When the transition plan is ready." A pause. "Lady Seraphina."
+"Not immediately. Not while I'm still in the infirmary." I think about it. "When I'm recovered enough to present it correctly. When I've spoken to the Council about a formal transition—it has to be their decision, the appointment process goes through the full body, not through me. But my recommendation will carry weight, and my recommendation is Lady Seraphina."
 
 Raechelle considers this. "She'd do it well."
 

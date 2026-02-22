@@ -222,7 +222,7 @@ Zephyra is losing more than any of us—her reservoir is larger, the proportiona
 
 *(Zephyra: hush. Continue.)*
 
-The third stage is the point—the most precise part of the structure, the part that must be aimed directly at the center of what the Devourer is, the Eye that is also a wound in reality. This requires Blood. My father's Blood working, which is the most precise working any of us has—twenty-five years of the most directed magical affinity in the classification system, the one that cuts fine where others cut broad—and in the merged mind it is available to all three of us to direct, and we direct it together toward the Eye.
+The third stage is the point—the most precise part of the structure, the part that must be aimed directly at the center of what the Devourer is, the Eye that is also a wound in reality. This requires Blood. *(Elena: Riven's Blood working — the most precise working any of us has)* *(Riven: —yes, use it, all of us)* Twenty-five years of the most directed magical affinity in the classification system, the one that cuts fine where others cut broad—and in the merged mind it is available to all three of us to direct, and we direct it together toward the Eye.
 
 The point forms.
 
