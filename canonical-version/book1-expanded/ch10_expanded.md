@@ -650,13 +650,238 @@ They would have had opinions about this room. About the beings in it. About the 
 
 I carried that with me. All of it—the inheritance, the loss, the love, the forward momentum of people who had given everything so that I could be here, doing this.
 
+
+As the minutes stretched into half an hour of waiting, I turned my blood sense outward deliberately—not consuming, not
+aggressive, just listening. The supernatural signatures in the room came into focus one by one, like tuning a radio to
+frequencies you hadn't known existed.
+
+There were forty-three distinct signatures in the main floor of The Crimson Door. I could feel the differences in them
+the way you can feel the difference between wool and cotton in the dark—each having its own texture, its own temperature,
+its own quality of vibration. The vampires ran cool and precise, their signatures like clear water over stone. The
+werewolves ran warm and layered, something dense and complex underneath, like banked embers. There were four signatures
+I couldn't categorize at all—outside the patterns I'd learned, ancient in ways that felt alien rather than simply
+unfamiliar.
+
+"What are you doing?" Raechelle murmured, not looking at me.
+
+"Learning the room."
+
+"You've been doing it since we sat down."
+
+"I've been trying. I'm getting better at not broadcasting that I'm doing it."
+
+She made a small sound I'd come to recognize as her version of a smile when she was keeping her expression neutral for
+the room's benefit. "You are. Earlier your ears were doing something subtle. Now they're not."
+
+I filed that away. Physical tells to eliminate.
+
+The most interesting signature in the room was the one I noticed around the nineteenth or twentieth individual. He was
+seated alone at the bar—ostensibly focused on his drink, the posture of someone who wanted to be read as not paying
+attention. He was fae, from his signature, which carried that particular quality of deep age and not-quite-rightness
+that Raechelle had described as the defining characteristic of fae magic: built on rules so different from human or
+vampire or witch rules that everything about it felt slightly sideways. His signature was watching me. Not his eyes—those
+remained fixed on his glass. His signature was oriented in my direction with attention that the physical performance of
+inattention was attempting to conceal.
+
+"Fae at the bar," I said quietly. "Third from the left. He's been paying attention to us since we sat down but not
+showing it physically."
+
+Raechelle's breathing didn't change. "I noticed him four minutes ago. He arrived just after us. Good that you found him."
+
+"Do you know him?"
+
+"Not personally. The court markings on his jacket suggest he's affiliated with the Autumn Court, which is formally
+neutral in most supernatural politics. He could be here as an observer for the courts, or he could be here entirely on
+his own behalf."
+
+"Is that dangerous?"
+
+"Everything is potentially dangerous. Is it more dangerous than baseline? Probably not. The fae who make themselves
+visible to you while attempting to be invisible are usually doing legitimate intelligence work—formal observers,
+diplomatic staff, chroniclers. The dangerous ones you don't notice at all." She paused. "Or the ones you notice but
+misread."
+
+I kept my blood sense oriented loosely toward the fae while continuing to scan the room. I let my awareness expand
+toward the second floor. More signatures up there—fewer, denser, higher average power level. Whatever gathered on the
+second floor of The Crimson Door was a more selective crowd.
+
+"Stop analyzing the building," Raechelle said. "You're doing it again."
+
+"What am I doing again?"
+
+"Treating everything like a tactical problem to solve."
+
+I thought about that. "Is that wrong?"
+
+"It's useful. It's also the thing that will exhaust you, if you don't learn to let your situational awareness become
+automatic rather than effortful. You're clenching the blood sense the way a new swordsman clenches the grip." She set
+her glass down. "Relax. You'll have better control with less effort, and you won't be depleted by the time the actual
+challenge arrives."
+
+I took a breath and deliberately released some of the pressure behind my blood sense. Let it become ambient. Peripheral.
+The signatures were still there but at the edge of my perception rather than at the center—I could feel them without
+concentrating on them, the way you can feel the temperature of a room without thinking about it.
+
+Better. Raechelle was right.
+
+"Thank you," I said.
+
+"I've been doing this for a long time," she said simply.
+
+---
+
+The fae at the bar made his move about forty minutes into our wait. Not confrontationally—he finished his drink, set it
+down with the precision of someone aware of being observed, and walked toward us with the measured grace of someone who
+had chosen to stop pretending not to pay attention.
+
+He was young-looking in the way fae often are: fine-boned and angular, with hair the color of autumn leaves and eyes
+that were amber shot through with gold. He wore a long coat that looked cut from shadow, and the markings on his lapels
+were stylized falling leaves—Autumn Court, as Raechelle had said.
+
+He stopped a respectful distance from our table and inclined his head. The angle of the bow was precise and calibrated—
+not the deep bow of subordination, not the shallow nod of near-equals, but something in between that I was beginning
+to learn meant *I acknowledge your status and want something from you*.
+
+"Lord Sixxx," he said, his voice carrying the slight musicality that seemed common to fae speech. "Forgive the
+intrusion. I am Phelan of the Autumn Court, serving as informal observer for His Grace Duke Calderon. I wondered if I
+might offer a greeting on his behalf and my own."
+
+I let the silence work—not aggressive, but not rushing to fill it either. His signature was steady. No spike of
+deception or heightened tension. He was exactly what he claimed to be, or close enough.
+
+"You may," I said.
+
+He produced a small card from his coat—heavy cream stock, embossed with the falling-leaf sigil in what looked like
+actual gold leaf. "The Autumn Court has followed the history of the Blood Archon bloodline with considerable interest.
+Duke Calderon wished me to express his hope that House Sixxx's return to Nocturne represents the beginning of a new
+period of engagement between our courts." He set the card on the edge of our table. "He would be honored to receive you,
+at your convenience, when you have settled into your new circumstances."
+
+"I'll keep it in mind," I said.
+
+The fae bowed again—the same calibrated angle—and withdrew to the bar, where he ordered another drink with the air of
+someone whose business was concluded.
+
+"Autumn Court," I said quietly, not quite a question.
+
+"One of the oldest fae courts with presence in North America. Significant political weight at the regional level."
+Raechelle picked up the card, examined it briefly, set it back down. "Phelan was genuine. Calderon is cautious and
+methodical—he doesn't make social gestures without strategic purpose, but his strategic purposes are usually relatively
+benign. He wants to know which way you'll align before committing to a position." She paused. "He's also been working
+to counter Terravos's influence in fae territories for twenty years. An alliance with a Blood Archon would give him
+considerable leverage."
+
+"So this was genuinely friendly."
+
+"Friendly and self-interested, which in politics is often the best combination." She tilted her head. "How did you
+read him?"
+
+"Steady. No deception signals. The bow was calibrated—status acknowledgment, not subordination. He wanted something,
+not a confrontation." I paused. "The eyes evaluated me carefully."
+
+"The eyes are always evaluating. Fae court members are trained observers—they collect information the way vampires
+collect memories. The question isn't whether they're assessing you; it's what they intend to do with the assessment."
+She allowed a small smile. "You read him correctly. And you handled the silence well."
+
+"I was nervous."
+
+"You didn't show it." She looked at me steadily. "In this world, how you hold yourself under pressure matters more
+than the pressure itself."
+
+---
+
+Another twenty minutes passed. The dance floor had grown more populated; the music had shifted to something with a
+slower, more complex rhythm. Two vampires I'd noted earlier had moved from their territorial position near the bar to
+a table across the room—their contact had arrived and concluded whatever business they'd been guarding.
+
+I drank the blood-wine slowly, taking in the information it carried: the taste of something carefully produced, aged
+in ways that had nothing to do with years and everything to do with intention. Raechelle had told me that blood-wine
+was one of Nocturne's primary exports to vampire communities worldwide—blood from carefully-selected sources, mixed
+with wines from specific vineyards, processed with magical techniques that extracted certain qualities and enhanced
+others. The result sustained vampiric nutrition but also carried information in the way that all blood carries
+information, if you know how to read it.
+
+This particular bottle was from Lady Darkthorne's personal cellar. A gesture of hospitality.
+
+I was trying to read it—the flavors that were information rather than simple sensation—and finding it difficult. The
+blood sense worked on living sources, on signatures that were actively breathing and circulating. Processed blood was
+different. More like reading old letters than reading a person.
+
+"You can feel something in it," Raechelle said, not quite a question.
+
+"Something. Not sure what."
+
+"Age. And intention. The person whose blood forms the base of this vintage has been a supernatural being for a long
+time and maintains their blood with intention—specific diet, specific practices." She sipped hers. "It's not reading
+for information the way you read a living person. It's more like reading character. The quality of who someone is
+shows in blood that's been maintained with care."
+
+"What do you taste?"
+
+"Discipline. Very old power, very carefully controlled. Someone who has spent centuries becoming exactly what they
+intended to become." She paused. "Which is what you'd expect from Lady Darkthorne's cellar."
+
+The information settled into place alongside everything else I'd been collecting since we sat down: the Autumn Court's
+interest, the territorial cluster and their concluded business, the fae observer, two unidentified signatures whose
+nature I still couldn't fully parse. Forty-three beings in this room, each with their own purposes, their own
+histories, their own assessments of this night.
+
+My arrival in Nocturne had registered on all of them. I was no longer invisible.
+
+In the human world, I had always been able to move without being noticed—ordinary appearance, nothing that drew the
+eye unless I wanted it to. That particular anonymity was gone. In Nocturne, the blood sense worked in both directions:
+anyone with sensitivity could feel what I was, if not fully understand it. I announced myself by existing.
+
+I was still making peace with that.
+
+"It's stranger than I expected," I said. "Being seen."
+
+"You've been seen since the moment we arrived in Austin," Raechelle said. "Phelan was probably watching before you even
+entered the building. Darkthorne's people would have been tracking our approach." She looked at me steadily. "You were
+never as invisible as you thought, even in the human world. You've had a supernatural signature since birth—muted, but
+present. Anyone with sufficient sensitivity could have found you."
+
+"Then why didn't they?"
+
+"Some may have. Some may have chosen not to act on it—someone who knows of the Sixxx bloodline but has no stake in
+the conflict between your parents and Terravos would have no reason to intervene." She paused. "And Terravos had every
+reason to believe you'd never awaken. The journal, my contract, the ritual—those were your mother's insurance policy.
+From his perspective, there was no heir. Just a human boy with traces of dormant blood magic."
+
+"He miscalculated."
+
+"He miscalculated," she confirmed. "And he will continue to miscalculate as long as he's working from incomplete
+information." Her ruby eyes were steady and certain. "That is our advantage. He believes he's facing a newly awakened
+boy who got lucky. He doesn't know what you've learned. He doesn't know how fast you're developing. He doesn't know
+what I've been teaching you."
+
+"Or what I'm capable of learning."
+
+"Or that." She reached under the table and briefly squeezed my hand. "Don't underestimate him. He's dangerous and
+patient and has centuries of experience we lack. But don't overestimate him either. His greatest weakness is exactly
+what drove him to kill your parents: he sees people as either threats to eliminate or tools to use, and that blinds
+him to the full range of what someone can be."
+
+"And what am I, in his assessment?"
+
+"A threat." She was quiet for a moment. "But also, possibly, an inheritance he'd prefer to see destroyed than claimed
+by someone else. Blood Archon power is significant. He would have preferred to eliminate the bloodline entirely rather
+than face an heir who might consolidate it." She looked at me. "He didn't expect you to be sitting here, tonight, in
+The Crimson Door, recognized and welcomed by Lady Seraphina Darkthorne."
+
+I thought about Terravos—a name I'd heard many times, an entity I'd never seen, a force that had shaped my entire
+life without my knowledge. Parents taken. Childhood shadowed by dangers I hadn't understood. A future redirected by a
+man's decision that a bloodline should end.
+
+The grief and the anger were both present, familiar now as old wounds—still there, still painful, but no longer
+incapacitating. I had learned to carry them rather than be carried by them. My mother had written about that too, in
+the journal: *Grief is not a problem to be solved. It is a relationship to be maintained—you don't move past it, you
+move forward with it, and in time the weight becomes familiar enough that you can still do the work.*
+
+I was doing the work. This room, this night, this city—all of it was the work.
+
 Then I drank, and the taste of destiny filled my mouth.
 
 ---
 
 *End of Chapter 10*
-
----
-
-*End of Chapter 10*
-
