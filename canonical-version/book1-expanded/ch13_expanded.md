@@ -246,8 +246,6 @@ A Blackwood library. Three hundred years of archived knowledge. I filed it under
 
 We continued to the Winter Garden.
 
-We followed him through halls lined with portraits of stern-faced witches and warlocks, their painted eyes seeming to track our movement. I recognized the sensation now—ward-intelligence built into the paintings, giving the house's magical system awareness of its interior at all times. The air itself hummed with residual magic—centuries of spells cast and rituals performed, leaving their mark on the very stones. The Blackwood estate wasn't just old. It was inhabited by its own history.
-
 Raechelle walked close beside me, her hand occasionally brushing mine. Through the bond I could feel her alertness—this was significant territory, a place of real power, and she was reading it with three centuries of experience.
 
 *The wards are layered,* she said silently through our connection. *At least six distinct magical signatures, overlapping. Someone very skilled maintained these over many years.*
@@ -624,7 +622,7 @@ I hadn't known this. The journal hadn't contained this. "Who was the Blood Archo
 
 I sat with this. The weight of history, of errors made before my time, of grief that had calcified into something monstrous over centuries.
 
-""Third," my mother continued, "and most important: the Sixxx bloodline's gift is not violence. It never was, even when we were used as weapons. We heal. We connect. We translate between things that can't otherwise speak to each other. Blood is what we all share, and blood magic is the power to make that sharing mean something." She leaned forward. "Use your power to build things, Riven. Not only to defend them. Build alliances that outlast you. Build understanding across the divides that other powers maintain. That is the thing Terravos cannot do, and cannot abide in others."
+"Third," my mother continued, "and most important: the Sixxx bloodline's gift is not violence. It never was, even when we were used as weapons. We heal. We connect. We translate between things that can't otherwise speak to each other. Blood is what we all share, and blood magic is the power to make that sharing mean something." She leaned forward. "Use your power to build things, Riven. Not only to defend them. Build alliances that outlast you. Build understanding across the divides that other powers maintain. That is the thing Terravos cannot do, and cannot abide in others."
 
 She paused, and her expression shifted—becoming more personal, less the planned address and more simply a mother talking to her son.
 
@@ -650,9 +648,7 @@ The light in the crystal-memory was beginning to fade at the edges.
 
 "There are practical things encoded here too—techniques, histories, names you should know. You'll find them when you look for them. But those were the things I needed to tell you myself." It never was, even when we were used as weapons. We heal. We connect. We translate between things that can't otherwise speak to each other. Blood is what we all share, and blood magic is the power to make that sharing mean something." She leaned forward. "Use your power to build things, Riven. Not only to defend them. Build alliances that outlast you. Build understanding across the divides that other powers maintain. That is the thing Terravos cannot do, and cannot abide in others."
 
-The light in the crystal-memory was beginning to fade at the edges.
-
-"There are practical things encoded here too—techniques, histories, names you should know. You'll find them when you look for them. But those were the things I needed to tell you myself." She rose from the desk. "I'm proud of you. I don't know yet what you've done, what choices you've made, what person you've become. But I'm proud of you for being here. For surviving. For finding your way to this moment."
+ She rose from the desk. "I'm proud of you. I don't know yet what you've done, what choices you've made, what person you've become. But I'm proud of you for being here. For surviving. For finding your way to this moment."
 
 She stepped forward and reached out her hand.
 
